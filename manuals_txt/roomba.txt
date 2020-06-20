@@ -1,0 +1,935 @@
+500/600 Series Owner's Manual P.S. Don’t miss out on your exclusive benefits! Register your 
+Roomba online right now at www.irobot.com/register. Dear iRobot Roomba Owner,
+Thank you for purchasing an iRobot Roomba vacuum cleaning 
+robot. You’ve joined the millions of people who clean with robots - 
+the smarter way to get it done.  
+Please take a few moments to read this manual and get acquainted 
+with your Roomba, to get the best performance from your robot. 
+If you have any questions, visit our website at www.irobot.com for 
+more information. 
+ 
+Register your robot to instantly activate your warranty and enjoy 
+these exclusive benefits: 
+ 
+• Take advantage of iRobot’s award-winning customer service 
+   Get support tailored to your specific robot, including answers 
+   to questions, maintenance tips, video demos, live chat and 
+   more. 
+ 
+• Get product updates and other valuable information 
+   Be among the first to find out about new robots, exclusive  
+   discounts and special promotions. 
+ 
+When you register, you can also tell us about your experience 
+with your Roomba; iRobot listens to our customers and makes 
+enhancements to our robots based on your valued feedback. We’d 
+love to hear from you!
+Register your robot right now at www.irobot.com/register. 
+ 
+On behalf of the entire team, thank you for choosing iRobot; we 
+appreciate your business, feedback and loyalty.
+Here’s to robots that make a difference! 
+ 
+Yours for less chores and more life,
+ 
+Colin Angle 
+Chairman, CEO and Co-Founder 
+iRobot Corporation
+P.S. Don’t miss out on your exclusive benefits! Register your 
+Roomba online right now at www.irobot.com/register.  
+Important Tips
+  Before using Roomba the first 
+time, you need to activate Roomba 
+by removing the battery pull tab. 
+Charge Roomba overnight before 
+first time use.
+Remove battery pull tab
+Turning Roomba on and off
+•  To turn Roomba ON, press CLEAN once. You will hear a 
+beep and the CLEAN button will light.
+•  To start a cleaning cycle, press CLEAN again. Roomba will 
+start a cleaning cycle.
+• To pause Roomba, press CLEAN while Roomba is cleaning. 
+• To resume the cleaning cycle, press CLEAN again. 
+•  To turn Roomba OFF, press and hold the CLEAN button 
+until Roomba’s lights turn OFF. 
+For Best Performance
+• Remove and clean Roomba’s brushes after every use.
+• Empty Roomba’s bin and clean its filter after every use.
+•   Use a Virtual Wall® (optional accessory) to keep Roomba cleaning where 
+you want it.
+• Use your Roomba frequently. 
+ 
+ 
+Battery Life
+To extend Roomba’s battery life and keep Roomba cleaning at peak 
+performance:
+•  Always keep Roomba plugged in when not in use.
+•  Recharge Roomba as soon as possible. Waiting several days to 
+recharge Roomba can damage the battery.
+•  For storage off the power supply, remove the battery from Roomba and 
+store in a cool, dry place.
+  •  Blue or black batteries should be stored after Roomba has been 
+used.
+  •  Yellow batteries should be stored after being fully charged.
+  Roomba contains electronic parts. DO NOT submerge Roomba or spray it 
+with water. Clean with a dry cloth only. 
+4 iRobot Roomba 500 Series Table of Contents
+iRobot Roomba Anatomy .............................................6
+Cleaning Pattern ...........................................................7
+Cleaning Modes ............................................................8
+Cleaning System ...........................................................9
+Cleaning Bins ..............................................................10
+Battery Storage and Charging .............................11-12
+Optional Accessories .................................................13
+     Virtual Wall®  .....................................................13-14
+     Virtual Wall® Lighthouses™ ..............................15-16
+     Home Base®  ..........................................................17
+     Wiresless Command Center .................................18
+     Remote Control .....................................................19
+Scheduling Roomba (selected models)  ..................20-21
+Regular Maintenance ...........................................22-24
+Language Selection Mode (selected models) ................25
+Troubleshooting ....................................................26-27
+Replaceable Modules ...........................................28-32
+Frequently Asked Questions ......................................33
+Important Safety Instructions ....................................34
+iRobot Customer Care ...............................................35
+For more detailed information, visit: www.irobot.com 5  
+iRobot Roomba Anatomy
+Infrared Sensor
+Faceplate
+Bin Release Button
+Power Supply Socket
+Bin
+Buttons and Lights
+(Models 500 - 549) (Models 550 and above)
+Scheduling 
+Troubleshooting SPOT Button Troubleshooting SPOT Button Interface
+Light Light
+Dirt Detect™ Dirt Detect™
+CLEAN/Power SPOT/DOCK Button  CLEAN/Power
+Button (varies by model)   Button DOCK Button (models 550-599)
+MAX Button (models 600+)  
+Bottom View
+Brush 
+Cliff Sensor  Contact Points  Bearings
+Openings for Home Base  Flexible 
+(selected  Brush
+models)
+Edge-Cleaning 
+Main 
+Side Brush
+Removable Brush
+Caster Wheel
+End Caps
+Right Wheel  Left Wheel 
+Module Module Brush 
+Guard
+Dirt Detect™ 
+Sensor
+Brush Guard Release Tabs 
+6 iRobot Roomba 500 Series  
+Cleaning Pattern
+Roomba is a robot that cleans floors differently than the way most people 
+clean their floors. Roomba uses its robot intelligence to efficiently clean 
+the whole floor, under and around furniture and along walls. 
+Roomba calculates the optimal cleaning path as it cleans and determines 
+when to use its various cleaning behaviors:
+Spiraling: Roomba uses 
+a spiral motion to clean a 
+concentrated area. 
+Wall Following: Roomba 
+uses this technique to 
+clean the full perimeter 
+of the room and navigate 
+around furniture and 
+obstacles.
+Room Crossing: Roomba 
+crisscrosses the room 
+to ensure full cleaning 
+coverage.
+Dirt Detection (selected 
+models): When Roomba 
+senses dirt, the blue Dirt 
+Detect™ light is lit and 
+Roomba cleans more 
+intensely in that area. 
+TIP:  Roomba takes approximately 25 minutes to clean an average room and  
+will pass over the same area of the floor multiple times to ensure total  
+floor coverage.
+TIP:  For most efficient cleaning, clear your floor of clutter and use a Virtual 
+Wall to confine Roomba to one room.
+For more detailed information, visit: www.irobot.com 7  
+Cleaning Modes
+Roomba will clean based on the cleaning mode you select. Roomba has 
+three cleaning modes.
+Clean Mode (all models)
+Roomba automatically calculates the room size and adjusts its cleaning 
+time appropriately. 
+Spot Mode (all models) 
+Roomba will spiral approximately three feet in diameter and then spiral 
+back to where it started, intensely cleaning a localized area. 
+ 
+Scheduled Cleaning Mode (Models 550 and above)
+When a future cleaning time is programmed, Roomba enters Scheduled 
+Cleaning Mode. When scheduled to clean, Roomba will occasionally flash 
+its next cleaning time to remind you of its schedule. At the specified time, 
+Roomba leaves its Home Base, cleans, and then returns to the Home 
+Base to recharge when it’s done.
+8 iRobot Roomba 500 Series  
+Cleaning System
+Roomba features a patented three-stage cleaning system. 
+Filter
+1   Side brush  2   Two counter- 3   Powerful vacuum picks up the 
+sweeps along  rotating brushes  remaining fine particles, dirt, and 
+edge of walls and  scoop up dirt,  hair. The filter traps dust and 
+into corners.    hair, and debris  small particles.  
+into the bin.  
+ 
+Floor Surfaces
+Roomba works on wood, carpet, tile, vinyl, and linoleum, and adjusts 
+automatically to different floor types.
+Roomba automatically senses stairs and other cliffs. Roomba might 
+stall when confronting rounded edges and might slide over particularly 
+slippery surfaces. Extremely dark-colored floors may contribute to 
+Roomba’s cliff sensors working less effectively.
+Anti-Tangle system
+Roomba won’t get stuck on cords, carpet fringe or tassels. When Roomba 
+senses it has picked up a cord or tassel, it will automatically stop its main 
+brushes or side brush and try to escape. Roomba may make a clicking 
+noise when anti-tangle is activated.
+For more detailed information, visit: www.irobot.com 9  
+Cleaning Bins
+Roomba is compatible with three interchangeable cleaning bins.
+ 
+Aero-VacTM or Original Vacuum Cleaning Bin
+The Aero-Vac or Original vacuum cleaning bin should be used for 
+everyday cleaning. The dual action, counter-rotating brushes pick up 
+debris, while the vacuum sucks up the dirt and dust.
+High-Capacity Sweeper Bin 
+(optional accessory for all models)
+The high-capacity sweeper bin can hold more debris than the vacuum 
+cleaning bin. Use this bin when cleaning larger-than-usual amounts of dirt 
+and dust, or when cleaning bigger pieces of debris.
+Aero-VacTM Vacuum Cleaning Bin Original Vacuum Cleaning Bin
+High-Capacity Sweeper Bin
+10 iRobot Roomba 500 Series  
+Battery Storage and Charging
+Roomba is powered by a rechargeable battery. Roomba’s battery can last 
+for hundreds of cleaning cycles if cared for properly.
+Battery Life
+To extend the battery life, iRobot recommends always storing Roomba 
+plugged in. For more details on how to maintain Roomba’s battery life, 
+visit www.irobot.com/support.  
+TIP:  Recharge Roomba as soon as possible. Waiting several days to recharge 
+Roomba can damage the battery.
+  TIP: F or storage off the power supply, remove the battery from Roomba and 
+store in a cool, dry place.
+Cleaning Time
+You should fully charge Roomba’s battery before each cleaning cycle. 
+When fully charged, Roomba’s battery will last for at least one full clean 
+cycle.  
+16-Hour Refresh Charge
+If Roomba has been left off the power supply or Home Base for an 
+extended period, Roomba will initiate a special 16-hour charge cycle. This 
+extensive charge refreshes Roomba’s battery and extends the battery 
+life. While charging, Roomba’s “Clean” button will pulse quickly. Note: For 
+best results, do not interrupt this Refresh Charge.
+TIP:  For best performance, charge Roomba’s battery overnight before using 
+Roomba for the first time.  
+For more detailed information, visit: www.irobot.com 11  
+Charging Roomba
+Charge Roomba in one of two ways:
+Or
+Using the Home Base Using the Power Supply Only
+TIP:   When Roomba is on the Home Base, always make sure that the Home 
+Base power light is on.
+Charging Lights
+Roomba uses the CLEAN button light to indicate that it is charging. Use 
+this chart to determine the status of the battery.
+CLEAN button light Battery status
+Solid red Battery empty
+Amber pulse Charging
+Solid green Fully charged
+Quick amber pulse 16-hour refresh charge
+CLEAN/Power 
+Button
+12 iRobot Roomba 500 Series  
+Virtual Wall®  
+(optional accessory for selected models)
+Virtual Walls create an invisible barrier 
+that Roomba will not cross. This invisible 
+barrier can be used to confine Roomba 
+to a particular room or area, and 
+prevent it from getting too close 
+to electrical or computer cords, 
+delicate objects on the floor, etc. 
+The Virtual Walls can be set to block an opening 
+up to seven feet long. Note that the width of the Virtual Wall’s 
+beam also increases as its length increases, creating a cone-shaped 
+area which Roomba cannot pass. The Virtual Wall also creates a halo of 
+protection around itself, preventing Roomba from getting too close. 
+ 
+ 
+ 
+TIP:  For best performance, place the Virtual Wall on the outside of the 
+ 
+doorway you wish to block. 
+ 
+ 
+ 
+Original Virtual Wall
+The Virtual Wall requires 2 “D” batteries and 
+automatically shuts off after 135 minutes. If the 
+power light blinks green, the batteries will soon  
+need replacement. Use the slider bar to adjust  
+the length of the barrier. A higher range will drain  
+the battery faster. 
+ 
+TIP:  Point the iRobot logo towards the opening you would like to block.
+For more detailed information, visit: www.irobot.com 13  
+Virtual Wall®  
+(continued)
+Compact Manual Virtual Wall
+A Manual Virtual Wall must be turned on 
+by hand at the beginning of the cleaning 
+cycle to activate the barrier. A Manual 
+Virtual Wall and its power light will shut 
+off after 135 minutes. When battery 
+levels are low, the Virtual Wall power light will 
+blink slowly to indicate that it needs new batteries.
+TIP:  Point the arrows on top of the Virtual Wall towards the opening you would 
+like to block.
+Compact Auto Virtual Wall
+When an Auto Virtual Wall is set to “Auto” 
+mode, the power light blinks repeatedly  AUTOOFF
+to indicate it is on. When battery levels 
+are low, the Virtual Wall blinks repeatedly 
+twice to indicate that it needs new batteries. 
+To save battery power, switch the Auto 
+Virtual Wall to “Off.” When in “Auto” mode, the 
+batteries should last approximately six months.
+TIP:  Point the arrows on top of the Virtual Wall towards the opening you would 
+like to block.
+Compact Virtual Wall Battery Installation
+To open the battery compartment, simply apply pressure on both iRobot 
+logos located on either side of the Virtual Wall and pull the bottom out, 
+separating the pieces.
+Two “C” Alkaline Batteries 
+(not included)
+Battery 
+Compartment
+14 iRobot Roomba 500 Series  
+Virtual Wall® Lighthouses™  
+(optional accessory for selected models)
+Virtual Wall Lighthouses turn on and off automatically as Roomba is 
+turned on and off. When they are on, a light illuminates on the top of the 
+Virtual Wall Lighthouse. A Virtual Wall Lighthouse can be used in two 
+modes, either in Lighthouse mode or Virtual Wall mode, set by the Mode 
+Selector. 
+Power Light
+Mode Selector
+Lighthouse Two “C” Alkaline 
+Range Selector Virtual Wall Batteries
+048--”37+”” 10.3-51m-.35+mm (not included)
+Distance
+Lighthouse Mode 
+In Lighthouse mode, the Virtual Wall Lighthouse helps Roomba navigate 
+around your home and allows Roomba to clean room-to-room. Roomba 
+will clean the room it starts in, navigate to the next room, and then clean 
+the second room. When Roomba has completed cleaning, it will use the 
+Lighthouse to navigate back to the Home Base for recharging.
+Lighthouse
+Home
+Room 1 Room 2
+Base
+Lighthouse
+Start
+Roomba
+here
+With two Virtual Wall 
+Room 3
+Lighthouses in lighthouse
+mode, Roomba will clean 
+Room 1 for approximately 
+25 minutes, then clean 
+Rooms 2 and 3 for  25 
+minutes each, and then 
+return to the Home Base.
+TIP:  When in Lighthouse mode, do not manually move Roomba from room to 
+room while it is cleaning.
+For more detailed information, visit: www.irobot.com 15  
+Virtual Wall® Lighthouses™ 
+(continued)
+In Lighthouse mode, place the Virtual Wall Lighthouse in the doorway 
+between two rooms with the iRobot logo facing forward.
+Place Lighthouse 
+in the center of 
+the door frame
+Virtual Wall Mode 
+In Virtual Wall mode, the Lighthouse creates an invisible barrier that 
+Roomba will not cross. It automatically turns off when Roomba turns off. 
+In Virtual Wall mode, place the Virtual Wall Lighthouse in the center of 
+the door frame. It blocks an opening up to seven feet or longer in three 
+increments: 0-3 ft., 4-7 ft., 7+ ft. Use the range selector to adjust the 
+length of the barrier. A longer range will drain the battery faster.
+Range 
+Selector
+Distance
+TIP:  Avoid placing Virtual Wall Lighthouses too close to each other, the 
+Home Base, or furniture that could block the beams. Doing so could 
+prevent Roomba from recognizing the Lighthouses and navigating to the 
+next room.
+TIP:  To conserve battery life, remove the batteries if you are not planning to 
+use the Virtual Wall Lighthouse when cleaning. When battery levels are 
+low, the Virtual Wall Lighthouse power light will flash repeatedly.
+16 iRobot Roomba 500 Series  
+Home Base® 
+(optional accessory for selected models)
+Always keep the Home base plugged in.
+Original Home Base
+When Roomba is on the Home Base, the power and 
+docked lights are green to indicate Roomba is charging. 
+Compact Home Base
+When the Home Base is plugged in, the power light 
+blinks to indicate that it is connected to the power 
+source. When Roomba connects to the Home Base, the 
+power light is solid to indicate that Roomba successfully 
+connected to the Home Base. When Roomba is 
+charging, Roomba’s “Clean” button pulses amber as 
+described in the “Battery Storage and Charging” section 
+of this manual. The “Clean” button is a solid green when 
+Roomba is completely charged.  
+SCALE   1.000
+Home Base Location
+You should position the Home Base on a hard level surface and in an 
+area where Roomba has a clear path to return at the end of a cleaning 
+cycle. Locate the Home Base against a wall or other immovable object to 
+prevent it from sliding during docking. If Roomba is unable to dock on its 
+first attempt, it will try again until it docks successfully. 
+Home 
+Base
+Chair Table
+ 
+Stairs
+Area Rug
+TIP:  Do not place the Home Base within 4 feet of a stairwell.
+For more detailed information, visit: www.irobot.com 17  
+Wireless Command Center  
+(optional accessory for selected models)
+The Wireless Command Center lets you conveniently control Roomba’s 
+functions. You can use it to turn Roomba on and off, schedule Roomba to 
+clean, and steer Roomba around  your room.
+Troubleshooting 
+Light
+...
+. . .
+Battery  
+Indicator
+SPOT Roomba spirals approximately three feet in diameter and then spirals 
+back to where it started, intensely cleaning a local area. 
+CLEAN Roomba automatically calculates the room size and adjusts its 
+cleaning time appropriately. 
+. . . Models  Roomba attempts to dock on the Home Base, if present.
+570-599
+Models  Roomba enters Max mode and cleans as long as the 
+600+ battery allows.
+Pairing Roomba with the Wireless Command Center
+Wireless Command Centers are set up to control only one Roomba. To pair 
+a Wireless Command Center with a Roomba, you need four “AA” batteries 
+(not included).
+1 Make sure Roomba’s battery is fully charged.
+2 Unplug the power supply or remove Roomba from its Home Base.
+3 Install three “AA” batteries into the Command Center.
+4 Hold down the left drive button while installing the fourth battery.
+5 Continue holding the button for 3 seconds or until the days of the 
+week lights flash in a sequence from right to left (Saturday to Sunday).
+6 Install the battery door and place the Command Center on top of 
+Roomba.
+7 Press and hold the DAY and MINUTE buttons on the Command Center 
+for 2 seconds. The lights on the Command Center will flash to indicate 
+the pairing has completed, and Roomba will make a two-tone beep.
+8 When the Command Center is powered on from now on, the lights will 
+flash in sequence from left to right until Roomba is under control.
+18 iRobot Roomba 500 Series  
+Remote Control 
+(optional accessory for selected models)
+Directional 
+SPOT 
+Buttons
+Button . . . 
+Button
+CLEAN/Power 
+Button
+The Remote Control lets you conveniently control Roomba’s functions. 
+You can use it to turn Roomba on and off and steer it around your 
+room without bending down. It also gives you remote access to these 
+commands: 
+SPOT Roomba spirals approximately three 
+feet in diameter and then spirals back 
+to where it started, intensely cleaning a 
+local area. 
+CLEAN Roomba automatically calculates the 
+. . .
+room size and adjusts its cleaning time 
+appropriately. 
+. . . Models 500-519 Roomba enters Spot 
+mode.
+Models 520-599 Roomba attempts to 
+dock on the Home 
+Base, if present.
+Models 600+ Roomba enters Max 
+mode and cleans as 
+long as the battery 
+allows.
+Before using your remote for the first time, install 2 AA batteries (not 
+included). 
+TIP:  Check that there is a direct line of sight from the Remote Control to 
+Roomba and that the remote is pointed at Roomba.
+  The Remote Control, Virtual Walls and Home Base operate using an invisible 
+infrared beam. If they are all used in the same area, Roomba may see 
+multiple infrared signals and will not operate. The Remote WILL NOT work 
+when Roomba is near Virtual Walls.
+For more detailed information, visit: www.irobot.com 19  
+Scheduling Roomba 
+(Models 550 and above)
+Setting the Time
+You must set the time before scheduling Roomba to clean.
+1   Press and hold CLOCK.
+  While holding CLOCK, use the DAY, HOUR, 
+2
+and MINUTE buttons to set the correct time.
+3   Release CLOCK. Roomba will beep to 
+indicate that the time has been set. 
+Setting a Schedule
+You can schedule Roomba to clean once per day, up to seven times 
+per week. You must set the time before setting a schedule.
+To set a schedule:
+1    Press and hold SCHEDULE.
+  While holding SCHEDULE, use the DAY, 
+2
+HOUR, and MINUTE buttons to set the 
+schedule.
+3   Release SCHEDULE. Roomba will beep to 
+indicate that the schedule has been set. 
+Viewing and Deleting Schedules
+To view Roomba’s scheduled cleaning times: 
+1   Press and hold SCHEDULE.
+  While holding SCHEDULE, press the DAY 
+2
+button to cycle through Roomba’s scheduled        
+cleaning times.
+3   Release SCHEDULE.
+20 iRobot Roomba 500 Series  
+To Delete a Schedule
+1    Press and hold SCHEDULE.
+  While holding SCHEDULE, press the DAY 
+2
+button to cycle through Roomba’s scheduled 
+cleaning times.
+3   When Roomba is displaying the scheduled 
+cleaning time you’d like to delete, press and 
+hold DAY to delete the scheduled cleaning 
+time. 
+4   Release SCHEDULE.
+To Change a Schedule
+1   Press and hold SCHEDULE.
+  While holding SCHEDULE, press the DAY 
+2
+button to cycle through Roomba’s scheduled 
+cleaning times.
+3   When Roomba is displaying the scheduled 
+cleaning time you’d like to change, press the 
+HOUR and MINUTE buttons to change the 
+scheduled cleaning time. 
+4   Release SCHEDULE.  Roomba will beep to 
+confirm that the schedule has been changed.
+TIP:  Roomba’s clock can be viewed in either the 12 hour (AM/PM) format or 
+the 24 hour format. To toggle between the two views, press and hold the 
+DAY and MINUTE buttons simultaneously for 3 seconds until Roomba 
+beeps and the clock briefly illuminates, indicating the clock format has 
+been switched. Roomba’s clock will switch back to the default 12 hour 
+(AM/PM) format when Roomba’s battery is disconnected or significantly 
+discharged.
+For more detailed information, visit: www.irobot.com 21  
+Regular Maintenance
+To keep Roomba running at peak performance, it is recommended that 
+you perform the following maintenance regularly: 
+1   Remove and empty Roomba’s bin after each use
+Press button and 
+pull to remove bin.
+ 
+ 
+2   Clean Roomba’s filter 
+Aero-Vac Vacuum Bin Original Vacuum Bin
+A. Push down and remove to clean filter* A. Clean or replace filter*
+Empty bin
+Empty bin
+B. Clean filter compartment
+*Replace filter every 2 months
+Visit www.irobot.com/support for information on keeping Roomba running at peak 
+performance.
+TIP:  Bin emptying and brush cleaning should be done after every cleaning cycle. 
+Regularly pull out and clean Roomba’s front wheel.
+TIP:  If you notice Roomba picking up less debris from your floor, empty the bin 
+and clean the brushes.  
+22 iRobot Roomba 500 Series  
+3   Clean Roomba’s brushes
+A.  Remove brush guard by lifting both  B.  Remove and clean Roomba’s 
+yellow tabs. brushes.
+Brush 
+Bearings 
+Brush Caps
+TIP:  When maintaining Roomba, look for the yellow parts. These parts are 
+designed to be removed and cleaned every time you empty Roomba’s bin.
+C.  Remove and clean hair and dirt from  D.  Remove and clean Roomba’s brush 
+Roomba’s yellow brush bearings. caps.
+Bearings
+Alignment Feature
+E.  Use the included cleaning tool to 
+easily remove hair from Roomba’s 
+bristle brush by pulling it over the 
+brush. 
+  Excessive build up of hair can permanently damage Roomba. 
+Remove brushes and inspect brush bearings regularly.
+  Do not attempt to run Roomba without the bearings. If you 
+misplace Roomba’s brush bearings, contact iRobot Customer Care 
+for replacement bearings. 
+For more detailed information, visit: www.irobot.com 23  
+Clean Roomba’s front wheel
+1   Pull firmly on Roomba’s front  Wheel
+wheel to remove it from the 
+robot.  Axle
+2   Remove debris from inside the 
+Housing
+front wheel cavity. 
+3   Remove the front wheel from 
+its housing and clear any hair 
+wrapped around the axle. Push 
+firmly on the wheel axle to 
+remove it completely from the 
+wheel. 
+4  Wipe the wheel clean. 
+5   Re-install the wheel into the housing, and the module into the robot. 
+    Front wheels clogged with hair and debris could result in floor 
+damage.
+Clean Roomba’s cliff sensors 
+1  Wipe all four cliff sensors with a clean, dry cloth. 
+Cliff Sensor 
+Openings
+24 iRobot Roomba 500 Series  
+Language Selection Mode
+(selected models)
+Roomba 500 Series can provide troubleshooting messages in English, 
+French, German, Spanish, Italian, Dutch, Danish, Swedish, Norwegian, 
+Finnish, Polish, Russian, Portuguese, Japanese, Korean and Chinese.
+Roomba’s default language is English.
+Setting the Language
+1   Turn OFF Roomba. (Press and hold  
+       CLEAN until Roomba’s lights turn off.)
+  Press and hold CLEAN until Roomba beeps 
+2
+and says the currently selected language.
+3   Release CLEAN. Roomba is now in Language 
+Selection Mode. 
+4   Press CLEAN repeatedly until you hear the 
+desired language.
+5   Press and hold CLEAN to turn OFF Roomba 
+and confirm the language choice.
+For more detailed information, visit: www.irobot.com 25  
+Troubleshooting
+Roomba will tell you something is wrong with a two-tone “uh-oh” sound 
+followed by a series of beeps or a narrated voice. The troubleshooting 
+light will also blink. Refer to the chart below to resolve Roomba’s problem. 
+If the problem is not resolved, visit www.irobot.com/support. 
+Tip : To repeat Roomba's error message, press the "clean" button.
+Runtime Errors
+Roomba  Or Roomba says…. Likely cause What to do
+beeps...
+Roomba is stuck with a  Ensure Roomba’s wheels 
+1 beep Error 1 ... wheel hanging down or  are firmly on the floor. Start 
+Roomba is stuck.  Roomba in a new location. 
+Roomba’s main  Remove and clean 
+2 beeps Error 2 ...
+brushes cannot turn.  Roomba’s brushes. 
+Clean hair and debris from 
+Roomba’s side wheels. Push 
+Roomba’s side wheel is  them in and out and confirm 
+5 beeps Error 5 ...
+stuck.  that they both turn freely. 
+Start Roomba in a new 
+location.
+Roomba’s cliff sensors  Wipe Roomba’s cliff sensors 
+6 beeps Error 6 ... are dirty or Roomba is  with a dry cloth. Start 
+stuck hanging over a cliff.  Roomba in a new location.
+Clean Roomba’s side wheels 
+of hair and debris. Push 
+Roomba’s side wheel is  them in and out and confirm 
+7 beeps Error 7 ...
+stuck. that they both turn freely. 
+Start Roomba in a new 
+location.
+Remove and clean hair and 
+Roomba’s front wheel 
+debris from Roomba’s front 
+8 beeps is stuck or Roomba is 
+wheel. Start Roomba in a 
+stuck. 
+new location.
+Briskly tap Roomba’s 
+Roomba’s bumper is  bumper 10-20 times to 
+9 beeps Error 9 ... compressed or the  dislodge any debris that 
+bumper sensor is dirty. may be trapped under the 
+bumper. 
+If Roomba is circling in 
+place, clean Roomba’s 
+side wheels of hair and 
+Roomba’s side wheel  debris. Push them in and 
+is stuck or its bumper  out and confirm that they 
+Error 10 ...
+is not registering  both turn. If not circling in 
+obstacles. place, Roomba may be in 
+an extremely large room. 
+Use a Virtual Wall to create a 
+smaller cleaning area.
+26 iRobot Roomba 500 Series  
+Runtime Errors (continued)
+Roomba  Roomba says…. Likely cause What to do
+beeps...
+Tap Roomba’s bumper to confirm 
+it is working properly. If this error 
+Roomba’s bumper is not 
+occurs when Roomba is circling, 
+registering obstacles. 
+11 beeps clean wheels of hair and debris. 
+Roomba may be stuck in 
+If Roomba is in an extremely 
+one place. 
+large room, use a Virtual Wall to 
+create a smaller cleaning area.
+A cliff sensor is dirty or  Inspect and clean Roomba’s cliff 
+12 beeps
+broken.  sensors.
+Plug Roomba into the power 
+Please charge  Roomba’s battery is 
+supply or place on the Home 
+Roomba. discharged.
+base to charge.
+Please inspect and  Wipe cliff sensors with a dry 
+Roomba’s cliff sensors 
+clean Roomba’s cliff  cloth. Ensure Roomba is starting 
+are dirty. 
+sensors. with all wheels firmly on the floor.
+Clean wheels of hair and debris. 
+Please inspect and  Push them in and out and 
+Roomba’s side wheel is 
+clean Roomba’s  confirm that they turn freely. 
+stuck.
+wheels. Ensure Roomba is starting with 
+all wheels firmly on the floor.
+Please remove and 
+Roomba’s main  Remove and clean Roomba’s 
+clean Roomba’s 
+brushes cannot turn.  brushes.
+brushes.
+Charging Errors (while charging) 
+Roomba  Roomba  Roomba  Likely cause What to do
+blinks... displays...  says….
+(models 550+)
+Confirm that Roomba’s  
+battery pull-tab is removed. 
+Charging  Roomba’s battery is not 
+1 blink - Remove the bottom cover of 
+Error 1. connected. 
+Roomba to remove and re-
+install Roomba’s battery. 
+Let Roomba cool down for 
+Charging  Roomba has a 
+2 blinks Err2 at least one hour and try 
+Error 2. charging error.
+charging again.
+Reset Roomba’s software 
+Charging  Roomba has a 
+3 blinks Err3 (refer to tip below) and try 
+Error 3. charging error. 
+charging again.
+Reset Roomba’s software 
+Charging  Roomba has a 
+5 blinks Err5 (refer to tip below) and try 
+Error 5. charging error.
+charging again.
+Let Roomba cool down for 
+Charging  Roomba’s battery is too 
+6 blinks Err6 at least one hour and try 
+Error 6. warm.
+charging again.
+Let Roomba cool down for 
+Charging  Roomba’s battery is 
+7 blinks Err7 at least one hour and try 
+Error 7. not cooling.
+charging again.
+TIP:  To reset Roomba’s software, simultaneously hold down the two 
+buttons above and below CLEAN for 10 seconds. This will clear 
+all scheduled cleaning times, reset the clock and may resolve 
+some software issues.
+For more detailed information, visit: www.irobot.com 27  
+Replaceable Modules
+Roomba has a number of modules that can be replaced, including its 
+drive wheels, side brush, main cleaning head, vacuum bin, caster wheel, 
+and battery.
+To access Roomba’s replaceable modules, remove the bottom cover of 
+Roomba by removing the four screws that hold down the bottom cover 
+and the screw that holds the spinning side brush.
+Side brush with screw
+Front caster wheel
+Caster housing
+Bottom cover
+Battery
+Cleaning head module
+Right side wheel module
+Left side wheel module
+Side brush module
+Bin module
+Chassis
+Replaceable faceplate
+28 iRobot Roomba 500 Series  
+Faceplate Removal 
+(models 500 and above)
+Follow these instructions to remove and install Roomba’s faceplate.
+1   Remove Roomba’s bin.
+ 
+ 
+ 
+2   Remove Roomba’s faceplate by pulling up from the bin. The 
+faceplate is secured in several places.
+For more detailed information, visit: www.irobot.com 29  
+3   Install Roomba’s faceplate by inserting the tabs into the appropriate 
+slots, and then pushing down firmly on the inside and outsides edges 
+of the faceplate.
+ 
+ 
+4   Reinsert Roomba’s bin.
+30 iRobot Roomba 500 Series  
+Battery Removal 
+(models 500 and above)
+Follow these instructions to remove and reinstall Roomba’s battery.
+1   Remove Roomba’s side brush screw.
+ 
+ 
+ 
+2   Remove Roomba’s side brush.
+For more detailed information, visit: www.irobot.com 31  
+3   Unscrew the four screws shown below and remove Roomba’s bottom 
+cover.
+ 
+ 
+ 
+4   Remove Roomba’s battery.
+5   Reinstall Roomba’s battery with the iRobot logo facing up.
+6   Replace Roomba’s bottom cover and the four screws.
+7   Replace Roomba’s side brush and the side brush screw.
+32 iRobot Roomba 500 Series  
+Frequently Asked Questions
+Why does Roomba’s Side Brush occasionally spin backwards? 
+When caught on items such as carpet tassels or wires, the Side Brush 
+may spin slowly or briefly spin backwards to free itself. This may also 
+occur on thick or high-pile carpets. If this behavior should occur on hard 
+floor surfaces or when no tassels or wires are present, the Side Brush 
+should be cleaned. Using a small Philips head screwdriver, first remove 
+the screw from the center of the Side Brush. Next remove the Side Brush 
+and thoroughly clean any hair or debris that is wrapped around the shaft. 
+Then reinstall the Side Brush and Side Brush screw. 
+ 
+Why does Roomba occasionally make a thumping sound? 
+When Roomba’s brushes encounter items such as carpet tassels or wires, 
+the brushes will briefly reverse direction to get free. This action causes 
+a thumping sound that can be heard approximately once per second 
+until the brushes are free from obstruction. If Roomba makes a thumping 
+sound when no tassels or wires are present, the main brushes should be 
+cleaned. 
+ 
+ 
+Why doesn’t Roomba slow down as it approaches certain 
+obstacles? 
+Roomba uses its Light Touch Bumper technology to identify walls and 
+other obstacles, allowing it to slow down and gently touch the obstacle 
+with its bumper before changing direction. Roomba may be less effective 
+at sensing and slowing down for extremely dark or black surfaces, or for 
+objects that are less than two inches wide.
+TIP:  For additional assistance, visit www.irobot.com/support.
+For more detailed information, visit: www.irobot.com 33  
+Important Safety Instructions
+  CAUTION: DO NOT EXPOSE THE ELECTRONICS OF ROOMBA, 
+ITS BATTERY, OR THE POWER SUPPLY. THERE ARE NO USER-
+SERVICEABLE PARTS INSIDE. REFER SERVICING TO QUALIFIED 
+SERVICE PERSONNEL. PLEASE ENSURE VOLTAGE RATING FOR 
+ENCLOSED POWER SUPPLY MATCHES STANDARD OUTLET VOLTAGE.
+Always exercise caution when operating your Roomba. To reduce the risk 
+of injury or damage, keep these safety precautions in mind when setting 
+up, using and maintaining Roomba:
+GENERAL SAFETY INSTRUCTIONS
+• Read all safety and operating instructions before operating Roomba.
+• Retain the safety and operating instructions for future reference.
+• Heed all warnings on Roomba, battery, power supply and in owner’s manual.
+• Follow all operating and use instructions.
+• Refer all non-routine servicing to iRobot.
+ROOMBA USE RESTRICTIONS
+• Roomba is for indoor use only.
+• Roomba is not a toy. Do not sit or stand on this device. Small children and pets should be 
+supervised when Roomba is cleaning.
+• Clean with a dry cloth only. Do not pour or spray water onto Roomba.
+• Do not use this device to pick up anything that is burning or smoking.
+• Do not use this device to pick up spills of bleach, paint, or other chemicals, or anything 
+wet. 
+• Before using this device, pick up objects like clothing, loose papers, pull cords for blinds 
+or curtains, power cords, and any fragile objects. If the device passes over a power cord 
+and drags it, there is a chance an object could tumble off a table or shelf.
+• If the room to be cleaned contains a balcony, a physical barrier should be used to prevent 
+access to the balcony and ensure safe operation.
+• Always remove the battery before long-term storage or transportation.
+• This appliance is not intended for use by persons (including children) with reduced 
+physical, sensory or mental capabilities, or lack of experience and knowledge, unless they 
+have been given supervision or instruction concerning use of the appliance by a person 
+responsible for their safety.
+• Children should be supervised to ensure they do not play with the appliance.
+ROOMBA BATTERY AND CHARGING
+• Charge using a standard outlet only. Product may not be used with any type of power 
+converter. Use of other power converters will immediately void the warranty.
+• Use only the power supply supplied by the manufacturer to charge this device.
+• Do not use a power supply with a damaged cord or plug.
+• Charge indoors only.
+• Roomba’s power supply may be protected with a surge protector in the event of severe 
+electrical storms.
+• Never handle the power supply with wet hands.
+• Always disconnect Roomba from the power supply before cleaning.
+• Please ensure voltage rating for enclosed power supply matches standard outlet voltage.
+34 iRobot Roomba 500 Series  
+iRobot Customer Care USA 
+ 
+If you have questions or comments about Roomba, please contact iRobot 
+before contacting a retailer.  
+ 
+Please visit our web site at www.irobot.com for support tips, frequently 
+asked questions, or information about accessories and other iRobot 
+products. We would like to hear from you. 
+ 
+Should you still need assistance: 
+   •  Visit the iRobot support web site at www.irobot.com/support 
+   •  Call our customer care representatives at 877.855.8593  
+ 
+iRobot Customer Care Hours: 
+   •  Monday – Friday 9AM – 7PM Eastern Time 
+   •  Saturday 9AM – 6PM Eastern Time
+iRobot Customer Care International 
+ 
+To contact an international partner near you for sales and technical 
+support, visit www.irobot.com/international.
+For more detailed information, visit: www.irobot.com 35 Get iRobot accessories at: 
+store.irobot.com
+© 2009-2010 iRobot Corporation, 8 Crosby Drive, Bedford, MA 01730. All rights reserved.
+iRobot, Roomba, Virtual Wall and Home Base are registered trademarks of iRobot Corporation. Dirt Detect and 
+Lighthouse are trademarks of iRobot Corporation. [00152.0110.v1] 
+U.S. Pat. Nos. D556,961 | 6,594,844 | 6,690,134 | 6,809,490 | 6,883,201 | 6,956,348 | 7,155,308 | 7,173,391 
+| 7,196,487 | 7,288,912 | 7,332,890 | 7,388,343 | 7,389,156 | 7,429,843 | 7,430,455 | 7,441,298 | 7,441,298 | 
+7,448,113. Additional patents pending.

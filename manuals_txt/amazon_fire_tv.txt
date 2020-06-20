@@ -1,0 +1,2151 @@
+Amazon Fire TV User Guide Amazon Fire TV User Guide
+Amazon Fire TV User Guide
+Amazon Fire TV Basics
+Amazon Fire TV Hardware Basics on page 5
+•
+Navigate Your Amazon Fire TV Device on page 7
+•
+Main Menu Basics on page 9
+•
+Settings Basics on page 11
+•
+Register or Deregister Your Amazon Fire TV Device on page 13
+•
+Access & Remove Content on page 14
+•
+Set Up Parental Controls on page 16
+•
+Use Your Voice to Search Amazon Fire TV Devices on page 17
+•
+Remote & Game Controller Basics
+Remote Basics on page 19
+•
+Game Controller Basics on page 26
+•
+Pair a Remote or Game Controller on page 28
+•
+Compatible Remotes for Amazon Fire TV Devices on page 25
+•
+Fire TV Remote App Basics
+Download & Pair the Fire TV Remote App on page 32
+•
+Fire TV Remote App Basics on page 30
+•
+Bluetooth & USB Basics
+Connect a Bluetooth Accessory to Your Amazon Fire TV on page 34
+•
+Attach USB Storage to Amazon Fire TV on page 35
+•
+Compatible Bluetooth Accessories for Amazon Fire TV on page 36
+•
+About USB Storage for Amazon Fire TV on page 37
+•
+Remove USB Storage from Amazon Fire TV on page 38
+•
+Connect a USB Device to Amazon Fire TV on page 39
+•
+Use a Keyboard or Mouse with Amazon Fire TV on page 40
+•
+Quick Fixes
+Can't Connect to Wi-Fi on page 42
+•
+Can't Pair a Remote or Game Controller on page 43
+•
+Video Issues on Your Amazon Fire TV Device on page 44
+•
+Basic Troubleshooting for Amazon Fire TV Devices on page 45
+•
+Can't Pair the Fire TV Remote App on page 47
+•
+Can't Connect a Bluetooth Accessory to Amazon Fire TV on page 48
+•
+Set Up Amazon Fire TV
+Get Started with Amazon Fire TV on page 50
+•
+2 Amazon Fire TV User Guide
+Set Up Amazon Fire TV Hardware on page 51
+•
+Set Up a Wireless or Wired Connection on page 53
+•
+Connect Your Amazon Fire TV Device to a Public Wi-Fi Network on page 54
+•
+Amazon FreeTime
+Set Up Amazon FreeTime on page 56
+•
+Add or Edit an Amazon FreeTime Profile on page 57
+•
+Using an Amazon FreeTime Profile on page 59
+•
+Subscribe or Unsubscribe from Amazon FreeTime Unlimited on page 60
+•
+Hide Amazon FreeTime on page 61
+•
+About Amazon FreeTime Privacy on page 62
+•
+Watch Movies & TV Shows
+Buy or Rent Movies & TV Shows on page 64
+•
+Watch Movies & TV Shows on page 65
+•
+Use an Amazon Fire TV Device as a Display Mirroring Destination on page 66
+•
+Use an Amazon Fire TV Device with a Second Screen Device on page 67
+•
+Turn On or Customize Closed Captions on page 70
+•
+View Actor and Scene Information on Amazon Fire TV Devices on page 68
+•
+Play Games & Apps
+Buy, Download and Uninstall Games & Apps on page 72
+•
+Play Games & Apps on page 74
+•
+Turn Off In-App Purchasing on page 76
+•
+About GameCircle on page 77
+•
+Listen to Music
+Listen to Music on page 80
+•
+View Song Lyrics on page 81
+•
+Listen to Prime Music with an Amazon Fire TV Device on page 82
+•
+Manage Photos & Personal Videos
+View Photos & Personal Videos on page 84
+•
+Set Screen Savers on page 87
+•
+Add Photos & Personal Videos to Cloud Drive on page 86
+•
+Learn More
+Use Amazon Fire TV Devices in a Different Country on page 90
+•
+Sharing Content On Amazon Fire TV Devices on page 89
+•
+Manage Subscriptions for your Amazon Fire TV Device on page 88
+•
+3 Amazon Fire TV Device Basics
+Amazon Fire TV Device Basics
+Learn how to navigate and access content and settings on your Amazon Fire TV device.
+In This Section
+Amazon Fire TV Hardware Basics on page 5
+•
+Navigate Your Amazon Fire TV Device on page 7
+•
+Main Menu Basics on page 9
+•
+Settings Basics on page 11
+•
+Register or Deregister Your Amazon Fire TV Device on page 13
+•
+Access & Remove Content on page 14
+•
+Set Up Parental Controls on page 16
+•
+Use Your Voice to Search Amazon Fire TV Devices on page 17
+•
+4 Amazon Fire TV Hardware Basics
+Amazon Fire TV Hardware Basics
+Port Description
+Power The power port connects the included power cord from
+Amazon Fire TV to a power outlet. To turn off Amazon
+Fire TV, unplug the power cord from the back of the
+device or from the wall outlet.
+A pulsing white light means your Amazon Fire TV is
+powering on or is looking for a remote. If you don’t see
+the light, try a different power outlet.
+Note: It is not necessary to turn off Amazon Fire TV
+when you are finished using it. Your Amazon Fire TV is
+designed to conserve energy by going into sleep mode
+after 30 minutes, while continuing to automatically
+receive important software updates.
+HDMI The HDMI port connects an HDMI cable from Amazon
+Fire TV to your high-definition TV.
+Note: An HMDI cable is not included with Amazon Fire
+TV.
+Optical Audio The optical audio port can be used to connect to a stereo
+system.
+Note: An audio cable is not included with Amazon Fire
+TV.
+Ethernet Use the Ethernet port if you want to connect Amazon Fire
+TV to the Internet with a wired connection. The Ethernet
+port connects an Ethernet cable from Amazon Fire TV to
+a router or modem.
+A wired connection is not required to use Amazon Fire
+TV; it is designed to connect to the Internet with either a
+wireless or wired connection.
+Note: An Ethernet cable is not included with Amazon Fire
+TV.
+USB The USB port can be used to connect an Xbox 360
+controller with a wireless USB receiver, USB storage, and
+some other USB accessores. For more information go to:
+• About USB Storage for Amazon Fire TV on page
+37
+• Connect a USB Device to Amazon Fire TV on page
+39
+5 Amazon Fire TV Hardware Basics
+Port Description
+• Use a Keyboard or Mouse with Amazon Fire TV on
+page 40
+6 Navigate Your Amazon Fire TV Device
+Navigate Your Amazon Fire TV Device
+Use your compatible remote to access the Home screen and your movies, TV shows, games, and apps.
+Press the 5-way directional track pad to move up, down, left, or right. Press the middle Select button to
+select a content item, function, or category.
+To learn more about using your smartphone as a remote, go to Fire TV Remote App Basics on page 30.
+To do this... Try this...
+Go to the Home screen
+Press the Home   button.
+Return to the previous screen
+Press the Back   button.
+Select a movie, TV show, game, or app
+Press the middle Select   button.
+Wake up your Amazon Fire TV device Press any button to wake up your Amazon Fire TV
+device. Your Amazon Fire TV device goes into sleep
+mode after 30 minutes of inactivity or shows the screen
+saver according to your screen saver settings.
+Put your Amazon Fire TV device to Sleep Your Amazon Fire TV device goes into sleep mode after
+30 minutes of inactivity. However, you can manually put
+the device into Sleep mode:
+From the Home screen, go toSettings > System >
+Sleep.
+Tip: Quickly access various features with the Quick
+Access Menu. To open it, press and hold the Home
+button on your Amazon remote.
+Access purchased movies, TV shows, games, and apps From the Home screen, select one of the following
+options from the Main Menu:
+• Video Library - Your purchased or rented Amazon
+Instant Video movies and TV shows.
+Note: Movies and TV shows from third-party apps,
+such as Netflix and Hulu, are only accessible directly
+from the apps, not the Video Library.
+• Games - Your purchased games appear in Your
+Games Library.
+• Apps - Your purchased apps appear in Your Apps
+Library.
+• Music - Purchased, imported, and Prime content
+added to your library will appear in Your Music
+Library.
+Remove content from the Home screen To remove an item from the Recent carousel, navigate to
+the item, and then select Remove from Recent.
+7 Navigate Your Amazon Fire TV Device
+To do this... Try this...
+To remove a title from Recommended Movies and TV,
+navigate to the item, and then select Not Interested.
+Change the screen saver settings From the Home screen, select Settings > System >
+Screen Saver . Update the screen saver slide style, slide
+speed, start time, and photo album.
+Turn off your Amazon Fire TV device To turn off your Amazon Fire TV device, unplug the
+power cord from the back of the device or from the wall
+outlet.
+You can also put the device into Sleep mode:
+From the Home screen, go to Settings > System >
+Sleep.
+Note: You don't need to turn off the Amazon Fire TV
+device when you are finished using it. It will to go into
+sleep mode after 30 minutes, while continuing to
+automatically receive important software updates. On
+Amazon Fire TV, the LED indicator on the front of the
+device will turn off when the device is in sleep mode.
+Figure 1: Video: Basics
+8 Main Menu Basics
+Main Menu Basics
+The Home screen includes the Main Menu, which allows you to access your account and device settings,
+along with movie, TV show, game, and app content libraries.
+Press the Home   button on the remote to return to the Home screen and Main Menu options.
+Main Menu option Description
+Search
+Search for movies, TV shows, games, apps, music, and
+music videos from Vevo. Use the remote to search for
+content titles using voice input or an onscreen keyboard.
+Home
+Review content recommendations and recent activity.
+Recent - Your recently viewed movies, TV shows,
+games, Cloud Drive photos/videos, or apps. To remove
+an item from Recent, navigate to item and then select
+Remove from Recent.
+Featured Movies & TV or Apps & Games - Timely and
+relevant promotions featured by Amazon and other
+content providers. You cannot remove items from the
+Featured listings.
+Other Movies, TV, Apps & Games – Automated listings
+that include Amazon’s newest (New Releases, Recently
+Added to Prime), best (Top Movies, Free Games), or
+recommended content (Recommended Movies,
+Recommended TV). You can only remove items from the
+Recommended Movies and TV listings.
+Prime Video
+If you are an Amazon Prime member, you can quickly
+and easily browse the Prime Instant Video library and
+watch movies and TV shows in this category at no extra
+cost.
+Movies
+Rent, buy, and watch movies from the Amazon Instant
+Video store and some other installed video apps.
+If you are an Amazon Prime member, you can quickly
+and easily browse the Prime Instant Video library and
+watch movies and TV shows in this category at no extra
+cost.
+TV
+Buy and watch TV show episodes or seasons from the
+Amazon Instant Video store and some other installed
+video apps.
+If you are an Amazon Prime member, you can quickly
+and easily browse the Prime Instant Video library and
+watch movies and TV shows in this category at no extra
+cost.
+Watchlist
+Access your Amazon Instant Video Watchlist. Your
+Watchlist is a list of movies or TV shows you want to buy,
+9 Main Menu Basics
+Main Menu option Description
+rent, or watch later. After you buy or rent the movie or TV
+show, it is available to stream from your Video Library.
+Video Library
+Your Video Library includes all of the Amazon Instant
+Video movies and TV shows you’ve purchased or are
+currently renting, but does not include the movies and TV
+shows that you've watched through Prime Instant Video.
+Content you purchase is stored in the Cloud and
+available to stream to your device.
+Movies and TV shows from third-party apps, such as
+Netflix and Hulu, are only accessible directly from the
+apps, not the Video Library.
+FreeTime (only available on Amazon Fire TV)
+Set up and manage Amazon FreeTime profiles from your
+Amazon Fire TV. Amazon FreeTime allows you to create
+up to four personalized profiles for your children to
+access videos, apps, and games that you selected for
+them.
+Games
+Shop for, buy, and play games from the Amazon
+Appstore. Use your Amazon GameCircle profile to view
+and compare achievements, leaderboards, and time
+played in a game.
+You can pair Amazon Fire or Bluetooth game controllers
+with your device.
+Apps
+Shop for and buy games and apps from the Amazon
+Appstore. Movies and TV shows available through third-
+party apps, such as Netflix and Hulu, can be accessed
+through those apps in the Apps menu.
+Music
+Browse and stream the music from Your Amazon Music
+Library, including songs you purchased from the Digital
+Music Store or imported to Your Music Library. Listen to
+Prime Music that you added to you library from another
+device. While listening to songs on your Amazon Fire TV
+device, X-Ray for Music displays the lyrics so you can
+follow along, if available.
+Note: You will only be able to play Prime music that has
+been added to your library from a computer or another
+compatible device, such as the Amazon Music app on
+your phone or your Fire Tablet. You cannot add new
+Prime Music from your Amazon Fire TV device.
+Photos
+Access photos and personal videos from your Amazon
+Cloud Drive account. You can also start photo slideshows
+and set individual photos as screen savers.
+Settings
+View and manage your Amazon Fire TV device apps,
+controllers, parental controls, Internet connection, and
+more.
+10 Settings Basics
+Settings Basics
+Your Amazon Fire TV device is designed to make most configuration settings automatic, but you can use
+the Settings menu to further manage your apps, Internet connection, controllers, screen savers, and more.
+From the Home screen, select Settings.
+Tip: You can quickly access Settings by pressing and holding the Home button on your remote or on the most recent
+version of the Fire TV Remote App.
+Setting Description
+Display and Sounds
+Set a screen saver, configure the display, mirror a
+compatible device, and manage audio settings.
+Second Screen Notifications
+Enable discovery of Amazon Instant Video playback and
+Photos on Amazon Fire TV device from nearby
+compatible mobile devices.
+To learn more, go to Use an Amazon Fire TV Device with
+a Second Screen Device on page 67.
+(FreeTime &) Parental Controls
+Enable or disable Amazon FreeTime, which allows you to
+create a personalized profile for your child to access
+videos, apps, and games that you selected for them.
+Parental Controls restrict purchasing, content types, and
+access to other features.
+On Amazon Fire TV, enable or disable Amazon
+FreeTime, which allows you to create a personalized
+profile for your child to access videos, apps, and games
+that you selected for them.
+Note: Parental Controls will not restrict content in third-
+party applications. Parental controls for third-party
+applications are determined by the app provider.
+Controllers and Bluetooth Devices
+Add, unpair, or update remotes and Bluetooth game
+controllers. View paired remote apps and third party
+remotes.
+Go to Fire TV Remote App Basics on page 29 to learn
+how to pair and update the Fire TV Remote App.
+Add and unpair supported Bluetooth accessories, such
+as headphones. Go to Connect a Bluetooth Accessory to
+Your Amazon Fire TV on page 34 for more information.
+Applications Manage Amazon GameCircle, Appstore, and install
+•
+application settings.
+Enable or disable GameCircle nickname sharing,
+•
+Whispersync for Games, Appstore automatic
+updates, and in-app purchases.
+force stop, clear data, clear cache, or uninstall
+•
+downloaded applications.
+11 Settings Basics
+Setting Description
+Note: If you clear data, the app will not be deleted;
+however, your saved information, such as game scores,
+may be lost.
+System Put your Amazon Fire TV device to sleep
+•
+Restart your device
+•
+View device information
+•
+Manage USB Storage
+•
+Change network or time zone settings
+•
+Disable app notifications (Quiet Time)
+•
+Check for software updates
+•
+Factory reset your device
+•
+Help
+Access help videos, quick tips, and Amazon customer
+service information.
+My Account
+Register or deregister your Amazon Fire TV device with
+your Amazon account. You can also select Sync
+Amazon Content to make sure your latest content
+purchases are available on your device.
+Figure 2: Video: Settings
+12 Register or Deregister Your Amazon Fire TV Device
+Register or Deregister Your Amazon Fire TV
+Device
+In order to use your Amazon Fire TV device, register it to your Amazon account.
+To register your device, connect it to the Internet. To learn more, go to Set Up a Wireless or Wired
+Connection on page 53.
+If you purchased your Amazon Fire TV device online from Amazon using your Amazon account, it should
+already be registered to you. If you purchased your Amazon Fire TV device from another retailer or
+received it as a gift, follow the on-screen instructions for entering your Amazon account information and
+password.
+To verify that your Amazon Fire TV device is registered to your Amazon account:
+1. From the Home screen, select Settings > My Account.
+• If no account is currently registered, select Register to register your Amazon Fire TV device to the
+desired Amazon account.
+• If you would like to register a different Amazon account, select the Amazon account that is currently
+registered, and then select Deregister.
+Related Help Topics
+Change Your 1-Click Settings
+Set Up a Wireless or Wired Connection on page 53
+13 Access & Remove Content
+Access & Remove Content
+Your Amazon Fire TV device can access Amazon and third-party apps, games, music, videos, and more,
+which are referred to as “content” throughout our Help pages. There are several ways to access and
+remove content from your Amazon Fire TV device.
+To find content, such as movies, TV shows, games, and apps, select a content type from the Main Menu
+on the Home screen.
+To access... Do this...
+Prime Instant Video Movies & TV shows Navigate to the Recently Added Prime Movies & TV or
+Top Prime Movies or TV listings.
+If you are a Prime member and a movie or TV show is
+eligible for Prime Instant Video, select the artwork of the
+video to watch it at no additional cost.
+Amazon Instant Video purchases or rentals From the Home screen, select Video Library. Your
+Video Library includes all the Amazon Instant Video
+movies and TV shows you’ve purchased and all active
+rentals. Once a rental period has expired, you will no
+longer see the video in your Video Library.
+Amazon Instant Videos to buy, rent, or watch later From the Home screen, select Watchlist. Your Watchlist
+is a list of Amazon Instant Video movies or TV shows you
+want to buy, rent, or watch later. After you buy or rent the
+movie or TV show, it is also available from your Video
+Library.
+Note: Content from third-party apps, such as Netflix and
+Hulu, cannot be added to your Watchlist or Video Library.
+Music From the Home screen, select Music to access all of the
+music in your Amazon Music Library.
+Note: You cannot browse or add Prime Music to your
+collection with your Amazon Fire TV device. Add Prime
+Music to your collection from the Amazon Music app on a
+supported device. You can also go to www.amazon.com/
+primemusic to add Prime Music to your library.
+Game Purchases From the Home screen, select Games. Your purchased
+games appear in Your Games Library. Your Games
+Library includes all the games you purchased from the
+Amazon Appstore.
+App Purchases From the Home screen, select Apps. Your purchased
+apps appear in Your Apps Library. Your Apps Library
+includes all the apps you purchased from the Amazon
+Appstore.
+14 Remove Content from Your Amazon Fire TV Device
+Remove Content from Your Amazon Fire TV
+Device
+If you have content that you no longer use, you can remove items from your Amazon Fire TV device. Any
+purchases made from Amazon are saved to the Cloud and can be downloaded again to your device.
+Note: Individual app settings or in-app items may be lost when removed from your Amazon Fire TV device.
+To remove content from... Do this...
+Watchlist From Watchlist, navigate to a movie or TV show, and
+then select Remove from Watchlist.
+Recently Watched sections From Movies or TV, navigate to a movie or TV show, and
+then select the Remove from Recently Watched.
+Video Library You cannot remove content from your Video Library
+using Amazon Fire TV device. The content you purchase
+is stored in the Cloud and can only be removed from 
+Manage Your Content and Devices (Amazon.com full
+site).
+Recent carousel On the Home screen, you’ll see personalized
+recommendations in the Recent section. The listings that
+display are based on your recent activity.
+To remove an item, navigate to the item and then select
+Remove from Recent.
+Note: You cannot remove Featured or Top content on
+the Home screen.
+Games or Apps Go to Buy, Download and Uninstall Games & Apps on
+page 72 for details.
+15 Set Up Parental Controls
+Set Up Parental Controls
+With Parental Controls, you can block purchases and restrict access to Amazon movies, TV shows,
+games, apps, photos, and more.
+Note: Parental controls do not restrict content in third-party applications. Parental controls for third-party applications
+are determined by the app provider.
+When entering the PIN, you will need to use an Amazon remote or the Fire TV Remote App. You cannot
+use a third-party remote.
+1. From the Home screen, select Settings, and then select Parental Controls.
+2. Using your remote, press the Select button to turn parental controls On or Off.
+3. Enter your Parental Controls PIN, and then select Next.
+Your PIN is the same PIN you use for other Amazon services such as Amazon Instant Video.
+Note: If you forget your PIN, go to Amazon Instant Video SettingsAmazon Instant Video Settings (Amazon.com full
+site)Amazon Instant Video Settings (https://www.amazon.com/video/settings) to reset your Parental Controls PIN.
+4. After you set a PIN, you can set one or more of the following settings:
+• Require a PIN for all purchases
+• Require a PIN for Amazon Instant Video only
+• Block the ability to view or purchase certain content types, such as games, apps, or photos
+• Change your Parental Controls PIN
+After you enable Parental Controls, most actions related to content viewing, purchasing, or changing
+settings will require you to enter your Parental Controls PIN.
+Related Help Topics
+Turn Off In-App Purchasing on page 76
+Set Up Your Amazon Instant Video PIN
+16 Use Your Voice to Search Amazon Fire TV Devices
+Use Your Voice to Search Amazon Fire TV
+Devices
+The Voice Search feature allows you to use your voice to search for movies, TV shows, apps, games, and
+more.
+To use your voice to search, you must have the Amazon Fire TV Voice Remote or the Fire TV Remote App
+installed on a compatible device. Voice search will not work with third-party voice-enabled remotes.
+Note: If you pair multiple voice remotes or remote apps with your Amazon Fire TV device at the same time, Voice
+Search will only work with the first paired remote.
+1.
+On your Amazon Fire TV Voice Remote, press and hold the   button.
+A microphone icon should appear on the screen, and you will see Listening...
+Tip: If you are using the Fire TV Remote App, press and hold the Voice   icon and drag down on the screen.
+2. Continue to hold the Voice button and say keywords related to the content items you want to search for
+(such as the title or genre), and then release the Voice button when you're done speaking.
+Your Amazon Fire TV device will search your content library, the Amazon stores, and any compatible
+apps for related content. The results will appear on your TV screen.
+Tip: To optimize your Voice Search experience, make sure you:
+Speak one to eight inches from the microphone
+Have one person speak at a time
+Reduce background noise
+Say a movie title, actor name, character name, or genre instead of full sentences or commands, as your
+Amazon Fire TV device does not support natural language commands.
+To search for videos that are included with Amazon Prime at no additional charge, add the phrase "Prime only"
+to a voice search.
+3. Use the directional track pad on the remote to review your search results, and then press the Select
+button to select an item.
+If you experience issues searching for content using voice input, press up on the remote to use Text
+Search to enter your search terms with the onscreen keyboard.
+Related Help Topics
+Voice Search FAQ
+Fire TV Remote App Basics on page 29
+17 Remote & Game Controller Basics
+Remote & Game Controller Basics
+Navigate and interact with your Amazon Fire TV device by pairing the included remote and optional game
+controllers.
+In This Section
+Remote Basics on page 19
+•
+Game Controller Basics on page 26
+•
+Pair a Remote or Game Controller on page 28
+•
+Compatible Remotes for Amazon Fire TV Devices on page 25
+•
+18 Remote Basics
+Remote Basics
+Your Amazon Fire TV device includes a wireless remote with a 5-way directional track pad that allows you
+to quickly and easily navigate your device.
+Before you can use the remote, you must install the 2 AAA batteries (included) and pair it with your
+Amazon Fire TV device.
+To pair a third party remote, go to Connect a Bluetooth Accessory to Your Amazon Fire TV on page 34.
+Controls and performance may vary.
+Amazon Fire TV Voice Remote (Front)
+Included with Amazon Fire TV.
+Amazon Fire TV Voice Remote (Back)
+To insert the 2 AAA batteries into the Amazon Fire TV Voice Remote:
+1. Firmly press down the latch on the back of the remote and lift upwards.
+19 Remote Basics
+Amazon Fire TV Voice Remote (Front)
+Note: It can take a considerable amount of pressure to open the battery door.
+2. Pull away the battery door.
+3. Insert two AAA Batteries.
+4. Slide the door back in place. Press down to secure.
+20 Remote Basics
+Amazon Fire TV Voice Remote (Front)
+Amazon Fire TV Remote (Front)
+Included with Fire TV Stick.
+Amazon Fire TV Remote (Back)
+To insert the 2 AAA batteries into the Amazon Fire TV Remote: 
+1. Rotate the Fire TV Remote so the top edge is facing downwards.
+21 Remote Basics
+Amazon Fire TV Remote (Front)
+2. Apply pressure on the indent of the battery door and slide upwards.
+Note: It can take a considerable amount of pressure to open the battery door.
+3. Pull away the battery door and insert 2 AAA batteries.
+22 Remote Basics
+Amazon Fire TV Remote (Front)
+4. Slide the door back into place and push in to secure.
+Button Description
+Voice Only available on the Amazon Fire TV Search for movies, TV shows, games, or apps using voice commands.
+Voice Remote Voice search uses two built-in microphones to search for items using
+your voice commands.
+Directional Navigation • Press right to move to the right on your TV screen. Moving to the
+right from the Main Menu allows you to access the content
+libraries or storefronts such as movies, TV, games, apps, photos,
+and more.
+• Press left to move to the left on your TV screen. Moving to the left
+allows you to return to the Main Menu from any content library or
+storefront.
+• Press up to move up and press down to move down.
+Select Select an item, function, or category.
+Home Returns you to the Home screen from any screen on your Amazon
+Fire TV device.
+Tip: Quickly access various features with the Quick Access Menu. To
+open it, press and hold the Home button on your Amazon remote.
+Menu Presents various functions and settings depending on which screen
+you are accessing.
+Back Returns you to the previous screen or action.
+23 Remote Basics
+Button Description
+Rewind Media control buttons let you rewind, play, pause, and fast-forward
+video.
+Press the rewind or forward button once to skip 10 seconds backward
+or forward. Press and hold the rewind or forward button to continue
+Play/pause
+navigating backward or forward in the video. Additional presses allow
+you to cycle through the available speed options.
+Fast Forward
+24 Compatible Remotes for Amazon Fire TV Devices
+Compatible Remotes for Amazon Fire TV
+Devices
+You can control your Amazon Fire TV device with any of these remotes:
+Amazon Fire TV Voice Remote
+•
+Fire TV Remote App on Fire phone, Fire Tablets, iOS devices (7.0 and higher) and Android devices
+•
+(4.0 and higher)
+Amazon Fire Game Controller (sold separately)
+•
+USB or Bluetooth keyboard
+•
+Some third party Bluetooth game controllers
+•
+Some third-party Bluetooth remotes
+•
+Some third-party wireless USB receivers/remotes
+•
+To learn more about supported game controllers, visit https://www.amazon.com/mfkcontrollers.
+Related Help Topics
+Use Your Voice to Search Amazon Fire TV Devices on page 17
+Fire TV Remote App Basics on page 29
+25 Game Controller Basics
+Game Controller Basics
+The Amazon Fire Game Controller (sold separately) is a wireless game controller that can be used to play
+games and access GameCircle with your Amazon Fire TV device. The Amazon Fire Game Controller can
+also be used as a remote, allowing you to access your movies, TV shows, games, and apps.
+Before you can use the Amazon Fire Game Controller, you must install 2 AA batteries and pair it with your
+Amazon Fire TV device. As soon as you install the 2 AA batteries, the controller is immediately
+“discoverable” by your Amazon Fire TV. If your Amazon Fire Game Controller isn’t discovered, press the
+Home button on the controller for at least five seconds, and then release it.
+Note: The Amazon Fire Game Controller is not shipped with Amazon Fire TV devices and is not compatible with all
+games.
+To see which controllers are compatible with a game, navigate to a game and then select More Info. On
+the overview page, you’ll find the controller information in the Works With box. When searching for games
+and apps, you can also filter the search results by:
+All
+•
+Fire TV Remote
+•
+Tablet Games on Fire TV
+•
+Fire TV Game Controller
+•
+Many third-party Bluetooth game controllers work with Amazon Fire TV devices. To learn more about
+compatible game controllers, visit www.amazon.com/mfkcontrollers.
+Button Description
+Back Returns you to the previous screen or action.
+Home Returns you to the Home screen from any screen on Amazon Fire TV.
+26 Game Controller Basics
+Button Description
+Amazon GameCircle Access your GameCircle dashboard while in a game, or access your
+Games Library.
+Menu View and manage your Amazon Fire TV apps, controllers, and more.
+Play / Pause / Fast Forward / Rewind These buttons are mainly used for gaming. Their specific features may
+change depending on the game being played.
+Y, X, A, B
+Tablet Games on Fire TV:
+Left and right shoulder and trigger
+buttons These games require an Amazon Fire Game Controller or an Xbox
+360 controller with a wireless USB receiver to be played.
+• Left joystick: Move "mouse" pointer
+• A button: A single tap or click
+• B button: Back (if available)
+• Left shoulder button: Decrease cursor speed
+• Right shoulder button: Increase cursor speed
+Status Lights LED indicators at the front of the controller light up when the remote is
+on to indicate what player number the controller has been assigned (if
+the game uses player numbers).
+Figure 3: Video: Games and Apps
+Related Help Topics
+Pair a Remote or Game Controller on page 28
+About GameCircle on page 77
+27 Pair a Remote or Game Controller
+Pair a Remote or Game Controller
+You can pair your Amazon Fire TV device with Amazon Fire TV remotes, game controllers, and some
+compatible third-party Bluetooth controllers. Up to seven of these devices may be connected at a time.
+Note: If you're setting up your included Amazon remote for the first time, simply insert the two included AAA batteries
+into the remote, and it will be automatically paired with your Amazon Fire TV device. For details, go to Set Up Amazon
+Fire TV Hardware on page 51. If your remote isn't discovered, press the Home button for at least five seconds, and
+then release it.
+If you're setting up a third-party Bluetooth remote, go to Connect a Bluetooth Accessory to Your Amazon
+Fire TV on page 34.
+Pair an Additional or Replacement Remote
+Before you pair an Amazon remote, verify that the remote is compatible with your Amazon Fire TV device,
+is within range, and has the required batteries installed.
+1. From the Home screen, select Settings.
+2. Select Controllers > Fire TV Remotes > Add New Remote.
+3. Press and hold the Home button on your remote for five seconds.
+Your Amazon Fire TV device searches for the wireless signal of the remote. After the remote or game
+controller is discovered, select it from the list of discovered devices using your already paired, existing
+remote or game controller.
+Pair a Game Controller
+Before you pair a game controller, verify that the game controller is compatible with your Amazon Fire TV
+device, is within range, and has the required batteries installed.
+To see which controllers are compatible with a game, navigate to a game, and then select More Info. On
+the overview page, you’ll find the controller information in the Works With box. Many third-party Bluetooth
+game controllers work with your Amazon Fire TV device. To learn more about compatible game controllers,
+visit www.amazon.com/mfkcontrollers.
+Note: Amazon Fire TV supports Xbox 360 controllers through a wireless USB receiver. Use a wireless USB receiver to
+connect up to four controllers. See manufacturer instructions for connecting to a wireless receiver.
+1. From the Home screen, select Settings.
+2. Select Controllers > Bluetooth Gamepads > Add Bluetooth Gamepads.
+3. Press and hold the Home button on your game controller for five seconds.
+Your Amazon Fire TV device searches for the wireless signal of the game controller. After the game
+controller is discovered, select it from the list of discovered devices using your already paired, existing
+remote or game controller.
+Having trouble?
+Can't Pair a Remote or Game Controller on page 43
+28 Fire TV Remote App Basics
+Fire TV Remote App Basics
+Use your compatible smartphone or tablet as a remote for your Amazon Fire TV device.
+In This Section
+Fire TV Remote App Basics on page 30
+•
+Download & Pair the Fire TV Remote App on page 32
+•
+29 Fire TV Remote App Basics
+Fire TV Remote App Basics
+Use the Fire TV Remote App as an alternate way to navigate and use voice search on your Amazon Fire
+TV device.
+Before you use the Fire TV Remote App, connect the device with the app to the same Wi-Fi network as
+your Amazon Fire TV device and pair the app with your device. To learn more, go to Download & Pair the
+Fire TV Remote App on page 32
+To Do This... Try This
+Voice search 1.
+Press and hold the Voice  icon at the top of the screen, then
+drag down. Don’t release the icon until you’re done speaking.
+2. Say keywords related to the content items you want to search for
+(such as the title or genre).
+To learn more, go to Use Your Voice to Search Amazon Fire TV
+Devices on page 17.
+Navigate menu items and categories To move the selection…
+• Up: Swipe from the middle to the top
+• Down: Swipe from the middle to the bottom
+• Left: Swipe from the middle to the left
+• Right: Swipe from the middle to the right
+• Scroll: Swipe and hold to a specific direction
+Select an item Tap the device screen
+Use navigation options: At the bottom of the screen, tap any of the navigation icons.
+Tip: Quickly access various features with the Quick Access Menu. To
+Home open it, press and hold the Home button on your Amazon remote.
+Make sure you are on the latest version of the Fire TV Remote App.
+Menu
+Back
+Enter text with a keyboard (may not be 1. Select the keyboard icon in the top right corner of the screen.
+available in third party apps, such as Netflix)
+2. Enter text.
+3. Tap Done to close the keyboard.
+Access media controls: 1. Swipe up from the bottom of the screen.
+2. Select Rewind, Pause, or Skip.
+Rewind
+Play/pause
+30 Fire TV Remote App Basics
+To Do This... Try This
+Fast Forward
+Note: The Fire TV Remote App is not designed to play games. Some games might work, but performance will vary.
+The app does not currently support Second Screen or Display Mirroring. For more information, go to Use an Amazon
+Fire TV Device with a Second Screen Device on page 67 and Use an Amazon Fire TV Device as a Display Mirroring
+Destination on page 66.
+31 Download & Pair the Fire TV Remote App
+Download & Pair the Fire TV Remote App
+Download the Fire TV Remote App to your compatible mobile device and pair it with your Amazon Fire TV
+device to use it as an alternate remote.
+Compatibility
+The Fire TV Remote App is available on:
+Amazon Fire phone
+•
+Fire Tablets (with a microphone)
+•
+Android 4.0 or higher
+•
+iOS 7.0 or higher
+•
+The app is compatible with Amazon Fire TV on software version 1.4.1 or higher. If you use advanced
+settings on your router, you must enable Multicast support to use the Fire TV Remote App. Contact your
+router manufacturer for details.
+Download
+The app is available for download at these locations:
+Amazon Appstore
+•
+Apple Store
+•
+Google Play Store
+•
+To download the Fire TV Remote App, go to your preferred appstore from any compatible device and
+search for "Amazon Fire TV Remote App." Follow the onscreen instructions to complete the installation.
+Pair
+To pair the Fire TV Remote App with your Amazon Fire TV device:
+1. Connect to the same Wi-Fi network as your Amazon Fire TV device.
+2. Launch the app and select the Amazon Fire TV device you want to pair with.
+3. In the app, enter the code that is displayed on your TV screen. The app is now paired.
+To see all of the remote apps that are paired with your Amazon Fire TV device, go to Settings >
+Controllers and Bluetooth Devices > Fire TV Remotes.
+Note: Once you pair the Fire TV Remote App with your Amazon Fire TV device, you cannot unpair it. However, if you
+factory reset your Amazon Fire TV device, all paired devices will be removed. To block access to a paired device, you
+can also change your Wi-Fi network password.
+Having trouble?
+Can't Pair the Fire TV Remote App on page 47
+32 Bluetooth & USB Basics
+Bluetooth & USB Basics
+You can connect some USB and Bluetooth accessories to your Amazon Fire TV. These devices are not
+compatible with Fire TV Stick.
+In This Section
+Connect a Bluetooth Accessory to Your Amazon Fire TV on page 34
+•
+Attach USB Storage to Amazon Fire TV on page 35
+•
+Compatible Bluetooth Accessories for Amazon Fire TV on page 36
+•
+About USB Storage for Amazon Fire TV on page 37
+•
+Remove USB Storage from Amazon Fire TV on page 38
+•
+Connect a USB Device to Amazon Fire TV on page 39
+•
+Use a Keyboard or Mouse with Amazon Fire TV on page 40
+•
+33 Connect a Bluetooth Accessory to Your Amazon Fire TV
+Connect a Bluetooth Accessory to Your
+Amazon Fire TV
+You can connect some Bluetooth accessories, like a keyboard, mouse, or headphones, to your Amazon
+Fire TV.
+Before you begin, make sure your Amazon Fire TV and compatible Bluetooth accessory are turned on and
+within five feet of each other. To connect your compatible Bluetooth accessory, we recommend using a
+wired Ethernet connection or a 5GHz Wi-Fi network. To switch from a wireless to wired network go to Set
+Up a Wireless or Wired Connection on page 53 .
+For more information about what kind of accessories you can use, go to Compatible Bluetooth Accessories
+for Amazon Fire TV on page 36
+To connect a compatible Bluetooth accessory:
+1. Go to Settings > Controllers and Bluetooth Devices > Other Bluetooth Devices.
+2. Select Add Bluetooth Devices.
+3. Put your Bluetooth accessory into pairing mode. Refer to the manual for your Bluetooth accessory for
+instructions.
+4. Select your compatible Bluetooth accessory from the list. Your Bluetooth accessory is now connected
+and paired with your Amazon Fire TV.
+Note: On some Bluetooth accessories, you'll be asked to enter a code that appears on your Amazon Fire TV
+device.
+To disconnect, turn off your Bluetooth accessory or on the Other Bluetooth accessories screen, press
+Select for the device you want to disconnect.
+Tip: Information about previously paired devices is saved, so you can easily reconnect the Bluetooth accessory. To
+reconnect your paired device in the future, turn on the Bluetooth accessory, go to Settings > Controllers and
+Bluetooth Devices > Other Bluetooth Devices, and select your paired input device.
+Having Trouble?
+Can't Connect a Bluetooth Accessory to Amazon Fire TV on page 48
+34 Attach USB Storage to Amazon Fire TV
+Attach USB Storage to Amazon Fire TV
+If you are running out of space on your Amazon Fire TV, attach a USB flash drive for more space to install
+games and apps.
+Go to About USB Storage for Amazon Fire TV on page 37 for information about compatibility and stored
+content management.
+1. Insert the compatible USB device into the USB port on the back of the Amazon Fire TV.
+2. Your Amazon Fire TV provides information about compatible devices. If your device is not compatible,
+select Eject. Otherwise, select Continue.
+3. If your USB device is not formatted to the compatible file format, FAT32, you can format your device.
+This will permanently erase all data from your USB drive.
+Select Format USB Drive to continue or Cancel to safely eject your USB device. Then confirm the
+formatting again.
+4. Your Amazon Fire TV then scans for any installed Fire TV apps and notifies you when the scan is
+complete .
+Note: You cannot move USB storage with Fire TV games and apps to another Amazon Fire TV device.
+Related Topics
+Remove USB Storage from Amazon Fire TV on page 38
+35 Compatible Bluetooth Accessories for Amazon Fire TV
+Compatible Bluetooth Accessories for Amazon
+Fire TV
+Your Bluetooth accessory must have a compatible profile to pair with your Amazon Fire TV.
+Note:
+• On Fire TV Stick, you can only connect compatible Bluetooth game controllers. See Pair a Remote or Game
+Controller on page 28 for more info.
+• You can have up to seven Bluetooth accessories and Amazon remotes actively connected to your Amazon Fire TV
+at any time.
+• If you are trying to display your mobile device screen on your Amazon Fire TV, go to Use an Amazon Fire TV
+Device as a Display Mirroring Destination on page 66. You cannot connect your phone to Amazon Fire TV using
+Bluetooth.
+• Bluetooth microphones, microphone-enabled headsets, and low energy (also known as Bluetooth Smart) devices
+are not supported.
+Compatible Bluetooth Profile Description
+Advanced Audio Distribution Streams audio to compatible Bluetooth headphones. Only one pair of Bluetooth
+Profile (A2DP) headphones can be connected to Amazon Fire TV at any time.
+Human Interface Device Supports external accessories, such as:
+Profile (HID)
+• Keyboards
+• Some third-party remote
+• Wireless mice
+Note: Mice and keyboards can be used in a limited number of games and apps. Go
+to Use a Keyboard or Mouse with Amazon Fire TV on page 40.
+Serial Port Profile (SPP) Supports external accessories, such as wireless game controllers. Go to Pair a
+Remote or Game Controller on page 28 for more information.
+36 About USB Storage for Amazon Fire TV
+About USB Storage for Amazon Fire TV
+Compatible external storage devices, the type of content that can be stored, and how it's managed..
+You can use the USB port on your Amazon Fire TV to connect extra storage for games and apps. Movies,
+music, and photos are streamed to your device, so no extra storage is needed . You cannot access any
+media that you side-loaded onto the USB device.
+USB Storage Requirements
+Component Requirement
+Drive Type Flash drive
+USB Version 3.0
+Size 128 GB or smaller
+File Format FAT 32
+Go to www.amazon.com/firetvstorage for a list of supported devices.
+With USB storage attached, some games and apps will automatically install on the USB device, while
+others will install on-device. However, you can manually select specific games and apps to move to USB
+storage:
+1. Go to Settings > Applications > Manage Installed Applications.
+2. Select the app you want to move and then Move to USB Storage.
+Note: Some critical apps, like Amazon Appstore, cannot be moved to USB storage. Every game and app will use a
+small amount of space on your Amazon Fire TV internal storage, even if it is stored on your USB storage. You cannot
+move USB storage with Fire TV games and apps to another Amazon Fire TV device.
+37 Remove USB Storage from Amazon Fire TV
+Remove USB Storage from Amazon Fire TV
+Do not remove USB storage from your Amazon Fire TV without ejecting first.
+Note: If you remove USB storage from your Amazon Fire TV without following these steps, any files or apps on the
+USB device could become corrupted and unusable.
+To safely remove USB storage, you need to "eject" it from your Amazon Fire TV first:
+1. Select Settings > System > USB Storage.
+2. Select Eject.
+You are notified of any apps that are on the USB device and will no longer be available after you
+remove the USB device.
+3. Confirm by selecting Eject again. Wait for a confirmation message to safely remove the USB storage
+device.
+38 Connect a USB Device to Amazon Fire TV
+Connect a USB Device to Amazon Fire TV
+You can connect some USB devices to your Amazon Fire TV using the USB port.
+Go to About USB Storage for Amazon Fire TV on page 37 for more information about using USB storage
+devices.
+Compatible Devices
+Compatible USB storage devices
+•
+Xbox 360 wireless gaming receiver
+•
+Wired gamepads (not connected with a USB charger)*
+•
+Flirc USB Dongle (connects some third-party IR remotes)
+•
+Wireless mouse with USB dongle*
+•
+Wireless Keyboard with USB dongle*
+•
+*Perfomance will vary
+To use your compatible USB device with your Amazon Fire TV:
+1. Insert the USB device or into the USB port on the back of the Amazon Fire TV.
+2. See device manual for further instructions if necessary.
+Note: Support for USB devices will vary in third-party apps.
+Related Topics
+Attach USB Storage to Amazon Fire TV on page 35
+Use a Keyboard or Mouse with Amazon Fire TV on page 40
+39 Use a Keyboard or Mouse with Amazon Fire TV
+Use a Keyboard or Mouse with Amazon Fire
+TV
+Your Bluetooth device must have a compatible profile to pair with your Amazon Fire TV.
+Note: You cannot connect a keyboard or mouse to Fire TV Stick.
+Keyboard Controls
+Key Action
+Up Arrow Menu Navigation
+Down Arrow Menu Navigation
+Left Arrow Menu Navigation
+Media Playback
+• Short press to skip back 10 seconds
+• Long press to rewind
+Right Arrow Menu Navigation
+Media Playback
+• Short press to skip ahead 10 seconds
+• Long press to fast forward
+Space Bar Media Playback
+• Play/Pause
+Enter Select
+Keyboard characters Search or text input. Not supported in all apps.
+Note: Some keyboards have dedicated media controls. Performance will vary.
+Mouse Controls
+A mouse cannot be used to navigate on Amazon Fire TV. However, it can be used in the following types of
+apps:
+Tablet Games on Fire TV
+•
+Key Action
+Left Button A single tap
+Mouse Movement Move the pointer within the app
+40 Quick Fixes
+Quick Fixes
+Get quick help setting up your Amazon Fire TV device.
+In This Section
+Can't Connect to Wi-Fi on page 42
+•
+Can't Pair a Remote or Game Controller on page 43
+•
+Video Issues on Your Amazon Fire TV Device on page 44
+•
+Basic Troubleshooting for Amazon Fire TV Devices on page 45
+•
+Can't Pair the Fire TV Remote App on page 47
+•
+Can't Connect a Bluetooth Accessory to Amazon Fire TV on page 48
+•
+41 Can't Connect to Wi-Fi
+Can't Connect to Wi-Fi
+If you can't connect to a Wi-Fi network from Amazon Fire TV device, check that your wireless connection is
+turned on.
+Check this first:
+• Connect your Amazon Fire TV device to one of these network or router types:
+• Open, WEP, WPA-PSK, and WPA2-PSK encrypted networks
+• B, G, and N routers on 2.4Ghz
+• A and N routers on 5Ghz
+• Hidden networks
+• Enable wireless connectivity on your Amazon Fire TV device. From the Home screen, select Settings >
+System > Wi-Fi.
+• Make sure you know your network password (if required). If you see a lock icon, a network password is
+required. This password is not your Amazon account password.
+• Make sure your Internet connection is not down. Restart your router and modem to solve most Wi-Fi
+network issues.
+• Do not place your wireless router or Amazon Fire TV device in a cabinet, as it impacts your Wi-Fi signal
+strength.
+Still having trouble?
+Restart your Amazon Fire TV device. Disconnect the power cord from your Amazon Fire TV device for
+•
+three seconds, and then plug the power cord back in.
+Tip: You can also restart your Amazon Fire TV device with your remote. Press and hold the Select button and the Play
+button at the same time until the Amazon Fire TV device restarts (about five seconds). Or go to Settings > System >
+Restart.
+Related Help Topics
+Set Up a Wireless or Wired Connection on page 53
+42 Can't Pair a Remote or Game Controller
+Can't Pair a Remote or Game Controller
+If you can't pair your Amazon Fire TV remote or wireless game controller, it may not be within range or
+compatible.
+If you're having problems with a third-party Bluetooth remote, go to Can't Connect a Bluetooth Accessory
+to Amazon Fire TV on page 48.
+Check this first:
+• Amazon Fire TV devices are compatible with the Amazon Fire TV Voice Remote, Amazon Fire Game
+Controller, and many Bluetooth-enabled third-party wireless game controllers. To learn more, go to Fire
+TV Accessories.
+• If you have more than seven connected remotes or actively connected Bluetooth devices, turn one off.
+• Do not place Amazon Fire TV in a cabinet, as it impacts signal strength to your remotes and game
+controllers.
+• Your remote must be within 30 feet of Amazon Fire TV device.
+• Re-install the batteries. You have five minutes to pair your remote with your Amazon Fire TV device
+before it goes into sleep mode.
+• If your remote isn’t discovered, press the Home button for 5 - 10 seconds.
+Still having trouble?
+Restart your Amazon Fire TV device. Disconnect the power cord from your Amazon Fire TV device for
+•
+three seconds, and then plug the power cord back in.
+Tip: You can also restart your Amazon Fire TV device with your remote. Press and hold the Select button and the Play
+button at the same time until the Amazon Fire TV device restarts (about five seconds). Or go to Settings > System >
+Restart.
+43 Video Issues on Your Amazon Fire TV Device
+Video Issues on Your Amazon Fire TV Device
+You can clear application data to resolve many intermittent video playback issues (such as "Error 13") on
+Amazon Fire TV.
+Note: When you clear application data, it won't delete the app; however, for non-Amazon video apps (such as Netflix),
+account information may need to be re-entered.
+• Clear Amazon Instant Video Application Data
+To clear application data from the Amazon Instant Video app:
+a. From the Home screen, select Settings.
+b. Select Applications > Manage All Installed Applications > Amazon Video.
+c. Select Force Stop, and then select Clear Data.
+d. When prompted to Delete App Data, select Clear Data again.
+• Clear Application Data for Other Video Apps
+To clear application data for other video apps installed on your device:
+a. From the Home screen, select Settings.
+b. Select Applications > Manage All Installed Applications.
+c. Select the application you want to modify.
+d. Select Force Stop, and then select Clear Data.
+e. When prompted to Delete App Data, select Clear Data again.
+After you clear the application data, restart your Amazon Fire TV device. Remove the power cord from the
+device or from the power outlet, and then plug it back in . You should then be able to watch your video.
+Tip: You can also restart your Amazon Fire TV device with your remote. Press and hold the Select button and the Play
+button at the same time until the Amazon Fire TV device restarts (about five seconds). Or go to Settings > System >
+Restart.
+44 Basic Troubleshooting for Amazon Fire TV Devices
+Basic Troubleshooting for Amazon Fire TV
+Devices
+Try these troubleshooting steps for resolving issues like a frozen screen, app errors, or problems with
+content such as movies, TV shows, games, and apps.
+Take Action: Many issues with your Amazon Fire TV device can be solved by simply restarting your
+device. Disconnect the power cord from your device for three seconds, and then plug the power cord back
+in.
+Tip: You can also restart your Amazon Fire TV device with your remote. Press and hold the Select button and the Play
+button at the same time until the Amazon Fire TV device restarts (about five seconds). Or go to Settings > System >
+Restart.
+Issue... Try this...
+There is video but no sound • Make sure the TV audio is not muted.
+• If the Amazon Fire TV device is connected to an AV
+receiver, make sure it is on.
+• From the Home screen, go to Settings > Display And
+Sounds > Dolby Digital Output and make sure Dolby
+Digital Plus is set to OFF.
+• Try a different HDMI cable between the device and the TV
+or, if unavailable, unplug and replug in HDMI cable.
+The Amazon Fire TV device is on, but nothing is • Make sure the TV is on and set to the correct channel and/
+on the screen or HDMI input.
+• Try a different HDMI cable between the device and the TV
+or, if unavailable, unplug and replug in HDMI cable.
+• If the Amazon Fire TV device is connected through an A/V
+receiver, connect it directly to the TV.
+• Disconnect other devices from your TV's HDMI ports.
+• Try setting the TV to a different resolution (1080P or
+720P).
+• On the remote, press Up and Rewind together for 5
+seconds. The Amazon Fire TV device will cycle through
+the possible output resolutions, starting with 1080p and
+working its way down to 480p, pausing at each resolution
+for 10 seconds. On the Amazon Fire TV, the indicator light
+will blink yellow. If you see the correct resolution, select
+Use Current Resolution.
+Problems purchasing or accessing content • Confirm that your Amazon Fire TV device is connected to
+the Internet. An Internet connection is required to buy,
+stream, and sync your content.
+• Verify that you are connected to the Internet by visiting
+Home, select Settings > System > Wi-Fi..
+45 Basic Troubleshooting for Amazon Fire TV Devices
+Issue... Try this...
+• Verify that your 1-Click payment method is set up
+correctly. To learn more, go to Change Your 1-Click
+Settings.
+Movies, photos, or purchased content not Verify that your Amazon Fire TV device is registered to the
+showing correct Amazon account.
+To verify your registration, go to the Home screen, select
+Settings > My Account . If you see the wrong account listed,
+select Deregister. Then select Register to register the correct
+account.
+Specific app issues 1. From the Home screen, select Settings > Applications >
+Manage All Installed Applications.
+2. Select the application you want to modify. You can now :
+• Change settings
+• Move the app between internal and USB storage
+(Amazon Fire TV only)
+• Clear data
+• Clear cache
+• Force stop
+• Uninstall the application
+Note: If you clear data, it won't delete the app; however, saved
+information such as game scores or account information may
+be lost or need to be re-entered.
+Forgot Amazon Instant Video PIN 1. Go to Amazon Instant Video SettingsAmazon Instant
+Video Settings (Amazon.com full site)Amazon Instant
+Video Settings (https://www.amazon.com/video/settings).
+2. In the Your Amazon Instant Video PIN section, type a 5-
+digit number to set up your PIN, or click View/Edit Your
+PIN to change your current PIN.
+Can't Access USB Storage 1. Make sure you are using a supported USB device. Go to 
+About USB Storage for Amazon Fire TV on page 37.
+2. Eject the USB storage. Go Settings > System > USB
+Storage > Eject. Wait for the confirmation before safely
+removing the device.
+3. Remove the USB device and plug it back in.
+Figure 4: Video: Troubleshooting
+46 Can't Pair the Fire TV Remote App
+Can't Pair the Fire TV Remote App
+If you can't pair your Fire TV Remote App, or if the app stops working, check your Wi-Fi network
+connection.
+Check this first:
+• Make sure the device with the Fire TV Remote App is connected to the same Wi-Fi network as your
+Amazon Fire TV device.
+• Make sure another device isn't currently display mirroring to your Amazon Fire TV device, as this will
+prevent the Fire TV Remote App from pairing.
+• If you have advanced settings set up on your Wireless router, make sure Multicast support is enabled.
+• If you used advanced settings on your Wireless router to manually assign a static IP address to your
+Amazon Fire TV device, set the IP address to automatic.
+• You can have up to seven Bluetooth accessories and Amazon remotes actively connected to your
+Amazon Fire TV at any time. Disconnect unused devices.
+Still having trouble?
+Restart your Amazon Fire TV device. Disconnect the power cord from your Amazon Fire TV device for
+•
+three seconds, and then plug the power cord back in.
+On the device with the app, clear the application data for the Fire TV Remote app. On Android devices,
+•
+go to Settings > Apps > Fire TV > Clear data. For Fire phone, go to Basic Troubleshooting for Fire
+Phone for instructions on clearing application data.
+Reboot the mobile device and then open the app again.
+•
+Tip: You can also restart your Amazon Fire TV device with your remote. Press and hold the Select button and the Play
+button at the same time until the Amazon Fire TV device restarts (about five seconds). Or go to Settings > System >
+Restart.
+47 Can't Connect a Bluetooth Accessory to Amazon Fire TV
+Can't Connect a Bluetooth Accessory to
+Amazon Fire TV
+Try these troubleshooting steps if you can't connect your Bluetooth accessory to your Amazon Fire TV.
+Check this first
+• Make sure your Bluetooth accessory is compatible with your Amazon Fire TV.
+Go to go to Compatible Bluetooth Accessories for Amazon Fire TV on page 36.
+• Do not place Amazon Fire TV in a cabinet, as it impacts signal strength to Bluetooth accessories.
+• Unpair your Bluetooth accessory from other previously paired devices, like desktop computers or
+mobile devices.
+• Only pair one device at a time.
+• You can have up to seven Bluetooth accessories and Amazon remotes actively connected to your
+Amazon Fire TV at any time. Disconnect unused devices.
+• Change the batteries or fully charge your compatible Bluetooth accessory.
+• If your Amazon Fire TV is connected to Wi-Fi, we recommend using a 5GHz wireless connection for
+using Bluetooth accessories.
+• If available, switch your Amazon Fire TV to a wired Ethernet connection.
+• If the audio in your Bluetooth headphones is out of sync, put your Amazon Fire TV to sleep and wake it
+up. Press and hold the Home button and then select Sleep.
+Still having trouble?
+• If your Bluetooth accessory was previously paired, unpair it. Go to Settings > Controllers and
+Bluetooth Devices > Other Bluetooth Devices. Select your previously paired device and then the
+Menu button to unpair. Then, pair the Bluetooth accessory again.
+Restart your Amazon Fire TV device. Disconnect the power cord from your Amazon Fire TV device for
+•
+three seconds, and then plug the power cord back in.
+Tip: You can also restart your Amazon Fire TV device with your remote. Press and hold the Select button and the Play
+button at the same time until the Amazon Fire TV device restarts (about five seconds). Or go to Settings > System >
+Restart.
+48 Set Up Your Amazon Fire TV Device
+Set Up Your Amazon Fire TV Device
+To set up your Amazon Fire TV device, you need an Amazon account, Internet connection, high-definition
+TV, and an HDMI cable.
+In This Section
+Get Started with Amazon Fire TV on page 50
+•
+Set Up Amazon Fire TV Hardware on page 51
+•
+Set Up a Wireless or Wired Connection on page 53
+•
+Connect Your Amazon Fire TV Device to a Public Wi-Fi Network on page 54
+•
+49 Get Started with Amazon Fire TV
+Get Started with Amazon Fire TV
+To use Amazon Fire TV, you need the following:
+Amazon account
+•
+You need an Amazon account to access movies, TV shows, games, and apps on Amazon Fire TV.
+Internet Connection (not included)
+•
+You can use a wired or wireless connection to buy, download, and stream content on Amazon Fire TV.
+High-definition TV (not included)
+•
+Amazon Fire TV is compatible with high-definition TVs with HDMI.
+HDMI cable (not included)
+•
+Use the HDMI cable to connect Amazon Fire TV to your high-definition TV. Amazon Fire TV supports
+HDMI A Male to A Male cables.
+Amazon Fire TV equipment
+•
+Amazon Fire TV device
+Amazon Fire TV Voice Remote (wireless, voice-enabled)
+2 AAA batteries
+Power cord
+50 Set Up Amazon Fire TV Hardware
+Set Up Amazon Fire TV Hardware
+After you unpack your Amazon Fire TV and remote, you will need to connect Amazon Fire TV to your high-
+definition TV and set up the remote.
+Before you begin, locate the 2 AAA batteries (included) for the Amazon Fire TV Voice Remote and the
+HDMI cable. You’ll use the HDMI cable (not included) to connect Amazon Fire TV to your TV.
+1. Plug one end of the HDMI cable into the back of the Amazon Fire TV device, and then plug the other
+end into the HDMI port on your TV.
+Note: If your TV has more than one HDMI port, remember the number of the port into which you plugged the cable.
+2. Plug one end of the included power cord into the back of the Amazon Fire TV device, and then plug the
+other end into a power outlet.
+3. Turn on your TV and select the applicable HDMI input.
+4. Insert the 2 AAA batteries into the Amazon Fire TV Voice Remote:
+Note: It can take a considerable amount of pressure to open the battery door.
+a. Firmly press down the latch on the back of the remote, and lift upwards.
+b. Pull away the battery door.
+51 Set Up Amazon Fire TV Hardware
+c. Insert two AAA Batteries.
+d. Replace the battery door.
+5. After you insert the batteries, the Amazon Fire TV Voice Remote automatically becomes “discoverable”
+and will automatically pair with your Amazon Fire TV. If your remote isn’t discovered, press the Home
+ button for at least five seconds, and then release it.
+Figure 5: Video: Set Up
+Related Help Topics
+Amazon Fire TV Device Basics on page 4
+Remote & Game Controller Basics on page 18
+Basic Troubleshooting for Amazon Fire TV Devices on page 45
+52 Set Up a Wireless or Wired Connection
+Set Up a Wireless or Wired Connection
+Amazon Fire TV supports wireless or wired Internet connections. Connect your Amazon Fire TV device to
+the Internet to access movies, TV shows, games, and apps.
+For information about connecting to a public Wi-Fi network, such as a hotel or school, go to Connect Your
+Amazon Fire TV Device to a Public Wi-Fi Network on page 54.
+Tip:
+• For optimal wireless performance, do not place your Amazon Fire TV in an enclosed cabinet, as it impacts signal
+strength to the device, remote, and game controllers.
+• For Amazon Fire TV, if you are switching from a wired to a wireless connection, disconnect the Ethernet cable
+from your Amazon Fire TV device before switching to a wireless connection.
+• Wireless Network Connection:
+a. From the Home screen, select Settings > System > Wi-Fi.
+Your Amazon Fire TV device automatically detects nearby Wi-Fi networks that broadcast their
+network name. Some networks are open for everyone to join, while others require a password to
+connect.
+b. Under Available Networks, select a wireless network and enter the network password (if required)
+using the onscreen keyboard.You can also use the keyboard in the Fire TV Remote App.
+Note: If you don’t see your desired network, scroll down and select Join Other Network or Rescan.
+c.
+After you connect to a wireless network, press the Home   button to display the Home screen.
+• Wired Network Connection :
+a. Connect one end of an Ethernet cable (not included) to the back of your Amazon Fire TV, and then
+connect the other end to your router.
+b. From the Home screen, select Settings > System. Next to Network, you will see Wired.
+c.
+After you connect to a wired network, press the Home   button to display the Home screen.
+Having trouble?
+Can't Connect to Wi-Fi on page 42
+53 Connect Your Amazon Fire TV Device to a Public Wi-Fi Network
+Connect Your Amazon Fire TV Device to a
+Public Wi-Fi Network
+Connect to public Wi-Fi networks like hotels and schools that require a browser sign in.
+If you are traveling or using a Wi-Fi connection that requires a web browser to sign in, you can still connect
+your Amazon Fire TV device.
+1. From the Home screen, select Settings > System > Wi-Fi.
+2. Under Available Networks, select the public Wi-Fi network. For networks that require a web page to
+log in, a browser window will pop up after several seconds.
+Note: In the browser pop-up, you can only access the sign in page for the public Wi-Fi network.
+3.
+Follow the onscreen instructions to use your Amazon remote to select input fields. Press the Menu 
+button to enter cursor mode to select links or input fields. An onscreen keyboard will pop up for text
+fields.
+4. Enter in the required information. This could be a pre-shared password, room number, or just a button
+to accept conditions for using the network. Contact the network owner for more information.
+5. After your device connects to the network, the browser window closes automatically.
+Note:
+Note: : Internet speeds will vary on public Wi-Fi networks and could impact performance for your Amazon Fire TV
+device.
+Related Topics
+Set Up a Wireless or Wired Connection on page 53
+54 Amazon FreeTime
+Amazon FreeTime
+With Amazon FreeTime, you can choose content you've purchased to create a personalized experience for
+each of your children on your Amazon Fire TV, giving you complete control over what content each child
+can access.
+In This Section
+Set Up Amazon FreeTime on page 56
+•
+Add or Edit an Amazon FreeTime Profile on page 57
+•
+Using an Amazon FreeTime Profile on page 59
+•
+Subscribe or Unsubscribe from Amazon FreeTime Unlimited on page 60
+•
+Hide Amazon FreeTime on page 61
+•
+About Amazon FreeTime Privacy on page 62
+•
+55 Set Up Amazon FreeTime
+Set Up Amazon FreeTime
+Get started with Amazon FreeTime by setting an Amazon Instant Video PIN and creating a profile for your
+child.
+Note: Profiles that you create from your Amazon Fire TV will sync across all Kindle devices that are registered to the
+same Amazon account and support FreeTime, including Kindle Paperwhite, Kindle Fire 2nd Generation, Kindle HD,
+and Kindle Fire HDX tablets. Apps and books are currently not available on Amazon Fire TV.
+1. From the Home screen, select FreeTime.
+2. Select Get Started.
+• If you already have an Amazon Instant Video PIN: Enter your existing PIN, and then select Next.
+• If you don't already have an Amazon Instant Video PIN: Enter a new 5-digit PIN, enter it again, and
+then select Next.
+Tip: If you have forgotten your Amazon Instant Video PIN, you can reset it at www.amazon.com/pin.
+3. Enter your child's name, gender, and date of birth. Select a profile picture, and then select Next to save
+the profile.
+4. Add titles to your child's Library:
+a. Filter your Library by Videos, Apps, or For Kids to see recommended family favorites.
+b. Scroll right and left to view available videos and apps.
+c. Select an item to add it to your child's library.
+A checkmark appears on items that have already been added.
+5. Select Done to save the changes.
+Figure 6: Video: FreeTime
+If you aren't already a FreeTime Unlimited subscriber, you will have the opportunity to start a free trial
+during the FreeTime setup process. Select Learn More to view subscription plans and a sample of movies
+and TV shows that are included. Select Start Free Trial or No Thanks to continue. To learn more, go to 
+Subscribe or Unsubscribe from Amazon FreeTime Unlimited on page 60.
+56 Add or Edit an Amazon FreeTime Profile
+Add or Edit an Amazon FreeTime Profile
+You can create and manage up to four personalized FreeTime profiles on your Amazon Fire TV.
+1. From the Home screen, select Settings.
+2. Select Parental Controls, select FreeTime Settings, and then select Manage Child Profiles.
+To do this… Do this…
+Add a new profile 1. Select Add New Profile.
+2. Enter your child's name, gender, and date of birth.
+Select a profile picture, and then select Next to save
+the profile.
+Edit child's details
+1. Select a child's profile.
+2. In the pop-out menu, select Edit Your Child's
+Details.
+3. You can edit your child's name, gender, date of birth,
+and profile picture.
+4. Select Save to save the changes.
+Set time limits
+1. Select a child's profile.
+2. In the pop-out menu, select Time Limits.
+3. To set time limits, you need to first select Turn On
+Time Limits.
+4. Set the Screen Time, which is how long your child
+can watch videos and play with apps each day.
+5. Set the Bedtime, which is the time after which your
+child cannot use their FreeTime profile.
+6. Select Done to save the changes.
+To turn off time limits, select Turn Off Time Limits .
+Add content to a child's library
+1. Select a child's profile.
+2. In the pop-out menu, select Add Titles to Your
+Child's Library.
+3. Scroll right and left to view available videos and
+apps.
+4. Select an item to add it to your child's library. A
+checkmark appears on items that have already been
+added. Tip : Filter your Library by Videos, Apps, or
+For Kids to see recommended family favorites.
+5. Select Done to save the changes.
+Delete a profile
+1. Select a child's profile.
+2. In the pop-out menu, select Delete Profile.
+57 Add or Edit an Amazon FreeTime Profile
+58 Using an Amazon FreeTime Profile
+Using an Amazon FreeTime Profile
+Within their FreeTime profile, your child can use Amazon Fire TV to watch movies and TV shows.
+1. From the Home screen, select FreeTime.
+2. Select a profile to open it.
+3. Navigate the lists and access content, just as you would in the Parent view of Amazon Fire TV.
+4. To exit the profile, select the Exit icon, and then select Exit to Parent.
+Note: Your Amazon Instant Video PIN is required to exit.
+59 Subscribe or Unsubscribe from Amazon FreeTime Unlimited
+Subscribe or Unsubscribe from Amazon
+FreeTime Unlimited
+Amazon FreeTime Unlimited is an optional monthly content subscription designed for kids ages 3 to 8 that
+offers unlimited access to thousands of movies and TV shows.
+Note: You can also access FreeTime Unlimited from any Kindle Fire 2nd Generation, Kindle Fire HD, or Kindle Fire
+HDX registered to the same account as the subscription. Apps are currently not available with Kindle FreeTime
+Unlimited, and books are currently not available on Amazon Fire TV.
+Important: A valid 1-Click payment method is required in order to subscribe. You can set your 1-Click payment
+method at www.amazon.com/1click.
+To subscribe to FreeTime Unlimited:
+• To subscribe to FreeTime Unlimited:
+a. From the Home screen, select Settings.
+b. Select Parental Controls > FreeTime Settings > Subscribe to FreeTime Unlimited.
+All first-time customers of FreeTime Unlimited may try it free for one month.
+c. Select Start Free Trial, or select No Thanks to exit.
+You can also select Learn More to view subscription plans and browse a sample of included videos.
+d. After selecting Start Free Trial, select Subscribe to confirm your subscription.
+FreeTime Unlimited subscriptions start at $4.99 per month. If you have an Amazon Prime membership,
+you’ll be eligible for a discounted monthly plan that starts at $2.99 per month. For more information
+about pricing, go to https://www.amazon.com/freetimeunlimited.
+• To unsubscribe from FreeTime Unlimited:
+a. From the Home screen, select Settings.
+b. Select Parental Controls > FreeTime Settings > Unsubscribe from FreeTime Unlimited.
+Related Help Topics:
+Amazon FreeTime Unlimited and Kindle FreeTime Unlimited Terms & Conditions
+60 Hide Amazon FreeTime
+Hide Amazon FreeTime
+You can choose to hide or show Amazon FreeTime in the Main Menu.
+• To hide FreeTime:
+a. From the Home screen, select FreeTime.
+If you haven't set up FreeTime yet, select Hide FreeTime. In the confirmation dialog, select Hide
+•
+FreeTime again.
+If you already set up FreeTime but want to stop using it, you may delete all of your child profiles.
+•
+You will then see the option to Hide FreeTime.
+Note: Deleting profiles from Amazon Fire TV will also delete them from any Kindle Fire tablet and Kindle
+Paperwhite devices that are registered to the same account.
+• To show FreeTime:
+a. From the Home screen, select Settings, and then select Parental Controls.
+b. Select Enable FreeTime. In the confirmation dialog, select Ok.
+61 About Amazon FreeTime Privacy
+About Amazon FreeTime Privacy
+Amazon respects your privacy, and does not collect personally identifiable information from your child in
+Amazon FreeTime.
+We do use your child's profile to provide a customized experience in Amazon FreeTime. In setting up your
+child's profile, we ask you to provide the child's screen name (which can be any word you choose), gender
+and birthdate, which is subject to our Privacy Notice (available at Amazon.com Privacy Notice ) and is used
+to customize your child's FreeTime experience.
+Third party apps you give your child access to in Amazon FreeTime may collect information from you or
+your device, for example, information regarding your interaction with the app. You can learn more about
+what information any particular third party app collects and how they use that information in the app's
+privacy notice.
+Any information that a third party app collects from you or your device will be subject to that app's privacy
+notice, or similar terms that the app developer provides to you, and will not be subject to the Amazon.com
+Privacy Notice.
+62 Watch Movies & TV Shows
+Watch Movies & TV Shows
+From your Amazon Fire TV, you can buy, rent, and stream Amazon Instant Video movies and TV shows.
+You can also watch movies and TV shows through third-party apps like Netflix or Hulu.
+In This Section
+Buy or Rent Movies & TV Shows on page 64
+•
+Watch Movies & TV Shows on page 65
+•
+Use an Amazon Fire TV Device as a Display Mirroring Destination on page 66
+•
+Use an Amazon Fire TV Device with a Second Screen Device on page 67
+•
+Turn On or Customize Closed Captions on page 70
+•
+View Actor and Scene Information on Amazon Fire TV Devices on page 68
+•
+63 Buy or Rent Movies & TV Shows
+Buy or Rent Movies & TV Shows
+From Amazon Fire TV devices, you can buy, rent, and watch Amazon Instant Video movies and TV shows.
+When you rent videos from Amazon Instant Video, you can watch them for a specified time period. When
+you purchase videos from Amazon Instant Video, they will be accessible from Your Video Library and you
+can watch them as often as you like. Movies and TV shows from third-party apps, such as Netflix and Hulu
+Plus, can be accessed directly from the apps.
+1. Locate the movies you want to buy or rent:
+a. Browse through the categories under Movies or TV.
+b. Search for a movie or TV show. There are several ways to search your Amazon Fire TV:
+•
+Amazon Fire TV Voice Remote : Press and hold the Voice   button on your remote, and
+then say a title, actor name, character name, or genre. Or, Select Search from the Home screen.
+•
+Fire TV Remote App: Press and hold the Voice   icon, drag the icon down, and then say a
+title, actor name, character name, or genre. You can also tap the Keyboard icon to use an
+onscreen keyboard.
+Tip: To only receive Prime Video results, add the phrase "Prime only" to a voice search. For example, say
+"action movies Prime only."
+2. From the search results, select a movie or TV show to view its product detail page.
+Your Amazon Fire TV device will show search results from some third party apps.
+3. Select Buy or Rent and follow the onscreen instructions. For Amazon Instant Videos, your purchase is
+automatically charged to your 1-Click payment method and stored in Your Video Library. If a movie or
+TV show is available in another service's catalog, the app will immediately open so you can watch the
+content from there.
+Note: If you are an Amazon Prime member and a movie or TV show is eligible for Prime Instant Video, select the
+artwork of the video to watch at no additional cost.
+4. Select Watch Now to immediately watch the movie or TV show from your Amazon Fire TV device.
+Tip:
+Select More Ways to Watch to see other purchase and viewing options. Amazon displays the best offer
+available from Amazon and other third party apps, based on your account information and installed apps.
+Some content providers may require additional authentication or subscription fees through their apps before
+you can view the content.
+Select Add to Watchlist to flag items you want to buy, rent, or watch later. These items will appear in the Your
+Watchlist category in the Main Menu. Your Watchlist will only display Movies and TV shows provided directly
+from Amazon.
+Figure 7: Video: Movies and TV
+64 Watch Movies & TV Shows
+Watch Movies & TV Shows
+Watch Amazon Instant Video movies or TV shows that you've purchased or rented on Amazon Fire TV
+devices. You can also stream Prime Instant Video movies or TV shows at no additional cost with an
+Amazon Prime membership.
+If you purchased a video from another content provider, go to that app on your Amazon Fire TV device to
+watch the video.
+Note: Not all videos available in the Amazon Instant Video store are available in the Prime Instant Video catalog.
+• To watch Amazon Instant Video movies or TV shows you've purchased or rented:
+a. From the Home screen, select Video Library.
+b. Locate the movie or TV show you want to watch and select Watch Now or Resume (if you
+previously didn't finish the video) to begin streaming the movie or TV show.
+Tip: If you have Auto Play enabled for your Amazon Instant Video Settings, your Amazon Fire TV device will
+begin the next episode on a TV series or another recommended video. Go to About Auto-Play for more
+information.
+• To watch Prime Instant Video movies or TV shows:
+a. From the Home screen, navigate to the Prime Video category. You can also browse the Recently
+Added to Prime or Top Movies and TV on Prime lists on the Home screen or in the Movies and
+TV categories.
+b. Locate the movie or TV show you want to watch and select the video artwork to start streaming the
+movie or TV show at no additional cost if you are an Amazon Prime member.
+Note: Your Video Library includes all the Amazon Instant Video movies and TV shows you've purchased and
+active rentals, but does not include the movies and TV shows that you watched through Prime Instant Video.
+Content you purchase is stored in the Cloud and available to stream to your Amazon Fire TV device. Movies
+and TV shows from third-party apps, such as Netflix and Hulu, can be accessed directly from the apps in the
+Apps section, not the Video Library.
+Figure 8: Video: Movies and TV
+Related Help Topics
+View Actor and Scene Information on Amazon Fire TV Devices on page 68
+65 Use an Amazon Fire TV Device as a Display Mirroring Destination
+Use an Amazon Fire TV Device as a Display
+Mirroring Destination
+You can wirelessly display your compatible phone or tablet screen and audio on your Amazon Fire TV
+device.
+You can mirror your display most phones or tablets that are Miracast capable. Some capable devices
+include:
+Fire phone
+•
+Fire HDX Tablets
+•
+Devices running Android 4.2 (Jelly Bean) or higher. Performance may vary.
+•
+Important: Before you begin, make sure your Amazon Fire TV device and Miracast capable device are turned on and
+within 30 feet of each other. If you're using a device that is not registered to the same Amazon account as the Amazon
+Fire TV device, connect to the same Wi-Fi network as the Amazon Fire TV device.
+Tip: To quickly start display mirroring, on your Amazon Fire TV remote press and hold the Home button and select
+Mirroring. Then connect your compatible device.
+Device Steps
+Compatible Fire HDX Tablet 1. Swipe down from the top of the screen to open Quick
+Settings, and then tap Settings.
+2. Tap Display & Sounds, and then tap Display
+Mirroring.
+3. Select your Amazon Fire TV device. It may take up to
+20 seconds for your Fire Tablet screen to appear on
+your TV screen. To stop mirroring your Fire Tablet,
+tap Stop Mirroring.
+Fire phone 1. Open Quick Actions.
+2. Under Display select Share your screen via
+Miracast.
+3. Select your Amazon Fire TV device. It may take up to
+20 seconds for your Fire phone screen to appear on
+your TV screen.
+4. Tap Stop Mirroring to stop mirroring the screen of
+your phone.
+Android device running 4.2 or higher 1. On your Amazon Fire TV device, select Settings >
+Display and Sounds > Enable Display Mirroring.
+2. On your Miracast-certified device, connect to your
+Amazon Fire TV . Contact technical support for your
+device for more information on connecting.
+3. Press any button on the remote to stop Display
+Mirroring.
+Tip: Press any button on the remote to stop Display Mirroring.
+66 Use an Amazon Fire TV Device with a Second Screen Device
+Use an Amazon Fire TV Device with a Second
+Screen Device
+You can enhance your experience with your Amazon Fire TV device by using Second Screen features
+from compatible devices. Second Screen enables you to pass videos and photos from your compatible
+device and view related X-Ray information (if available).
+To learn about viewing X-Ray information directly on your Amazon Fire TV device, go to View Actor and
+Scene Information on Amazon Fire TV Devices on page 68.
+Second Screen is compatible on these devices:
+Kindle Fire HD 2nd Generation
+•
+Kindle Fire HDX
+•
+Fire HD 6
+•
+Fire HD 7
+•
+Amazon Fire phone
+•
+Before you begin:
+Both your capable device and your Amazon Fire TV device must be connected to the Internet. You will
+•
+have the best results if both devices are connected to the same home network.
+Both devices must be registered to the same Amazon account.
+•
+• Turn on Second Screen Notifications. Go to Settings > Display and Sounds > Second Screen
+Notifications.
+• For Amazon Instant Video movies or TV shows:
+a. On your tablet, find an Amazon Instant Video movie or TV show you want to watch. The Watch
+button should have the Send To   icon enabled on it.
+b.
+Tap the Send To   icon and then select your Amazon Fire TV device from the list.
+The video will start playing on your TV.
+c. While watching, you can control playback by tapping the Play  , Pause  , or Jump Back 
+buttons, or by using the video progress bar to forward or rewind. Your mobile device will also display
+related X-Ray information (if available).
+Note: You can exit the companion experience to perform other tasks on your tablet while the movie or TV show
+continues to play on your TV. To return to the companion experience and access the playback controls, swipe
+down from the top of your tablet to display the notifications screen, and then select the row that corresponds to your
+Second Screen content.
+• For photos and personal videos:
+a. On your tablet, tap Photos on the Home screen.
+b. Swipe from the left edge of the screen, and then select a category under Library or select a specific
+photo album. The Send To Send To   icon will appear at the top right.
+c.
+Tap the Send To   icon to display the album on your TV.
+To learn more about viewing photos and personal videos with Amazon Fire TV devices, go to View
+Photos & Personal Videos on page 84
+67 View Actor and Scene Information on Amazon Fire TV Devices
+View Actor and Scene Information on Amazon
+Fire TV Devices
+Use X-Ray to quickly peek at or explore movie information in-depth on your Amazon Fire TV device.
+X-Ray for Movies and TV Shows helps you discover and learn more about actors and characters in a
+scene while watching video on your Amazon Fire TV device. X-Ray will also identify music in the scene as
+it plays.
+You can view X-Ray information directly on your Amazon Fire TV device or on other compatible devices,
+such as a Fire Tablet. To learn more about viewing X-Ray information on other compatible devices, go to 
+Use an Amazon Fire TV Device with a Second Screen Device on page 67.
+Note: If a movie or TV show has X-Ray available, you'll see View All X-Ray next to Options in the video controls. X-
+Ray is only available on Amazon Instant Videos and Prime Instant Videos. Not all videos have X-Ray.
+To view X-Ray information on your Amazon Fire TV device while an X-Ray supported video is playing:
+To do this... Try this...
+Peek at information about the current scene, such as the Open X-Ray Quick View:
+song playing or involved actors, and continue video Press Up or Pause on your Amazon Remote.
+•
+playback.
+Tip: Press Down to hide X-Ray Quick View.
+Look at in-depth information about actors and songs, as Open Full Screen X-Ray:
+well as characters and trivia.
+1. Open X-Ray Quick View by pressing Up or Pause on
+your Amazon remote.
+2. Press Up.
+Close Full Screen X-Ray and resume video. Press Play on your Amazon remote.
+Skip between scenes. 1. Open X-Ray Quick View by pressing Up or Pause on
+your Amazon remote.
+2. Press Up to open Full Screen X-Ray.
+3. Select Scenes, then scroll through the video tiles.
+68 View Actor and Scene Information on Amazon Fire TV Devices
+69 Turn On or Customize Closed Captions
+Turn On or Customize Closed Captions
+While browsing Amazon Instant Video movies and TV shows, videos that include closed captions appear
+with the closed caption symbol ("CC") on their overview pages. Most videos that support closed captions
+include English text. Other languages may also be available.
+To watch a video with closed captions:
+1. Play the video you want to watch.
+2.
+Once playback has started, press the Menu   button on the remotee, or in the Fire TV Remote App
+and then select Turn Captions On
+Note: After you turn captions on, navigate left or right with the track pad on the remote to select the font size and
+color scheme for the caption text. Your selections apply to all videos you play until you change them again.
+3.
+Press the Menu   button again to return to video playback with captions on.
+4. To turn captions off, press the Menu button on the remote, and then select Turn Captions Off.
+Tip: You can also manage your Amazon Instant Video closed caption settings under Subtitle Preferences at 
+www.amazon.com/cc. To update how closed caption text appears when you watch Netflix, visit Subtitle Appearance at 
+www.netflix.com/youraccount. You may also be able to update how closed caption text appears within other video
+applications on your Amazon Fire TV device.
+70 Play Games & Apps
+Play Games & Apps
+From your Amazon Fire TV device, shop for and download Amazon Appstore games and apps.
+In This Section
+Buy, Download and Uninstall Games & Apps on page 72
+•
+Play Games & Apps on page 74
+•
+Turn Off In-App Purchasing on page 76
+•
+About GameCircle on page 77
+•
+71 Buy, Download and Uninstall Games & Apps
+Buy, Download and Uninstall Games & Apps
+Shop for, buy, download, and uninstall games and apps from your Amazon Fire TV device.
+To buy or download games and apps, you need to have a 1-Click payment method set up. To learn more,
+go to Change Your 1-Click Settings.
+1. Locate the game or app you want to buy. Browse the categories under Games or Apps. Or search for a
+game or app with an app or remote:
+• Amazon Fire TV Remote: Select Search from the Home screen and use the onscreen keyboard to
+enter search terms.
+•
+Amazon Fire TV Voice Remote: Press the Voice   button on your remote to search using your
+voice or press up. Or select Search from the Home screen to use an onscreen keyboard.
+•
+Fire TV Remote App: Press and hold the Voice   icon, drag the icon down, and then say the
+name of a game or app. You can also tap the Keyboard icon to use an onscreen keyboard.
+2. From your search results, select a game or app to view its overview page. On the overview page, you
+can see the Works with box. Here you can see system and controller compatibility:
+• All
+• Fire TV Remote
+• Amazon Fire Game Controller
+• Tablet Games on Fire TV (requires a game controller or mouse)
+To learn more about compatible game controllers, visit www.amazon.com/mfkcontrollers
+3. Select Buy, or if the app is free, select Free.
+You can choose to purchase your game or app with your 1-Click payment method or any Amazon
+Coins you have in your account. Once purchased, your game or app automatically begins downloading.
+When the download is complete, the button will change to Open.
+4. Select Open to being using your game or app.
+The games or apps you purchase are available in Your Games Library or Your Apps Library on the
+main Games or Apps screens.
+Figure 9: Video: Games and Apps
+72 Uninstall Games & Apps
+Uninstall Games & Apps
+You can uninstall games and apps from your Amazon Fire TV device or USB storage. Games and apps
+you purchased and uninstalled can be reinstalled again from the game or app overview page.
+Tip: If you are running out of space for games and apps on your Amazon Fire TV, attach USB storage. Go to Attach
+USB Storage to Amazon Fire TV on page 35.
+1. From the Home screen, select Settings > Manage All Applications.
+To see apps that are only store in USB Storage or on your device select USB Storage or Fire TV.
+Note: Any games or apps that are on a disconnected USB drive will not be available.
+2. Scroll up or down to find the app you want to uninstall, and select it.
+3. Select Uninstall, and then follow the onscreen instructions.
+Related Help Topics
+About Amazon Coins
+Pair a Remote or Game Controller on page 28
+Change Your 1-Click Settings
+73 Play Games & Apps
+Play Games & Apps
+Play purchased games and apps from your Amazon Fire TV device. Your purchased games and apps can
+be found in Your Games Library or Your Apps Library.
+Note: Some games and apps can be played with the remote, while others require you to pair the Amazon Fire Game
+Controller or a compatible wireless game controller to your Amazon Fire TV device.
+When searching for games and apps, you can filter the search results by:
+All
+•
+Fire TV Remote (both Amazon Fire TV Remote and Amazon Fire TV Voice Remote)
+•
+Amazon Fire Game Controller
+•
+Tablet Games on Fire TV (requires a game controller or mouse)
+•
+To learn more about compatible game controllers, visit www.amazon.com/mfkcontrollers.
+To do this... Try this...
+Find which controllers are compatible with a game 1. Navigate to a game and then select More Info.
+2. In the Works With box, you will see controller
+information.
+Note: The Fire TV Remote App is not designed to play
+games. Some games may work, but performance will
+vary.
+Launch a game or app 1. From the Home screen, select Games or Apps.
+2. Under Your Games Library or Your Apps Library,
+you’ll find your purchased games and apps.
+3. Select a game or app to begin using or playing the
+game or app.
+Play Tablet games on Amazon Fire TV devices These games require an Amazon Fire Game Controller
+or mouse to be played. To learn more, go to Game
+Controller Basics on page 26 or Use a Keyboard or
+Mouse with Amazon Fire TV on page 40.
+To find a tablet style game:
+1. From the Home screen, select Games
+2. Filter by Tablet Games on Fire TV
+To play a tablet style game with a game controller:
+• Left joystick: Move "mouse" pointer
+• A button: A single tap or click
+• B button: Back (if available)
+• Left shoulder button: Decrease cursor speed
+• Right shoulder button: Increase cursor speed
+To play a tablet style game with a mouse:
+74 Play Games & Apps
+To do this... Try this...
+• Left Click: A single tap or click.
+• Mouse Movement: Move "mouse" pointer.
+Related Help Topics
+Buy, Download and Uninstall Games & Apps on page 72
+Remote & Game Controller Basics on page 18
+About GameCircle on page 77
+75 Turn Off In-App Purchasing
+Turn Off In-App Purchasing
+You can prevent accidental in-app purchases by turning on Parental Controls.
+When purchasing is enabled, you can purchase items (such as in-game currency or premium unlocks)
+within a free or paid app. These items unlock additional functionality, such as new levels in a game, or
+allow you to purchase subscriptions and more. If you don't want in-app items to be purchased while using a
+game or app, you can disable the option on your Amazon Fire TV device.
+1. From the Home screen, select Settings > Parental Controls.
+2. Press the Select button again to change the button to ON.
+3. Enter your Amazon Parental Controls PIN (if you already have one) or create a new one, and then
+select Next.
+Parental control options will display.
+Note: If you forget your PIN, visit www.amazon.com/PIN to reset your Parental Controls PIN.
+4. Select PIN Protect Purchases to change the button to ON.
+With Parental Controls enabled, all purchases on your Amazon Fire TV device will require a PIN.
+Related Help Topics
+About In-App Items & Subscriptions
+Set Up Parental Controls on page 16
+76 About GameCircle
+About GameCircle
+Amazon GameCircle enhances your gaming experience by storing your achievements, high scores, and
+time played in the Cloud, so you can compare with your friends and other GameCircle users.
+When you open a GameCircle-enabled game, a Welcome Back message is displayed. To see more
+information, press the Home   button on your remote or press the GameCircle   button on your
+Amazon Fire Game Controller.
+For games and apps that use Whispersync for Games, GameCircle syncs your game progress across all
+your Amazon Fire devices.
+77 Hide Your GameCircle Profile
+Hide Your GameCircle Profile
+You can hide your gaming information from the GameCircle Settings screen.
+Note: While your profile is hidden, you will not be able to send or receive friend requests, or view other users’ profiles.
+1. From the Home screen, select Settings > Applications > Amazon GameCircle.
+2. Select Share your GameCircle Nickname so that the feature is turned Off.
+78 Listen to Music
+Listen to Music
+With Amazon Music, you can listen to songs purchased from the Digital Music Store or imported to Your
+Music Library on your Amazon Fire TV device.If available, you can also view lyrics with X-Ray for Music.
+In This Section
+Listen to Music on page 80
+•
+View Song Lyrics on page 81
+•
+Listen to Prime Music with an Amazon Fire TV Device on page 82
+•
+79 Listen to Music
+Listen to Music
+Browse and stream the music from Your Music Library with your Amazon Fire TV device, including songs
+you purchased from the Digital Music Store, imported to Your Music Library, or Prime Music content added
+to your Music Library. Use Voice Search to quickly find artists, albums, and songs in your library.
+To stream Amazon Music, your Amazon Fire TV device must be authorized to your Amazon account. You
+can have up to 10 devices authorized to your account, and each device can only be authorized to one
+Amazon Music account at a time. To learn more, go to Authorize Your Device.
+Note: If you are an Amazon Prime member, you can listen to Prime Music at no additional cost. Go to Listen to Prime
+Music with an Amazon Fire TV Device on page 82 for more information. The Digital Music Store is currently not
+available on Amazon Fire TV devices. However, you can stream music that you have already purchased or imported
+from a computer or other device to Your Music Library.
+1. From the Home screen, select Music.
+2. Browse for music in the Recently Played list, or browse by Playlists, Artists, Albums, or Genres. Use
+the alphabet above the music to browse quickly.
+Tip: You can also use Voice Search to search your music. Press and hold the Voice button on the remote, and
+then say an artist's name, album title, playlist title, or song title.
+3. Select a playlist, artist, album, or song to start playing. Use the playback controls on the remote or in
+the Fire TV Remote App to play, pause, forward, or rewind the music.
+Tip:
+• Exit to the Home screen at any time - the music will keep playing while you view photos or play games. You can
+continue to use the playback controls on the remote.
+• While browsing your music, press the Menu button on the remote to quickly return to the song that is currently
+playing.
+Related Help Topics
+Amazon Music
+80 View Song Lyrics
+View Song Lyrics
+While listening to songs on your Amazon Fire TV device, X-Ray for Music displays the lyrics so you can
+follow along. Lyrics are highlighted line-by-line on your TV, in time with the song playback.
+With X-Ray for Music, you can view lyrics for many songs purchased from the Digital Music Store,
+accessed through Prime Music, or imported to Your Music Library and matched to music in the Digital
+Music Store catalog.
+1. To find songs with lyrics:
+a. From the Home screen, select Music.
+b.
+Browse your Albums or search for an album. Or, press and hold the Voice   button and then say
+an album title.
+In the list of songs on the album, songs that have lyrics appear with [+Lyrics].
+2. While a song is playing and the lyrics are displayed, press down or up on the remote to scroll ahead
+and back through the lyrics, and then press Select to jump to that section of the song.
+You can jump ahead and back through lyrics with owned Amazon music, but not with Prime Music.
+Note:
+Lyrics available through our service may change. Lyrics will stop displaying for songs when the lyrics for that
+song are no longer available through our service.
+Lyrics cannot be turned off. You can navigate away from the lyrics screen while the music continues to play
+and you can continue to use the playback controls on the remote.
+81 Listen to Prime Music with an Amazon Fire TV Device
+Listen to Prime Music with an Amazon Fire TV
+Device
+From your Amazon Fire TV device, you can listen to Prime Music.
+To listen to Prime Music, you must be an active Prime member.
+To listen to Prime Music:
+1. From the Home screen, select Music.
+2. Select Your Prime Playlists or browse to a Prime Album in Your Albums.
+Tip: You can also use the Amazon Fire TV Voice Remote or Fire TV Remote App to search your music. Press and
+hold the Voice button, and then say an artist's name, album title, playlist title, or song title.
+3. Select a playlist, artist, album, or song to start playing. Use the playback controls on the remote or Fire
+TV Remote App to play, pause, forward, or rewind the music.
+Note: You can shuffle individual albums or playlists, but you can't shuffle all of your Prime Music. You can only listen to
+Prime Music on one device at a time.
+Related Help Topics
+About Prime Music
+82 Manage Photos & Screen Savers
+Manage Photos & Screen Savers
+When you register your Amazon Fire TV device to your Amazon account, your Cloud Drive photos and
+personal videos are available on your Amazon Fire TV device.
+In This Section
+View Photos & Personal Videos on page 84
+•
+Add Photos & Personal Videos to Cloud Drive on page 86
+•
+Set Screen Savers on page 87
+•
+83 View Photos & Personal Videos
+View Photos & Personal Videos
+Any photos and personal videos you upload to Amazon Cloud Drive are automatically available on your
+Amazon Fire TV device when you register your Amazon account. You can also display photos and
+personal videos from some Fire Tablets and Fire phone.
+Note: You can disable access to your photos and personal videos by setting up Parental Controls. To learn more, go
+to Set Up Parental Controls on page 16.However, if you view your images/videos then a thumbnail of your photo/video
+will still show up in your recently viewed items. This content will still be blocked if you restrict photos in Parental
+Controls.
+1. To view photos and personal videos from your Cloud Drive:
+a. From the Home screen, select Photos.
+b. Navigate the lists:
+All - Scroll right and left to view thumbnails of all of your photos and videos. Use the filters at the
+•
+top to jump to a specific year or month. Select a photo or video to view the full-sized version, and
+then scroll right and left to continue viewing the full-sized versions of your photos and videos.
+Press the Back   button on your remote to return to the thumbnails.
+Favorites - All of the photos or videos that you have added to your Favorites list. To add an
+•
+item, select Add to Favorites below an individual photo or video. You can also filter by
+Favorites in an album.
+Albums - Select an album to view the photos and videos in it.
+•
+Videos - Select a video to watch it. Use the playback controls on the remote to pause, play,
+•
+rewind, and forward.
+Tip: While viewing a collection of photos or videos, press the Menu   button to sort by Date Taken or Date
+Uploaded. You can also sort images by Newest First or Oldest First.
+2. To display photos and personal videos directly from your compatible device:
+a. Note: Compatible Fire devices include:
+Kindle Fire HD 2nd Generation
+Kindle Fire HDX
+Fire HD 6
+Fire HD 7
+Amazon Fire phone
+From your device, tap Photos.
+b. Swipe from the left edge of the screen, and select a category or album.
+c.
+Tap the Second Screen   icon at the top to display your photos and/or videos on your TV.
+To learn more, go to Use an Amazon Fire TV Device with a Second Screen Device on page 67.
+Figure Video: Photos, Personal Videos and Screen Savers
+10:
+84 View Slideshows
+View Slideshows
+From your Amazon Fire TV device, you can launch a full-screen slideshow of your photos on your TV.
+1. From the Home screen, select Photos.
+2. Select an album, and then select Start Slideshow.
+• The album slideshow automatically advances through photos and personal videos located in the
+current album or list you are viewing.
+• Your slideshow automatically restarts when it reaches the end.
+• Press left or right to go forward or back in the album at your own speed.
+Tip: You can manage your Slideshow settings by pressing the Menu key on your remote. Adjust settings like, slide
+style, slide speed, and start time, while you preview the Slideshow in the background. Press the Menu key again to
+exit.
+Note: For personal videos, the first frame of the video will display as a photo in the slideshow.
+85 Add Photos & Personal Videos to Cloud Drive
+Add Photos & Personal Videos to Cloud Drive
+Download the Amazon Cloud Drive mobile app to add photos and personal videos (under 20 minutes long)
+from your mobile device to your Cloud Drive account. This will enable you to view your photos and
+personal videos on other devices that are registered to the same Amazon account, such as your Amazon
+Fire TV device.
+1. From the Home screen, select Photos > Add Photos & Videos, and then select .
+2. Follow the onscreen instructions:
+a. Select Get the Mobile App for iOS or Android.
+b. Enter your mobile number to receive a text message that includes a link to install the app.
+c. Check your mobile device for the message, and then tap the link to automatically go to the Cloud
+Drive app detail page in the Apple App Store or Google Play Store.
+If you don't receive the message, select Send Again or Send to a Different Number.
+d. After installing the app, open it and sign in with your Amazon account.
+e. Accept the prompt to turn on Auto-Save. This will allow the photos and videos on your mobile
+device to be added to your Amazon Cloud Drive and be available on your Amazon Fire TV device.
+Tip: You can also download the mobile app from www.amazon.com/clouddriveapp.
+To learn more about Amazon Cloud Drive and the mobile apps, go to Amazon Cloud Drive.
+86 Set Screen Savers
+Set Screen Savers
+You can customize the screen saver on your Amazon Fire TV device by selecting your most recent 500
+photos or an album from Amazon Cloud Drive.
+Note: Any photos and personal videos you upload to Amazon Cloud Drive are automatically available on your Amazon
+Fire TV device when you register your Amazon account. To add photos to your Cloud Drive account from a mobile
+device or desktop computer, you can install the Cloud Drive app or you can add photos through your web browser. To
+learn more, go to Add Photos & Personal Videos to Cloud Drive on page 86.
+1. From the Home screen, select Photos to view your photo albums.
+2. Select a photo or album, and then select Set As Screen Saver.
+3. Pick your Screen Saver settings, such as the slide style, slide speed, and start time, while you preview
+the Screen Saver.
+The screen saver will launch when your Amazon Fire TV device is left idle.
+Tip: You can also set your Screen Saver settings through the Settings menu: press the Home button, and then
+select Settings > System > Screen Saver.
+87 Manage Subscriptions for your Amazon Fire TV Device
+Manage Subscriptions for your Amazon Fire
+TV Device
+On your Amazon Fire TV device, there are some subscriptions that you can sign up for without having to
+visit a third party website.
+Some Fire TV apps require a subscription to access content. A few of these apps, such as Sling TV, also
+allow you to subscribe using your Amazon billing information. Before you sign up, you need to have a 1-
+Click payment method set up. To learn more, go to Change Your 1-Click Settings.
+While you are signing up, you must create a new username and password for the subscription to the third-
+party service that is separate from your Amazon login.
+Note: If you sign up for third-party subscription on your Amazon Fire TV device, you can only manage the subscription
+on the Amazon website. You cannot manage the subscription on the third-party site.
+To manage one of these subscriptions:
+1. Go to www.amazon.com/appstoresubscriptions and use your Amazon username and password to sign
+in.
+2. Next to the subscription, select Actions and then a management option:
+• Edit payment information
+• View billing history
+• Cancel your subscription
+For other subscriptions that do not use your Amazon billing information, go to the application provider's
+website to manage your subscription.
+88 Sharing Content On Amazon Fire TV Devices
+Sharing Content On Amazon Fire TV Devices
+You can use Family Library on your Amazon Fire TV device to share your games and apps with one other
+adult in an Amazon Household.
+To share content with children on your Amazon Fire TV device, you will need to use Amazon FreeTime,
+which is available on Amazon Fire TV. Go to Amazon FreeTime on page 55 for more information.
+To share content with one other adult, invite them to your Household in Family Library. Go to About Family
+Library for more information.
+After you have included one other adult to your Household, you can sync the shared content on the
+Amazon Fire TV device.
+• Go to Settings > Account > Sync Content.
+You can share the following content in a Household on Amazon Fire TV devices:
+Free and purchased games compatible with Amazon Fire TV devices
+•
+Free and purchased apps compatible with Amazon Fire TV devices
+•
+Payment methods (managed at Manage Your Content and DevicesManage Your Content and Devices
+•
+(Amazon.com full site)Manage Your Content and Devices (https://www.amazon.com/mycd)
+(Amazon.com full site))
+You cannot share the following content in a Household on Amazon Fire TV devices:
+Purchased Amazon Instant Videos
+•
+Prime Instant Video
+•
+Purchased Amazon Music
+•
+Prime Music
+•
+Third Party App Content or Information
+•
+Games and apps on USB storage on different Amazon Fire TV devices
+•
+Related Help Topics
+About Family Library
+About Prime Instant Video
+Share Your Amazon Prime Benefits
+89 Use Amazon Fire TV Devices in a Different Country
+Use Amazon Fire TV Devices in a Different
+Country
+Amazon Fire TV devices are supported in some countries outside of the U.S.
+You can take your Amazon Fire TV device with you if you are moving or traveling to certain countries
+outside of the U.S. Your Amazon Fire TV device will work in the following countries:
+United States
+•
+United Kingdom (UK)
+•
+Germany
+•
+Austria (Fire TV Stick only)
+•
+In order to use your device outside of the U.S., you need to change the Country Settings for your Amazon
+account.
+Important:
+• When you change the country for your Amazon account, you will no longer be able to access any of your
+purchased or rented videos from Amazon Instant Video. Your purchased videos will still be available in the original
+country if you change back to that country, but any rented videos will be unavailable.
+• Some apps and games may not work in your new country. If you have any questions about app compatibility,
+contact the app developer for more information
+To change your country settings:
+1. Go to the Settings tab in Manage Your Content and Devices .
+2. Under Country Settings select Change.
+3. Enter your new address.
+4. Choose a supported country for Amazon Fire TV and then select Update.
+5. In the notification that appears, select learn more and then select Transfer your Kindle account to.
+6. On your Fire TV device, go to Home > Settings > My Account. Select Deregister. Return to My
+Account and select Register.
+You can now use your Amazon Fire TV in the supported country.
+Note: Features and content will differ by region. Please see the product detail pages on our Amazon international sites
+for more information about the availability of apps, TV, movies, music, and more in those regions.
+Visit our international help pages for more information:
+Amazon.co.uk Fire TV Help
+•
+Amazon.de Fire TV Help
+•
+90

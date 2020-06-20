@@ -1,0 +1,552 @@
+THIS DOCUMENT CONTAINS INFORMATION THAT IS SUBJECT TO CHANGE WITHOUT NOTICE. 
+No part of this publication may be reproduced or transmitted in any form or by any means, electronic or mechanical, including but not 
+limited to photocopying, recording, information retrieval systems, or computer network without the written permission of Sonos, Inc. 
+Sonos and all other Sonos product names and slogans are trademarks or registered trademarks of Sonos, Inc. Sonos Reg. U.S. Pat. & 
+Tm. Off. 
+Sonos products may be protected by one or more patents. Our patent-to-product information can be found here: 
+sonos.com/legal/patents
+AirPlay®, Apple Music™, FairPlay®, iPad®, iPhone®, iPod®, Tunes®, and OS X®, are trademarks of Apple Inc., registered in the U.S. 
+and other countries.
+Works with Apple Airplay.
+Windows® is a registered trademark of Microsoft Corporation in the United States and other countries.
+Android™ is a trademark of Google, Inc. 
+Manufactured under license from Dolby Laboratories. Dolby and the double-D symbol are trademarks of Dolby Laboratories.
+Amazon, Kindle, Kindle Fire, Echo, Alexa, and all related logos are trademarks of Amazon.com, Inc. or its affiliates.
+The terms HDMI and HDMI High-Definition Multimedia Interface, and the HDMI logos are trademarks or registered trademarks of HDMI 
+Licensing LLC in the United States and other countries.
+Sonos uses MSNTP software, which was developed by N.M. Maclaren at the University of Cambridge. 
+© Copyright, N.M. Maclaren, 1996, 1997, 2000; © Copyright, University of Cambridge, 1996, 1997, 2000.
+All other products and services mentioned may be trademarks or service marks of their respective owners.
+June 2018
+©2004-2018 by Sonos, Inc. All rights reserved. Sonos Beam
+Beam is a smart, compact soundbar for your TV with immersive, theater-quality sound. 
+• Play anything—music, TV, movies, podcasts, radio, audiobooks and video games.
+• Perfect size to wall-mount above or below your TV, or place on a credenza.
+• Voice control so you can use it hands-free.
+• Quick and easy setup, with only one cable to connect to your TV. 
+• Expandable. Connect Sonos speakers wirelessly to create a home sound system. 
+New to Sonos?
+Download the app from the app store on your mobile device. Open the app and we’ll guide you through 
+setup. If you’re using a computer, get the app at www.sonos.com/support/downloads. 
+For the latest system requirements and compatible audio formats, go to http://faq.sonos.com/specs. 
+Already have Sonos?
+You can easily add new speakers anytime (up to 32).
+Just plug in the speaker and tap   > Add Speakers.
+If you’re using a computer, go to Manage > Add a Player or Sub. 2 Product Guide
+What’s in the box
+Carefully unpack the box. There are a few audio cables inside. You’ll use the HDMI cable—during setup, we’ll 
+see if you need the optical adapter too.
+*
+HDMI cable Optical adapter Power cord
+*
+The optical adapter will only be used if your TV doesn’t have an HDMI ARC port.
+What you need
+• TV with an HDMI ARC port (preferred) or optical digital audio OUT port. 
+• Mobile device (it’s easier) or computer connected to your Wi-Fi. You’ll need this for setup. Have your 
+network name and password ready. See Your home network for more detail.
+• The Sonos app to guide you through setup (install it on the device you’re using for setup).
+Choose a location
+You can mount Beam to a wall above or below your TV or place it on a credenza. 
+Placed on a credenza
+• Place horizontally on a stable and level surface at least 2" (50mm) from TV.
+• Don’t place vertically or on its side.
+• Don’t block the TV’s IR sensor.
+• If put on a shelf, place at the front and keep 2" (minimum) clearance on both sides for best sound quality. 
+• Keep 1" (25mm) space (minimum) above Beam so you can reach the touch controls. 
+• For best sound quality, keep both ends of Beam at least 1' (30cm) from a wall or other obstruction.
+Wall mounted
+• Use the Beam wall mount kit. You can buy it on www.sonos.com. Follow the instructions in the kit.
+• Keep 1" (25mm) space (minimum) above Beam so you can reach the touch controls. 
+• If you’re mounting above the TV, make sure you can reach the touch controls. 
+• For best sound quality, keep both ends of Beam at least 1' (30cm) from a wall or other obstruction. Sonos Beam 3
+Connect the cables
+Before you start
+1. Disconnect existing home theater or surround sound equipment from your TV. 
+2. Connect any external devices, such as a cable box or DVD player, directly to your TV.
+Connect the power cord
+1. Insert the power cord firmly into Beam’s AC (mains) power port until it is fully connected.
+Power port
+Power cord
+2. Plug the other end of the power cord into an AC (mains) power source. 
+Caution: Use only the supplied power cord (using a third-party power cord will void your warranty).
+Connect Beam to your TV
+Use the HDMI cable to connect the soundbar to your TV. You may need the optical adapter too (the app lets 
+you know).
+1. Fully insert the HDMI cable into Beam’s HDMI port.
+HDMI port
+HDMI cable
+2. Connect the HDMI cable to your TV. You have two choices:
+• If your TV has an HDMI ARC port, connect the HDMI cable directly to the TV’s HDMI ARC port.
+• If your TV doesn’t have an HDMI ARC port, attach the optical adapter to the HDMI cable and connect 
+it to the TV’s optical digital OUT port. 4 Product Guide
+If your TV has an HDMI ARC port
+HDMI ARC is a special port that looks like a standard HDMI port. Although they look the same, if you connect 
+to a standard HDMI port, you won’t hear sound. 
+1. On your TV’s audio OUT panel, look for an HDMI ARC port. 
+It may be on the back or side of your TV.
+You’ll know it’s an ARC port if you see the word “ARC” on the label.
+ARC HDMI
+2. Connect the HDMI cable to the TV’s HDMI ARC port.
+TV’s HDMI ARC port
+Beam’s HDMI port
+Note: If you can’t find the word “ARC” on the label, it isn’t the correct port, see If your TV doesn’t have an 
+HDMI ARC port. Sonos Beam 5
+If your TV doesn’t have an HDMI ARC port
+You’ll need the optical adapter.
+1. Remove the protective cap from the optical adapter.
+2. Attach the optical adapter to the HDMI cable.
+Remove the protective cap 
+Optical adapter
+HDMI cable
+3. Connect the optical adapter to the TV’s optical digital OUT port.
+TV’s optical digital OUT port
+Optical adapter attached to HDMI cable
+Beam’s HDMI port
+Note: The optical adapter’s port is “D-shaped”—make sure the connector aligns correctly into the port. 
+Inserting the adapter incorrectly may damage the cable. 6 Product Guide
+Explore Beam
+Swipe, touch, tap, or ask—with Beam you’ve got choices on how to control sound.
+• Use the touch controls—touch or swipe across the controls.
+• Voice control—Set it up and use your voice to turn the TV on or off, adjust the volume, or play music.
+• Use the app.
+• Use your TV remote control. 
+Microphone button/light
+Play/Pause
+Status light
+Volume down Volume up
+Note: Refer to the Sonos App for Mobile Devices Product Guide for more information on using the app.
+Touch controls 
+Volume • Touch for small adjustments or touch and hold to 
+quickly change the volume:
+• Volume up (right); Volume down (left).
+Note: You can also use the app, Alexa, or remote 
+control.
+Play/Pause Touch to Play or pause sound.
+Next/Previous track Swipe left or right across controls.
+(Music only) Note: This doesn’t work with radio stations.
+  Microphone button Turns the microphone on (light on) or off (light off).
+Note: You’ll need to install a voice service to activate 
+the microphone.
+Status lights
+Speaker status • Normal operation: Solid white (dim).
+• Listening or replying: Solid white (bright).
+• Thinking: Flashing white.
+For more information, see http://faq.sonos.com/led.
+Microphone Shows whether the microphone is on (light on) or off 
+(light off). Sonos Beam 7
+Connector panel
+AC power (mains) Join HDMI port
+Ethernet port
+ 
+Join button Press Join to connect during setup.
+Ethernet port  Use an Ethernet cable if you want to connect to a router, 
+computer, or network-attached storage (NAS) device 
+(optional).
+AC power (mains) port Use only the supplied power cord (using a third-party 
+power cord will void your warranty). 
+Note: Insert the power cord firmly until it is flush with 
+the speaker.
+HDMI port Use to connect the soundbar to your TV.
+Voice control
+To use Alexa with Sonos, you’ll need the Alexa app with the Sonos skill enabled—if you don’t have it, we’ll 
+guide you through it when you add a voice service.
+Add a voice service
+1. Open the Sonos app on your mobile device.
+2. Tap   > Voice Services and select the voice service.
+• You’ll make changes in both the Sonos and Alexa apps—we’ll guide you through it.
+• You’ll need your Sonos account info. If you can’t remember it, tap   > Settings > Sonos Account.
+(Sonos doesn’t support Alexa voice calling.)
+Note: Over time we’ll add more voice services and skills. Voice control is not supported in every country yet—
+this feature will be available as soon as Sonos and a voice service launch together in your region.
+Change the wake word’s language
+1. Tap   > Settings > Room Settings.
+2. Choose the room with Alexa and change the wake word’s language. 8 Product Guide
+Remove a voice service
+1. Tap   > Settings > Room Settings.
+2. Choose the room with Alexa.
+3. Tap Amazon Alexa and remove Amazon Alexa from the room.
+Turn the microphone on
+Touch   to turn the microphone on and off. (If you don’t have a voice service installed, the microphone is 
+inactive.)
+When the microphone light is on, voice control is on and Alexa is ready to respond. When the microphone 
+light is off, voice control is off. 
+If you’ve installed a voice service and the microphone is off, you can still use voice commands. Just press and 
+hold   while talking to Alexa—no need to start with a wake word. When you release the mic button, voice 
+control turns off again.
+Adjust TV and sound settings
+Use the app to change sound settings or modify the way your home theater speaker works with your TV. 
+Refer to the Sonos App for Mobile Devices Product Guide to get more information about using the Sonos app.
+Note: You can also use the Sonos app for Mac or PC.
+TV Dialog Settings
+If TV audio is out of sync with video, use the app to adjust the audio delay (lip sync).
+1. Tap   > Settings > Room Settings and select the room.
+2. Tap Advanced Audio > TV Dialog Settings. 
+3. Drag your finger across the Audio Delay (Lip Sync) slider to increase or decrease the sound delay.
+TV Autoplay
+Turn on TV Autoplay (default) so audio plays directly through the home theater speaker when you turn on your 
+TV.
+If music is playing when you turn on the TV, the music stops and the home theater speaker switches to TV 
+audio. 
+1. Tap   > Settings > Room Settings and select the room. Sonos Beam 9
+2. Tap TV Setup and Control > TV Autoplay.
+If the home theater speaker is part of a group when the TV is turned on, it drops from the group (default). 
+3. Select On or Off.
+Ungroup on Autoplay
+You can include your home theater speaker in a group if you’re playing music in a group of rooms. 
+Turn on Ungroup on Autoplay to ungroup your home theater speaker when you turn on the TV (default).
+1. Tap   > Settings > Room Settings and select the room.
+2. Tap TV Setup and Control > Ungroup on Autoplay.
+Enhance TV sound
+When you’re watching TV, the Now Playing screen in the app includes sound enhancement features. These 
+features are only visible when you’re looking at the room where you home theater speaker is located.
+Speech Enhancement 
+Makes TV dialog easier to hear. 
+Tap   on the Now Playing screen to turn on or off. 
+Night Sound 
+Enhances quiet sounds and reduces the intensity of loud sounds. Turn on to reduce the volume while still 
+experiencing proper balance and range. 
+Tap   on the Now Playing screen to turn on or off.
+Tune your room with Trueplay™
+Every room is different. With Trueplay tuning, you can put your speakers wherever you want. Trueplay 
+analyzes room size, layout, décor, speaker placement, and any other acoustic factors that can impact sound 
+quality. Then it adjusts how each woofer and tweeter produces sound in that room (works on mobile devices 
+running iOS 8 or later). 
+Tap   > Settings > Room Settings. Pick a room and tap Trueplay Tuning to get started.
+Note: Trueplay tuning isn’t available if VoiceOver is enabled on your iOS device. If you want to tune your 
+speakers, first turn VoiceOver off in your device settings.
+Program your remote control
+If you’ve connected to Beam using the optical adapter, you may need to program your remote control. If 
+connected with the optical adapter, Beam supports IR remote controls. 
+You can program a different remote control any time.
+1. Open the app and tap   > Settings > Room Settings.
+Note: You can also use the Sonos app for Mac or PC to program your remote.
+2. Choose the room. 10 Product Guide
+3. Tap TV Setup and Control > Remote control setup.
+Note: If you’ve connected to Beam using the optical adapter, some TVs show unnecessary messages when 
+you adjust the volume. You may be able to turn these off. See Turn off volume control messages.
+Additional room settings
+Tap   > Settings > Room Settings to see more room settings you can change, such as:
+• Recalibrate audio (Android)
+• Turn off the speaker status light
+• Disable speaker touch controls
+• Change room names
+• Adjust EQ
+Play music
+Beam can stream music whether the TV is on or off. If TV Autoplay is set to On, the music stops and switches 
+to TV audio whenever you turn on the TV.
+• Radio by TuneIn. Select from more than 100,000 free internet radio stations, podcasts, and shows.
+• Music services. Explore and manage your music services—add your own or try something new.
+• Music stored on your mobile device. Play music you’ve downloaded to your phone or tablet.
+• Music library. Play music stored on your computer or any Network-Attached Storage (NAS) device.
+For a full list of the music choices available in your country, go to www.sonos.com/music. For more 
+information about playing music, check out our mobile app product guide at www.sonos.com/guides. 
+Play or pause sound
+Touch   to start or stop the audio. 
+• TV—When the TV is on, touch   to toggle the sound on and off.
+• Music—When the TV is off, touch   to restart music. 
+Add music that’s playing in another room
+Press and hold   on any Sonos speaker to group it with a room that’s already playing. If different music is 
+playing in different rooms, press and hold   until you hear the sound you want. Sonos Beam 11
+Skip to next or previous song
+When streaming songs from playlists or your music library, swipe   to change songs.
+Swipe right for next track Swipe left for previous track
+Note: This doesn’t work with radio stations.
+Expand your home theater
+You can add a Sub and surrounds to expand your home theater experience. Add them during setup, or 
+anytime later by selecting   > Speakers. The app guides you through setup.
+• Add a Sub for room-filling bass.
+• Add a pair of Sonos speakers as rear surrounds.
+• Add both a Sub and pair of surrounds for full 5.1 home theater sound. 
+Placement guidelines
+• Sub—place it either standing up or lying down; you can place it in a corner, against a wall, behind, under 
+or next to any furniture on any floor surface.
+• Surround speakers—place the speakers to the left and right of your main viewing position. They can be 
+level with or behind the main viewing position. Make sure both have the same orientation (horizontal or 
+vertical). 12 Product Guide
+Sub
+Add a Sub
+You can pair a Sub with any Sonos speaker or amplified component.
+On a mobile device:
+1. Tap   > Settings > Room Settings.
+2. Choose the room with the speaker you want to pair, and tap Add Sub.
+On a computer:
+1. Select Manage > Settings (PC) or Sonos > Preferences (Mac).
+2. Select Room Settings.
+3. Choose the room with the speaker you want to pair from the Room Settings drop down list.
+4. From the Basic tab, select Add Sub.
+Change Sub settings
+On a mobile device:
+1. Tap   > Settings > Room Settings.
+2. Select the room with the Sub. It appears as Room (+Sub). 
+3. Select Advanced Audio > Sub Settings and change a setting.
+Sub Turn the Sub’s sound On or Off.
+Sub Level Adjust the Sub’s volume. (You can use this setting to 
+match the subwoofer level to the level of your main 
+speakers.)
+Placement  Turn On or Off.
+Adjustment (phase)
+On a computer:
+1. Select Manage > Settings (PC) or Sonos > Preferences (Mac).
+2. Select Room Settings.
+3. Choose the room with the Sub from the Room Settings drop down list. It appears as Room (+Sub). 
+4. Select the Sub tab and change a setting.
+Sub Turn the Sub’s sound On or Off.
+Sub Level Adjust the Sub’s volume. (You can use this setting to 
+match the subwoofer level to the level of your main 
+speakers.)
+Placement  Turn On or Off.
+Adjustment (phase) Sonos Beam 13
+Remove a Sub
+On a mobile device:
+1. Tap   > Settings > Room Settings.
+2. Select the room with the Sub. It appears as Room (+Sub). 
+3. Select Remove Sub.
+4. Choose one of the following:
+• To pair the Sub with a different speaker, select Choose Room for Sub.
+• If you’re not using it, select Don’t use Sub. It appears in Rooms as Sub (unused) until you pair it with a 
+speaker. 
+On a computer:
+1. Select Manage > Settings (PC) or Sonos > Preferences (Mac).
+2. Select Room Settings.
+3. Choose the room with the Sub from the Room Settings drop-down list.
+4. From the Basic tab, click Remove Sub. 
+5. Choose one of the following:
+• To pair the Sub with a different speaker, select Choose Room for Sub.
+• If you’re not using it, select Don’t use Sub. It appears in Rooms as Sub (unused) until paired with a 
+speaker.
+Surround speakers
+Turn two Sonos speakers (same model) into separate right and left channels for your home theater. 
+Note: If you create a room group or stereo pair instead, you won’t have surround sound. 
+Add surrounds
+On a mobile device:
+1. Tap   > Settings > Room Settings.
+2. Choose the room with the home theater speaker and tap Add Surrounds.
+On a computer:
+1. Select Manage > Settings (PC) or Sonos > Preferences (Mac).
+2. Select Room Settings.
+3. Choose the room with the home theater speaker from the Room Settings drop-down list.
+4. From the Basic tab, select Add Surround Speakers. 14 Product Guide
+Change surround settings
+When you add your speakers as surrounds, surround sound is optimized for your room. You can adjust these 
+settings:
+Surrounds Turn surround sound On or Off.
+TV Level Adjust surround volume for TV audio.
+Music Level Adjust surround volume for music.
+Music Playback Ambient (subtle) or Full (louder, full range).  
+Doesn’t apply to TV audio.
+Balance Surround  Manually balance your surround speakers.
+Speakers (iOS)
+On a mobile device:
+1. Tap   > Settings > Room Settings.
+2. Choose the room with the surround speakers (name includes (+LS+RS)). 
+3. Select Advanced Audio > Surround Settings and change the settings.
+On a computer:
+1. Select Manage > Settings (PC) or Sonos > Preferences (Mac).
+2. Select Room Settings.
+3. Choose the room with the surrounds from the Room Settings drop-down list.
+4. Select the Surrounds tab and change the settings.
+Remove surrounds
+If the speakers were part of your Sonos system before you added them as surrounds, they’ll revert back to 
+their previous room names. Otherwise, they’ll appear as Unused in Rooms.
+On a mobile device:
+1. Tap   > Settings > Room Settings.
+2. Choose the room with the surround speakers (name includes (+LS+RS)) and tap Remove Surrounds.
+On a computer:
+1. Select Manage > Settings (PC) or Sonos > Preferences (Mac).
+2. Select Room Settings.
+3. Choose the room with the surrounds from the Room Settings drop-down list (name includes (+LS+RS)). 
+4. From the Basic tab, click Remove Surrounds. Sonos Beam 15
+Turn the speaker on or off
+Your Sonos speakers are designed to stay on; they use minimal electricity when not in use.
+• To stop the music in one room, touch   on the speaker (or use the app).
+• To stop the music everywhere, tap  > Pause All in the app.
+Troubleshooting
+Warning:Do not open the product as there is a risk of electric shock. Under no circumstances should the 
+product be repaired by anyone other than an authorized Sonos repair center, as this will invalidate 
+the warranty. Please contact Sonos Customer Support for more information. 
+Customer Support
+• Visit our website at www.sonos.com/support
+• Email us at support@sonos.com
+Speaker not detected during setup
+• Make sure your system is updated to the current software.
+• Insert the power cord fully into the home theater speaker and your power source.
+• Move speaker closer to your router.
+Can’t turn off TV’s speakers
+If you’re using the optical adapter, during setup you’ll turn off your TV’s speakers. Refer to your TV owner’s 
+guide for more information. 
+If you can’t turn them off, 
+1. Use the TV’s volume buttons to turn the volume completely down. Do not use the Mute button.
+2. Use only the volume buttons on your Sonos app to adjust the volume.
+Turn off volume control messages
+Some TVs may show volume control messages when you adjust the volume, even after you turn off your TV 
+speakers. (If you have Beam, this happens if it’s connected to your TV using the optical adapter.) 
+You may be able to program your remote control to turn off these messages.
+1. Program a device key.
+• Refer to your remote control’s instructions or the cable box’s on-screen help. 
+• Contact your cable service provider for more help.
+2. In the code list, search for the Sonos code.
+• If Sonos doesn’t appear, select a code other than that of your TV and its connected devices. 
+• DO NOT initiate an automated search for a code.
+3. Lock the volume control to your home theater speaker.
+Note: This feature is sometimes referred to as volume lock or volume punch.  16 Product Guide
+4. Program your remote control to work with your home theater speaker.
+Universal remote controls
+If you can’t program your universal remote control, or want to turn off volume control messages when you 
+adjust the volume, you may want to try switching to Logitech® Harmony® universal remote.
+Logitech universal remote controls
+You’ll need to add your home theater speaker as a device.
+1. Use the USB cable provided by Logitech to connect your Harmony remote to your computer.
+2. Set up a Logitech user account and install the Harmony Remote software.
+3. Launch the Logitech Harmony Remote software or go to www.logitech.com/myharmony and login to 
+your account.
+4. Select Add Device. 
+5. Choose an option:
+• Logitech Harmony Remote software
+• My Harmony website
+6. Select or enter Sonos as the manufacturer and your home theater speaker as the model name/number.
+Note: You may need to add your home theater speaker if it doesn’t exist in the database.
+Your home network
+Your Sonos speakers and the mobile device with the Sonos app need to be on the same Wi-Fi network. 
+Wireless network
+Setting up Sonos on your home Wi-Fi is the answer for most homes. You just need:
+• High-speed internet connection such as DSL/cable modem or fiber-to-the-home broadband connection
+• High-speed DSL/cable modem (or fiber-to-the-home broadband connection)
+• 2.4GHz 802.11b/g/n wireless home network 
+Note: Satellite internet access may cause playback issues. 
+Wired home network
+Connect a Sonos Boost or speaker to your router with an Ethernet cable if:
+• Your Wi-Fi is slow, temperamental, or doesn’t reach all the rooms where you want to use Sonos.
+• Your network is already in high demand with streaming video and internet usage and you want a separate 
+wireless network just for your Sonos system.
+• Your network is 5GHz only (not switchable to 2.4GHz).
+• Your router supports only 802.11n (you can’t change the settings to support 802.11b/g/n).
+Note: For uninterrupted playback, use and Ethernet cable to connect the computer or NAS drive that has 
+your music library files to your router.  Sonos Beam 17
+Got a new router?
+If you purchase a new router or change your internet service provider (ISP), you’ll need to restart your Sonos 
+products after the router is installed. 
+Note: If you keep a Sonos product connected to your router and an ISP technician connects it to the new 
+router, then you’ll only need to restart your other Sonos products.
+1. After the router is set up, disconnect the power cords from your Sonos products for at least 5 seconds.
+2. Reconnect all the power cords—if you keep a Sonos product connected to your router, start with that one.
+The speaker status light turns solid white on each product when the restart is complete.
+If you don’t have a Sonos product connected to your router, you’ll need to change your network password 
+in the Sonos app.
+Change your network password
+If you change your network password (and you don’t have a Sonos product connected to your router), you’ll 
+need to update the password in the Sonos app.
+1. Connect a Sonos speaker to your router with an Ethernet cable.
+2. Choose an option:
+• On a mobile device, go to   > Settings > Advanced Settings > Wireless Setup.
+• On a PC, go to Manage > Settings > Advanced. On the General tab, select Wireless Setup.
+• On a Mac, go to Sonos > Preferences > Advanced. On the General tab, select Wireless Setup.
+3. Enter the new network password.
+Once the password is accepted you can unplug the speaker from the router and move it back to its original 
+location.
+Important safety information
+Please read these instructions and heed all warnings. Keep them in a convenient location and make sure 
+everyone in the household is aware of them. 
+Location
+• Do not place the unit where it will be exposed to excessive heat (e.g., radiators, heat registers, stoves), 
+direct sunlight, or a dusty environment (e.g., woodworking shop.)
+• Do not place the unit where it will be exposed to flammable liquids and/or fumes.
+• Allow at least 1" between the unit and any walls or surfaces.
+• Protect the power cable from being walked on or pinched, particularly at plugs, convenience receptacles, 
+and the point where it exits the product. The mains cord should be readily available to disconnect the 
+power.
+• The product should not be used near water—avoid close proximity to a bathtub, kitchen sink, laundry 
+tub, wet basement, swimming pool, etc. 18 Product Guide
+• The home theater speaker is for indoor use only. Do not expose to rain or snow.
+Proper Ventilation
+• Leave one inch of open space around the sides and above the unit to ensure proper ventilation.
+• Ventilation should not be impeded by covering the ventilation openings with items such as tablecloths, 
+curtains, or papers. 
+• Do not let foreign objects into the unit. If a foreign object should get into the unit, unplug the unit and 
+contact Sonos for servicing guidance.
+Warning
+• Do not operate or handle the product with wet hands.
+• Only use attachment/accessories specified by Sonos.
+• Unplug the power cord during lightning storms or when unused for long periods of time.
+• Never disassemble or modify the product in any way.
+Cleaning & maintenance
+• Dust with a dry, soft cloth. A cloth moistened with water or gentle household cleaner may be used to 
+clean dirt or stains, but unplug the product first. Do not spray liquids directly onto the product.
+• Do not use chemical solvents (e.g. alcohol, benzene, paint thinner) or other flammable cleaning liquids.
+• Refer all servicing to Sonos qualified service personnel. Servicing is required when the unit or the power 
+cord has been damaged in any way, if liquid or other foreign matter has fallen into the ventilation 
+openings, or the unit has been exposed to rain or moisture.
+ 
+Warning: To reduce the risk of fire or electric shock, do not expose this apparatus to rain or moisture.
+Specifications
+Feature Description
+Audio
+Amplifier Five Class-D digital amplifiers.
+Elliptical Woofer Four full-range woofers ensures you’ll hear the faithful playback of mid-
+range vocal frequencies plus deep, rich bass.
+Tweeter One tweeter creates a crisp and clear high-frequency response.
+3.0 Home Theater • Five-speaker design plunges you into the cinematic action with huge 
+waves of sound that capture every whisper and footfall. 
+• Connects to your TV with a single cable and plays all sources, including 
+satellite boxes and game consoles. Sonos Beam 19
+Feature Description
+Microphones • Five far-field microphone array uses for advanced beam forming and 
+multichannel echo cancellation.
+• LED hard-wired to voice microphones for privacy control so you know 
+when the microphone is active.
+Voice Control Integrated voice control. 
+System Requirements TV with HDMI ARC or optical digital audio output, broadband internet, and 
+the Sonos app.
+Music
+Music Services  Sonos works seamlessly with most music services, including Apple 
+Music™, Google Play Music, Pandora, Spotify and Radio by TuneIn, as well 
+as downloads from services offering DRM-free tracks. Availability varies by 
+region. See http://www.sonos.com/streaming-music. 
+Internet Radio Streaming MP3, HLS/AAC, WMA
+Audio Formats  • TV support: Dolby Digital and PCM. 
+• Music support: compressed MP3, AAC (without DRM), WMA without 
+DRM (including purchased Windows Media downloads), AAC (MPEG4), 
+AAC+, Ogg Vorbis, Apple Lossless, Flac (lossless) music files, as well as 
+uncompressed WAV and AIFF files.
+• Native support: 44.1kHz sample rates. Additional support for 48kHz, 
+32kHz, 24kHz, 22kHz, 16kHz, 11kHz, and 8kHz sample rates. MP3 
+supports all rates except 11kHz and 8kHz.
+Note: Apple “FairPlay”, WMA DRM and WMA Lossless formats not 
+supported. Previously purchased Apple “FairPlay” DRM-protected 
+songs may be upgraded. 
+Album Art JPEG, PNG, BMP, GIF
+Playback Modes Crossfade, shuffle, repeat
+Playlists iTunes, Napster, WinAmp, and Windows Media Player (.m3u, .pls, .wpl)
+Networking
+Ethernet Port One 10/100 Mbps Ethernet port.
+.
+Wireless Connectivity See Your home network
+SonosNet™ Extender Extends the power of SonosNet, a secure AES encrypted, peer-to-peer 
+wireless mesh network dedicated for your Sonos system to reduce Wi-Fi 
+interference.
+General
+Touch Controls Volume +/-, Play/Pause, Next/Previous Track, Microphone
+Top Panel LEDs Status and microphone indicators
+Input Power 100 – 240 VAC, 50/60 Hz, 2.5 A 
+(Refer to bottom of the enclosure) 20 Product Guide
+Feature Description
+Dimensions (H x W x D) 2.68" H x 25.63" W x 3.94" D (68mm x 651mm x 100mm) 
+Weight 6.2 lbs. (2.8 kg)
+Operating Temperature 32°F to 104°F (0°C to 40°C)
+Storage Temperature -4°F to 122°F (-20°C to 50°C)
+Package Contents Soundbar, AC power cord, HDMI cable, optical adapter, quickstart g1uide, 
+warranty and regulatory booklet.
+Control Use your remote control, voice, touch controls or the Sonos app
+Supported Devices Works with amplified and non-amplified Sonos products. Connects to TV 
+with HDMI cable (with or without an attached optical adapter). Plays sources 
+connected to the TV, including cable boxes and game consoles. 
+ 
+* Specifications subject to change without notice.
+Product guide feedback?
+We’d love to hear from you! We’ll read your feedback carefully and use it to help us improve our product 
+guides. Write to us at: docfeedback@sonos.com
+If you’re having a problem with your Sonos system, please contact Customer Care so they can help. Email 
+them at http://www.sonos.com/emailsupport.
+Need more help?
+• Tap   > Help & Tips to get some simple tips for getting the most out of your speakers.
+• Visit our Frequently Asked Questions (FAQ) pages at www.sonos.com/support.
+• Ask us a question at http://www.sonos.com/emailsupport. 

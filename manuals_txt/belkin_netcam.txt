@@ -1,0 +1,383 @@
+NWi-Fi® CaEmera wiTth NightC Vision AM
+User Manual
+F7D7601V1 • 8820-01175 Rev. B00 TABLE OF CONTENTS
+Getting Started . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 Troubleshooting, Support, and Warranty  . . . . . . . . . . . . . . . . . . . . . . . . 28
+What’s in the Box......................................................1 Troubleshooting.....................................................28
+Initial Setup ...........................................................1 Technical Support...................................................29
+Set Up Your Camera Wirelessly Through Your Mobile Devices .........2 Belkin International, Inc., Limited 2-Year Product Warranty ...........30
+Getting to Know Your Wi-Fi Camera  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19 Regulatory Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .33
+Front Panel...........................................................19 FCC Statement ......................................................33
+Back Panel ..........................................................20
+Technical Details . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .21
+Software Features and Specifications .................................21
+Hardware Features and Specifications ...............................25 
+System Requirements ...............................................27
+Resetting the Camera ...............................................27 GETTING STARTED
+Congratulations on buying a Belkin NetCam . This   Initial Setup
+device will enable you to easily check in on your  
+home and your loved ones when you are away .
+To get started, you will need: 
+What’s in the Box •  Your wireless router, its network name (SSID),  
+and password.
+NetCam •  An Android™ device (Version 2.2 or later) or an iPhone, 
+iPad, or iPod touch (iOS Version 4.1 or later).
+Power Supply
+Quick Installation Guide
+Mounting Kit
+1 GETTING STARTED
+Set Up Your Camera Wirelessly Through Your   2. Switch the NetCam to Setup Mode by flipping up the switch on the  
+Mobile Devices    back of the camera
+1. Plug the NetCam into a power outlet
+Please make sure the switch is  
+in   setup mode and the   Wi-Fi light is blinking.
+2 GETTING STARTED
+3. Download the NetCam App from the App Store or Google Play 4. Set Up on iPhone, iPad, or iPod touch
+4.1 Connect your mobile device to NetCam Wi-Fi signal
+Go to “Settings > Wi-Fi” on your iPhone/iPad/iPod touch  
+and connect to the camera’s Wi-Fi signal.
+3 GETTING STARTED
+4.2 Launch the NetCam App 4.3 Camera Setup
+Once your device establishes a connection with the camera,  Click “Continue” to begin setup.
+launch the NetCam App. You should see a pop-up message 
+like the one below. Click “Yes” to set up your camera.
+4 GETTING STARTED
+4.4 Camera Preview 4.5 Connect to Internet
+The camera will show you a preview after successfully connecting   Choose your Wi-Fi network to connect to the Internet.
+to your device.  
+Click “Connect Camera to Internet.”
+You may also choose to connect to your network via Ethernet  
+cable (not included) by clicking “Ethernet.”
+5 GETTING STARTED
+4.6 Connect to Internet Please wait for the camera to establish connection with  
+the Internet.
+Enter your Wi-Fi password if you have a security-enabled network.  
+6 GETTING STARTED
+4.7 Create an Account  4.8 Use Existing Account 
+If this is your first time setting up your camera, you will need   If you have an existing account, select “Use Existing”  
+to create an account. and then enter your account information. Click “Sign in.”
+7 GETTING STARTED
+4.9   Set Up Camera Info  Click “Continue.” It will take a few seconds to register the  
+camera with the server.
+Create the camera name and its description.
+8 GETTING STARTED
+4.10 Setup Complete  Congratulations!
+Please flip the setup switch down on the back of the NetCam. Click 
+“Finish” to complete the setup.
+9 GETTING STARTED
+5. Set Up on Android Devices 5.2 Launch NetCam App!
+5.1 Connect your device to NetCam Wi-Fi signal Once your device establishes a connection with the camera, launch  
+the NetCam App. You should see a pop-up message like the one below.  
+Click “Yes” to set up your camera.
+Go to “Settings > Wireless” and “Network > Wi-Fi settings”  
+and connect to the camera Wi-Fi signal. 
+10 GETTING STARTED
+5.3 Camera Setup 5.4 Camera Preview
+Click “Continue” to begin setup. The camera will show you a preview after successfully connecting to 
+your device. Click “Connect camera to Internet.”
+11 GETTING STARTED
+5.5 Connect to the Internet 5.6 Connect to Internet
+Choose your Wi-Fi network to connect to the Internet. Enter your Wi-Fi password if you have a security-enabled network.
+You may also choose to connect to your network via Ethernet cable 
+(not included) by clicking “Ethernet.” 
+12 GETTING STARTED
+Please wait for the camera to establish an Internet connection. 5.7 Create an Account
+If this is your first time setting up your camera, you will need to create 
+an account.
+13 GETTING STARTED
+5.8 Use Existing Accounts 5.9 Set Up Camera Info
+If you have an existing account, select “Use Existing” and then enter  Create the camera name and its description.
+your account information. Click “Sign in.”
+14 GETTING STARTED
+Click “Continue.” It will take a few seconds to register the camera   5.10 Setup Complete
+with the server.
+Please flip the setup switch down on the back of the NetCam.  
+Click “Finish” to complete the setup.
+15 GETTING STARTED
+Congratulations! 
+16 GETTING STARTED
+6. Mounting Your Camera (optional) Attach screws to wall and hang plate onto screws.
+Unscrew camera post from the base and remove weight.
+1/8 in. or 5.5mm
+2.5mm 
+17 GETTING STARTED
+Align base with plate and screw on camera post.
+18 GETTING TO KNOW YOUR Wi-Fi CAMERA
+Front Panel
+A: Brightness sensor
+B: Camera sensor
+C: IR LED
+D: Microphone
+19 GETTING TO KNOW YOUR Wi-Fi CAMERA
+Back Panel
+B:    Network
+   Green: Connected to server
+    Amber: Connected to local area network only
+    Flashing Amber: Not connected to any network
+    Flashing Green: Connected to network, ready to set up 
+ 
+C:      Power
+    Green: Power On
+D: RJ45 port:
+Can be used for wired setup and for a wired connection with the  
+router while using the NetCam.
+E: Camera holder
+You can adjust the NetCam’s position by adjusting the holder.
+F: Reset button
+Reset System: Press and hold for 1 second to reset the system.
+Factory Default: Press and hold for 20 seconds to restore factory  
+default settings.
+LED Indicators
+G: Setup switch
+A:     Setup
+Flip up to switch to setup mode.
+    Green: Setup up mode on
+Flip down to switch to camera mode.
+    Amber: Setup mode initializing
+    Light Off: Setup mode off
+2200 TECHNICAL DETAILS
+Technical Features •	 User account management
+•	 Create new user account
+Software Features and Specifications  •	 Reset	password
+App on iOS or Android
+•	 Camera setup
+•	 Live camera viewing
+•	 Save snapshot and video from the live stream
+•	 Live one-way audio
+•	 Camera settings  
+	 •	 Enable/disable	email	alert 
+	 •	 Camera	sharing	 
+	 •	 Set	camera	status	(online,	offline,	private) 
+	 •	 Video	stream	(Frame	rate,	video	resolution,	quality)
+•	 General settings  
+	 •	 Reset	password 
+	 •	 Sign	in	automatically
+•	 Invite friends to view your camera
+Web App
+•	 Live camera viewing 
+•	 	Live	audio	on	selected	PC	web	browsers	(Internet	Explorer®,	
+Firefox®,	and	Google	Chrome™)	
+•	 Camera settings 
+•	 Camera firmware upgrade
+•	 Delete camera 
+•	 Invite friends to view your camera
+•	 Enable/disable	email	alert
+21 TECHNICAL DETAILS
+Main Window Camera Configuration
+•	 Name: Name of your camera  
+•	 Share/unshare:	Make	your	camera	public	to	your	friends	or	not.	
+•	 Status:	Change	camera	status	to	be	online,	offline,	or	private.
+•	 Rotation:	Select	Normal	or	Flipped	Vertically	on	the	videos.
+•	 IR:	Select	“Auto,”	“On,”	or	“Off”	of	IR	LEDs.
+•	 Frame	Rate:	Up	to	30fps
+•	 Quality:	1-5	(Best	=	5)
+Configure 
+Camera •	 Video	Size:	160x120,	320x240,	640x480.
+•	 Microphone	>	Enable/Disable	Microphone
+•	 Email	alert	>	Enable/Disable	email	alert
+22 TECHNICAL DETAILS
+Camera Viewer
+Take	a	  Record	  Enable 
+Snapshot Video Microphone
+23 TECHNICAL DETAILS
+Protection Web Browser
+Access	this	link	via	Internet	Explorer,	Netscape,	Firefox,	
+To	protect	your	security	against	a	hacker,	a	pop- or	Google	Chrome:	http://www.belkin.com/netcam
+up message will alert you if someone else is logged 
+into	your	account	at	the	same	time	as	you. Then	you	can	view	the	camera	via	your	PC.
+24 TECHNICAL DETAILS
+Hardware Features and Specifications 
+Still Image Capture Support	VGA	and	0.3MP	
+resolution	JPEG	still	capture
+Camera
+Video Features Adjust	image	size	and	quality 
+Image Sensor VGA	1/4	inch	CMOS	sensor Flip	and	mirror	image
+Lens Focal	length:	3.1mm,	F2.6 Audio
+View Angle Horizontal:	64°  Audio In Built-in	microphone,	-38	dB	±	2	dB
+Vertical:	48° 
+Diagonal:	80° Audio Compression G.711,	PCM
+IR LEDs 8	IR	LEDs,	850nm 
+8-meter	illumination	distance
+IR Mode Always	on  Networking
+Always	off 
+Auto	mode  Network Interface 10/100Base-TX	Fast	Ethernet 
+●	IR	turns	on	when	luminance  802.11b/g/n	WLAN
+				decreases	to	about	3	lux 
+Wireless Connectivity 802.11b/g/n	Wireless	with	 
+●	IR	turns	off	when	luminance	 
+WEP/WPA/WPA2	security
+				increases	to	about	8	lux
+Radio Specifications RF	band:	ISM	Band	2.4GHz 
+Ambient Light Sensor RoHS-compliant	560nm	luminance	 
+Channels:	Varies	by	country 
+detector
+RF	Power	Output 
+●	802.11n:	14	±	1	dBm	Average 
+Video ●	802.11g:	14	±	1	dBm	Average 
+Codecs MJPEG,	JPEG	for	still	images ●	802.11b:	16	±	1	dBm	Average
+Resolution 160x120,	320x240,	640x480 Antenna Type:	Chip	antenna,	SMD 
+Gain:	1.3	dBm	peak 
+Frame Rate Up	to	30	frames Efficiency:	above	65%
+25 TECHNICAL DETAILS
+General Power External	AC-to-DC	switching	
+power adapter
+System Processor:	RT5350  Input:	100-249V	AC,	50/60Hz,	
+Speed:	360MHz  Output:	5V	DC,	1A
+DRAM:	64MB 
+Flash:	8MB
+Button Reset	Button 
+●	Reset	system:	Press	less	than	1	 
+    second to reset the system 
+●	Factory	default:	Press	and	hold	20		 
+    seconds to restore the factory  
+    default settings
+Switch Setup mode switch: Turn 
+setup mode on and off
+LEDs Setup	Mode	LED 
+●	Solid	Green:	Setup	Mode	on 
+●	Amber:	In	progress	to	switch	to	 
+				Setup	Mode	 
+●	No	light:	Setup	Mode	off 
+Network	LED	 
+●	Solid	Amber:	Local	network	ok 
+●	Solid	Green:	Connection	to 
+				Internet	ok 
+●	Flashing	Amber:	No	network	yet 
+●	Flashing	Green:	Global	Internet	ok 
+System	LED	 
+●	Solid	Green:	System	on
+26 TECHNICAL DETAILS
+System Requirements Resetting the Camera
+iPhone,	iPad,	or	iPod	touch	with	iOS	4.1	or	above	or	Android	 The	“Reset”	button	is	used	in	rare	cases.	In	the	unlikely	event	
+smart	devices	Version	2.2	or	above that	your	camera	functions	improperly,	please	use	a	pin	to	
+reset	the	camera.	The	Reset	button	is	where	the	arrow	below	
+PC	OS:	Windows®	XP,	Windows	Vista®,	or	Windows	7,	or	 points.	Reset	the	camera	when	the	switch	is	in	“OFF”	mode.	
+Mac	OS®	X	v10.6.8	Snow	Leopard After	the	reset,	the	camera	will	resume	to	the	default	setting. 
+PC	browsers:	Internet	Explorer	8,	Google	Chrome	16,	Firefox	 •	 	Reset	system:	Press	and	hold	for	1	second	to	reset	
+11.1,	Safari®	5.1	Using	the	latest	Adobe	Flash	Player the system
+•	 	Reset	to	factory	default:	Press	and	hold	for	20	seconds	
+to restore the factory default settings
+27 TROUBLESHOOTING, SUPPORT, AND WARRANTY
+If I buy more cameras, could I use the same username to   How can I share my cameras with my friends?
+connect them?
+Log in to your account. Under the camera configuration, 
+Unlimited cameras can be added under your own account, but  find the “Sharing” icon. Type in your friends’ email 
+each one should have a different camera name. The figure below  addresses to invite them to see your camera.
+shows that you can have different cameras under your account.
+28 TROUBLESHOOTING, SUPPORT, AND WARRANTY
+How can I upgrade the firmware? Can I change my username?
+Access your NetCam’s account from a web browser. Under the   Your username is what identifies your account information, 
+camera configuration, a screen will pop up like the one below. Click   and once set, it cannot be changed. If you later do not like your 
+“Update Now.” It will take about 5~10 minutes to upgrade the new   username, the only recourse is to create a new account. Please 
+firmware. note that any subscription services registered in the old account 
+(if applicable) cannot be transferred to the new account.
+Forgot or lost your password?
+The NetCam App login screen has a link labeled “Forgot your 
+password?” that takes you to the account sign-in webpage. Type 
+in your username and email address, and then click the Reset 
+button to begin the process of setting up a new password.
+Technical Support 
+US   
+http://www .belkin .com/support
+29 TROUBLESHOOTING, SUPPORT, AND WARRANTY
+Belkin International, Inc ., Limited 2-Year Product Warranty What is not covered by this warranty?
+All above warranties are null and void if the Belkin product is not 
+provided to Belkin for inspection upon Belkin’s request at the sole 
+What this warranty covers .
+expense of the purchaser, or if Belkin determines that the Belkin product 
+Belkin International, Inc. (“Belkin”) warrants to the original  has been improperly installed, altered in any way, or tampered with. 
+purchaser of this Belkin product that the product shall be free  The Belkin Product Warranty does not protect against acts of God 
+of defects in design, assembly, material, or workmanship. such as flood, lightning, earthquake, war, vandalism, theft, normal-use 
+wear and tear, erosion, depletion, obsolescence, abuse, damage due 
+to low voltage disturbances (i.e. brownouts or sags), non-authorized 
+What the period of coverage is .
+program, or system equipment modification or alteration.
+Belkin warrants the Belkin product for two years.
+What will we do to correct problems?
+Product Warranty.
+Belkin will repair or replace, at its option, any defective product free of 
+charge (except for shipping charges for the product). Belkin reserves the 
+right to discontinue any of its products without notice, and disclaims any 
+limited warranty to repair or replace any such discontinued products. 
+In the event that Belkin is unable to repair or replace the product (for 
+example, because it has been discontinued), Belkin will offer either a 
+refund or a credit toward the purchase of another product from Belkin.
+com in an amount equal to the purchase price of the product as evidenced 
+on the original purchase receipt as discounted by its natural use.
+30 TROUBLESHOOTING, SUPPORT, AND WARRANTY
+How to get service . 2 . Your Belkin Customer Service Representative will then 
+To get service for your Belkin product you must take the following steps: instruct you on how to forward your receipt and Belkin 
+product and how to proceed with your claim.
+1 . Contact Belkin International, Inc., at 12045 Waterfront 
+Drive, Los Angeles, CA 90094, Attn: Customer Service,  Belkin reserves the right to review the damaged Belkin product. All 
+or call (800)-223-5546, within 15 days of the Occurrence.  costs of shipping the Belkin product to Belkin for inspection shall be 
+Be prepared to provide the following information: borne solely by the purchaser. If Belkin determines, in its sole discretion, 
+that it is impractical to ship the damaged equipment to Belkin, Belkin 
+  a.  The part number of the Belkin product.
+may designate, in its sole discretion, an equipment repair facility to 
+  b.  Where you purchased the product.
+inspect and estimate the cost to repair such equipment. The cost, if 
+  c.  When you purchased the product. any, of shipping the equipment to and from such repair facility and 
+  d.  Copy of original receipt. of such estimate shall be borne solely by the purchaser. Damaged 
+equipment must remain available for inspection until the claim is finalized. 
+Whenever claims are settled, Belkin reserves the right to be subrogated 
+under any existing insurance policies the purchaser may have.
+31 TROUBLESHOOTING, SUPPORT, AND WARRANTY
+How state law relates to the warranty .
+THIS WARRANTY CONTAINS THE SOLE WARRANTY OF BELKIN. 
+THERE ARE NO OTHER WARRANTIES, EXPRESSED OR, EXCEPT AS 
+REQUIRED BY LAW, IMPLIED, INCLUDING THE IMPLIED WARRANTY 
+OR CONDITION OF QUALITY, MERCHANTABILITY OR FITNESS FOR A 
+PARTICULAR PURPOSE, AND SUCH IMPLIED WARRANTIES, IF ANY, 
+ARE LIMITED IN DURATION TO THE TERM OF THIS WARRANTY.
+Some states do not allow limitations on how long an implied 
+warranty lasts, so the above limitations may not apply to you.
+IN NO EVENT SHALL BELKIN BE LIABLE FOR INCIDENTAL, SPECIAL, 
+DIRECT, INDIRECT, CONSEQUENTIAL OR MULTIPLE DAMAGES 
+SUCH AS, BUT NOT LIMITED TO, LOST BUSINESS OR PROFITS 
+ARISING OUT OF THE SALE OR USE OF ANY BELKIN PRODUCT, 
+EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+This warranty gives you specific legal rights, and you may also have 
+other rights, which may vary from state to state. Some states do 
+not allow the exclusion or limitation of incidental, consequential, or 
+other damages, so the above limitations may not apply to you.
+32 REGULATORY INFORMATION
+DECLARATION OF CONFORMITY WITH FCC RULES  • Reorient or relocate the receiving antenna. 
+FOR ELECTROMAGNETIC COMPATIBILITY • Increase the distance between the equipment and the receiver. 
+•  Connect the equipment to an outlet on a circuit different 
+We, Belkin International, Inc., of 12045 E. Waterfront Drive, Playa  from that to which the receiver is connected. 
+Vista, CA 90094, declare under our sole responsibility that the device, 
+• Consult the dealer or an experienced radio/TV technician for help.
+F7D7601v1, complies with Part 15 of the FCC Rules. Operation is 
+subject to the following two conditions: (1) this device may not cause 
+ FCC Caution: Any changes or modifications not expressly approved  
+harmful interference, and (2) this device must accept any interference 
+by the party responsible for compliance could void the user’s authority  
+received, including interference that may cause undesired operation.
+to operate this equipment.
+FCC Statement 
+ 
+Federal Communication Commission Interference Statement IMPORTANT NOTE:
+ 
+FCC Radiation Exposure Statement:
+This equipment has been tested and found to comply with the 
+limits for a Class B digital device, pursuant to Part 15 of the FCC 
+This equipment complies with FCC radiation exposure limits set forth  
+Rules. These limits are designed to provide reasonable protection 
+for an uncontrolled environment. This equipment should be installed  
+against harmful interference in a residential installation.
+and operated with a minimum distance of 20cm between the radiator  
+and your body.
+This equipment generates, uses, and can radiate radio frequency 
+energy, and if not installed and used in accordance with the instructions, 
+may cause harmful interference to radio communications. However, 
+there is no guarantee that interference will not occur in a particular 
+installation. If this equipment does cause harmful interference to 
+radio or television reception, which can be determined by turning 
+the equipment off and on, the user is encouraged to try and correct 
+the interference by one or more of the following measures:
+33 © 2012 Belkin International, Inc. All rights reserved. All trade names are registered trademarks of respective manufacturers 
+listed. Windows, Windows Vista, and Internet Explorer are either registered trademarks or trademarks of Microsoft 
+Corporation in the United States and/or other countries. iPad, iPhone, iPod touch, Mac OS, and Safari are trademarks of 
+Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Wi-Fi is a registered trademark 
+of the Wi-Fi Alliance. Android, Google Chrome, and Google Play are trademarks of Google Inc.  registered trademark of the 
+Wi-Fi Alliance. Android, Google Chrome, and Google Play are trademarks of Google Inc. 

@@ -1,0 +1,1185 @@
+Get Started 
+  
+What You Need 
+Here's what you'll need to start using your NVIDIA SHIELD TV Pro: 
+1.  TV or monitor with HDMI port (HDCP compatible) 
+2.  High-speed HDMI 2.0 cable 
+3.  Internet connection via Wi-Fi or Ethernet 
+4.  A Google account 
+Set Up NVIDIA SHIELD TV Pro 
+Here's how to plug in your NVIDIA SHIELD TV Pro and connect your controller: 
+1.  Connect your SHIELD TV Pro to your TV with a certified HDMI 2.0 cable. 
+o  Make sure your TV or monitor is off, and plug one end of the HDMI cable into 
+the HDMI port on the back of your SHIELD.  Plug the other end of the cable into 
+an HDMI port on your TV or receiver. 
+2.  Connect your SHIELD TV Pro to power, using the power cord. 
+o  Plug one end of the power cable into the back of your SHIELD and plug the other 
+end into a power outlet.  SHIELD will automatically power on as you plug it in 
+and you will see the green light turn on.  When you are not using it, it will 
+automatically go into sleep mode. 
+3.  OPTIONAL: Connect your SHIELD TV Pro to Ethernet.  If you do not use an Ethernet 
+connection, you will have an option during setup to connect to a Wi-Fi network. 
+4.  Turn on your TV and change to the correct HDMI input. 
+o  If you have trouble finding the correct input, check the label on your HDMI ports 
+on your TV or monitor. 
+  
+Connecting SHIELD Controller 
+If you have purchased a new SHIELD TV Pro, the SHIELD Controller is automatically paired with 
+your SHIELD TV device.  Simply press the 'A' button   to turn it on.   Connecting SHIELD Remote 
+If you have purchased a new SHIELD TV Pro, the NVIDIA SHIELD Remote w/ headphone jack is 
+automatically paired with your SHIELD TV at the factory.  or connect it to another USB power 
+source. 
+  
+Connect to Wi-Fi 
+From the SHIELD home screen, go to Network Settings  > Wi-Fi and from the list select the 
+network you want to connect to. 
+SHIELD also supports captive portal, so if your network requires web authentication, SHIELD will 
+bring up the authentication web page and allow you to sign in. 
+Try these troubleshooting steps if your device won't connect to Wi-Fi. 
+Check for System Upgrade 
+System upgrades are pushed to your SHIELD TV directly from NVIDIA.  A notification will appear 
+in the Recommendations row (the top row of the SHIELD TV Home screen) when an upgrade is 
+available.  Simply select this notification and your SHIELD TV will automatically download and 
+apply the update.  You can also manually check for updates by going to Settings    > About > 
+System upgrade. 
+Using the Android TV Remote Control App 
+You need an Android phone or tablet running Android 4.3 or higher to use the Android TV 
+Remote Control app. 
+You can control your TV through your phone or tablet with the Android TV Remote Control app. 
+  
+Set Up the Remote Control App 
+1.  Download and install the Android TV Remote Control app on your phone or tablet.  You 
+can also search for "Android TV Remote Control" on Google Play. 
+2.  Make sure your phone or tablet is on the same Wi-Fi network as your Android TV. 
+3.  Open the Android TV Remote Control app  on your phone or tablet.  4.  In the app, you'll see your Android TV listed.  Touch the name. 
+5.  On your TV screen, you'll see a PIN.  Enter this PIN on your phone or tablet. 
+6.  Then touch Pair. 
+  
+Use the Remote Control App 
+You can use the Android TV Remote Control app to navigate your TV screen. 
+Search 
+You can also use your remote to search with your voice, by touching the Voice search button 
+. 
+Keyboard 
+If you need to type on your Android TV, touch the keyboard  at the top of the app to bing up 
+a keyboard.  The keyboard may not be supported on all apps. 
+Remote Layout 
+You can choose from two layout for your remote: 
+1.  Standard remote layout (D-pad) 
+o  Touch arrows to move up, down, right, and left on your TV. 
+o  Touch the center circle to select. 
+2.  Trackpad remote 
+o  Swipe your mobile device's screen up, down, left or right to navigate on your TV. 
+o  Touch anywhere on the screen to select. 
+Using Your TV Remote 
+If your TV supports HDMI-CEC, you can also use your TV remote to navigate the SHIELD UI and 
+control video playboack. 
+NOTE HDMI-CEC must be enabled in your TV's settings.  Search for your TV 
+manufacturer's name and "HDMI-CEC" to find out what they call it and how to enable 
+it. 
+Introduction to Android TV    
+Basic Layout and Navigation 
+From the Android TV home screen, you can easily access movies, TV shows, music, apps, games, 
+and settings.  To get to the Home screen at any time, press the Home button  on your SHIELD 
+remote or on your SHIELD controller. 
+ 
+(1) Recommendations 
+On the top row of the Home screen, you'll see the recommendations for movies, TV shows, 
+apps, and games.  Recommendations are posted by the apps on your SHIELD.  They're updated 
+based on the recommendations you've selected in the past. 
+If you're signed in to these apps on your phone or computer, what you view on these other 
+devices may affect the recommendations on your Android TV if you're using the same 
+account.  This includes Google Play apps.  You won't be able to manually charge the order of 
+the content. 
+You can remove recommendations from a specific app by going to Settings > Preferences > 
+Home screen > Recommendations row.     
+NOTE The recommendations row also shows any software updates available for your 
+SHIELD or accessories. 
+(2) Apps 
+Apps can be manually ordered by holding Select on the app in focus and moving to the desired 
+location.  You can enable automatic sorting based on usage by enabling Settings > Home screen 
+> Apps and games row > Sort automatically by recent usage.  (3) Games 
+Games appears in the third row.  Here you will find the NVIDIA Games app 
+, which is your portal to discover games on 
+SHIELD.  Here you will access Android games, GeForce NOW games, and GameStream 
+games.  Also, any game you play on your SHIELD TV will be shown in the Games row, whether it 
+was streamed with GameStream, streamed from the cloud with GeForce NOW, or an Android 
+game run natively on SHIELD TV. 
+(4) Settings 
+The bottom row contains Settings for SHIELD TV. 
+Search 
+You can also search on Android TV by navigating to the top of the Home screen and selecting 
+the search icon.  You can also initiate Voice search instantly at any time by pressing the NVIDIA 
+button on your SHIELD Controller or by pressing the Voice search button on your SHIELD 
+Remote.  Learn more about what you can search for on Android TV. 
+  
+Using Search 
+To find what you're looking for on Android TV, or to discover more content, you can start a 
+search.  You can also get facts and quick answers through your TV. 
+Voice Search 
+On your SHIELD controller or remote:  1. While you are on the Home screen, pressing the NVIDIA button  (SHIELD controller) or 
+     
+press the Voice search button  (SHIELD remote). 
+2. Hold your SHIELD Controller or SHIELD Remote in front of you, and say your question.  Your 
+     
+search results appear as soon as you finish speaking. 
+NOTE If you are in a room with a lot of background noise or other people speaking, 
+when you are done speaking immediately press A on  your SHIELD controller or Select 
+on your SHIELD remote to submit the voice search.  This will stop the voice detection 
+from continuing to listen. 
+What You Can Search For 
+Check out the examples below to learn about some of the things you can search for on your 
+Android TV. 
+Voice search language availability 
+You can say most of these examples in English, French, German, Italian, Japanese, Korean, 
+Russian, Spanish, and Brazilian Portuguese, but some examples aren't available in every 
+language. 
+Entertainment 
+To find a movie, TV show, artist, or song, just say the name: 
+  "Batman" or "Robin Hood." 
+  "Ghostbusters" or "Game of Thrones." 
+  "Billie Jean." 
+  "Matt Damon" or "Madonna." 
+You can also: 
+  Search for content featuring a certain actor.  Say: "Show me movies with Meryl Streep." 
+  Search for a specific genre.  Say: "Romantic comedies" or "Football movies." 
+  Find when movies are playing in theaters.  Say: "Show me movies playing nearby" or 
+"Show me movies playing in Hermosa Beach.  You may also see search results from apps you've installed on your Android TV. These results 
+will show up in a separate row.  Some search results will be available in a few different 
+apps.  When you select the content, you'll be able to choose the app you'd like to use. 
+Facts and Quick Answers 
+  Find the time: "What time is it in London?" 
+  Check the weather: "What's the weather in Seattle?" 
+  Answer trivia questions: "What's the population of Romania?"  or "How tall is Mount 
+Kilimanjaro?" or "Where was Albert Einstein born?" 
+  Solve a math problem: "What's 34 times 94?" 
+  Get sports scores and schedules: "What's the score of the Jets vs. Broncos game?" 
+  Search for photos: "Show me photos of the Golden Gate Bridge." 
+What apps show up in search results 
+You may also see search results from apps you've installed on  your Android TV.  These results 
+will show up in a separate row.  Some search results will be available in a few different 
+apps.  When you select the content, you'll be able to choose the app you'd like to use. 
+  
+Performing a Voice search within an app. 
+You may also use voice search within many apps.  If you initiate a voice search within an app, 
+you will get serach results only from that app. 
+  
+Block in appropriate or explicit images with SafeSearch 
+SafeSearch can help you block inappropriate or explicit images from your Google Search 
+results.  The SafeSearch filter isn't 100% accurate but it helps you avoid most adult 
+content.  Learn more about how SafeSearch works. 
+Turn SafeSearch on or off 
+NOTE This only turns on SafeSearch on your Android TV. 
+1.  From Android TV's Home screen, scroll down until you reach Settings  . 
+2.  Select Settings  . 
+3.  Under "Preferences," select Search  . 
+4.  Select SafeSearch filter  .  5.  Select On or Off. 
+  
+For help with the Android TV OS, please visit Google's support site at 
+https://support.google.com/androidtv/#topic=6121147. 
+Sleep Now or Restart 
+  
+Sleep Now 
+SHIELD TV will automatically go to sleep after the time period: 
+1.  On the SHIELD TV Home screen, select Settings  .   
+2.  Under "Device," select Screen saver. 
+3.  Select When to start. 
+4.  Select one of the options. 
+Restart 
+To restart: 
+1.  On the SHIELD TV Home screen, select Power  and "Restart." 
+2.  If this is unsuccessful, you can also unplug the power cord, wait 10 seconds, and then 
+plug the power cord back in. 
+Sleep Timing and Screen saver 
+You can set up a screen saver for your SHIELD TV that displays photos and colorful 
+designs.  Daydream uses a collection of scenic photos. 
+   Choose Your Screen saver 
+1.  On the SHIELD TV Home screen, select Settings  . 
+2.  Under "Device," select Screen saver  . 
+3.  Select Screen saver again. 
+4.  Choose from the available options. 
+  
+Set Wait Time for Screen saver 
+You can choose how long it takes for your screen saver to start when not using your SHIELD TV: 
+1.  On the SHIELD TV Home screen, select Settings  . 
+2.  Under "Device," select Screen saver  . 
+3.  Select Put device to sleep. 
+4.  Select one of the options. 
+Add Bluetooth Accessories 
+You can use Bluetooth accessories, such as a wireless keyboard, mouse or game controller with 
+your SHIELD TV. 
+To add a Bluetooth accessory: 
+1.  On the SHIELD TV Home screen, select Settings  . 
+2.  Under Remote & accessories, select Add accessory  .  You SHIELD will search for 
+Bluetooth accessories within range. 
+3.  Put your accessory in connecting mode. 
+4.  You'll see your accessory listed on the TV screen.  Select your accessory. 
+5.  Your SHIELD TV will connect with your accessory. 
+  
+Trouble Adding Bluetooth Accessory 
+Try these troubleshooting steps if your Bluetooth accessory won't connect. 
+Change Wi-Fi Network  You will connect to the Internet as part of your SHIELD TV setup.  You can always change the 
+Wi-Fi network your SHIELD TV is using. 
+To change your Wi-Fi network: 
+1.  On the SHIELD TV Home screen, select Network Settings  . 
+2.  Select Wi-Fi. 
+3.  You'll see a list of available networks. 
+4.  Select a network and follow the on-screen instructions to connect. 
+o  If you don't see your network listed, scroll to the bottom of the screen and select 
+Add new network.  Follow the on-screen instructions to connect. 
+What is my MAC Address? 
+To view your MAC address after setup, go to Settings  > Device > About > Status > MAC 
+address. 
+  
+Trouble Connecting to Wi-Fi 
+Try these troubleshooting steps if your device won't connect to Wi-Fi. 
+4K HDR Display Setup 
+Your SHIELD TV supports 4K Ultra HD (3840 x 2160p) resolution content when available from 
+the applications of your choice. 
+To ensure that your SHIELD TV is optimized for 4K video output, keep your device updated with 
+the latest system software. 
+Watching 4K content from SHIELD TV requires a 4K display with HDMI 2.0 and HDCP 2.2 
+support.  Make sure SHIELD TV is connected to an HDMI input that supports HDCP 2.2.  Consult 
+your 4K display's user guide to find the correct HDMI port to plug SHIELD TV into for watching 
+4K content. 
+NOTE Most 4K streaming content requires HDCP 2.2 compatible ports.  See your 4K 
+display's user guide for further details. 
+SHIELD TV also supports content rendered with 4:4:4, and 4:2:0 chroma subsampling 
+frequency ratios.  Many receivers come with HDMI-ARC, HDMI-MHL, and HDMI-UHD ports. 
+Consider using the HDMI-UHD port for 4K support.  Some TVs by default have UHD input 
+disabled in TV settings, so please make sure that UHD is enabled in the settings for your TV for 
+this input. 
+  
+How to Enable HDR on Your TV 
+Most HDR TVs do not have HDR output enabled by default for HDMI.  To enable HDR output 
+from SHIELD, refer to your TV owner's manual.  Here are the settings for some of the common 
+TVs: 
+  Samsung HDR TVs: Menu > Picture > Picture Options > HDMI UHD Color > On > Restart 
+  LG HDR TVs: Home > HDMI > Settings > Advanced > Picture > HDMI ULTRA DEEP COLOR 
+> On > Restart 
+  Sony HDR TVs: Home > Settings > External inputs > HDMI signal format > HDMI [select 
+the SHIELD input] > Enhanced mode (TV will reboot) 
+Watching Netflix 4K or HDR 
+To watch Netflix shows in 4K or HDR, you may need to upgrade your Netflix service account to 
+the "4 screen plan."  Consult Netlfix's article on their latest requirements to stream 4K or HDR 
+content.  http://help.netflix.com/en/node/42384 
+AVR / Surround Audio Setup 
+For Dolby & DTS 5.1, SHIELD TV supports Dolby Digital (AC3), Dolby Digital Plus (E-AC3), Dolby 
+ATMOS, Dolby TrueHD, DTS:X, and DTS Core Audio Streams in pass-through mode.  So, in order 
+to use Surround Sound, use an AV receiver or HDMI TV that's capable of decoding these audio 
+streams. 
+NOTE If your receiver or HDMI TV does not have the capability to decode the 
+streams, then there may not be any audio. 
+NOTE Make sure your receiver has been updated with the latest firmware.  In some 
+cases, this can resolve compatibility or audio/video issues. 
+(I) 
+1.  Connect your SHIELD TV to a receiver with an HDMI cable. 
+2.  Plug another HDMI cable from your receiver's HDMI OUT port to the TV.   
+NOTE If you have a 4K or HDR TV, you must attach HDMI 2.0 compatible cables 
+between both the SHIELD and the AVR and between the AVR and the display.  Your 
+AVR must also be compatible with HDMI 2.0 (HDCP 2.2) signal. 
+(II) 
+1.  Connect your SHIELD TV to a TV with an HDMI cable. 
+2.  Plug an SPDIF (optical) cable from the TV to the receiver.   
+  
+Netflix 5.1 Surround Sound 
+Netflix 5.1 requires EAC3 pass-through (which SHIELD supports).  However, many TVs don't 
+support EAC3 pass-through (only AC3). 
+You will get Netflix 5.1 if your TV or receiver supports EAC3. 
+Here are the valid HDMI routing options for Netflix 5.1 surround sound: 
+1.  SHIELD > Receiver > TV 
+o  In this configuration, the TV does not have to support EAC3 pass-
+through.  However, your receiver needs to support EAC3 decode.  Most do. 
+2.  SHIELD > TV 
+o  In this configuration, the TV will need to support EAC3 pass-through or EAC3 
+decode via its HDMI input port. 
+Block Apps from Appearing in 
+Recommendations 
+You can stop specific apps from appearing in the recommendations row at the top of the 
+SHIELD TV Home screen.  You can do this by turning off notifications from that app, or 
+uninstalling the app.    
+Turn Recommendations On or Off 
+If you don't want an app appearing in the top row of the SHIELD TV Home screen, you can turn 
+off notifications for the app.  Here's how: 
+1.  On the SHIELD TV Home screen, select Settings  . 
+2.  Under "Preferences," select Home screen > Recommendations row. 
+3.  Select the apps you would like to receive recommendations for. 
+If you decide to unblock an app that was previously blocked, it may take a few minutes for the 
+app to reappear on your Home screen. 
+  
+Uninstall an App 
+To uninstall an app: 
+1.  On the SHIELD TV Home screen, highlight the app you would like to uninstall and hold 
+the select or  button. 
+2.  Press down on the D-pad and your app tile will hover over the "Uninstall" icon. 
+3.  Press select again to uninstall the app. 
+Enable SHIELD to Turn on and off 
+your TV 
+If your TV supports HDMI-CEC one touch play, it can be enabled in SHIELD TV Display & Sound 
+> Power control > CEC TV On settings to turn on your TV and switch to the input that SHIELD TV 
+is on whenever your SHIELD wakes up or you press a button on your SHIELD Controller or 
+Remote. 
+Your TV can also be configured to sleep when your SHIELD is turned off by enabling the Display 
+& Sound > Power control > CEC TV Off switch. 
+NOTE Most TVs have HDMI-CEC "turn TV off" disabled in the TV settings 
+menu.  HDMI-CEC (One Touch Play and TV off) must be enabled in your TV's 
+settings.  Search for your TV manufacturer's name and HDMI-CEC to find out what 
+they call it and how to enable it.    
+AV Sync 
+Use of an AV Receiver with HDMI for video may result in audio lagging behind video.  First try 
+using the receiver AV sync settings to calibrate.  If this does not work, use the AV sync slider 
+utility in Settings  > Display & sound > Advanced settings > Audio video sync to calibrate for 
+any audio delay.  The AV sync slider allows you to advance audio by 1 second (in small 
+increments of 10ms) to synchronize the audio and video. 
+Note that this tool is effective only when SHIELD is connected to your AV Receiver over HDMI 
+(i.e. audio/video over HDMI); it is not meant to be used when a headset is plugged into SHIELD 
+Controller/SHIELD Remote or USB audio device or Bluetooth audio device. 
+If video lags behind audio (i.e. audio is ahead of video) then use your AV receiver’s settings to 
+delay audio. 
+  
+  
+Adjust for Overscan 
+For TVs that don't provide their own overscan settings, use this setting to adjust the picture size 
+to fit the screen. 
+Go to Settings  > Display & Sound > Advanced Settings > Adjust for overscan to resize the 
+picture on your TV or display.  Use the UP and DOWN d-pad buttons on your remote or 
+controller to maximize the picture on your TV.  Make sure the green triangles are completely 
+visible to avoid overscan. 
+About SHIELD Screen 
+Details about serial, software and firmware version numbers can be found in your SHIELD TV 
+About screen. 
+To access this information, from the SHIELD TV screen, go to Settings  , and under "Device," 
+select About  . 
+It is also possible to manually apply system updates by selecting "System upgrade."  How to Change the Account on your SHIELD 
+You'll sign in to your Google account as part of your SHIELD TV setup.  You need a Google 
+account to get the most out of SHIELD TV.  You can only have one Google account signed in on 
+your SHIELD TV at a time. 
+The Google account on your device is used for: Google Play Store, Google Play Movies & TV, 
+Google Play Games, and YouTube. 
+  
+Remove the Current Google Account 
+To remove the current account: 
+1.  On the SHIELD TV Home screen, select Settings  . 
+2.  Under "Accounts," select your Google account email address. 
+3.  Select Remove account  . 
+4.  Select OK.  Your account will be removed. 
+  
+Add New Google Account 
+Now that the original account is removed, you can add the new account. 
+1.  On the SHIELD TV Home screen, select Settings  . 
+2.  Under "Personal," select Add account. 
+3.  Enter your email address and password.  Your account is now added. 
+  
+Set Up and Use Restricted Profiles 
+You can also add an account that restricts access to certain applications.  To add a restricted profile, follow these steps: 
+1.  On the SHIELD TV Home screen, select Settings  . 
+2.  Under "Personal," select Security & restrictions  . 
+3.  Select Restricted Profile > Create restricted user. 
+4.  Create a 4-digit PIN of your choice when prompted. 
+5.  You will then see a list of Allowed apps which you can allow or revoke access to. 
+6.  Select the application and set the restriction to either "Allowed" or "Not 
+allowed."  Downloaded applications are set to "Not allowed" by default. 
+7.  Press  to return to the Restricted Profile screen. 
+8.  To activate the restricted profile on your SHIELD TV, select "Enter restricted profile." 
+9.  To exit your restricted profile, from the SHIELD TV Home screen, select Restricted 
+Profile  > "Exit restricted profile."  You will be prompted for your PIN. 
+Reset SHIELD 
+  
+Reset to Factory Settings 
+NOTE By performing a factory data reset, all data will be wiped from your 
+SHIELD.  Data associated with your Google account can be recovered.  Any device 
+settings will also be removed.  Factory data reset could take from 50-70 minutes to 
+complete. 
+NOTE For the SHIELD Pro model, full reset will take up to 2 hours.  All personal data 
+will be erased from the 500 GB hard drive.  You will also have the options to perform 
+a fast reset. 
+  
+Reset Through Settings 
+To reset your SHIELD TV to factory settings, follow these steps: 
+1.  From the Home screen, scroll down and select Settings  . 
+2.  Under "Device," find and select Storage & reset  . 
+3.  Select Factory data reset. 
+4.  Then select Factory data reset again. 
+5.  Then select Erase everything to confirm and reset your device.    
+Reinstall Apps and Games After Resetting your SHIELD 
+After you reset your SHIELD TV to factory settings, you need to reinstall any apps or games. 
+1.  Go to the Google Play Store app  . 
+2.  Find the app or game, and select it. 
+o  In the window that opens, select Install. 
+How to Use Headphones and Headsets with 
+Your Controller 
+Your SHIELD Controller supports headphones and headsets. 
+Plug the headphones (3-pin) or headset (4-pin) into the 3.5-mm jack on the bottom of the 
+controller. When headphones are used, the internal microphone on the controller is available 
+for voice search and chat. When a headset is used, the headset microphone is used for voice 
+search and chat. 
+The headset jack provides independent volume control from your Android device and maintains 
+your previous headset volume level the next time you use your headset. 
+How to Use Headphones with Your Remote 
+Your remote supports headphones and headsets. 
+Plug the headphones (3-pin) or headset (4-pin) into the 3.5-mm jack on the back of the remote. 
+When headphones are used, the internal microphone on the remote is available for voice 
+search and chat. When a headset is used, the headset microphone is used for voice search and 
+chat. 
+USB Audio Setup 
+For high-resolution audio, your SHIELD TV supports USB-powered devices such as a 
+DAC.  SHIELD TV will play audio sampled at the highest sample rate of 192 kHz and a bit depth 
+of 24-bits as long as it is supported by the USB DAC.  USB Cable 
+1.  Connect the DAC to SHIELD TV with the USB cable supplied with the DAC. 
+2.  Connect the analog audio output ports on your DAC to an AV receiver or speaker 
+system. 
+Optical Cable 
+1.  Connect the optical output port on your TV to the optical input port on your DAC. 
+2.  Connect the analog audio output ports on your DAC to an AV receiver or speaker 
+system. 
+3.  Connect the USB input port to an external AC power supply. 
+How to Use a Micro SD Card 
+SD Cards are small memory cards that you can read, write, and delete data on.  They are 
+available in three sizes: standard SD, mini SD, and micro SD (or microSD).  SHIELD has a slot on 
+the back of the device for a microSD card.  The card can be loaded with music, pictures, and 
+videos as well as game and app files to free-up space on the SHIELD's internal storage drive. 
+Make sure to use a microSD card with a Class 10 speed rating or higher.  Slower SD cards will 
+result in lower performance in apps and games. 
+To access the microSD card on your SHIELD, go to Settings > Device > Storage & reset and scroll 
+down to SD CARD. 
+To learn how to increase your internal storage for apps and games with an SD card, see How to 
+Increase Your Storage 
+How to Use USB Storage Devices 
+You can attach external hard drives using the two USB 3.0 ports, which are compatible with all 
+external hard drives and USB flash drives.  Note that unless drives are adopted as internal 
+storage, they can't be used for app or game storage.  Simply plug the USB storage device of 
+your choice into the port for automatic functionality.  No additional formatting or setup is 
+required.  Your SHIELD TV's USB 3.0 interface is compatible with the FAT32, exFAT, and HFS+ 
+file systems.  SHIELD TV does not support the NTFS file system. 
+To access the USB storage drive on your SHIELD TV, go to Settings > Device > Storage & reset 
+and scroll down to USB Storage  Preparing the usb storage 
+  FAT32 (32 GB or less) - SHIELD TV supports the FAT32 data format.  Most drives that are 
+32 GB or less are already formatted as FAT32.  If the storage drive is not formatted, 
+format it to FAT32, using your PC or Mac computer.  The limitation of using drives of this 
+capacity is that your SHIELD TV will be unable to process files that are more than 4 GB in 
+size. 
+  exFAT (64 GB or more) - SHIELD TV supports the exFAT data format.  Storage drives that 
+are 64 GB and above come pre-formatted as exFAT.  This newer data format is able to 
+process files that are more than 4 GB in size. 
+  
+How to Add Network Storage 
+Your SHIELD TV device can add Network Addressable Storage (NAS) devices.  This can be useful 
+if you have a large amount of personal media shared on a network you would like to access on 
+your SHIELD TV (e.g., PLEX Media Server) 
+To add a NAS, 
+1.  Under Settings  > Device > Storage & reset, select "Network storage." 
+2.  Any network discoverable drives will be located under "Available Network Storage." 
+3.  If your NAS is hidden or does not broadcast, you can select "manually add a network 
+storage." 
+4.  Audio Routing Policy 
+5.  If you have multiple audio output or audio input devices connected to SHIELD TV at the 
+same time, the following table summarizes the priority that each audio device type is 
+assigned. 
+6.    
+Priority  Voice Search Device  Standard Input Device  Output Device 
+SHIELD Remote with headphone 
+1  Wired headset  Wired headset 
+jack 
+2  BT-SCO headset  BT-SCO headset  BT-SCO headset 
+SHIELD Controller with 
+3  Wired headset  SHIELD Controller headset 
+headset 
+SHIELD Controller with or 
+4  USB headset  USB headset 
+without headset 
+SHIELD Controller 
+5  USB headset/webcam  USB headphone 
+without headset  6  Built-in mic  USB webcam  Wired headphone 
+BT headphone / SHIELD 
+7     Built-in mic 
+Remote headset 
+8        HDMI 
+9        Built-in speaker 
+Webcam Setup for Chat 
+You can plug a USB HD webcam into one of your SHIELD USB 3.0 ports for video chatting and 
+broadcasting in applications like Twitch.  SHIELD supports USB webcams that are UVC-
+compliant and support Android.  The latest Logitech webcams meet these requirements.  For 
+the best experience, a Logitech C920 or better is recommended. 
+Video Projector Setup 
+Your SHIELD can also output to a video projector with the following steps: 
+1.  Power on the video projector. 
+2.  Connect SHIELD to the HDMI or VGA input port (via HDMI-to-VGA dongle) on the video 
+projector. 
+3.  For video projectors that automatically detect input sources, you should see video on 
+the projector screen within seconds.  If your video projector does not automatically 
+detect your SHIELD as a video input source, refer to the video projector's native controls 
+interface to switch input source to the video input port that your SHIELD is plugged into. 
+Desktop Display and USB Input Setup 
+To use an HD desktop display with wired USB keyboard and mouse with SHIELD: 
+1.  Connect your SHIELD to an HDMI input port on your desktop display. 
+2.  Connect your wired USB keyboard and mouse to the USB input ports on your SHIELD. 
+  
+Adjusting Resolution and 
+Refresh Rate 
+NVIDIA recommends users to keep the default setting for the best overall experience.  Go to Settings  > Display & Resolution > Resolution to change the resolution or refresh rate 
+of your display. 
+NOTE If you choose a refresh rate other than 60Hz, you will experience slow 
+performance in applications that support 60Hz (Android TV home page, games, and 
+60Hz videos). 
+Adjusting Visual Dynamic Range 
+By default, this is set to Auto.  If you would like to modify the dynamic range of your SHIELD 
+video output,  you can set this by going to Settings > Display and sound > Dynamic range. 
+NOTE Setting may only be modified if Video color space is set to RGB. 
+Color Space and HDR 
+SHIELD TV will select the recommended color space automatically.  If you prefer a different 
+setting that your TV supports, you may select this by going to Settings  > Display and sound 
+> Color space 
+If you have an HDR10 compatible TV or display and would like to view HDR content, this must 
+be set to "YCbCr 4:2:0 10-bit Rec. 2020" 
+NOTE If you connect your SHIELD to your HDR TV through an AV receiver, verify that 
+it supports HDMI 2.0 with HDCP 2.2 and make sure it has the latest firmware applied 
+to ensure quality and compatibility. 
+Logitech Harmony Remote Setup 
+You can also use a Logitech Harmony to control basic functions for your SHIELD, which include 
+basic menu navigation and media player functions. 
+To set up a Logitech Harmony remote on SHIELD: 
+1.  Install the setup software for the specific model of your remote and follow the setup 
+instructions. 
+2.  During setup, when prompted, select Add a device. 
+3.  For the Make and Model of your SHIELD, specify "NVIDIA" and "SHIELD," respectively. 
+4.  Complete the remainder of the Logitech setup software instructions.  Your SHIELD will 
+appear as "NVIDIA STB" in your Entertainment device list.  5.   When finished with setup, you can control your SHIELD with the remote 
+How to Transfer Content to SHIELD 
+From a PC, you can access internal and USB attached storage on your SHIELD TV. 
+  
+Direct USB 
+To transfer content to your SHIELD: 
+1.  Connect your SHIELD to a computer using the supplied micro USB cable plugged into the 
+micro USB port on your SHIELD. 
+2.  Use a file explorer on your PC to identify your SHIELD device and click on your SHIELD 
+device name. 
+NOTE For convenience, ensure that the type of content you copy from your computer 
+to your SHIELD matches the folder name.  For example, copy movie files to the 
+"Movies" folder and music files to the "Music" folder. 
+Over Local Network 
+Your SHIELD TV can become discoverable as a network addressable device. 
+1.  Under Settings  > Device > Storage & reset, select "Over Local Network." 
+2.  The following page will have the information needed to log into your SHIELD TV to 
+transfer files in and out of your storage. 
+Control Volume from TV, AV Receiver or 
+Soundbar 
+By default, volume control will adjust the output volume from your SHIELD TV.  If you control 
+your volume on another device (e.g., TV, AV receiver, soundbar), you can configure your SHIELD 
+Remote or Controller to directly control those devices. 
+If your audio device supports HDMI-CEC volume control, we recommend turning on CEC control 
+in Settings  > Display & Sound > Volume control.  If your audio device cannot be controlled 
+by CEC, you may still use the Remote's IR emitter using the Configure IR setting.  NOTE Once this is configured, your SHIELD Remote and SHIELD Controller volume will 
+adjust your TV, AVR or soundbar directly. 
+Settings 
+User profile 
+Log into your NVIDIA account to get access to GeForce NOW or GameStream.  If you are 
+currently logged in, you will display your NVIDIA account name. 
+  
+Billing 
+Add payment information here.  Billing information is used to renew your GeForce NOW 
+monthly subscriptions, as well as purchasing new games on the GeForce NOW service. 
+  
+Parental controls 
+Enable age-appropriate filtering for games displayed in NVIDIA games. 
+  
+GeForce NOW 
+Edit GeForce NOW server and streaming configuration settings. 
+  
+GameStream PC 
+Edit server and streaming quality configuration settings. 
+Google Cast 
+Your SHIELD can also utilize Google Cast technology for casting your entertainment media from 
+your phone, tablet, laptop, or SHIELD portable straight to the big screen.  Both iOS and Android 
+devices support Google Cast.  Google Cast effectively turns your phone or other portable device into a personalized remote 
+control to browse, play, pause, rewind, control volume and even create playlists.  App switching 
+is also possible while watching your media on the TV. 
+  
+Cast to SHIELD 
+1.  Ensure that both your casting source (smartphone, tablet, laptop, etc.) and the SHIELD 
+are connected to the same network. 
+2.  On your source device, open a Google Cast-enabled application such as YouTube. 
+3.  Touch or click the Cast icon  . 
+4.  Choose the Android TV you'd like to cast to.  In this case, select 'SHIELD.' 
+5.  Press Play on your phone or tablet.  The content should start playing on you Android TV, 
+and the Cast icon on your device will be filled in  . 
+  
+Apps That Work With Casting 
+  YouTube 
+  Netflix 
+  Google Play Movies & TV 
+  Google Play Music 
+  Google+ Photos 
+  Other apps 
+  
+Supported apps vary by country.  For more information about available apps in your country, 
+visit g.co/castapps. 
+  
+Mirror Casting to SHIELD 
+SHIELD also supports mirror casting from select Android devices.  To learn which devices are 
+supported and for instructions on how to mirror your screen to SHIELD, visit 
+https://support.google.com/googlecast/?hl=en#topic=6102922. 
+SHARE  Sharing your gameplay is easy with NVIDIA Share and Twitch broadcasting.  With NVIDIA Share, 
+you can save and record video and screenshots you can share with your friends.  Share can 
+even record several minutes of gameplay in the background so you won't miss any exciting 
+gaming moments.  NVIDIA Share also lets you live stream your gameplay to Twitch. 
+  
+NVIDIA Share Menu 
+ 
+1.  Launch the game you want to share. 
+2.  On your SHIELD Controller, press and hold the Home  button.  Your game will pause 
+and bring up the share menu: 
+3.  Select the Instant Replay option to enable recording of the last 5 minutes of your game 
+play.   
+4.  Press the Back  button again to return to game play.  Your game is now being 
+recorded.   
+5.  Once you are ready to share your game play, press and hold the Home  button to re-
+enter the share menu.  Selecting the Auto Record option this time will open options to 
+either Save, Save and share or Stop your recording. 
+6.  You can also use the Record option if you want to record more than just the last five 
+minutes of game play. 
+7.  To take a screenshot of the action at any time, select the Screenshot option to save a 
+screenshot to your device. 
+All videos and screenshots are saved by default in the "Photos and Videos" app. 
+  
+Broadcast to Twitch 
+1.  Launch the game you want to broadcast. 
+2.  On your controller, press and hold the Home  button.  Your game will pause and bring 
+up the share menu:  3.  Select the Broadcast option in the menu to begin streaming to Twitch.  If you haven't 
+already logged in with your Twitch account details, you will be prompted here. 
+  
+Share Menu Settings 
+On the top row of the Share menu, the Share settings  button allows you to change a 
+number of settings to optimize your sharing experience. 
+  Twitch settings - Change settings that are specific to Twitch broadcasting. 
+  Change Quality - Adjusts the video quality of recorded content. 
+  Instant Replay last - Adjust replay duration to up to 20 minutes of gametime. 
+  Status - Toggle the displayed info on the HUD while recording, which includes 
+microphone ON/OFF status, record icon, video resolution, frame rate and bit rate. 
+  Auto record last - The maximum length of the recorded game play allowed when auto-
+recording game play. 
+  Mic volume - Move the slider to adjust mic volume. 
+  Adjust layout - Customize UI that is displayed on screen when broadcasting. 
+GeForce NOW 
+From the "SHIELD Hub" row of the Home screen, launch 
+ to access GeForce NOW for immediate 
+access to more than 50 popular PC games from NVIDIA cloud gaming supercomputers to your 
+SHIELD at up to 1080p video resolution and 60 frames per second.  You can even purchase 
+newly released games from the store. 
+NOTE To stream games at 720p resolution and 30 frames per second, you need a 
+broadband minimum download speed of 5 Mbps (10 Mbps recommended).  To 
+stream games at 1080p resolution and 60 frames per second, you need a broadband 
+minimum download speed of 30 Mbps (50 Mbps recommended).  Ethernet 
+connectivity is recommended for the best experience.  NOTE Navigate through Geforce NOW using the D-pad or left thumbstick on the 
+game controller. 
+  
+LOGIN 
+When you launch NVIDIA GeForce NOW for the first time, you will be prompted to log in.  You 
+have two options for logging in: (1) By creating an NVIDIA account or (2) Logging in with the 
+Gmail account that is associated with your SHIELD. 
+  
+NVIDIA GeForce NOW 
+Settings lets you edit GeForce NOW account information, test your broadband connection and 
+specify preferred Frame rate and Max resolution in "Streaming quality." 
+  
+Using On-Screen Controls 
+On-screen controls provide users with additional controls necessary to navigate some GeForce 
+NOW games.  To access the on-screen controls, long-press the Start  button. 
+The on-screen controls will bring up a menu screen with three options: Keyboard, Quit, and 
+three-dot menu. 
+If you need to input information into a dialog, use the "Keyboard" selection.  If you want to quit 
+the game, select "Quit game." 
+Most of the navigation options are straightforward. Clicking the three-dot menu > Help will 
+display the full list of available functions. 
+Troubleshooting PC GameStreaming 
+If you are experiencing issues with streaming games from your PC to SHIELD TV, try these 
+troubleshooting options: 
+   General Troubleshooting Issues 
+Not all games have been optimized for PC game streaming to SHIELD TV.  Verify the game you 
+are trying to play is on the list of supported games.  It is also recommended that you launch the 
+game at least once on your PC BEFORE launching on SHIELD TV.  Doing this ensure that all of the 
+prerequisites (VC Redirects, DirectX, et al) and the set-up of all DRM features (Games for 
+Windows et al) are completed. 
+Make sure your PC meets the minimum requirements for streaming. 
+The requirements for PC Game streaming are very specific.  Make sure your GeForce GTX PC 
+meets these requirements and that you have proper drivers and software.  See the list of 
+system requirements or go to the My Rig tab in GeForce Experience to confirm that your PC 
+meets the system requirements. 
+Check Windows and wireless router firewall settings. 
+Make sure that streaming is not being blocked by a firewall; either from the computer or 
+wireless router.  You can either temporarily disable the firewall or add an exception to allow the 
+traffic.  You can access Windows Firewall settings through the Control Panel on your PC.  For 
+information on other software firewalls or firewalls built into your router, refer to those 
+products' manufacturers. 
+Check SHIELD Wi-Fi setting. 
+Make sure that the Wi-Fi setting on your SHIELD TV is turned ON (go to Settings > Wi-Fi).  Check 
+to make sure SHIELD TV has successfully connected to the network.  Try resetting the Wi-Fi 
+option by turning it OFF and then back ON.  Try resetting your wireless access point connection 
+by disconnecting and re-connecting. 
+Check the internet connection. 
+Check whether or not you are able to access the Internet on SHIELD TV and the PC.  Try 
+resetting your wireless access point connection if you cannot connect. 
+Specific Troubleshooting Issues 
+If SHIELD TV displays No available GeForce GTX PCs found, when scanning for available PCs, try 
+the following: 
+  Does the PC meet the minimum System Requirements? 
+  Are your firewall interfering or disabling the connection? 
+  Is your PC powered on?  Are you logged in to your PC?  If any of these checks did not fix the issue, try rebooting both SHIELD TV and your PC, and 
+logging out and logging back into NVIDIA Games and GeForce Experience. 
+Troubleshooting SHIELD 
+Before using this troubleshooting guide, make sure that your SHIELD is updated with the latest 
+system update, available automatically if your SHIELD is connected to the Internet. 
+If you are unable to resolve the issues you are having with the troubleshooting steps in this 
+guide, you may find a resolution in the GeForce Experience Forums > SHIELD section. 
+If you are still unable to resolve the issues you are having, please contact NVIDIA support. 
+  
+Connecting and Accessory Issues 
+My SHIELD remote won't connect with SHIELD. 
+If your SHIELD remote won't connect with your SHIELD, follow these instructions to connect 
+SHIELD remote. 
+If SHIELD remote is charged and still does not connect, restart SHIELD and repeat the 
+instructions. 
+If SHIELD remote still does not connect , follow these steps. 
+You can also learn how to setup and use the SHIELD remote for the first time. 
+1.  On the SHIELD Home screen, select SHIELD accessories  . 
+2.  Select "Forget all accessories" > "OK." 
+3.  Repeat the instructions to connect SHIELD remote and your other accessories. 
+If these steps don't fix the issues, please contact NVIDIA support.  My SHIELD remote fails to apply a software update. 
+If your SHIELD remote fails to apply a software update, your SHIELD remote battery may need 
+to be charged.  Charge your SHIELD remote until the battery is sufficiently charged.  To check to 
+see if your SHIELD remote is sufficiently charged, from the SHIELD Home screen, select SHIELD 
+accessories  and look for "SHIELD remote" in the list.  If it has the 
+message "Battery: Good" underneath it, then your SHIELD remote is sufficiently charged to 
+receive a software update. 
+My SHIELD controller won't connect with SHIELD. 
+If your SHIELD controller won't connect with your SHIELD, follow these instructions to connect 
+SHIELD controller. 
+If SHIELD controller is charged and still does not connect, restart SHIELD and repeat the 
+instructions. 
+If SHIELD controller still does not connect, follow these steps: 
+You can also learn how to set up and use the SHIELD controller for SHIELD for the first time. 
+1.  On the SHIELD Home screen, select SHIELD accessories  . 
+2.  Select "Forget all accessories" > "OK." 
+3.  Repeat the instructions to connect SHIELD controller and your other accessories.. 
+If these steps don't fix the issues, please contact NVIDIA support. 
+My SHIELD controller fails to apply a software update. 
+If your controller fails to apply a software update, your controller battery may need to be 
+charged.  Charge your controller until the battery is sufficiently charged.  To check to see if your 
+controller is sufficiently charged, from the SHIELD Home screen, select SHIELD accessories  and look for "SHIELD controller" in the list.  If it has the message 
+"Battery: Good" underneath it, then your controller is sufficiently charged to receive a software 
+update. 
+My Bluetooth accessory won't connect with SHIELD. 
+If your Bluetooth accessory won't connect with your SHIELD, try the troubleshooting steps 
+below.  Try to connect your Bluetooth accessory after each step. 
+1.  Turn your Bluetooth device off, then turn it back on. 
+2.  Restart your SHIELD. 
+NOTE Connecting file transfer Bluetooth devices such as smartphones, tablets and 
+laptops to SHIELD is not supported. 
+My SHIELD controller does not power on after charging it. 
+If your controller is not turning on after charging it, follow these steps: 
+1.  Hold the NVIDIA  button for 20 seconds and release. 
+2.  Tap the NVIDIA  button. 
+  
+Audio & Video Issues 
+I'm not hearing any sound. 
+If there's no sound when you're using your SHIELD, try the troubleshooting steps below.  Try 
+playing a video or song after each step to see if your sound is working. 
+  If you are using a monitor, check that your monitor has an audio output.  Many 
+monitors do not have audio output, and require headphones or speakers. 
+  Check that your TV's sound or AV receiver isn't muted. 
+  Check that Android volume isn't muted.  Press the '+' volume button on your SHIELD 
+controller.    If you're using SHIELD with a separate AV receiver, check that the TV is connected to the 
+AV receiver properly.  If you hear sound from the TV but not the receiver, there may be 
+an issue with the connection. 
+  Some HDMI to DVI/VGA adapters may not support audio.  If possible, connect your 
+SHIELD to an HDMI port on your TV without using an adapter. 
+  Try using a different HDMI input on your TV for your SHIELD.  Many TVs have several 
+HDMI ports. 
+  If you are using headphones plugged into SHIELD controller or SHIELD remote, you will 
+be unable to hear AC3 and Dolby audio formats. 
+  Update to the latest SHIELD system update and receiver firmware. 
+  If multiple audio output devices are connected to your SHIELD simultaneously, see the 
+audio/mic routing policy. 
+  Restart your SHIELD. 
+My screen is blank. 
+If there's nothing on the screen when you try to use your SHIELD, try the troubleshooting steps 
+below. 
+  Check that your SHIELD is plugged in all the way.  Check the power cord and HDMI cable. 
+  Check that your TV is turned on.  The green light will be illuminated if SHIELD is on. 
+  Check that your SHIELD isn't in sleep mode.  Touch the NVIDIA  button 
+on your SHIELD. 
+  Check that your TV's source input matches the HDMI port where your SHIELD is plugged 
+in.  HDMI ports are usually labelled on the back or side of a TV.  Keep changing your TV 
+input source until you get to the HDMI input with SHIELD on it. 
+  Try using a different HDMI port.  Connect your SHIELD to a new HDMI port, and change 
+the source or input on your TV to match the new port. 
+  Try using  a different HDMI cable.  High Speed HDMI cables and HDMI cables shorter 
+than 3m are recommended. 
+  Check that your TV has an HDCP-compatible HDMI port.  Some content requires HDCP. 
+  Update to the latest SHIELD system update and TV firmware. 
+  Some HDMI to DVI adapters may not support video.  If possible, connect your SHIELD to 
+an HDMI port on your TV without using an adapter. 
+  Restart your SHIELD. 
+Video frame rate is very low. 
+Refer to Optimize Video Performance.    
+MicroSD Card Issues 
+I own SHIELD Pro and already have 500 GB internal storage. Should I use this feature? 
+If you own SHIELD Pro, it is not recommended to set up an SD card as internal storage since it 
+doesn’t make sense to replace your 500 GB of storage with less storage from an SD card.  
+Can I upgrade to Android Marshmallow and continue to use the "Auto-move to SD card 
+feature" available in Android Lollipop? 
+No. In Marshmallow, storage for new apps and games needs to be encrypted.  You can continue 
+to use your SD card ‘as is’, however, you will not be able to install or move additional apps and 
+games to it.  Users should find that the new feature makes it much easier to take advantage of 
+an SD card for game storage and it also extends the feature to USB drives. 
+Can I unplug my storage device after formatting as internal storage? 
+This is not recommended since the storage device is formatted to not work with other 
+devices.  To safely unplug, first eject from Settings > Storage & reset > Eject.  Failure to eject 
+will cause applications to crash. 
+After formatting as internal storage, an app fails to launch. What can I do? 
+First reboot your SHIELD.  If the app still fails to launch, go to the Google Play store to see if the 
+app has an Android Marshmallow update.  For example, Asphalt 8 requires an app update for 
+M. Open Google Play Store > My Apps and install any pending updates. 
+App or game performance is slow. What can I do? 
+Internal storage will provide the fastest performance for apps and games.  If you choose to use 
+a MicroSD card or USB drive as internal storage, make sure to use an SD card with a Class 10 
+speed rating or higher or a USB 3.0 drive. 
+Where are the storage locations in a File Explorer? 
+The contents of the current user-defined internal storage can be found at 
+/storage/emulated/0/. 
+The other storage location can be found in a subfolder named InternalStorage, SDCard, 
+USBStorage, SanDisk or such depending on the type of storage.  Does the encryption slow down the read/write speed of my SD card or USB drive? 
+Performance differences between internal storage and SD cards or USB drives should be very 
+minimal as long as a MicroSD card with a Class 10 speed rating or higher or a USB 3.0 drive is 
+used. 
+Can I access the encrypted SD card or USB drive by connecting my SHIELD to my PC? 
+Yes.  If you set up your SD card or USB drive as internal storage, the contents of the storage can 
+be found at /storage/emulated/0/.  The other storage can be found in a subfolder named 
+InternalStorage, SDCard, USBStorage, SanDisk or such depending on the type of storage. 
+Can I change my storage location back to SHIELD’s internal storage after using this feature? 
+If you have enough free space on SHIELD’s internal storage, you can move data back to internal 
+storage and start using that location again as the default place for app and game installations. 
+Go to Settings  > Storage & reset and select Internal Storage.  Then select Move data now. 
+  
+Google Play Issues 
+Refunds for Google Play content 
+Refund policies for content you bought on Android TV depend on the type of content. 
+Learn more about the detailed refund policy for each type of content offered on Google Play. 
+Prevent accidental or unwanted purchases on Android TV. 
+You can use password protection on the Google Play Store app 
+to help prevent accidental or unwanted 
+purchases on your Android TV.  Your password is the same as what you use to sign in to Gmail 
+or Google Play on your computer. 
+Learn more about how to prevent accidental or unwanted purchases.  Update your Google Play payment method. 
+You can change your payment method or add a new one before making purchases on Google 
+Play.  Here's how you can change your payment method using your Android TV. 
+  
+Networking Issues 
+My SHIELD won't connect to Wi-Fi. 
+Here are some troubleshooting steps if your SHIELD won't connect to the Internet. 
+If your Wi-Fi network appears on the SHIELD 
+If you see your Wi-Fi network listed but can't connect, try the following: 
+  Ensure that your SHIELD is not connected to your network via Ethernet.  An Ethernet 
+connection automatically disables Wi-Fi networking. 
+  Make sure you're using the correct network password. 
+  Restart your SHIELD. 
+  Check if other devices can connect to the Wi-Fi network you're using.  If not, there may 
+be an issue with the router. 
+  If your router is having issues in general, update your router firmware. 
+  If you're using a Wi-Fi network at a business, hotel, or school, you may have trouble 
+connecting.  Networks at these locations don't always work with SHIELD.  Contact the 
+people in charge of the Wi-Fi network for assistance. 
+If your Wi-Fi network does not appear on the SHIELD 
+If you don't see your Wi-Fi network listed, your network name (SSID) may be hidden. 
+NOTE If you are setting up your SHIELD for the first time, when you get to the Wi-Fi 
+network as part of on-screen setup, start at Step 4 below. 
+Here's how to add a hidden network: 
+1.  From your SHIELD Home screen, select Network Settings  . 
+2.  Select Wi-Fi. 
+3.  Find or select Add new network. 
+4.  Enter the network name (SSID) and other security details, if needed. 
+My SHIELD won't connect to Ethernet. 
+Here are some troubleshooting steps if your SHIELD won't connect to the Internet.    On your SHIELD Home screen, check that the Network Settings Ethernet symbol 
+displays:  . 
+  Check that your Ethernet cable is connected from your SHIELD to your router or 
+Ethernet port. 
+  
+GeForce NOW Issues 
+Network test detected a "Poor network" or "Network error." 
+This generally happens because of poor networking. Please make sure you meet the network 
+requirements to run GeForce NOW. 
+For an amazing GeForce NOW experience, we recommend the following: 
+  Internet connection with at least a 10 Mbps download speed 
+  Home network with 60 ms or less ping time to a GeForce NOW server.  Please visit this 
+website to find out where our GeForce NOW servers  are located: 
+http://shield.nvidia.com/game-streaming-with-geforce-now 
+  NVIDIA GameSream™-ready 5 GHz Wi-Fi router 
+I have all the requirements to run GeForce NOW.  However, sometimes the GeForce NOW 
+network test allows me to play GeForce NOW, and sometimes it doesn't.  Why is this? 
+GeForce NOW performs a network test each time you launch the app to determine your 
+current network performance. There may be problems with your network at different times 
+during the day. You should contact your Internet Service Provider (ISP) to see what you can do 
+to improve it.  Also, check to see whether you have an NVIDIA GameStream™-Ready 5 GHz Wi-
+Fi router: http://shield.nvidia.com/routers 
+I was idle and GeForce NOW disconnected me from my game.  Can I log back onto GeForce 
+NOW and rejoin my game where I left off? 
+Yes, your last game state will be saved.  You can start another game session and load one of 
+your saved games. 
+Why am I getting a message, "You have reached the session time limit and will be terminated in 
+5 minutes" when playing GeForce NOW? 
+GeForce NOW allows you to play a single game session up to 2 hours.  After that you will be 
+disconnected from GeForce NOW.  If you receive this message we recommend you save your  game immediately.  You can then start another game session and load one of your saved 
+games. 
+I'm experiencing a lot of audio cracking, audio cutoff, or video stuttering. 
+Please make sure you meet the network requirements to run GeForce NOW. 
+  Internet connection with at least a 10 Mbps download speed 
+  Home network with 60 ms or less ping time to a GeForce NOW server.  Please visit this 
+website to find out where our GeForce NOW servers are located: 
+http://shield.nvidia.com/game-streaming-with-geforce-now 
+  NVIDIA GameStream™-ready 5 GHz Wi-Fi router 
+GeForce NOW network test detected a "Poor WiFi" or "Poor WiFi Signal." 
+This error message indicates some problems with your Wi-Fi router.  Here are some suggested 
+steps to improve it: 
+  Make sure you are connecting to your router at 5 GHz mode. Newer routers allow users 
+to connect at 2.4 GHz and 5 GHz. The router's settings menu should allow you to set up 
+a separate SSID for 5 GHz mode. 
+  Use an NVIDIA GameStream™-ready 5 GHz Wi-Fi router.  These products have been 
+tested to work with GeForce NOW. 
+  Move closer to your Wi-Fi router.  The farther away you are from your router, the lower 
+the signal, which will degrade your Wi-Fi performance. 
+  Try to get better line of sight to your router. Obstacles inside your home, such as walls 
+and floors, can affect Wi-Fi performance. 
+If there is network interruption can I rejoin my game where I left off? 
+Yes.  If you reconnect within five minutes to the GeForce NOW server, you will rejoin your game 
+where you left off. 
+   Other Hardware Issues 
+How can I force my SHIELD to shut down? 
+To force the unit to turn off, touch and hold the NVIDIA button  for about 10 
+seconds.  To turn the unit back on, just touch the NVIDIA button  . 
+SHIELD System Upgrade failed to install. 
+If a SHIELD system upgrade fails to install, it may be due to the download of the upgrade image 
+being corrupted.  One way to resolve this is to delete the local data for the update from the 
+device, forcing it to download a fresh copy.  To do so, use any file explorer app (such as ES File 
+Explorer) to delete the OTA folder located in: Local\NVIDIA\App\OTA.  After this folder is 
+deleted, reboot the device, then retry the download and installation of the update. 
+SHIELD won't wake up. 
+If your TV screen is blank, your SHIELD may be on, but stuck in sleep mode.  You'll see a light on 
+the top of your SHIELD if your device is on. 
+  
+To wake up your device, try the troubleshooting steps below.  After each step, check if your 
+SHIELD wakes up. 
+1.  Touch the NVIDIA  button on your SHIELD. 
+2.  Restart your SHIELD by holding the NVIDIA button for 10 seconds, release, and then tap 
+it again or by unplugging the power cord, waiting 10 seconds, and then plugging the 
+power cord back in.  My SHIELD ran out of space. 
+If you have a lot of apps or games on your SHIELD, you may run out of storage space.  If you are 
+out of space on your device, you'll get a notification the next time you try to install a game or 
+app from the Play Store. 
+If you run out of space but you'd like to install new apps or games, you have to uninstall some 
+of your other apps or games or else insert an SD card or attach an external hard drive. 
+Here's how to uninstall apps or games: 
+  On the SHIELD Home screen, select Settings  . 
+  Under "Device," select Apps. 
+  Under "Downloaded," find and select an app. 
+  Select Uninstall. 
+  Select OK to confirm. 
+My SHIELD is sluggish and unresponsive. 
+In this case, your 3rd party apps may be causing this issue.  We recommended booting up your 
+SHIELD in Android Safe Mode. 
+To enable Android Safe Mode: 
+1.  Disconnect the power cable. 
+2.  Connect a USB keyboard to your SHIELD USB 3.0 port, or connect a SHIELD controller to 
+your SHIELD USB port. 
+3.  Connect the power cable. 
+4.  Hold down the 'S' key on your keyboard until your TV display shows the Android TV 
+home screen, or turn on your SHIELD controller (with NVIDIA button on controller) and 
+hold down the volume down button on your SHIELD controller until the TV display 
+shows the Android home screen. 
+5.  You will see "Safe mode" on the bottom left part of the home screen. 
+How to Optimize Internet and Video 
+Performance 
+   Optimize Internet Performance 
+For maximum performance, Ethernet is recommended.  The Ethernet on SHIELD supports 
+10/100/1000 Mbps.  Once Ethernet is connected, SHIELD will disable Wi-Fi and switch to 
+Ethernet. 
+For networks which don't support DHCP, the IP-related settings can be configured in Settings 
+> Network Settings > "Ethernet." 
+For the best Wi-Fi experience, a 5 GHz dual-band 802.11 AC/N MIMO router is 
+recommended.  These routers are capable of operating in the 5 GHz band to prevent 
+interference due to 802.11 wlan/non-wlan wireless radio sources that operate in the 2.4 GHz 
+band. 
+When setting up your Wi-Fi, it is recommended to scan the wireless environment and choose a 
+less "congested" channel for the AP on either band.  Configure the AP in "Auto" mode and 
+"Auto" channel width (This field has different names depending on the AP vendor.  Some call  it 
+"up to speeds" or "supported speeds." 
+  
+Optimize Video Performance 
+There are various factors that affect video performance. 
+Main terms 
+A/V sync 
+Use of an AV Receiver with HDMI for video and Toslink for audio may result audio lagging 
+behind video. Use the AV sync slider utility in Settings  > HDMI > Audio Video Sync to 
+calibrate for any audio lag.  The AV sync slider allows you to advance audio by 1 second (in 
+small increments of 10ms) to synchronize the audio and video. 
+Note that this tool is effective only when SHIELD is connected to your AV Receiver over HDMI 
+(i.e. audio/video over HDMI); it is not meant to be used when a headset is plugged into SHIELD 
+controller/SHIELD remote or USB audio device or Bluetooth audio device. 
+If video lags behind audio (i.e. audio is ahead of video) then use your AV receiver’s settings to 
+delay audio. 
+Stall  If your network bandwidth is not enough (lesser than media bit-rate), you may experience 
+frequent “buffering." This “buffering” may result in an animation such as a “spinning wheel”. 
+This leads to a pattern of stoppping/resuming of video playback.  This is called stall.  For best 
+results use Ethernet connectivity or for Wi-Fi use an 802.11ac Router/Access Point. 
+Stutter and Judder 
+When the TV refresh rate doesn’t match the video frame rate you may see “jumps” or “hops” in 
+video at regular intervals typically when the scene has panning motions.  This effect is called 
+judder. This is not random stutter, but a skipping at regular intervals (milliseconds or 
+seconds).  For best results, use TVs with a refresh rate of 60Hz (120Hz or 240Hz). 
+Random pausing of video is called stutter. Please note this is random and not periodic in nature. 
+Typically one sees a pause with audio resuming normally, followed by few frames getting 
+skipped to catch up with audio. 
+To get the best video experience, modern TVs have an internal algorithm with the capability to 
+understand the cadence of raw video frames provided from “decode” capable sources. The 
+term for this varies, depending on the TV manufacturer (like “natural motion smoothening” 
+etc.). In technical terms it is termed MEMC (Motion Estimation Motion Compensation). 
+Consider enabling or disabling MEMC setting to see if there is an improvement in performance. 
+1 Samsung 
+       
+a) MEMC is referred to as “Motion Plus” in Samsung TVs 
+     
+b) http://support-
+     
+us.samsung.com/cyber/popup/iframe/pop_troubleshooting_fr.jsp?idx=167385&modelname
+=LN46C750R2F 
+2 LGE 
+       
+a) MEMC is referred to as “TruMotion” in LG TVs 
+     
+3 Other brands:  http://en.wikipedia.org/wiki/Motion_interpolation 
+       
+  
+Maximize Performance 
+To control the power and performance options for your SHIELD go to Settings  > System > 
+Processor mode and choose either "Max performance," which is recommended, or 
+"Optimized," for a cooler and quieter experience.    
+Health and Safety Information 
+  
+Important Safety Information 
+NVIDIA products are designed to operate safely when installed and used according to the 
+product instructions and general safety practices. The guidelines included in this document 
+explain the potential risks associated with equipment operation and provide important safety 
+practices designed to minimize these risks.  By carefully following the information contained in 
+this document you can protect yourself from hazards and create a safer environment.  
+This product is designed and tested to meet IEC-60950-1, the Standard for Safety of 
+Information Technology Equipment. This also covers the national implementation of IEC-60950-
+1 based safety standards around the world e.g. UL-60950-1. These standards reduce the risk of 
+injury from the following hazards: 
+  Electric shock: Hazardous voltage levels contained in parts of the product 
+  Fire: Overload, temperature, material flammability 
+  Mechanical: Sharp edges, moving parts, instability 
+  Energy: Circuits with high energy levels (240 volt-amps) or potential as burn hazards 
+  Heath: Accessible parts of the product at high temperatures 
+  Chemical: Chemical fumes and vapors 
+   Radiation: Noise, ionizing, laser, ultrasonic waves 
+Retain and follow all product safety and operating instructions.  Always refer to the 
+documentation supplied with your equipment.  Observe all warnings on the product and in the 
+operating instructions. 
+Read all safety information below and operating instructions before using the SHIELD 
+to avoid injury. 
+WARNING: FAILURE TO FOLLOW THESE SAFETY INSTRUCTIONS COULD 
+RESULT IN FIRE, ELECTRIC SHOCK OR OTHER INJURY OR DAMAGE. 
+   ELECTRICAL EQUIPMENT CAN BE HAZARDOUS IF MISUSED.  OPERATION OF THIS PRODUCT, OR 
+SIMILAR PRODUCTS, MUST ALWAYS BE SUPERVISED BY AN ADULT.  DO NOT ALLOW CHILDREN 
+ACCESS TO THE INTERIOR OF ANY ELECTRICAL PRODUCT AND DO NOT PERMIT THEM TO 
+HANDLE ANY CABLES. 
+To reduce the risk of bodily injury, electric shock, fire, and damage to the equipment, observe 
+the safety labels included on the equipment. 
+  
+Symbols on Equipment 
+This symbol in conjunction with any of the following symbols indicates the 
+presence of a potential hazard.  The potential for injury exists if warnings are not 
+observed.  Consult your documentation for specific details. 
+  
+This symbol indicates the presence of hazardous energy circuits or electric shock 
+hazards.  Refer all servicing to qualified personnel. 
+  
+  
+WARNING: To reduce the risk of injury from electric shock hazards, do not open 
+this enclosure.  Refer all maintenance, upgrades, and servicing to qualified 
+personnel. 
+  
+  
+This symbol indicates the presence of electric shock hazards.  The area contains no 
+user or field serviceable parts.  Do not open for any reason. 
+  
+  
+ 
+General Precautions
+To reduce the risk of electric shock, personal injury, or damage to the equipment, observe the 
+following precautions:    Follow all cautions and instructions marked on the equipment. 
+  Do not bend, drop, crush, puncture, incinerate, or push objects into openings of the 
+device. 
+  Do not connect or disconnect any cables or perform maintenance or reconfiguration of 
+this product during an electrical storm. 
+  Do not use the SHIELD in rain or near sink, or other wet locations.  Take care not to spill 
+any food or liquid into the device.  In case the SHIELD device gets wet, unplug all cables 
+and turn off before cleaning, and allow it to dry thoroughly before turning it on again. 
+  Do not expose the SHIELD to any gas which is not normally contained in the 
+atmosphere.  It may cause mis-operation or defects. 
+  Never turn on any equipment when there is evidence of fire, water, or structural 
+damage. 
+  Place the product away from radiators, heat registers, stoves, amplifiers, or other 
+appliances that produce heat. 
+  Never force a connector into a port.  Check for obstructions on the port.  If the 
+connector and port don't join with reasonable ease, they probably don't match.  Make 
+sure that the connector matches the port and that you have positioned the connector 
+correctly in relation to the port. 
+  Operate the AC adapter in a ventilated area. 
+  When you are using the NVIDIA SHIELD, it is normal for the system and/or AC power 
+adapter to get warm. 
+  Do not use conductive tools that could bridge live parts. 
+  Do not make mechanical or electrical modifications to the equipment. 
+  Never attempt to reconnect the SHIELD yourself.  This device does not contain any user-
+serviceable parts.  Do not attempt to open, disassemble, or remove the battery.  You 
+run the risk of electric shock.. 
+  Operate the SHIELD in a place where the temperature is always between 5 and 30°C (41 
+to 86°F). 
+  Store the SHIELD in a place where the temperature is always betwen 0 and 35°C (32 to 
+95°F) with relative humidity of 70% or lower.  When taking the device from a low 
+temperature condition, allow the device to reach room temperature before turning the 
+power on. 
+  Use this product only with approved equipment and/or accessories 
+  If the product sustains damage requiring service, disconnect the product from the AC 
+electrical outlet and refer servicing to an NVIDIA authorized service provider. 
+  
+Proposition 65 WARNING: This product contains chemicals known to the State of 
+California to cause cancer and birth defects or other reproductive harm.  (California 
+law requires this warning be provided to California customers. 
+   A lire avant toute utilisation d'un jeu vidéo par vous-même ou par votre enfant. 
+  
+I. - Précautions à prendre dans tous les cas pour l'utilisation d'un jeu vidéo. 
+Evitez de jouer si vous êtes fatigué ou si vous manquez de sommeil. 
+Assurez-vous que vous jouez dans une pièce bien éclairée en modérant la luminosité de votre 
+écran. 
+Lorsque vous utilisez un jeu vidéo susceptible d'être connecté à un écran, jouez à bonne 
+distance de cet écran de télévision et aussi loin que le permet le cordon de raccordement. 
+En cours d'utilisation, faites des pauses de dix à quinze minutes toutes les heures. 
+  
+II. - Avertissement sur l'épilepsie. 
+Certaines personnes sont susceptibles de faire des crises d'épilepsie comportant, le cas 
+échéant, des pertes de conscience à la vue, notamment, de certains types de stimulations 
+lumineuses fortes: succession rapide d'images ou répétition de figures géométriques simples, 
+d'éclairs ou d'explosions. Ces personnes s'exposent à des crises lorsqu'elles jouent à certains 
+jeux vidéo comportant de telles stimulations, alors même qu'elles n'ont pas d'antécédent 
+médical ou n'ont jamais été sujettes elles-mêmes à des crises d'épilepsie.  
+Si vous-même ou un membre de votre famille avez déjà présenté des symptômes liés à 
+l'épilepsie (crise ou perte de conscience) en présence de stimulations lumineuses, consultez 
+votre médecin avant toute utilisation.  
+Les parents se doivent également d'être particulièrement attentifs à leurs enfants lorsqu'ils 
+jouent avec des jeux vidéo. Si vous-même ou votre enfant présentez un des symptômes 
+suivants : vertige, trouble de la vision, contraction des yeux ou des muscles, trouble de 
+l'orientation, mouvement involontaire ou convulsion, perte momentanée de conscience, il faut 
+cesser immédiatement de jouer et consulter un médecin. 
+  
+Power Rating 
+19 V DC, 2.1 A 
+ 

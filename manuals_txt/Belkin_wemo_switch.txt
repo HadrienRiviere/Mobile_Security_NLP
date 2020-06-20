@@ -1,0 +1,307 @@
+USER GUIDE 
+Wemo® Wi-Fi Smart Light Switch, F7C030 
+light indicators 
+ 
+The Wemo® Wi-Fi Smart Light Switch, F7C030 has several indicator lights that indicate the 
+device's state.  Below is a list of the light behaviors and the corresponding activity they represent. 
+  
+Indicator 
+Icon  Indicator  Activity 
+Light 
+Power  ON  The Wemo Light Switch is ON. 
+indicator  OFF  The Wemo Light Switch is OFF. 
+ 
+Night time 
+ON  The Wemo Light Switch is ON. 
+backlight 
+ 
+The Wemo Light Switch is starting up, 
+Green and 
+connecting or undergoing firmware 
+Wi-Fi  blinking 
+update. 
+indicator 
+Green and solid  The Wemo Light Switch has 
+ 
+  then turns OFF  established a stable connection. 
+  
+Orange and  The Wemo Light Switch is not 
+blinking  connected to the Wi-Fi. 
+ 
+NOTE:  The Wi-Fi indicator light is only visible during setup. 
+ 
+ 
+Meet the Wemo® Wi-Fi Smart Light Switch, 
+F7C030 
+ 
+The Wemo® Wi-Fi Smart Light Switch, F7C030 is an alternative for your simple wall light switch that 
+allows  you  to  view  the  status  and  control  the  light  anywhere  in  your  home. 
+ 
+Key Features 
+  The Wemo Light Switch connects to your Wi-Fi, allowing your device to connect to it 
+through the Wemo App.  It can connect seamlessly over Wi-Fi, 3G or 4G.    You can easily set the turn ON or OFF times manually or enter your city name and have 
+lights to turn ON at sunrise then OFF at sunset. 
+  The Wemo Light Switch comes with an elegant clip-on face plate that hides all screws 
+giving it a modern look and it has a back light to make it easy to find at night. 
+  Compatible with any smartphone or tablet running Android™ 4.4 or higher or iOS 9 or 
+higher. 
+   
+ 
+ 
+HardwareFeatures 
+  
+ 
+  
+A.  Wi-Fi Indicator - This indicator changes alternatively in color between green and orange and is 
+only visible during setup. 
+B.  Power Indicator - This indicator lights up if the Wemo Light Switch is ON. 
+C.  Night Light - This indicator lights up only when the room is dark that makes the Wemo Light 
+Switch easy to find. 
+D.  Reset Button - This is also known as the Wi-Fi Reset button that is dedicated for resetting the Wi-
+Fi settings of your Wemo Light Switch.  This is located right below the Night Light beside the Power 
+Restart button. 
+E.  Restart Button - This is also known as the Power Restart button that is dedicated to power restart 
+your Wemo Light Switch without losing any Wi-Fi settings.  This is located right below the Night Light 
+beside the Wi-Fi Reset button.  F.  Clip-on Face Plate - This hides all screws, giving a modern look to the Wemo Light Switch. 
+NOTE:  The MAC address of the Wemo Light Switch can be found underneath if you remove the face 
+plate. 
+G.  Easy ON / OFF - Push anywhere to toggle ON and OFF. 
+ 
+Resetting or restarting your Wemo® Wi-Fi Smart Light Switch, F7C030 is easy with its 
+dedicated Reset and Restart buttons.  
+  
+Restart if:  
+  The Wemo Light Switch is not detected by the Wemo App. 
+  The Wemo Light Switch is blinking orange after a firmware update. 
+  The Wemo Light Switch has become unresponsive to both the app and manual controls. 
+Reset if:  
+  You recently changed your wireless router or your Wi-Fi name or password. 
+  You want to erase any stored settings. 
+   
+ 
+  
+QUICK TIP:  On the Wemo Light Switch faceplate, the Reset button is also known as the Wi-Fi 
+Reset button, while the Restart button as the Power Restart button. 
+  
+How to restart your Wemo Light Switch 
+   
+To restart the Wemo Light Switch, press the Restart button for 1 second and then release.  The Wi-
+Fi Indicator light will begin to blink green to show it is restarting.    
+QUICK TIP:  If the Wemo Light Switch is not responding to the Restart button, turn OFF the power 
+of the Wemo Light Switch by turning the circuit breaker OFF and then turning it back ON. 
+  
+How to reset your Wemo Light Switch 
+  
+Resetting using the Wemo App 
+Resetting using the Reset button 
+  
+Resetting using the Wemo App 
+   
+Step 1:  Launch the   App. 
+  
+Step 2:  Tap  .   
+   
+ 
+   
+Step 3:  Tap WeMo Light Switch.     
+ 
+  
+Step 4:  Tap Reset Options.   
+   
+Step 5:  Tap Reset Name, Rules & Data.   
+  
+Resetting using the Reset button 
+  
+IMPORTANT:  This process will delete all previous settings done in the Wemo App and reset your 
+Wemo Light Switch to factory default settings.  You will need to set up the Wemo Light Switch with 
+the Wemo App again. 
+   
+Step 1:  Press the Restart button for 1 second and then release.  The Wi-Fi Indicator 
+light will begin to blink green to show it is restarting.  
+   
+QUICK TIP:  If the Wemo Light Switch is not responding to the Restart button, turn OFF 
+the power of the Wemo Light Switch by turning the circuit breaker OFF and then turning 
+back ON. 
+  
+Step 2:  Immediately press and hold the Reset button for 5 seconds.  The Wemo Light 
+Switch Wi-Fi icon will blink orange rapidly, indicating a successful restore. 
+ 
+The Wemo Light Switch will take about 90 seconds to perform the restore.  When ready, the Wi-Fi 
+Indicator light will begin to alternate between green and orange to show it is ready to be set up.  For 
+setup instructions, click here.   
+Installation  of  the  Wemo  Light  Switch  to  the  electrical  line
+ 
+ 
+If you’re familiar and comfortable with basic electrical work, it only takes a few minutes to set up your Wemo 
+Light Switch.  Otherwise, do not try and do it yourself, please call a professional electrician. 
+ 
+Electrical Installation Requirements 
+  A Neutral wire (requires all three AC electrical connections at the wall switch) 
+  A single pole light switch (not compatible with lights controlled by more than one switch) 
+  
+ 
+  
+  The light switch box must be 2 inches deep 
+  
+ 
+ 
+IMPORTANT:  The Wemo Light Switch is not designed to work with metal faceplates because they 
+interfere with the Wi-Fi signal.  It is recommended to use the light switch for residential and dry indoor 
+locations only.   
+Once these electrical requirements are complete, proceed with the electrical installation instructions below. 
+  
+Step 1:  Shut OFF the power at the circuit breaker for the switch you are replacing.  You 
+may need to shut OFF more than one circuit breaker/switch to make sure the switch you're 
+working on is powered OFF. 
+ 
+IMPORTANT:  USE A NON-CONTACT VOLTAGE DETECTOR OR FLIP YOUR 
+LIGHT SWITCH A FEW TIMES TO MAKE SURE THAT THE POWER IS OFF.  
+ 
+Step 2:  Unscrew and disconnect the wires from the old switch using a screw driver. 
+  
+Step 3:  Identify the wires on your Wemo Light Switch. 
+  Switch (Live/Load) wires - On this light switch, the Switch wires are the two 
+black wires.  Every light switch will have both of these wires.  But they could be 
+either red or black in color. 
+  Neutral wire - The Wemo Light Switch requires this wire, but isn't always present 
+in your electrical wiring at home.  If present, the neutral wire is normally found 
+within the wall box with a wire nut on top of it. 
+  Ground wire - If present, it should be plugged into the top of the light switch 
+here.  It's normally green or copper in color.  Don't worry if you can't find the 
+ground wire, Wemo Light Switch doesn't require one. 
+  
+WARNING!  THE FOLLOWING WIRING SCENARIOS MAY BE DANGEROUS 
+OR ILLEGAL. 
+    
+ 
+NOTE:  For more details, see Wiring your Wemo® Wi-Fi Smart Light Switch, F7C030 
+  
+Step 4:  Install the Wemo Light Switch.  Connect each of the two black wires from the 
+Wemo Light Switch to the available Switch (Live/Load) wires.  In case you found more 
+than one wire, just place them into the wire nut. 
+ 
+NOTE:  The wire nut is the cap-like object connecting the wires. 
+  
+ 
+  
+Step 5:  If you have a Ground wire (optional), disconnect it from the old switch and 
+connect it to the green wire on the Wemo Light Switch. 
+      
+  
+Step 6:  Unscrew the wire nut that is holding together the existing Neutral wires.  Connect 
+the white wire from the Wemo Light Switch to the outlet's exposed Neutral 
+wires.  Securely screw them together inside the wire nut. 
+ 
+IMPORTANT:  Wrap electrical tape around the wire nuts to make sure the copper 
+conductor is fully concealed. 
+  
+ 
+  
+Step 7:  Screw in the Wemo Light Switch and attach the faceplate.  Push all the wires back 
+into the wall box and try to allow as much space for the switch as possible.  Align the 
+two screw terminals and screw in the Wemo Light Switch.  Attach the faceplate. 
+ 
+NOTE:  Belkin discourages using metal faceplates as they may interfere with your Wi-Fi  signal. 
+  
+ 
+  
+Step 8:  Turn the power back ON at your circuit breaker.   
+  
+QUICK TIP:  To verify that the Wemo Light Switch has been successfully installed to 
+your electrical line, manually switch it ON. 
+ 
+You have now installed the Wemo Light Switch to your electrical line. 
+  
+IMPORTANT:  If you have electrical concerns, please call a professional electrician and do not try 
+to do it by yourself. 
+  
+ 
+ 
+ Wemo App and Wemo Light Switch Setup 
+ 
+Before setting up the Wemo Light Switch with the Wemo App, make sure you have the following: 
+   
+  A Wemo Light Switch that is already installed to your electrical line and is functioning. 
+  Active Wi-Fi and internet connection. 
+  The Wi-Fi name and password of your router.  To know how to get them, click here. 
+  An iOS 9.0 device or higher; or an Android™ 4.4 device or higher. 
+ 
+Once these requirements are complete, proceed with the instructions below. 
+  
+Step 1:  Download and install the Wemo App on your mobile device from the 
+App Store® if you are using an iOS device or from Google Play™ if you are using an 
+Android device. 
+  Step 2:  Enable the Wi-Fi feature of your mobile device and make sure it is 
+connected to your Wi-Fi.  This is required to ensure no error is encountered upon 
+installation. 
+ 
+NOTE:  If you have a dual-band router, Wemo can only connect to your 2.4 GHz 
+band. 
+  
+ 
+  
+Step 3:  Look for the Wi-Fi Name of the Wemo Light Switch.  The default name 
+for your Wemo Light Switch is WeMo.Light.xxx. 
+ 
+NOTE:  If you have multiple Wemo devices, connect to the one with the same 
+Wemo ID at the back of the device.  The Wemo ID is the word WeMo, followed by 
+Wemo model, and then three alphanumeric characters.  Once connected to the 
+Wi-Fi, look for the Wi-Fi Name of the Wemo Light Switch and tap it to connect 
+your device. 
+    
+ 
+QUICK TIP:  If the Wemo Light Switch does not show up in the Wi-Fi search, you 
+can try setting it up with your mobile device near the Wemo Light 
+Switch.  Alternatively, you can press the Reset button on the faceplate of the light 
+switch.  For step-by-step reset instructions, click here.  
+ 
+Step 4:  Once connected to the Wemo Light Switch, launch the Wemo 
+App.  Then, on the Let's get started! screen, tap NEXT. 
+    
+ 
+   
+Step 5:  Enter your email address then tap NEXT. 
+  
+ 
+    
+ 
+Step 6:  Select your Wi-Fi name and enter your password. 
+    
+ 
+    
+ 
+Wait while the Wemo App connects to your Wi-Fi. 
+ 
+NOTE:  Observe the light indicators of your Wemo Light Switch.  Click here to 
+know about light behaviors. 
+    
+  
+QUICK TIP:  If the Wemo encounters difficulty connecting to the Wi-Fi, try 
+refreshing your mobile device’s Wi-Fi and try connecting again.  If that doesn't 
+work, click here for more troubleshooting tips. 
+    
+  
+The Remote Access Enabled message will then pop up.  By default, this feature 
+is enabled. 
+    
+  
+Step 7:  When the Wemo Light Switch setup is complete, the Wemo App will look 
+for devices.  If you have multiple Wemo devices, the Wemo App will display all 
+these.  You should see the Wemo Light Switch on the list. 
+ 
+NOTE:  If your Wemo device is not detected by the Wemo App, click here for 
+troubleshooting instructions. 
+    
+ 
+ 
+QUICK TIP:  You can customize the Name, Device Picture, and Reset Options of 
+your   Wemo Light Switch by tapping the pencil icon and then selecting the Wemo Light 
+Switch. 
+    
+  
+  
+You should now have successfully installed the Wemo Light Switch with the Wemo App.  With the 
+Wemo App, you can create different rules for your Wemo Light Switch.  To learn how, click here. 
+ 
+ 
+ 

@@ -1,0 +1,483 @@
+Smart Garage  Hub
+Smart Garage  Hub
+™
+™
+ManMuaalnual
+For iOS devices
+ 
+MYQ-G0301 • MYQ-G0301C
+MYQ-G0301-D • MYQ-G0301LA
+by Before You Start
+To reduce the risk of SEVERE INJURY to persons:
+•   DO NOT enable the MyQ® Smart Garage™ Hub if operating either one-piece or swinging doors. To be enabled 
+ONLY on a sectional door.
+WARNING: This product can expose you to chemicals including lead, which are known to the State of California 
+to cause cancer or birth defects or other reproductive harm. For more information go to www.P65Warnings.ca.gov
+Read instructions thoroughly BEFORE beginning.
+If using this product with residential door openers, this product must be used only with door openers 
+manufactured after 1993 that utilize photoelectric sensors. The photoelectric sensors are always located 
+on or near the bottom of the door track.
+Before you start, you MUST have…
+  •  A router with 2.4GHz Wi-Fi® frequency
+  •  Router configured with 802.11 B/G/N
+  •  Router within 50 ft. of MyQ Smart Garage Hub
+  •  Mobile phone connected to your home Wi-Fi network
+  •  Home Wi-Fi network password 
+  •  Latest version of MyQ App 
+     NOTE: If using iOS 10, see  
+Alternative Installation Method on page 16.
+  •  Compatible garage door opener (see Compatible Garage Door Openers on page 20)
+  •  Locate program or learn button on the garage door opener   
+  See Appendix on page 21 for a more detailed list of program or learn button locations.
+LED
+Program Button
+- 2 - Before You Start
+What’s in the Box
+MyQ SmWari-tF Gi Haurabg e Hub
+Door Sensor
+BBluluee  LLEEDD MoDdoeol Mr SYeQn-Gso03r02
+GGrreeeenn  LLEEDD
+Red
+LED
+YYeellllooww  LLEEDD
+Light
+Test
+Test Button
+Button
+PoPwoewre rA Addaapptteerr
+FaFsatsetneniningg S Sttrriippss  ffoorr  
+DoDooor rS Seennssoorr
+MMouonuntitningg  bbrraacckkeett
+HHaarrddwwaarer efo fro r  
+DDoooorr  SSeennsosorr 
+(5(5//3322”"  xx  33//44" ”s csrcerwesw)s)
+Hardware for  
+Hardware for Wi-Fi Hub
+MyQ Smart Garage Hub  
+(5/32" x 1-1/2" screws)
+(5/32” x 1-1/2” screws) WWaarrnniinngg L Labaeblel 
+( (nnoott s shhoowwn)n)
+Tools Needed: Drill, 5/32" Drill Bit, Screwdriver, Ladder
+- 3 - Wireless Setup and Installation
+NOTE: If using iOS 10, see Alternative Installation Method on page 16.
+Step 1: Check your Wi-Fi signal
+Make sure your mobile phone is connected to your Wi-Fi network. Hold the mobile phone near where you plan to 
+install the MyQ Smart Garage Hub.
+MyQ Smart Garage Hub 
+(mounting area)
+mounting area
+If you see:
+Wi-Fi signal is strong. You’re all set! Proceed to next step.
+ 
+Wi-Fi signal is weak. The MyQ Smart Garage Hub may not connect to your Wi-Fi network. If it doesn’t 
+connect, try one of the options below. 
+No Wi-Fi signal. Try one of the following options:
+  •  Move your router closer to the garage to minimize interference from walls and other objects.
+  •  Buy a Wi-Fi range extender.
+ 
+To watch a video on How to test your Wi-Fi Signal Strength before setting up your MyQ® product,  
+go to youtu.be/_Ow1wVF-7AU 
+- 4 - Wireless Setup and Installation
+Step 2: Install door sensor
+  1.  Remove the pull tab from the door sensor to activate the battery.
+  2.  Test the door sensor by pushing the test button and confirming the LED on the door sensor blinks.
+    If the LED on the door sensor does not blink, see Troubleshooting on page 16.
+  3.  Install the door sensor on the top panel of the garage door using the fastening strips or provided hardware.
+Door Sensor
+“TOP” MUST 
+ always face UP
+LED
+Test 
+Fastening   
+Button
+Strips 
+OR
+OR
+Screws
+Press CR2450 Battery
+IMPORTANT: Door sensor MUST be installed to read “myQ” lettering right-side up.
+Step 3: Download the MyQ App
+If you already have the MyQ App, verify you have the latest version. To confirm you have the  
+latest version of the app, go to the App StoreSM and search for the Chamberlain MyQ App.  
+If you see Update, tap Update. 
+- 5 - Wireless Setup and Installation
+If you have already registered a MyQ account, skip this step and login.
+Step 4:  Create and Register your MyQ Account
+  1.  Open the MyQ App and tap Sign Up.
+  2.   Enter first name, last name, valid email address, and password 
+(twice), country, and zip code.
+     NOTES:
+    • Check email address for errors.
+    • Use a valid email address you can access.
+    •  If the email address you are attempting to use is already in the 
+MyQ system, you will receive an error message. If necessary, 
+tap Forgot Password to retrieve the password for that email 
+and login. For more information, see Troubleshooting on page 
+16.
+  3.  Tap Submit (top right-hand corner). An email will be sent to the          
+    email address you provided.
+  5.   Open the email from Chamberlain support and tap the link to 
+complete your registration. The MyQ App will open, verifying 
+registration of email address was successful. NOTE: If you didn’t 
+receive an email, check the Junk or Spam folder.
+  6.  Tap OK.
+  7.  Enter your email address and password and tap Login.
+Congratulations! Registration of your account is now complete.
+- 6 - Wireless Setup and Installation
+Step 5: Power up the MyQ Smart Garage Hub
+Find a convenient location and plug in the MyQ Smart 
+Garage Hub. Wait for the blue LED to blink. BBluluee L ELEDD b lbinliknsks
+If blue LED is not blinking:
+Unplug and plug back in.
+MyQ Smart Garage Hub
+If the blue LED still does not blink, reset to factory 
+default:
+  1.   Press and hold the Settings button  until the 
+blue LED blinks (about 10 seconds) then release. 
+  2.   Press and hold Settings button  again until the 
+MyQ Smart Garage Hub beeps. 
+IMPORTANT NOTE: Resetting the MyQ Smart Garage 
+Hub to factory default erases the Wi-Fi settings, erases 
+door sensors, and removes the MyQ Smart Garage Hub 
+from the currently paired MyQ account.
+Settings Button
+Step 6: Login to MyQ App
+Enter the email and password you used to register your account and 
+tap Login.
+ TIP: Select Remember Me if you want the MyQ App to remember 
+your email address and password. You can change the security 
+settings within the MyQ App by tapping the menu bar in top-left 
+corner and then your name on bottom-left to access settings.
+- 7 - Wireless Setup and Installation
+Step 7: Connect the Smart Garage Hub to your Wi-Fi Network
+In the MyQ App:
++
+  1.  Tap Get Started or tap “ ”.   2.  Tap Add New.
+  3.   Enter your MyQ serial number (found on the back of    4.  Tap Join to connect to the network.
+the MyQ Smart Garage Hub) and tap Next.      NOTE: If you don’t see this screen, see Alternative 
+Installation Method on page 16.
+- 8 - Wireless Setup and Installation
+Step 7: Connect the Smart Garage Hub to your Wi-Fi Network continued 
+  5.   Select your home Wi-Fi network from the list.     6.   Enter your home Wi-Fi network password and tap 
+Connect. 
+  7.   Wait for the solid green LED on your MyQ Smart    8.   Enter a name for your MyQ Smart Garage Hub and 
+Garage Hub. This can take up to 2 minutes. tap Next. 
+     Result: LED is solid green. NOTE: If the LED is not 
+solid green, see Troubleshooting on page 16.
+- 9 - Wireless Setup and Installation
+Step 8: Add New Device
+Now that your MyQ Smart Garage Hub is connected to your home Wi-Fi network, the next steps will guide you through 
+the process of pairing your garage door opener to your MyQ Smart Garage hub.
+TIP: A device is any MyQ accessory that can be paired with your MyQ Smart Garage hub for monitoring and control.  This 
+includes MyQ Lighting accessories and an add-on door sensor that expands your MyQ functionality to a second garage door. 
+The following steps are to add a garage door opener.
+  1.  Select Garage Door Opener.   2.  Confirm your door sensor is mounted and tap Next.
+  3.   Locate test button on door sensor and tap Next.    4.   Press and release the test button on the door sensor. 
+The MyQ Smart Garage Hub will beep and the light 
+will flash. 
+MyQ Smart Garage Hub
+Light
+Door Sensor
+Red
+LED
+Test 
+Button
+- 10 - Wireless Setup and Installation
+Step 8: Add New Device continued
+   NOTE: You will need the brand and model located on the motor head of your garage door opener.
+   The following steps will activate your garage door opener. Make sure your garage door is clear.
+  5.   In the MyQ App, tap Select Brand/Model of garage door opener. Tap and select your garage door opener from 
+drop down list. If prompted, tap Program Button and select the color from the drop down list.
+  6.  Read warning then tap Continue.
+- 11 - Wireless Setup and Installation
+Step 8: Add New Device continued
+     See Appendix on page 21 for location of garage door opener 
+program or learn buttons.
+8.  In MyQ App, tap I have pressed the 
+  7.   On your garage door opener - push and release the program   program button.
+or learn button.  
+NOTE: Release the button quickly for best results. 
+LED
+Program Button
+  Result: Door should move.
+   If the door moves go to next step. If the door doesn’t move, the MyQ App will prompt you to try again. If you’re still 
+unsuccessful, see Troubleshooting on page 17.
+  9.   When the garage door opener is paired, in the MyQ    10.   Success! Continue to the next page for instructions 
+App enter a name for the device (door) and tap Next.  on mounting your hub. 
+- 12 - Wireless Setup and Installation
+Step 9: Mount the MyQ Smart Garage Hub
+  •   Install the MyQ Smart Garage Hub on the ceiling 4-6 feet from the garage door opener, and within 4 feet 
+from an AC power outlet.  
+  1.  Use the MyQ Smart Garage Hub bracket as a template to drill 5/32" pilot holes.  
+  2.  Attach the bracket.  
+  3.  Slide the MyQ Smart Garage Hub onto the bracket.
+  •   Plug it in and confirm the hub’s green LED turns on solid.  
+If the hub’s LED does not turn solid green within a few minutes, see Troubleshooting on page 16.
+    The MyQ Smart Garage Hub light MUST be visible if you’re standing in the doorway of the garage.
+MyQ Smart 
+Garage Hub
+Light
+TIP: Wrap excess power 
+adapter cable around the 
+Door Control mounting bracket.
+Warning Label
+Step 10: Apply Warning Label 
+  •  Attach the warning label to the wall next to the door control.
+- 13 - Operation
+ALWAYS keep garage door in sight and away from people and objects until completely closed. NO ONE SHOULD 
+CROSS THE PATH OF THE MOVING DOOR.
+To open and close your garage door from the MyQ App, 
+tap the garage door icon from the Devices screen. This 
+screen also displays the length of time since your garage 
+door opened or closed.
+To change the Devices screen view, tap the toggle icon 
+next to the +.
+When closing your garage door from the MyQ App, your 
+MyQ Smart Garage Hub will beep and the MyQ Smart 
+Garage Hub light will flash as a safety alert. Caution 
+should be taken around the moving door.
+NOTES:
+•   The MyQ Smart Garage Hub can be associated to one 
+MyQ account only. 
+•   You can connect up to 2 door sensors and up to 16 
+MyQ accessories (with a second door sensor purchased 
+separately
+Menu 
+Button
+Getting Started
+Your new MyQ Smart Garage Hub was designed to deliver peace of mind by allowing 
+you to always know the status of your garage door and by providing control of your 
+garage door from anywhere. 
+The following MyQ functionality allows you to get the most out of your new system:
+ 
+ALERTS
+Alerts can send you a push notification and/or email when a MyQ device changes  
+state (garage door opens, remote light turns on, etc.)
+SCHEDULES
+Schedules program your device to activate at specified days and times and can  
+also be programmed to send push notifications and email to your phone.
+PARTNERS
+MyQ integrates with a number of other technologies to link with your  
+existing Smart Home products.  For the most up to date list of MyQ partners,  
+please visit www.chamberlain.com/myqpartners 
+See all available features by tapping the Menu button. 
+- 14 - Maintenance
+Test
+ TIP: Test your door sensor every 6 months or if the MyQ  
+system is not working as expected.
+To prevent possible SERIOUS INJURY or DEATH:
+To test for a low battery: Press and release the test button  •   NEVER allow small children near batteries.
+on the door sensor, The LED on the door sensor should  •   If battery is swallowed, immediately notify doctor.
+blink the MyQ Smart Garage Hub should beep. Wait 5-10  To reduce risk of fire, explosion or chemical burn:
+•   Replace ONLY with 3V CR2450 coin batteries.
+seconds, then repeat this test 5 more times (wait 5-10 
+•   Do NOT recharge, disassemble, heat above 212°F 
+seconds between each test). 
+(100°C) or incinerate.
+ If the LED doesn’t blink or the MyQ Smart Garage Hub 
+doesn’t beep with each press, replace the battery in the  
+door sensor. Use a 3V Lithium battery size CR2450.
+Battery
+Dispose of batteries properly. Replace ONLY with 3V CR2450 coin batteries.
+Screws
+Press
+CR2450 Battery
+- 15 - Install Option 1 - Preferred Method
+CheckyourWi-Fi®signal.
+MakesureyourmobiledeviceisconnectedtoyourWi-Finetwork.HoldyourmobiledevicenearwhereyouplantoinstalltheSmart
+GarageHub.
+(mounting area)
+Ifyousee:
+Wi-Fisignalisstrong.You'reallset!Installyourproduct.
+Wi-Fisignalisweak.TheSmartGarageHubwilllikelyconnecttoyourWi-Finetwork.Ifnot,tryoneoftheoptions
+below.
+NoWi-Fisignal.Tryoneofthefollowing:
+TroubleshooMtoivnegyourrouterclosertothegaragetominimizeinterferencefromwallsandotherobjects
+l
+BuyaWi-Firangeextender
+l
+ 
+TToow waatctchha vvidideeoos, ogon thooywo tuotu in.bseta/_llO thwe1 wMVyFQ-7 SAmUa.rt Garage Hub, go to videos.
+When I press the test button in the door sensor, why doesn’t the red LED blink? 
+  1.  Make sure you remove the pull tab from the door sensor. 
+  2.   Debris may be present on the battery. Open the door sensor by pressing the button on the bottom and pulling the 
+front cover off. 
+  3.   Slide the battery out to make sure that the pull tab didn’t break off under the battery or that there is no residue on 
+the battery. After you confirm put the battery back in. 
+  4.   Close the door sensor and press the test button, if the LED still doesn’t come on replace the battery. If the LED 
+blinks, install the door sensor to the top section of your garage door. The battery is a 3V Lithium battery size 
+CR2450. Door sensor installation is on page 5.
+When I attempt to create a MyQ account, why do I get the error message “That username already exists. 
+Check username or use another username. (201)”? 
+Your email address was previously used to create a MyQ account. Click Forgot Password on the login screen of the MyQ 
+-5-
+App and a temporary password will be emailed to that email address. Once you log in you are ready to go through the 
+Wireless Setup and Installation on page 7.
+When I attempt to connect my MyQ Smart Garage Hub to my Wi-Fi network, why don’t I get a solid 
+green LED light? 
+When attempting to connect to your Wi-Fi network the LED lights on your MyQ Smart Garage Hub will go through a 
+sequence of LED light flashes before it goes solid green. The LED illumination pattern indicates the type of issue. Check 
+what the LED lights are doing and follow the steps indicated. 
+  Goes back to flashing blue
+       • Verify your Wi-Fi password.
+  Flashing blue and green
+    • Power cycle your router.
+    • Check Wi-Fi signal where the MyQ Smart Garage Hub is located (page 4).
+    • Check router settings (page 2).
+    • Clear the Wi-Fi settings on the MyQ Smart Garage Hub and reconnect to your Wi-Fi network. 
+To clear the Wi-Fi settings: Press and hold the Settings button on the MyQ Smart Garage Hub until the blue LED blinks 
+(about 10 seconds) then release. Then reconnect to Wi-Fi using the Alternative Installation Method below. 
+Alternative Installation Method
+  1.  Make sure the blue LED on the MyQ Smart Garage Hub is blinking. 
+  2.  On your mobile phone, go to Settings > Wi-Fi and select the network with the “MyQ-nnn” prefix.
+  3.   Launch the web browser on your mobile device. Enter setup.myqdevice.com into the browser address bar. Follow 
+the on-screen prompts to connect the MyQ Smart Garage Hub to your Wi-Fi network.
+  4.   Download the MyQ App, set up an account, and add the MyQ serial number (located on the cover of the manual) to 
+your account.
+  Flashing green:
+    • Check your router ports: TCP/UDP port 8883 and TCP/UDP port 53 required.
+       
+- 16 - Troubleshooting
+When attempting to pair my garage door opener to the MyQ Smart Garage Hub, why doesn’t the door 
+move? 
+When you are not able to pair your garage door opener and MyQ Smart Garage Hub there are a couple things to check 
+for. You need to confirm that you are adding a compatible garage door opener and that the door sensor is working 
+properly. 
+Once you have confirmed that your garage door opener is compatible (see Appendix for compatible garage door 
+openers), test your door sensor. 
+Door sensor test: Press the test button on the door sensor. The MyQ Smart Garage Hub should beep and the red LED on 
+the door sensor should blink. If it doesn’t, replace the battery. If it does, follow the steps to test for low battery.  
+To test for a low battery: Press and release the test button on the door sensor, the MyQ Smart Garage Hub should beep. 
+Wait 5-10 seconds, then repeat five more times. (Press, beep and wait…repeat). The MyQ Smart Garage Hub should 
+beep with each press. (If you don’t wait 5 seconds you may not hear a beep.) If you don’t hear a beep with each press, 
+replace the battery. The battery is a 3V Lithium battery size CR2450.
+Error messages and how to resolve 
+When I attempt to log into my account, I get the error The user is locked out. (207), how do I unlock my account? 
+An account gets locked out when you have entered your password incorrectly too many times. Follow these steps to 
+resolve. 
+  1.  Tap Forgot Password
+  2.   Enter the email address you used to create the MyQ account. You will receive an email containing a new generic 
+password. NOTE: If you didn’t receive an email, check the Junk or Spam filter.
+  3.  Login to your MyQ account with your Account Email and the new generic password.
+    NOTE: The new generic password remains valid until you change it.
+  4.   Tap the Menu in top-left corner, select your name in bottom-left corner, and change your password to a specific 
+and confidential password.
+When I attempt to add my serial number to my account, I get the error That device is on another user’s account. Unable 
+to add (310), how do I resolve this issue? 
+This error means that the MyQ Smart Garage Hub has been added to another MyQ account. To resolve this issue, you 
+need to perform a factory default on the MyQ Smart Garage Hub (see below). 
+Factory Default 
+Setting the MyQ Smart Garage Hub back to factory default erases the Wi-Fi settings, erases door sensors, and removes 
+the MyQ Smart Garage Hub from the MyQ account.
+  1.   Press and hold the Settings button   until the blue LED blinks (about 10 seconds) then release. 
+  2.   Press and hold Settings button   again until the MyQ Smart Garage Hub beeps. The MyQ Smart Garage Hub is set 
+to factory default.
+- 17 - Troubleshooting
+ 
+Alternative Installation Method
+  1.  Make sure the LED on the MyQ Smart Garage Hub is blinking       blue. 
+  2.  On your mobile phone, go to Settings > Wi-Fi and select the network with the “MyQ-nnn” prefix.
+  3.   Launch the web browser on your mobile device. Enter setup.myqdevice.com into the browser address bar. Follow 
+the on-screen prompts to connect the MyQ Smart Garage Hub to your Wi-Fi network.
+  4.   Download the MyQ App, set up an account and add the MyQ serial number (located on the cover of the manual) to 
+your account.
+Settings Button
+- 18 - Accessories
+PILCEV-P1
+MyQ Remote Lamp Control
+Monitor and control this plug-in lamp switch 
+with the MyQ App.
+WSLCEV-P1
+MyQ Interior/Exterior Light Switch
+Monitor and control this wall light switch with 
+the MyQ App.
+MYQ-G0302: G821LMB-SENSOR
+MyQ Smart Garage Hub Add-on Door Sensor 
+Monitor and control this door sensor with 
+the MyQ App. The MyQ Smart Garage Hub 
+supports a second sensor that can be installed 
+on a second garage
+NOT COMPATIBLE
+MYQ-G0202 or 041D7924
+Door Sensor
+- 19 - Appendix
+Compatible Garage Door Openers
+Unless specified, the MyQ Smart Garage Hub is compatible with the following brands of garage door openers 
+manufactured after 1993 that utilize safety sensors. 
+  •  Chamberlain, LiftMaster, Craftsman and other Chamberlain manufactured garage door openers
+  •  Wayne Dalton 372.5 MHz
+  •  Linear
+  •  Stanley
+  •  Genie/Overhead Door manufactured 1993-2015. Not compatible to openers manufactured after 2016. MyQ    
+    Smart Garage Hubs with a date code of 04/18 or later are compatible with all Genie and overhead door openers  
+    manufactured since 1996. 
+- 20 - Appendix
+Locate the Program or Learn Button
+Chamberlain Products
+- 21 - Appendix
+Locate the Program or Learn Button
+LiftMaster Products
+Yellow  
+Program Button
+Purple  
+Program Button
+Orange 
+Program Button
+Green  
+Program Button
+Overhead Door Products
+Learn Code 
+Button
+- 22 - Appendix
+Locate the Program or Learn Button
+Genie Products
+For compatible Genie garage door openers, see Compatible Garage Door Openers on page 20.
+Learn Code 
+Button
+Program Set Button
+- 23 - Appendix
+Locate the Program or Learn Button
+Linear Products
+Program 
+Button
+Program 
+Button
+Wayne Dalton Products
+Program SW 
+Button
+- 24 - Appendix
+Locate the Program or Learn Button
+Stanley Products
+Program Button
+- 25 - Warranty
+Need Help?
+Go to: www.chamberlain.com/MyQSupport
+One Year Limited Warranty
+The Chamberlain Group, Inc. warrants to the first consumer purchaser of this product that it is free from defect in 
+materials and/or workmanship for a period of 1 year from the date of purchase.
+Software Agreement
+Use of this product and the software embedded within the product is subject to the copyright notices, terms, and 
+conditions available at: www.mychamberlain.com/agreement
+NOTICE: This device complies with Part 15 of the FCC rules and Industry Canada’s license-exempt RSSs. Operation is subject to the following two 
+conditions: (1) this device may not cause harmful interference, and (2) this device must accept any interference received, including interference that 
+may cause undesired operation. Any changes or modifications not expressly approved by the party responsible for compliance could void the user’s 
+authority to operate the equipment.
+This device must be installed to ensure a minimum 20 cm (8 in.) distance is maintained between users/bystanders and device.
+This device has been tested and found to comply with the limits for a Class B digital device, pursuant to part 15 of the FCC rules and Industry Canada 
+ICES standard. These limits are designed to provide reasonable protection against harmful interference in a residential installation. This equipment 
+generates, uses and can radiate radio frequency energy and, if not installed and used in accordance with the instructions, may cause harmful 
+interference to radio communications. However, there is no guarantee that interference will not occur in a particular installation. If this equipment does 
+cause harmful interference to radio or television reception, which can be determined by turning the equipment off and on, the user is encouraged to try 
+to correct the interference by one or more of the following measures: 
+  •  Reorient or relocate the receiving antenna.
+  •  Increase the separation between the equipment and receiver.
+  •  Connect the equipment into an outlet on a circuit different from that to which the receiver is connected.
+  •  Consult the dealer or an experienced radio/TV technician for help.
+Chamberlain, the Chamberlain logo, LiftMaster, MyQ® and the MyQ® logo are registered trademarks of The Chamberlain Group, Inc. 
+Patents and patents pending. Apple is a trademark of Apple Inc., registered in the U.S. and other countries. App Store is a service mark 
+of Apple, Inc. Wi-Fi® is a registered trademark of Wi-Fi Alliance. Genie is a trademark of Overhead Door Corporation. Overhead Door 
+is a trademark of Overhead Door Corporation. Linear is a trademark of Linear Corporation. Master Mechanic is a trademark of TruServ. 
+Sears is a trademark of Sears & Roebuck. Stanley is a trademark of The Stanley Works. Wayne Dalton is a trademark of Wayne Dalton 
+Corporation. Do It is a trademark of Do It Best Corporation. All other trademarks are the property of their respective owners. 
+  ©2018 The Chamberlain Group, Inc. 
+114A5161B  All Rights Reserved. 

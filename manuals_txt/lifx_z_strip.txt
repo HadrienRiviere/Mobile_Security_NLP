@@ -1,0 +1,275 @@
+LIFX.COM MEET YOUR NEW LIFX®
+LIFX is color changing, Wi-Fi lighting that you 
+control with your smartphone or tablet. 
+With the LIFX app you can switch your lights on 
+and off, dim, adjust brightness and color, set 
+different scenes and set wake up and sleep timers. 
+You can control individual lights, rooms, or the 
+entire house.
+Even if you don’t have your smartphone with you, 
+LIFX still functions like a normal light by switching 
+on and off with a regular light switch. ALL YOU NEED TO BEGIN IS...
+• A device running iOS 9.0+ or Android 4.1+ 
+•  A Wi-Fi Internet connection. Wi-Fi access point 
+must be 802.11b, g or n compliant with WPA2 security 
+and a DHCP-configured connection available for every 
+connected LIFX® light.
+•  The LIFX app from your app store or at  
+go.lifx.com   
+Simply complete the installation and setup steps on the next pages then follow the 
+app prompts to enjoy your new lights! LIFX Z LIFX Z LIFX Z
+EXTENSION EXPERIENCE
+2 strips, 2m / 6.6’ 1 strip, 1m / 3.3’ 3 strips, 3m / 9.9’  INSTALL
+CLEAN PEEL STICK SETUP
+go.lifx.com
+CONNECT GET APP SWITCH ON EXTEND
+10 m, Max 30 W / 33’ 
+1 second CARE
+Max 90° bend Do not bend at LED S You can get  EXTENSION  EXTENSION 
+E extension cables  CABLE (LONG) CABLE (SHORT)
+RI to customize your 
+O LIFX Z to suit 
+S different places.
+S
+E Cables help you 
+C run your LIFX Z 
+AC strip around 
+AL  caondrn tehrrso, uagcrho gssa p s 
+N and more.
+O
+DITI Tliagkhet inyogu fru srtthriepr —
+D
+A Visit LIFX.com  1 cable, 1m / 3.28’ 1 cable, 10cm / 3.9” USING EXTENSION CABLES WITH STRIPS
+Including extension cables between strips, max total length is 10m / 33’ 
+with a max 30W. Always connect strip pieces with extension cables with 
+the curved surface oriented upwards to avoid damaging the pins. 
+Be careful when connecting the LIFX Z pins into the extension. They can 
+be fractionally different in alignment and forcing the pins in incorrectly 
+will cause damage.  HomeKit™
+1. 2. 4.Open Apple Home App
+Open App Store
+Use iOS 10.0   “Add accessory”
+or later.
+3. 5.
+Get  
+Apple Home  
+App
+Use HomeKit setup  
+code on manual Apple HomeKit technology provides an easy, secure way 
+to control your home’s lights, doors, thermostats, and 
+more from your iPhone®, iPad®, or iPod touch®.
+To control this HomeKit-enabled accessory, iOS 10.0 or later is recommended.
+Controlling this HomeKit-enabled accessory automatically and away from home 
+requires an Apple TV with tvOS 10.0 or later or an iPad with iOS 10.0 or later set 
+up as a home hub.
+Use of the Works with Apple HomeKit logo means that an electronic accessory has 
+been designed to connect specifically to iPod touch, iPhone, or iPad, respectively, 
+and has been certified by the developer to meet Apple performance standards. 
+Apple is not responsible for the operation of this device or its compliance with 
+safety and regulatory standards.
+Keep your user manual for the HomeKit setup code in the future. 
+Apple, iPhone, iPad and iPod touch are trademarks of Apple Inc., registered in the 
+U.S. and other countries. HomeKit is a trademark of Apple Inc. REGULATORY & COMPLIANCE INFORMATION
+Specifications
+To see a full list of LIFX® product specifications applicable to this Product, go to 
+www.lifx.com/compliance
+Certification
+LIFX® adheres to the certification requirements for various regions around the world.
+To see a full list of LIFX® certifications please go to www.lifx.com/compliance to 
+ensure LIFX® complies with the certification requirements in your region.
+FCC Compliance Statement U.S
+This equipment has been tested and found to comply with the limits for a Class 
+B digital device, under Part 15 of the FCC Rules. These limits provide reasonable 
+protection against harmful interference in a residential installation. This equipment 
+generates, uses and can radiate radio frequency energy and, if not installed and 
+used under the instructions, may interfere with radio or television reception, which 
+can be determined by turning the equipment off and on. The user is encouraged   to correct the interference by one or more of the following measures:
+• Reorient or relocate the receiving antenna
+•  Increase the separation between the equipment and the receiver
+•  Connect the equipment into an outlet on a circuit different from that to which 
+the receiver is connected
+•  Consult the dealer or an experienced radio/TV technician for help
+Changes or modifications not approved by LIFX can void the user’s authority to 
+operate the equipment.
+This device complies with Part 15 of the FCC Rules. Operation is subject to the 
+following two conditions: (1) This device may not cause harmful interference, and (2) 
+this device must accept any interference received, including interference that may 
+cause undesired operation. Contains FCC ID: PPQ-MP1
+EU Declaration of Conformity and Industry Canada 
+Compliance.
+LIFX complies with all applicable EU Directives and Industry Canada Standards. This 
+Class B RFLD complies with the Canadian standard ICES-005. Contains IC: 4491A-
+MP1.  See www.lifx.com/compliance RF EXPOSURE WARNING
+This equipment must be installed and operated in accordance with provided 
+instructions and the antenna(s) used for this transmitter must be installed to provide 
+a separation distance of at least 20 cm from all persons and must not be co-located 
+or operating in conjunction with any other antenna or transmitter. End-users and 
+installers must be provided with antenna installation instructions and transmitter 
+operating conditions for satisfying RF exposure compliance.
+This device complies with Industry Canada license-exempt RSS standard(s). 
+Operation is subject to the following two conditions: (1) this device may not cause 
+interference, and (2) this device must accept any interference, including interference 
+that may cause undesired operation of the device.
+Le présent appareil est conforme aux CNR d’Industrie Canada applicables aux 
+appareils radio exempts de licence. L’exploitation est autorisée aux deux conditions 
+suivantes : (1) l’appareil ne doit pas produire de brouillage, et (2) l’utilisateur de 
+l’appareil doit accepter tout brouillage radioélectrique subi, même si le brouillage 
+est susceptible d’en compromettre le fonctionnement.
+  Radiation Exposure Statement 
+This equipment complies with IC radiation exposure limits set forth for an 
+uncontrolled environment.
+Déclaration d’exposition aux radiations
+Cet équipement est conforme aux limites d’exposition aux rayonnements IC 
+établies pour un environnement non contrôlé.
+CHANGES & MODIFICATION
+Changes or modifications made to this device may void certification of the 
+device. Changes or modifications made to this unit not expressly approved by 
+the party responsible for compliance could void the user‘s authority to operate 
+the equipment. CHANGES & MODIFICATION
+Changes or modifications made to this device may void certification of the 
+device. Changes or modifications made to this unit not expressly approved by 
+the party responsible for compliance could void the user‘s authority to operate 
+the equipment.
+RECOMMENDED INSTALLATION REQUIREMENTS
+This device should only be installed in light fittings and fixtures that are designed  
+to accept each fitting. Lamps, fittings and fixtures that are designed to accept 
+smaller or lower wattage light bulbs may result in the LIFX® bulb operating below 
+its optimal capacity. For optimal performance it is recommended that LIFX® bulbs 
+be fitted into fixtures that provide sufficient air flow through and around the bulb.  
+It is recommended that the LIFX® bulb be installed away from other devices 
+designed to receive or transmit radio signals. It is recommended LIFX® bulb/s  
+be installed and operated at a minimum distance of 30 cm from the body.  
+For lamps with a weight significantly higher than that of lamps for which they are  
+a replacement, attention should be drawn to the fact that the increased weight  
+may reduce the mechanical stability of certain luminaires and may impair contact  
+making and lamp retention. INTERFERENCE
+LIFX® has been designed to minimise interference with other radio, broadcast 
+or receiving devices. The manufacturer is not responsible for any interference 
+caused as a result of modifications to the product or by failure to adhere to the 
+recommendations in this document and at support.lifx.com. This device generates 
+radio frequency energy and, if not installed in accordance with the “recommended 
+installation requirements” may cause harmful interference to radio communication 
+devices. If the device is causing radio interference it is recommended that the 
+user try: 
+a)  relocating the device to a different place;
+b)  adjust the antenna on the receiving device;
+c)    consult a technician experienced in radio interference.
+NOTICES
+•  This device is not intended for use with emergency exits
+• For indoor use only
+• Suitable for operation in ambient temperature not exceeding 35ºC LIFX® is not designed for use in:
+•  Excessively hot environments (e.g. close to ovens, radiators, heaters, etc.)
+•  Regions or countries other than that in which the product was intended for
+•  Outdoor and wet areas, except where the LIFX® Product specifies that it is for 
+both Indoor and Outdoor use
+WHEN USING LIFX®
+•  Switch off the power supply to the device and allow sufficient time for it to cool 
+before handling it
+•  Do not open device, as this will void the warranty
+•  Do not clean the device when it is powered on and or connected to the wall 
+socket
+•  If cleaning the product, use a soft dry cloth, do not use cleaning agents
+Frequency Information
+Frequency Range (US & Canada): 2412-2462 MHz; 
+Frequency Range (Europe & Australia): 2412-2472 MHz; 
+Maximum radio-frequency power transmitted: 17.93dBm 
+Modulation type: IEEE 802.11 b/g/n20 LIMITED WARRANTY
+GENERAL
+Lifi Labs Inc. (“LIFX®“) warrants the LIFX® bulb (the “Product“), and only the 
+Product, against defects in materials and workmanship under normal use (“Defect”) 
+for a period of TWO YEARS (730 days) from the date of retail purchase by the 
+original purchaser (“Warranty Period“). Under this Limited Warranty, if a defect 
+arises and a valid claim is received by LIFX® within the Warranty Period, at its 
+option and to the extent permitted by law, LIFX® will either: 1. repair the Product 
+at no charge, using new or refurbished replacement parts --or-- 2. exchange the 
+Product with a new or refurbished Product.
+In the event of a defect, to the extent permitted by law, these are your sole and 
+exclusive remedies. A replacement Product or part assumes the remaining warranty 
+of the original Product or ninety (90) days from the date of replacement or repair, 
+whichever is longer. When a Product or part of the Product is exchanged, any 
+replacement item becomes your property and the replaced item becomes LIFX®‘s 
+property. Parts provided by LIFX® in fulfilment of its warranty obligation must be 
+used in Products for which warranty service is claimed. EXCLUSIONS & LIMITATIONS
+This Limited Warranty applies only to the Product manufactured by or for LIFX® that 
+can be identified by the “LIFX® trademark, trade name, or logo affixed to it. The 
+Limited Warranty does not apply to any (a) LIFX® products and services other than 
+the Product, (b) non- LIFX® hardware product, (c) consumables (such as batteries), 
+or (d) software, even if packaged or sold with the Product or embedded in the 
+Product. Refer to the licenses accompanying the software for details of your rights 
+with respect to its use. LIFX® does not warrant that the operation of the Product 
+will meet your needs or requirements or be uninterrupted or error free. LIFX® is 
+not responsible for damage arising from failure to follow instructions relating to the 
+Product‘s use or from failures resulting from inadequate electrical supply or internet 
+access. This warranty does not apply to a Product or part of the Product that has 
+been altered or modified (e.g. to alter functionality or capability) by anyone who is 
+not a representative of LIFX® or if the Product is inserted or installed in a casing not 
+provided by LIFX®. In addition, this Limited Warranty does not apply to Defects or 
+damage caused by (a) use with non-LIFX® products; (b) accident, abuse, misuse, 
+flood, fire, earthquake or other external causes or abnormal conditions; (c) operating 
+the product outside the permitted or intended uses or conditions described by LIFX® 
+or with improper voltage or power supply; or (d) service (including upgrades and 
+expansions) performed by anyone who is not a representative of LIFX®. Recovery and  reinstallation of software programs and user data are not covered under this Limited 
+Warranty. This Limited Warranty does not cover the cost of returning the Product to 
+LIFX®; this is your responsibility. No LIFX® reseller, agent, or employee is authorized to 
+make any modification, extension,
+or addition to this Limited Warranty. If any term is held to be illegal or unenforceable, 
+the legality or enforceability of the remaining terms shall not be affected or impaired.
+EXCLUSIVE WARRANTIES
+THE WARRANTIES SET FORTH HEREIN ARE THE EXCLUSIVE WARRANTIES 
+PROVIDED BY LIFX®, AND EXCEPT TO THE EXTENT PROHIBITED BY 
+APPLICABLE LAW, ALL OTHER WARRANTIES, WHETHER EXPRESS OR 
+IMPLIED WARRANTIES (INCLUDING WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NON INFRINGEMENT) ARE 
+HEREBY EXCLUDED. 
+  LIMITATION OF DAMAGES
+EXCEPT TO THE EXTENT PROHIBITED BY APPLICABLE LAW, LIFX® 
+SHALL NOT BE LIABLE FOR ANY INCIDENTAL, INDIRECT, SPECIAL, 
+OR CONSEQUENTIAL DAMAGES RESULTING FROM ANY USE OF 
+THE PRODUCT OR BREACH OF EXPRESS OR IMPLIED WARRANTY OR 
+CONDITION, OR UNDER ANY OTHER LEGAL THEORY. LIFX®’S LIABILITY 
+FOR DAMAGES RESULTING FROM ANY USE OF THE PRODUCT OR 
+BREACH OF EXPRESS OR IMPLIED WARRANTY OR CONDITION, OR 
+UNDER ANY OTHER LEGAL THEORY WILL BE LIMITED TO THE ORIGINAL 
+COST PAID FOR OF THE DEFECTIVE PRODUCT.
+CONSUMER PROTECTION
+Some states do not allow the exclusion or limitation of incidental or consequential 
+damages, or allow limitations on how long an implied warranty lasts, so the above 
+limitations or exclusions may not apply to you. This warranty gives you specific 
+legal rights, and you may also have other rights that vary by state to state. GOVERNING LAW AND ARBITRATION
+This Limited Warranty shall be governed by the laws of the State of California without 
+giving effect to any conflict of laws principles that may provide the application of the 
+law of another jurisdiction and without regard to the Convention on Contracts for 
+the International Sale of Goods. Any claim or dispute in connection with this Limited 
+Warranty shall be resolved in a cost effective manner through binding non appearance 
+based arbitration. The arbitration shall be initiated through an established alternative 
+dispute resolution provider mutually agreed upon by the parties. The alternative 
+dispute resolution provider and the parties must comply with the following rules: a) 
+the arbitration shall be conducted by telephone, online and/or be solely based on 
+written submissions, the specific manner shall be chosen by the party initiating the 
+arbitration; b) the arbitration shall not involve any personal appearance by the parties 
+or witnesses unless otherwise mutually agreed by the parties; and c) any judgement 
+on the award rendered by the arbitrator may be entered in any court of competent 
+jurisdiction. If the foregoing arbitration clause does not apply for any reason, you agree 
+to submit to the personal jurisdiction of the state courts located within San Francisco 
+County, California and the federal courts in the Northern District of California for the 
+purpose of litigating all such claims or disputes, which courts shall have exclusive 
+jurisdiction of such claims or disputes. Notwithstanding the foregoing, LIFX® may seek 
+injunctive or other equitable relief to protect its intellectual property rights in any court  
+of competent jurisdiction. EQUIPMENT 
+This symbol on the product indicates that this product shall not be 
+treated as household waste. Instead it shall be sent to the applicable 
+collection point for the recycling of electronic equipment.  
+By ensuring this product is disposed of correctly, you will help 
+prevent potential negative consequences for the environment and 
+human health. For more information about the recycling of this 
+product, please contact your local city office.
+CHROMATICITY CO-ORDINATES OF COLORED LIGHT
+x < 0,270 or x > 0,530
+ y < – 2,3172 x2  + 2,3653 x – 0,2199  or  y > – 2,3172 x2  + 
+2,3653 x – 0,1595 Use in Dry  © 2017 LIFX (LIFI LABS INC.)  
+Locations only All rights reserved.
+For indoor  
+use only
+LIFI LABS INC. is the exclusive owner of rights and interests in 
+and to the mark LIFX, the LIFX logo and The light bulb reinvented.
+Covered by patents: www.lifx.com/patents LIFX Z

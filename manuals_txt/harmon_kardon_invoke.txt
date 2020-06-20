@@ -1,0 +1,914 @@
+I N V O K E
+O W N E R ’ S M A N U A L
+1 I N T R O D U C T I O N
+Congratulations on purchasing your Harman Kardon Invoke with Cortana!
+For over 50 years, Harman Kardon has led innovation that enhances our
+customers’ audio experiences—a tradition we continue to uphold with
+I
+N
+the Invoke. In partnership with Microsoft, we are proud to bring this new T
+R
+O
+experience with Cortana into your home. D
+U
+C
+T
+I
+O
+N
+To fully enjoy your Invoke, please read this manual and refer back to it as you
+become more familiar with the product’s features and functions.
+If you have any questions, please contact your Harman Kardon retailer or
+custom installer, or visit our website at harmankardon.com/invoke
+Sept 2017
+2 A B O U T
+C O R TA N A
+Cortana® is yourvery ownpersonal digitalassistant. She’s always learning,so the moreyou
+askhertodo,thebettershe’llbeabletohelpyouwiththethingsthatmattermost.
+Wheneveryouneedsomething,justsay,“HeyCortana,” and thenask yourquestion. The
+topofthedevicewilllightuptoindicatethatCortanaheardyou. A
+B
+O
+U
+SomeofthethingsCortanacanhelpyouwith: T
+C
+O
+• Playingyourmusic,usingtheserviceyouprefer R
+T
+A
+• Callingfriends,family,andlocalbusinesses
+N
+A
+• Answeringquestions that cometomind
+• Helpingyoustayontrackbymanagingyourcalendar,shoppinglists,andreminders
+• Lighteningthemoodwithfacts,jokes,chitchat,andgames
+ForafulllistofeverythingCortanacando,checktheCortanaapponyourphoneorPC,or
+gototheCortanaskillswebsite:microsoft.com/en-us/windows/cortana/cortana-skills/
+3 P R I V A C Y
+TheInvokecontainsmicrophonesthatareactiveatalltimes,butonlytolistenforthewake-
+words,“HeyCortana.”Unlessyou’vesaidthosewordsandareinteractingwithCortana,no
+conversations orambient sounds aremonitored, detectedorrecorded.
+Oncethewake-wordsaredetected,yourInvokewillactivelylistentovoicecommandsso
+Cortanacanrespond. A recordingofthe speechaudiois stored afteractivation.Youcan
+P
+listentotheserecordingsathttps://account.microsoft.com/account/manage-my-account. R
+I
+Oncethatinteractionisdone,theInvokewill,onceagain,onlyrespondtothewake-words. V
+A
+C
+Y
+Tomutethemicrophonesatanytime,presstheMicrophoneOn/Offbuttononthebackof
+theInvoke.Cortanawon’tbeabletohearyou,evenifyousay“HeyCortana.”
+HarmanKardonvaluesyourprivacy.Ifyouhaveanyquestions,pleasecontactusat
+harmankardon.com
+4 S A F E T Y
+I N S T R U C T I O N S
+Verify Line VoltageBefore Use
+TheInvokehasbeendesignedforusewith100-240volt,50/60HzACcurrent.Connection
+toalinevoltageotherthanthatforwhichyourproductisintendedcancreateasafety
+andfirehazardandmaydamagetheunit.Ifyouhaveanyquestionsaboutthevoltage S
+A
+requirementsforyourspecificmodel,oraboutthelinevoltageinyourarea,contactyour F
+E
+T
+sellingdealerbeforepluggingtheunitintoawalloutlet. Y
+I
+N
+S
+Do NotUseExtensionCords
+T
+R
+Toavoidsafetyhazards,useonlythepowercordsuppliedwithyourunit.Itisnot U
+C
+recommendthatextensioncordsbeusedwiththisproduct.Aswithallelectricaldevices, T
+I
+donot runpowercords underrugs orcarpets, orplaceheavyobjects on them.Damaged O
+N
+powercords shouldbe replacedimmediatelybyanauthorized servicecenterwith a cord S
+thatmeetsfactoryspecifications.
+HandletheACPowerCordGently
+WhendisconnectingthepowercordfromanACoutlet,alwayspulltheplug;neverpull
+the cord. Ifyou do not intendtouse your speakerforanyconsiderablelengthof time,
+disconnecttheplugfromtheACoutlet.
+Do NotTryto OpentheInvoke
+Therearenouser-serviceablecomponentsinsidethisproduct.Openingthecabinetmay
+presentashockhazard,andanymodificationtotheproductwillvoidyourwarranty.If
+wateraccidentallyfallsinsidetheunit,disconnectitfromtheACpowersourceimmediately,
+andconsultanauthorizedservicecenter.
+5 TA B L E O F
+C O N T E N T S
+ProductTour 07
+Light Patterns During Setup 10
+SetuponAndroid/iOS 11
+T
+A
+SetUpMusic 12 B
+L
+E
+SetUpYourCalendar 13 O
+F
+ConnectedHome 14 C
+O
+N
+SetuponWindows 15 T
+E
+N
+SetUpMusic 19 T
+S
+SetUpYourCalendar 20
+ConnectedHome 21
+InvokeSkillswithCortana 22
+Music 23
+Calling 24
+Timers & Alarms 26
+Calendars 27
+Reminders 28
+Lists 29
+ConnectedHome 30
+ConnectviaBluetooth 31
+SpotifyConnect 32
+LightingGlossary 33
+Troubleshooting 35
+Specifications 36
+6 P R O D U C T T O U R
+Front Back
+Microphones TouchPanel P
+R
+O
+D
+U
+VolumeControl C
+T
+Ring
+T
+O
+U
+R
+Microphone
+On/Off Bluetooth®
+Pairing
+Factory
+Reset
+Wi-FiStatus
+PowerConnector
+Micro-USB
+(Serviceonly)
+PowerCable
+7 Microphones
+TheInvokefeaturestheSONIQUEmicrophonesystem.Thisincludes7high-sensitivity
+microphones thatcandetect speech from a fardistance.
+MicrophoneOn / Off
+Short-press this buttontomutethemicrophone. Holdingthebuttonfor 5 seconds will
+maketheproductenterWi-Fisetupmode.
+VolumeControlRing
+Toraisethevolume,turnthevolumeringclockwise.Tolowerthevolume,turnit
+counterclockwise.Thelightindicatesthevolume.
+P
+Wi-FiStatus R
+O
+This lightindicates the current status ofyourInvoke’s connectiontoWi-Fi. D
+U
+C
+T
+Amber
+T
+• NotconnectedtoWi-Fi O
+U
+• Deviceissettingup R
+• Deviceisupdating
+BlinkingWhite
+• ConnectingtoWi-Fi
+White
+• ConnectedtoWi-Fi
+BluetoothPairing
+PressthisbuttontoenterBluetoothPairingmode.
+PowerConnector
+Plug yourPowerCable inhere.
+Micro-USB
+This is meantforfactory serviceonlyand shouldnotbe used foranyotherpurpose.
+FactoryReset
+Press this pin to reset all settings and restartthedevice.
+8 Front
+TouchPanel
+P
+R
+O
+Tap D
+U
+C
+T
+T
+O
+U
+R
+YouonlyneedyourvoicetouseyourInvoke,butyoucanalsousetouchtodocertainthings.
+Shorttap:lessthan3seconds
+A shorttap stops orresponds towhateveris inprogress.Forexample,youcan:
+• Stopthemusic
+• Answer an incoming call
+• Hangupanongoingcall
+• Cancela timeroralarm
+Ifnothing’shappeningandyoutapthetop,Cortanawillsurpriseyouwithaninteresting
+fact ortidbit.
+Longtap:morethan3seconds
+• TellCortanatostartlistening,asifyou’dsaid“HeyCortana”
+• Ignoreanincomingcall
+9 L I G H T PAT T E R N S
+D U R I N G S E T U P
+You’llsetupandcontrolyourInvokeusingtheCortanaapponyourWindows10PC,
+WindowsPhone,Android,oriOSdevice.Thenextsectiondescribeshowtosetuponyour
+L
+I
+Android and iOSdevices.The following section will coversetup on yourWindows10 PC and G
+H
+Windows Phone. T
+P
+A
+T
+NomatterwhichdeviceyouusetosetupyourInvoke,here’swhatyou’llseeasyougo. T
+E
+R
+N
+S
+D
+U
+R
+I
+N
+G
+S
+E
+T
+U
+P
+Gettingreadyforsetup Readyforsetup Connectedto your setup device
+YourInvokeispluggedinand Followtheinstructionsinthe Everythingisgoingsmoothlysofar.
+gettingreadyforyoutosetup. Cortanaappon yourphoneorPC
+to setthingsup.
+Invokeupdate Setupwassuccessful Error
+Yourdevice isupdating.These YoucannowstartusingyourInvoke. Somethingwentwrong.You’llneed
+lightswillblinkforashortwhile, topressandholdtheMicrophone
+then your device will reboot. On /Offbuttonfor 5secondsand
+trysettingupagain.Youcanalso
+tryunpluggingyourInvokeand
+pluggingit back in.
+10 S E T U P O N
+A N D R O I D   /   I O S
+TosetupyourInvokeusingyouriOSorAndroidphone,thefirstthingyou’llneedtodois
+gettheCortanaappandsigninwithyourMicrosoftaccount.You’llbeabletoaskCortana
+ontheInvoketohelpyouwithyourreminders,calendar,lists,andmore.Nooneelsecan
+S
+signinwiththeirMicrosoftaccountsatthesametime. E
+T
+U
+P
+* Youcanonlysign inwithapersonal Microsoftaccount,butyou can link a work orschoolaccountin the
+O
+Cortanaapp. N
+ 
+A
+N
+TostartsettingupyourInvoke: D
+R
+O
+I
+1. DownloadthefreeCortanaappfromGooglePlayortheAppStore. D
+ 
+/
+2. Opentheappandfollowanyinstructionstosigninandgetstarted.  
+I
+O
+3. TapMenuintheupperleft,thentapDevices. S
+4. Followtheinstructionsintheapptogeteverythingsetup.
+*TheInvokemustbesetupusingtheEnglishlanguagesetting(“en-US”)
+Ifyoudon’tseetheDevicesicon,itmaybethatyousetupyourCortanaappusinga
+languageotherthanEnglish.Tocheckyourlanguagesettings,intheCortanaapp,tap
+MenuSettingsLanguage & Region,thenmakesureit’s set toEnglish (United States).
+11 S E T U P
+M U S I C
+Ifyoudidn’tchoosethemusicserviceyouwantCortanatousewhenyousetupyour
+Invoke,orifyouwanttochooseadifferentone,here’show:
+1. OpentheCortanaappandtapMenuDevicesSettings.
+2. UnderMusicservices,selecttheoneyouwant Cortanato use by default.
+S
+E
+T
+Ifyou’dlikeCortanatoplayasoundwhenshe’sheardyou,gototheCortanaapp,thentap U
+P
+MenuDevicesSettings,andturnonCortanaSounds.
+M
+U
+S
+I
+C
+12 S E T   U P   Y O U R
+C A L E N D A R
+AssoonasyousetupyourInvoke,you’llbeabletousetheOutlookcalendarassociated
+withyourMicrosoftaccount.Ifyou’dlike,youcanalsolinkanOffice365calendar,plus
+otherconnectedservices.Here’show:
+S
+E
+T
+1. OpentheCortanaappandtapMenuNotebookConnectedServices.
+U
+2. Select Addaservice. P
+Y
+3. Taptheserviceyouwanttoadd,thenfollowtheinstructions. O
+U
+R
+C
+A
+L
+E
+N
+D
+A
+R
+13 C O N N E C T E D
+H O M E
+Youcancontrolmanyofyoursmartlights,thermostats,andotherconnectedhomedevices
+from yourInvoke. First,you’llneedtoget them connected inyourCortanaapp:
+1. OpentheCortanaappandtapMenuNotebookConnectedHome.
+C
+2. Taptheserviceyouwanttoadd,thenfollowtheinstructions.
+O
+N
+N
+E
+C
+T
+E
+D
+H
+O
+M
+E
+14 SS EE CT UT IPOON N
+
+TWI TI NL ED O W S
+TosetupyourInvokeonyourWindowsPCorphone,you’llneedtogetafewthings
+readyfirst.
+1. Ifyou’reusingyourPC,makesureitisuptodatewiththeWindows10Creator’supdate,
+S
+orhigher. E
+T
+U
+2. Makesureyou’resignedintoCortanawithyourMicrosoftaccount. P
+3. GettheCortanaDeviceSetupapp. O
+N
+W
+TomakesureyourPC is up todate: I
+N
+D
+O
+1. OpenSettings Update & security. W
+S
+2. Select Checkforupdates.
+15 S E T U P O N
+
+W I N D O W S
+Forthenextstep,you’llneedCortana.Ifyou’reusingyourPCandyoudon’tseethe
+Cortanaicononthetaskbar,right-clickthetaskbar,thenselectCortana.Next,selectShow
+searchboxorShowCortanaicon.
+S
+Tomakesureyou’vesignedinwithyourMicrosoftaccount,openCortana,thentap E
+T
+U
+Notebook.Ifprompted,signin.You’llbeabletoaskCortanaontheInvoketohelpyou P
+withyourreminders,calendar,lists,andmore.NooneelsecansigninwiththeirMicrosoft O
+N
+accounts at the same time.
+W
+I
+N
+* Youcanonlysign inwithapersonal Microsoftaccount,butyou can link a work orschoolaccountin the D
+Cortanaapp. O
+W
+S
+16 S E T U P O N
+
+W I N D O W S
+Nowyou’rereadytobeginsettingupyourInvoke.Here’show:
+1. OpentheCortanaapp,thenselectDevicesontheleftsideofthewindow.
+2. TapLet’sgetstarted.ThiswilldownloadthefreeCortanaDevicesetupapp
+S
+from theWindows Store. E
+T
+U
+3. Onceit’sinstalled,opentheCortanaDeviceSetupapp,thenfollowthe P
+instructionsintheappandonyourInvoketogeteverythingsetup. O
+N
+W
+I
+N
+D
+O
+W
+S
+17 S E T U P O N
+
+W I N D O W S
+Afterinstallingtheapp,launchtheCortanaDeviceSetupappandfollowtheinstructionsto
+setupyournewInvoke.
+S
+E
+T
+U
+P
+O
+N
+W
+I
+N
+D
+O
+W
+S
+18 S E T U P
+
+M U S I C
+Ifyoudidn’tchoosethemusicserviceyouprefertousewhenyousetupyourInvoke,orif
+youwanttochooseadifferentone,here’show:
+1. OpentheCortanaappandthenselectDevicesontheleftsideofthewindow.
+2. SelectSettings.
+S
+3. UnderMusicservices,selecttheoneyouwant Cortanato use by default. E
+T
+U
+P
+Ifyou’dlikeCortanatoplayasoundwhenshe’sheardyou,gototheCortanaapp,thentap
+M
+DevicesSettings,andturnonCortanaSounds. U
+S
+I
+C
+19 S E T   U P   Y O U R
+
+C A L E N D A R
+AssoonasyousetupyourInvoke,you’llbeabletousetheOutlookcalendarassociated
+withyourMicrosoftaccount.Ifyou’dlike,youcanalsolinkanOffice365calendar,plus
+otherconnectedservices.Here’show:
+S
+E
+T
+1. OpentheCortanaappandselectDevices.
+U
+2. Select Addaservice. P
+Y
+3. Taptheserviceyouwanttoadd,thenfollowtheinstructions. O
+U
+R
+C
+A
+L
+E
+N
+D
+A
+R
+20 C O N N E C T E D
+
+H O M E
+Youcancontrolmanyofyoursmartlights,thermostats,andotherconnectedhomedevices
+from yourInvoke. First,you’llneedtoget them connected inyourCortanaapp:
+1. OpentheCortanaappandselectNotebookConnectedHome.
+C
+2. Taptheserviceyouwanttoadd,thenfollowtheinstructions.
+O
+N
+N
+E
+C
+T
+E
+D
+H
+O
+M
+E
+21 I N V O K E S K I L L S
+W I T H C O R TA N A
+Cortanahasavarietyofskills,andislearningnewonesallthetime.Youcanfindout
+aboutallthethingsshecandointheNotebook,intheCortanaappornavigatingto
+I
+N
+the Cortana skills website:microsoft.com/en-us/windows/cortana/cortana-skills/
+V
+O
+K
+Cortanacapabilities: E
+S
+Music K
+I
+L
+Calling L
+S
+Calendar
+W
+ConnectedHome I
+T
+H
+Reminders
+C
+Alarms O
+R
+Timers T
+A
+Lists N
+A
+Facts
+Sports
+Showtimes
+Finance
+Math
+Dictionary
+Weather
+News
+ChitChat
+…andmore
+22 M U S I C
+
+CortanaisyourpersonalDJ.Shecanplaymusicfromyourfavoriteartists,includingalbums,
+tracks,andgenres.Shecanalsoplaymusicfortherightmoment,mood,oractivityby
+learningaboutyourpreferencesovertime.Youcannowexperienceeveryvocalwith
+absoluteclarityandfeelthepulseofeverybeatwithCortanaand360°soundatyour
+commandwithamazingnaturallanguagecapabilities.*
+To controlmusic,say: M
+U
+S
+I
+“HeyCortana... C
+• ...playclassicalmusic”
+• ...playsongsby[artistname]”
+• ...nexttrack”
+• ...whatsongisthis”
+• ...turnitup”
+• ...stopthemusic”ortapthetoppaneltostopthemusic
+Toadjust volume,askCortana toturn it upordown. Or to
+setvolume at a specific level,usea scaleof 1 – 100%. Lights
+will indicate the change according to volume level.
+Turning thedeviceringatthe top of the device will also
+adjustvolume.
+Volume up: turn the ring clockwise Volumecontrolring
+Volume down: turn the ring counter clockwise
+* Workswith selectmusic subscriptionservices
+23 C A L L I N G
+Cortanaallowsyoutostayconnectedwiththepeopleandbusinessesyoucareaboutmost
+withhands-freecallingtomobilephones,landlines,andanySkype-enableddevice.Youcan
+alsoaskCortanaquestionsduringacalllike“What’sonmycalendar?”
+To call a contact or number, try:
+C
+“Hey Cortana... A
+L
+L
+I
+N
+• ...call [name ofyourcontact]”
+G
+• ...call [phone number]”
+• ...hangup” or tap the top panel to end the call
+To call a local business, try:
+“Hey Cortana...
+• ...calltheclosestThairestaurant”
+• ...callthebeststeakhousenearby”
+Inboundcall
+• ...callthelocalpharmacy”
+To accept an incoming call, try:
+• Say “answer” or tap the top panel to accept
+To decline an incoming call, try:
+• Say“Ignore”
+• Orlong tap thetop panel formorethan 3 seconds
+*ItisnotpossibletomakeemergencycallswithyourInvokeatthistime
+24 C A L L I N G
+Additionalsetupinformation
+WhenyousetupyourInvoke,wewillsyncyourSkypeandphonecontacts.Thatway,
+Cortanacanrecognizeyourcontactswhentheycall,orunderstandwhoyoumeanifyou
+tellhertocalloneofyourcontacts.
+C
+TheMicrosoftaccount(MSA)youusetosignintoCortanaontheInvokewillautomatically A
+L
+beusedtosignyouintoSkype.IfyouuseaSkypeIDthatisdifferentfromyourCortana L
+I
+N
+MSA,you’llneedtolinkyourMSAandSkypeaccounts.Youcanfindinstructionshere:
+G
+https://support.skype.com/en/faq/FA34657/a-single-sign-in-for-skype-and-your-
+othermicrosoft-services
+You cancustomizeyouroutgoing callerID in Skype forcallsto mobile phonesand landlines.
+Seehereformoreinformation:https://support.skype.com/en/skype/calling/caller-id/
+25 T I M E R S
+ 
+& A L A R M S
+Cortanaisgreatatkeepingtrackoftimewhileyourhandsarebusy.Noneedtogetyour
+phonedirtywhilemakingdinner–justtellCortanatosetatimer.Wakeupatacertaintime
+everyday?AskCortanatosetarecurringalarm.
+T
+    To setormanagetimers,try:
+I
+M
+E
+R
+“HeyCortana... S
+&
+A
+• ...setatimerfortwominutes” L
+A
+• ...setatimerfor30 seconds” R
+M
+• ...howmuchtimeisleftonmytimer?” S
+• ...cancelmytimer”
+• ...stop”ortapthetoppanel
+Timers&Alarms
+     To setandmanagealarms,try:
+“HeyCortana...
+• ...set analarm at 8 AM”
+• ...setanalarmat7AMeveryday”
+• ...whataremyalarms?”
+• ...cancel my 8 AMalarm”
+• ...stop”ortapthetoppanel.
+26 C A L E N D A R S
+Cortanacanhelpyoustayontopofyourmeetings,events,andappointmentsacrossall
+yourdevices.WhenCortanahasaccesstoyourcalendar,shecanremindyouofupcoming
+eventsandhelpmakesureyou’reontime.
+To createoraskaboutappointments,try:
+C
+A
+“HeyCortana... L
+E
+N
+D
+• ...addadentistappointmenttomycalendarforFridayat3PM” A
+R
+• ...whatdo I havenext week? S
+• ...what’s onmycalendarfortoday?”
+• ...when’smynextmeeting?”
+• ...blockanhouronmycalendarthisafternoon”
+27 R E M I N D E R S
+
+Cortanahasyourback.She’llhelpyoustayontopofthingssoyoucandomoreand
+worryless.SetareminderonyourInvokespeakerathome,andit’llpopuponyourother
+connecteddevices,whereveryouare.WithCortana,youcangetreminderswhenyouarrive
+atorleave a particularplace,orataparticulartime.That way, you’llneverforgetbirthday,
+bills,orotherimportantevents.
+R
+E
+    To set a reminderfor a particulartimeorrecurringtime,try: M
+I
+N
+D
+“HeyCortana... E
+R
+S
+• ...remindmetotakeoutthetrashat3PM”
+• ...remindmetopaytheutilitybillonthe20thofeverymonth”
+• ...remindmetotakemymedicineeverydayat12PM”
+    To set a reminderfor a particularplace,try:
+“HeyCortana...
+• ...remindmetosendthereportwhenIgettowork”
+• ...remindmetowaterplantswhenIgettohomeeveryMonday”
+• ...nexttimeI’matthegrocerystore,remindmetobuyeggs”
+To askaboutyourreminders,try:
+“HeyCortana...
+• ...whataremyremindersfortoday?”
+• ...whataremyremindersforafternoon?”
+*ReminderscanbecreatedwithCortanaonyourphone,PC,orspeaker.
+You’llonlygetremindersforaparticularplaceonyourphoneorPC.
+28 L I S T S
+Cortanahelpsyourememberthingsbysavingthemintolists,andCortanawillkeepthem
+handyforyouonallofyourconnecteddevices.Createandkeeptrackofyourmonthlyto-
+dos,groceryorshoppingitems,bookstoreadormoviestosee,presentideas,songsfor
+karaokenight,andanythingelseyoucanthinkof.Cortanahasalreadystartedato-dolist,a
+grocerylist,andashoppinglistforyoutouse.
+To uselists,try: L
+I
+S
+T
+S
+“HeyCortana...
+• ...add apples to mygrocery list”
+• ...create a book list”
+• ...what’sonmygrocerylist”
+• ...whatlists doI have?
+29 C O N N E C T E D
+H O M E
+ControlyoursmarthomedeviceswithCortana.Withintuitivevoicecommands,Cortanacan,
+say,getyoureadyformovietimebydimmingthelivingroomlightsandturningupthe
+thermostat.
+C
+Tocontrolyourconnecteddevices,try:
+O
+N
+N
+“HeyCortana... E
+C
+T
+E
+D
+• ...turnoffmykitchenlights”
+H
+• ...dimmybedroomlightsby50%” O
+M
+• ...setmythermostatto72degrees” E
+• ...makemybedroomwarmer”
+• ...turnupthetemperatureinmylivingroom”
+30 C O N N E C T V I A
+B L U E T O O T H
+YoucanuseyourInvokeas anexternal speakertostream audio, likepodcasts ormusic,
+fromaBluetoothdevice.Rightnow,hands-freeBluetoothcallingisn’tsupportedfrom
+yourInvoke.
+C
+O
+N
+TopairyourInvoke,say“HeyCortana,pairBluetooth,”orpresstheBluetoothbuttonon N
+E
+thebackofthespeaker.Thetoppanelwilllightupindicatingitisinpairingmode.Onyour C
+T
+phoneorPC,turnonBluetooth,andselecttheInvokespeaker.  V
+I
+A
+ 
+B
+Tocontrolmusicthat’sstreamingwithBluetooth,try: L
+U
+E
+T
+“HeyCortana... O
+O
+T
+H
+• ...pause/resume/next/previous”tocontrolthetracks
+• ...turn up the volume”
+• ...turnitdown”
+To disconnectfrom Bluetooth:
+TurnoffBluetoothonyourphoneorPC,ordisconnecttheInvokespeakerfromthe
+Bluetoothsettingsonyourdevice.
+Back
+Bluetooth®
+Pairing Bluetoothpairing
+31 S P O T I F Y
+C O N N E C T
+SpotifyConnectwillhelpyoucontrolyourspeakerfromtheSpotifyapp.
+Say hello to Spotify Premium How to useConnect
+SpotifyPremiumletsyoulistentomillionsof You’llneedSpotifyPremium touseConnect,see
+songsad-free–theartistsyoulove,thelatest detailsoverleaf. S
+P
+O
+hitsand discoveriesjust for you.Simplyhit play
+T
+I
+tohear anysong you like,at thehighest sound F
+Step1 Add your new speaker tothesameWi-Fi Y
+quality. C
+networkasyour phone,tablet or PC (see O
+N
+product user instructions for details).
+N
+TryPremium freefor30daysat E
+C
+T
+spotify.com/freetrial
+Step2 OpentheSpotifyapponyourphone,
+tablet or PC and playanysong.
+Yournew speakerhasSpotify Connect built in
+SpotifyConnectletsyoucontrolthemusic
+Step3 Ifyou’reusingtheapp on a phone–
+playing onyour speaker,using theSpotifyappon
+tap thesongimageinthebottom leftof
+your mobile,tablet or PC.
+thescreen.For tablet and PC moveto
+step4.
+Listeningisseamless.Youcantakecalls,play
+games,even switch your phone off– allwithout
+Step4 Tap theConnecticon
+interrupting the music.
+Step5 Pick your speaker fromthelist.If you
+Learnmoreatspotify.com/connect
+can’t seeit,just check that it’sconnected
+TheSpotifysoftwareissubjecttothirdparty
+tothesameWi-Finetworkasyourphone,
+licensesfoundhere:www.spotify.com/connect/
+tablet or PC.
+third-party-licenses
+Alldone!Happylistening.
+32 L I G H T I N G
+G L O S S A R Y
+LightingpatternsmostcommonlyseenontheInvoke.
+L
+I
+G
+H
+T
+I
+N
+G
+G
+L
+O
+S
+S
+A
+R
+Y
+Tap Gettingreadyforsetup Readyforsetup
+Connectedto your setup device Invokeupdate Setupwassuccessful
+33 Error Volumecontrolring Inboundcall
+L
+I
+G
+H
+T
+I
+N
+G
+G
+L
+O
+S
+S
+A
+R
+Y
+Timers & Alarms Bluetoothpairing Microphonemute
+Factoryreset
+34 T R O U B L E -
+S H O O T I N G
+Frequentlyaskedquestions.
+Issue Resolution
+MyInvokedoesn’trespondwhenIsay“HeyCortana” Ifyou’vesetupyourInvokesuccessfullyanditstill
+isn’tresponding,makesureitisn’tmuted.Lookfor T
+R
+theMicrophoneOn/Offbuttononthebackofyour O
+U
+device.
+B
+L
+E
+IseemorethanoneInvokedevicewhenI’mtrying TheboxyourInvokecameinhasastickerwitha S
+H
+to set up.Which oneismine? MACaddress.Thelast5 digitsoftheMACaddress O
+O
+isthenameofyourInvoke.Ifyoupickoneand T
+I
+don’t heara soundfromyourInvoke,you mayhave N
+G
+chosenthewrongone.
+I don’t seemy Invokeinthedevicelistduring setup. MakesureyourInvokeisready forsetupby holding
+downtheMicrophoneOn/Offbuttonfor5
+seconds.Ifthatdoesn’thelp,tryclosingtheCortana
+app on yourdeviceand startingagain.
+MyInvokeisunabletoconnect to myWi-Finetwork. TheInvokemay not workonmost Enterprise
+networksorcaptiveportalsusedinpubliclocations
+likehotels,airplanes,orcoffeeshopsbecauseof
+networksecuritypolicies.
+TheInvokewillworkonmostWi-Fiofthecommon
+networksettingsintheUS.
+TheInvokesupportsthefollowing:
+• 2.4/ 5 GHznetworks
+• BroadcastorHiddenNetworks
+• Opennetworks
+• WPA/WPA2securenetworks
+• WEP on defaultchannel0(non-standardfora
+consumertochangethechannel)
+35 S P E C I F I C AT I O N S
+• Rated power: 40W
+• Frequency response: 60-20kHz (-6dB)
+• Woofer: 1.75” (45mm) x 3
+S
+P
+• Tweeter: 0.5” (13mm) x 3 E
+C
+I
+F
+• Bluetooth version: 4.1 IC
+A
+T
+• Power supply: 19V/2A IO
+N
+S
+• Power cable length: 47” (1.2m)
+• Wireless network: 802.11b/g/n/ac (2.4GHz/5Ghz)
+• Dimensions (DxH): 4.2 x 9.5” (107 x 242mm)
+• Product weight: 2.3 lbs (1kg)
+• Supported audio formats: AAC, MP3, Vorbis, FLAC, WMA, WAV
+36 HARMAN International Industries, Incorporated
+8500 Balboa Boulevard, Northridge, CA 91329 USA
+www.harmankardon.com
+© 2016 HARMAN International Industries, Incorporated. All rights reserved.
+Harman Kardon is a trademark of HARMAN International Industries, Incorporated, registered in
+the United States and/or other countries. Features, specifications and appearance are subject to
+change without notice.
+Microsoft, Cortana, Skype and the Skype logo are trademarks of the
+Microsoft group of companies.
+This product contains open source software. For a list of open source
+software used in the product, please download the Cortana app available
+on the App Store or Google Play. For your convenience, the source code and
+relevant build instruction for software licensed under the GPL is available
+at http://www.harmankardon.com/opensource. You may also obtain this
+information by contacting us at OpenSourceSupport@Harman.com
+The Bluetooth® word mark and logos are registered trademarks owned by
+Bluetooth SIG, Inc. and any use of such marks by HARMAN International
+Industries, Incorporated is under license. Other trademarks and trade names
+are those of their respective owners.
+The Wi-Fi CERTIFIED Logo is a certification mark of the Wi-Fi Alliance.
+The Wi-Fi Protected Setup Identifier Mark is a mark of the Wi-Fi Alliance.
+37

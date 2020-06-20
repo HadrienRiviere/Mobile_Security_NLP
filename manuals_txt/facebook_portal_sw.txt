@@ -1,0 +1,166 @@
+portal  0  Log  Into 
+Go  Back 
+User  Guide 
+This  article  applies  to:  Portal+,  Portal,  Portal  Mini,  Portal  TV,  Portal  (Gen  1) 
+Portal,  Portal  Mini  and  Portal+ 
+Setup 
+How  do |  set  up  my  Portal? 
+Before  setting  up  your  Portal,  make  sure  to  review  our  health  and  safety  guidelines.  To  set 
+up  your  Portal,  you'll  need  a  Facebook  or  WhatsApp  account.  If  you're  having  trouble  using 
+your  Portal’s  touchscreen  during  setup,  learn  more  about  turning  off  accessibility  options. portal  0     Log  Into  | 
+radiators. 
+e  Do  not  place  Portal  where  it  may  be  tipped  over  easily. 
+2.  Plug  your  Portal  in  with  the  included  power  cord. 
+e  Plug  the  included  power  cord  into  Portal  first,  then  into  an  appropriate  outlet. 
+e  Make  sure  the  included  power  cord  is  fully  plugged  into  your  Portal 
+before  plugging  it  into  an  appropriate  outlet. 
+e  Your  Portal  works  when  connected  to  a  rated  AC  power  source  with  100V  to 
+240V  AC  at  50Hz  to  6OHz.  Please  review  our  health  and  safety  guidelines  for 
+more  information. 
+e  Arrange  any  cables  and  cords  so  that  people  and  pets  are  not  likely  to  trip  over 
+or  accidentally  pull  on  them  as  they  move  around  or  walk  near  the  Portal. 
+Select your  language  and  connect to Wi-Fi: 
+Once  your  Portal  is  plugged  in,  follow  the  on-screen  instructions  to  begin  setup. 
+1.  Select  your  language,  then  tap  Next. 
+2.  Connect  to  Wi-Fi. 
+1.  Select  your  Wi-Fi  network. 
+2.  Enter  your  Wi-Fi  password  and  tap  Join. 
+3.  Tap  Next. 
+4.  Tap  Continue.  Your  Portal  may  need  to  download  the  latest  software  in  order 
+to  complete  setup.  Once  the  download  is  complete,  you  may  be  asked  to 
+restart  your  Portal. 
+Give your  Portal  a  name  and  log  in  with  Facebook or WhatsApp: 
+Follow  the  on-screen  instructions  to  continue  setup. portal  0  Log  Into 
+can  change  your  Portal's  Wi-Fi  network  at  any  time. 
+To  change your  Portal's Wi-Fi  network: 
+1.  From  Home  on  your  Portal,  tap  Settings. 
+2.  Tap  Wi-Fi. 
+3.  Select  the  network  you'd  like  to  connect  to,  enter  your  Wi-Fi  password,  and  tap  Join. 
+Learn  more  about  what  you  can  do  if  your  Portal  can’t  find  your  Wi-Fi  router. 
+How  do  |  turn  the  camera  and  microphone  off  on  my  Portal? 
+To  mute or  unmute the camera  and  microphone  using  the touchscreen  during  a  call: 
+1.  Tap  the  screen  to  expose  the  call  menu. 
+2.  Tap  ©  or  ©  to  mute  or  unmute  your  camera  or  microphone. 
+  
+  
+  
+  
+  
+     
+  
+ 
+  
+  
+     
+   portal  0  Log  Into 
+You  can  also  use  the  included  camera  cover  to  block  your  Portal  camera  when  you're  not 
+using  the  camera. 
+How  do!  put  my  Portal  in  sleep  mode? 
+You  can  put  your  Portal  in  “sleep”  mode,  which  turns  the  screen  off,  but  allows  your  Portal 
+to  be  woken  up  by  touch,  voice  commands,  motion  detection  or  incoming  calls.  Your 
+Portal  will  go  to  sleep  automatically  after  15  minutes  without  use,  or  you  can  make  your 
+Portal  sleep  manually. 
+To  make your  Portal  sleep: 
+1.  Swipe  up  from  the  bottom  of  your  Portal  screen  to  view  the  Quick  Controls. 
+2.  Tap (') 
+Calling 
+Accounts   
+portal  0     Log  Into    
+  
+Plug  in  your  Portal  TV: 
+1.  Plug  in  the  HDMI  cable  and  power  adapter,  then  connect  the  power  adapter  to  a 
+power  source.  Your  Portal  TV  will  turn  on  automatically. 
+2.  Plug  the  HDMI  cable  into  an  input  on  your  TV.  For  best  results  use  HDMI  1. 
+3.  Turn  on  your  TV  and  select  the  input. 
+Find  the  right  place for your  Portal  TV: 
+Your  Portal  TV  may  be  mounted  on  top  of  your  TV  or  placed  on a  flat  surface  underneath. 
+Avoid  placing  your  Portal  TV  directly  on  top  of  a  speaker,  too  close  to  a  speaker,  directly 
+on  top  of  a  sound  bar  or  too  close  to  a  sound  bar. 
+Mount your  Portal  TV  on  top  of your  TV: 
+1.  Open  the  large  clip. 
+2.  Open  the  small  clip. 
+3.  Rest  the  front  clip  against  the  front  of  your  TV  frame.  At  the  same  time,  press  the portal  0     Log  Into  | 
+ewww we  ws  re gg 
+2.  Connect  to  Wi-Fi  by  selecting  your  Wi-Fi  network  and  entering  your  password.  Select 
+Continue  to  agree  to  download  and  install  the  latest  Portal  TV  software.  This  can  take 
+about  15  minutes  depending  on  your  connection. 
+3.  You  may  need  to  select  Restart  Portal  to  continue.  If  your  Portal  TV  doesn’t 
+automatically  restart,  you  may  need  to  unplug  and  plug  it  back  in. 
+Language  selection  will  affect  “Hey  Portal”  and  other  functionality.  Currently,  “Hey  Portal” 
+is  only  available  in  English  (US/Canada),  and  will  be  disabled  if  you  select  any  language 
+other  than  English  (US/Canada)  as  your  preferred  language  on  your  Portal.  You  can  still 
+make  calls  on  your  Portal  using  the  touch  screen,  and  we're  hard  at  work  to  add  “Hey 
+Portal”  functionality  in  additional  languages. 
+Give your  Portal  TV a  name and  log  in  with  Facebook or WhatsApp. 
+Follow  the  on-screen  instructions  to  continue  the  setup  process. 
+1.  Give  your  Portal  TV  a  name.  Select  an  option  from  the  menu  or  select  Custom...  to 
+create  a  Custom  Name. 
+2.  Connect  your  Facebook  or  WhatsApp  account: 
+1.  Select  Facebook  or  WhatsApp,  then  select  Continue  and  follow  the  on-screen 
+instructions. 
+To  finish  setting  up  your  Portal  TV,  follow  the  remaining  on-screen  instructions  to 
+complete  setup.  You  can  do  things  like  add  favorite  contacts,  see  how  Smart  Camera 
+works,  display  your  Facebook  photos,  connect  Alexa  to  your  Portal  TV  and  learn  more 
+about  using  Portal  TV. 
+"Hey  Portal"  and  other  functions  are  affected  by  language  selection.  Some  features, 
+including  “Hey  Portal,”  Facebook  Watch,  Facebook  Gaming,  Facebook  Live  and   
+portal  0  |  Log  Into 
+  
+aw  wet_ttww wa  weounm™  Wwe  =  BE  Ew wwaewWTwTwwse:  st  se pose np omemnuay*? 
+ .  From  Home,  select  Settings. 
+=
+ .  Select  General. 
+N
+.  Select  Wi-Fi  and  make  sure  Wi-Fi  is  enabled. 
+W
+ .  Select  Other  Network...  and  enter  your  Wi-Fi  network  name. 
+k
+.  Select  your  Wi-Fi  network's  security  method  from  the  dropdown,  enter  your  Wi-Fi 
+o
+password  and  select  Join. 
+How  do |!  turn  the  camera  and  microphone  off  on  my  Portal 
+TV? 
+To turn  the  camera  and  microphone  off on  Portal  TV: 
+Press  the  camera  and  microphones  on/off  button  on  the  side  of  your  device.  Once  the 
+button  has  been  pressed,  a  red  light  on  your  device  indicates  that  the  camera  and 
+oy 
+microphones  are  off.  Keep  in  mind  that  pressing  a)  on  your  Portal  TV  remote  will 
+continue  to  work,  even  when  your  microphone  is  turned  off. 
+To turn  the  camera  and  microphones  back on: 
+Press  the  camera  and  microphones  on/off  button  on  the  side  of  your  device. 
+To  block the  camera  lens  on  Portal  TV: 
+Use  the  integrated  camera  cover. 
+Maw  An  Il  nit  mv  Dartal  TV  in  elaan  mada? portal  0  Log  Into 
+Calling 
+Accounts 
+Was  this  article  helpful? 
+Yes  No 
+Last  updated  February  28,  2020 
+Copy  Link 
+Related  Articles portal  0  Log  Into 
+Messenger  connections  and  WhatsApp  contacts. 
+Looking  for  something  else? 
+Search  Help  Center 
+Email  Us portal  0     Log  Into  | 
+  
+United  States (English) 
+  
+  
+Home  Privacy  Policy 
+Products  Cookies 
+Terms  of  Use 
+Features 
+;  ;  Legal 
+Private  by  Design 
+Terms  of  Sale 
+Support 
+Ad  Choices 
+  
+©2020  Facebook,  Inc.  or its affiliates.  All  rights  reserved. 
+Screen  images simulated.  User experience  may vary. 
+*$50 off  Portal,  Portal  Mini  and  Portal+.  Buy two  Portal  TV devices and  get $50 off.  Represents savings off of regular,  non-promotional 
+prices.  Ends 5/10/2020 at 8:59  PM  PST.  Offers subject to availability. Valid  on  qualifying  purchases at  portal.facebook.com  and  at 
+participating  retailers.  Unless otherwise stated, cannot  be combined  with  other offers,  discounts or coupons.  Not valid  on  prior 
+orders or  purchases;  cannot  be transferred  or otherwise  redeemed for cash.  Retailer or  Facebook Technologies,  LLC  reserves the 
+right to cancel  or  modify this offer at any time without  notice where  necessary. Void where  prohibited. 
+WhatsApp video calling  requires active WhatsApp account.

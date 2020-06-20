@@ -1,0 +1,694 @@
+Insteon Hub
+Owner’s Manual Contents
+Getting Started
+Insteon Hub  4
+Device Overview 
+Installation 
+Download the App 
+Create an Account 
+Optional Wall Mounting  5
+Insteon App
+Insteon App on iOS  7
+Insteon App on Android  12
+Insteon App on Windows  17
+Insteon Connects
+Hardware Reset
+Diagnostics  24
+Network Reset  25
+Factory Reset  26
+Appendix
+Specifications  29
+Troubleshooting  31
+Certifications and Warnings  34
+Product Warranty  35 Getting Started
+Everything you need to quickly get up and running.
+3 Insteon Hub
+Device Overview Installation
+Connect your Hub to the internet and a power 
+Status LED Linking outlet using the cables provided. Avoid switched 
+outlets or filtered power strips.
+Unlinking/Network Issue
+Ethernet Port
+Factory Reset Power
+X
+Ethernet  Power 
+Cable Cable
+Download the App Create an Account
+From your mobile device, download  Launch the App and follow the on-screen 
+and install Insteon for Hub from your  instructions to create an account and setup 
+device’s app store. the Insteon Hub.
+insteon for hub INSTEON
+INSTEON for Hub
+Sign In
+Create an Account
+You’re done setting up your Insteon Hub; 
+now start adding devices.
+4 Optional Wall Mounting
+Print out this page and use it as a  Hang the Hub on two screws 
+1 2
+template to drill mounting holes. by aligning the hanger slots and 
+sliding down.
+25 21m/3m2”
+1152/m32m”
+Screw head should 
+be about 5/16” 
+(8mm) in diameter
+2 1/32”
+52mm
+15/32”
+12mm
+5 Insteon App
+Use the Insteon App to configure and control your Insteon Hub. Everything 
+from adding a device to controlling your thermostat is handled through the 
+app.
+6 Insteon App on iOS
+The Insteon app on iOS uses a right-hand 
+drawer to navigate between Check-In, 
+Favorites, Rooms, Scenes, Thermostats and 
+Settings. You can also add and edit devices, 
+rooms and scenes from the drawer.
+Check-In Favorites
+An at-a-glance overview of all of your Insteon  A customizable screen where you can place 
+sensors. Sensors are white when red when  your most used devices, scenes and sensors.
+triggered and white when not.
+2:10 PM 2:10 PM
+Check-In Favorites
+Back Door Backyard Front Door
+Motion All Devices Bathroom Bedroom
+Garage Door Garage Motion Kitchen Sink
+Check-In Favorites Garage
+Smoke Sensor
+Kitchen Living Room Outside
+7 Insteon App on iOS
+Rooms Scenes
+Lets you group devices into rooms for easier  Automatically displays all of the scenes that 
+navigation. have been created.
+2:10 PM 2:10 PM
+Rooms Scenes
+Bathroom Bedroom Kitchen Good Morning Movie Time All Off
+Living Room Garage Outside
+Thermostat Settings
+Displays your Insteon or Nest Thermostat.  Your one-stop-shop for Hub and Insteon 
+For homes with multiple thermostats, you  account settings and configuration. You can 
+can configure the default from settings. also find in-app help here.
+2:10 PM 2:10 PM
+Living Room Settings Done
+Thermostat
+Devices 8
+Scenes 3
+Rooms 6
+74º Schedules 1
+House Home
+6Heat to5º 7Cooling2 toº House Management 1
+Account danny@email.com
+Off Heat Cool Auto Fan
+ALWAYS About INSTEON App
+Get Latest Configuration
+8 Insteon App on iOS
+2:10 PM
+Living Room
+Controlling a Device
+2:10 FPlMoor Lamp
+Living Room
+Floor Lamp
+On
+2:10 PM
+Living Room
+Off
+Floor Lamp
+On
+Tap to turn the device on or off
+On
+Off
+Off
+Tap for additional control and to 
+edit the device.
+Additional Device Control
+2:10 PM
+Living Room
+Floor Lamp
+42% Tap On
+2:10 PM
+Living Room
+Floor Lamp Tap Off
+2:10 PM
+Living Room
+42%
+Floor Lamp
+Turn a device on or off, 
+42% regardless of brightness
+2:10 PM 2:10 PM
+Living RoomLiving Room
+Floor LampFloor Lamp
+42% Q42u%ickly adjust the brightness
+Tap the arrows to adjust in 
+10%-ish increments
+9 Insteon App on iOS
+Monitoring a Sensor
+Indicates that your sensor is not 
+triggered
+2:10 PM
+Living Room
+Motion Sensor
+Motion Detected Indicates that your sensor has 
+been triggered
+Indicates that the Hub has lost 
+contact with your sensor
+If a newly added sensor shows 
+yellow, try activating it.
+Controlling a Camera
+2:10 PM
+Garage
+2:10 PM
+Garage
+Garage Lights Garage Door Camera
+Tap the arrows to pan and tilt 
+your camera
+Garage Lights Garage Door Camera
+10 Insteon App on iOS
+2:10 PM
+Scenes
+Controlling a Scene
+Bedtime
+2:10 PM
+Scenes
+2:10 PM Bedtime
+Scenes On
+Bedtime
+Off
+On
+On
+Tap to turn the scene on or off
+Off
+Off
+Tap for additional control and to 
+edit the scene.
+Additional Scene Control
+2:10 PM 2:10 PM
+Scene Scene
+Bedtime Bedtime
+On On
+Off Off
+Tap to turn the scene on or off
+11 Insteon App on Android
+The Insteon app on Android uses tabs to 
+navigate between Check-In, Favorites, Rooms, 
+2:10 PM
+Favorites Scenes, Thermostats and Settings. You can 
+add and edit devices, rooms and scenes from 
+the settings button.
+Bathroom Bedroom Garage
+Kitchen Living Room Outside
+72º
+Favorites Rooms Scenes Check-In Temp Settings
+Check-In Favorites
+An at-a-glance overview of all of your  A customizable screen where you can place 
+Insteon sensors. Sensors are red  your most used devices, scenes and sensors.
+when triggered and white when not.
+2:10 PM 2:10 PM
+Check-In Favorites
+Back Door Backyard Front Door Bathroom Bedroom Garage
+Motion
+Garage Door Garage Motion Kitchen Sink Kitchen Living Room Outside
+Smoke Sensor
+72º 72º
+Favorites Rooms Scenes Check-In Temp Settings Favorites Rooms Scenes Check-In Temp Settings
+12 Insteon App on Android
+Rooms Scenes
+Lets you group devices into rooms for easier  Automatically displays all of the scenes that 
+navigation. Also the location for All Devices  have been created.
+which displays every device added to your house
+2:10 PM 2:10 PM
+Rooms Scenes
+All Devices Bathroom Bedroom Good Morning Movie Time All Off
+Check-In Favorites Garage
+Kitchen Living Room Outside
+72º 72º
+Favorites Rooms Scenes Check-In Temp Settings Favorites Rooms Scenes Check-In Temp Settings
+Thermostat Settings
+Displays your Insteon or Nest Thermostat.  Your one-stop-shop for Hub and Insteon 
+For homes with multiple thermostats, you  account settings and configuration. You can 
+can configure the default from settings. also find in-app help here.
+2:10 PM 2:10 PM
+Living Room Settings
+Thermostat
+Devices 8
+Scenes 3
+Rooms 6
+72º
+Schedules 1
+House Home
+7Heat to0º 7Cooling8 toº House Management 1
+Account danny@email.com
+Off Heat Cool Auto Fan
+ALWAYS
+About INSTEON App
+Get Latest Configuration
+72º 72º
+Favorites Rooms Scenes Check-In Temp Settings Favorites Rooms Scenes Check-In Temp Settings
+13 Insteon App on Android
+2:10 PM
+Living Room
+Controlling a Device
+2:10 FPlMoor Lamp
+Living Room
+Floor Lamp
+2:10 PM
+Favorites On
+Floor Lamp Off
+On
+Tap to turn the device on or off
+Off
+72º
+Favorites Rooms Scenes Check-In Temp Settings
+Tap for additional control and to 
+edit the device.
+Additional Device Control
+2:10 PM
+Living Room
+Floor Lamp
+42% Tap On
+2:10 PM
+Living Room
+2:10 PM
+Favorites Floor Lamp Tap Off
+Floor Lamp
+42%
+42% Turn a device on or off, 
+regardless of brightness
+2:10 PM 2:10 PM
+Living RoomLiving Room
+Floor LampFloor Lamp
+42% Q42u%ickly adjust the brightness
+72º
+Favorites Rooms Scenes Check-In Temp Settings
+Tap the arrows to adjust in 
+10%-ish increments
+14 Insteon App on Android
+Monitoring a Sensor
+Indicates that your sensor is not 
+triggered
+2:10 PM
+Check-In
+Motion Sensor
+Motion Detected
+Indicates that your sensor has 
+been triggered
+Indicates that the Hub has lost 
+contact with your sensor
+72º
+Favorites Rooms Scenes Check-In Temp Settings
+If a newly added sensor shows 
+yellow, try activating it.
+Controlling a Camera
+2:10 PM
+Favorites
+2:10 PM
+Favorites
+Overhead Motion Sensor Garage Door
+Use the arrows to pan and tilt 
+your camera
+72º
+Favorites Rooms Scenes Check-In Temp Settings
+Overhead Motion Sensor Garage Door
+72º
+Favorites Rooms Scenes Check-In Temp Settings
+15 Insteon App on Android
+2:10 PM
+Scenes
+Controlling a Scene
+2:10 PM
+Living Room
+Bedtime
+Floor Lamp
+22::1100  PPMM
+SScceenneess
+On
+Bedtime
+Bedtime On Off
+OOfnf On
+Tap to turn the scene 7o2nº or off
+Off Favorites Rooms Scenes Check-In Temp Settings
+Off
+7722ºº
+FFaavvoorriitteess RRoooommss SScceenneess CChheecckk--IInn TTeemmpp SSeettttiinnggss
+Tap for additional control and to 
+edit the scene.
+Additional Scene Control
+2:10 PM
+Scenes 2:10 PM
+Scenes
+Bedtime
+Bedtime
+On
+On
+Off
+Off
+Tap to turn the scene on or off
+72º
+Favorites Rooms Scenes Check-In Temp Settings 72º
+Favorites Rooms Scenes Check-In Temp Settings
+16 Insteon App on Windows
+The Insteon app on Windows Phone uses a six-screen carousel to switch between Quick View, Favorites, 
+Rooms, Scenes, Thermostats and Settings.
+Quick View Favorites
+An at-a-glance overview of all of your  A customizable screen where you can place 
+Insteon sensors. Sensors are green  your most used devices, scenes and sensors.
+when closed and red when triggered.
+17 Insteon App on Windows
+Rooms Scenes
+Lets you group devices into rooms. Also the  Automatically displays all of the scenes that 
+location for All Devices which displays every  have been created.
+device added to your house.
+Thermostats Settings
+Displays your Insteon Thermostat. For  Your one-stop-shop for Hub and Insteon 
+homes with multiple thermostats, you can  account settings and configuration. You can 
+configure the default from settings. also find in-app help here.
+18 Insteon App on Windows
+Controlling a Device
+Tap the arrows to adjust in 10% 
+increments
+Slide to quickly adjust the 
+brightness
+Turn a device on or off, 
+regardless of brightness
+Monitoring a Sensor
+Indicates that your sensor is OK
+Indicates that your sensor has 
+been triggered
+Indicates that the Hub has lost 
+contact with your sensor
+If a newly added sensor shows 
+yellow, try activating it.
+19 Insteon App on Windows
+Controlling a Scene
+Tap to turn the scene on or off
+Tap to edit the scene
+Controlling a Camera
+Use the arrows to pan and tilt 
+your camera
+20 Insteon Connects
+We’ve partnered with some of the leading accessory manufacturers and 
+platforms to bring you the best possible connected home experience.
+21 Insteon Connects
+We know that the smart home of tomorrow will be full of 
+products from many manufacturers; customers are going 
+to choose the right product for the right niche. Insteon 
+fully embraces the platform agnostic IoT.
+Learn more at insteon.com/connects
+22 Hardware Reset
+A network reset will restore the default network configuration to the Hub. 
+A factory reset will erase all links stored in the device’s database as well as 
+any customized properties.
+23 Diagnostics
+You can enter an audio diagnostic  Single Beep: Test Passed
+mode that will report a connection 
+issue in six potential areas. Once in 
+Double-Beep: Test Failed
+the diagnostic mode, your Hub will 
+beep through a series of tests.
+Test 1
+Insteon Hub Modem active
+Test 2
+Tap the set button twice, wait 
+1 Internet Time Server reachable
+one second and then tap the set 
+button again once.
+Test 3
+Hub has a valid IP Address
+2x 1x
+Test 4
+Connected to Insteon Servers
+Test 5
+Active remote connection to 
+Insteon’s Servers
+Test 6
+Successful remote connection 
+to Insteon’s Servers at power up
+24 Network Reset
+Tap the set button three times. The  After a few seconds the Hub will single-
+1 2
+Hub will triple-beep.  beep.
+3x
+Your Hub has been restored to 
+default network settings.
+25 Factory Reset
+Prior to performing a factory reset, you  From Settings, tap Account
+1 2
+must delete all devices and scenes or 
+factory reset all of your devices and 
+delete your user account from Insteon.
+Navigate to settings 
+2:10 PM 2:10 PM
+Settings Done Back Account Settings
+Devices 8 User Email danny@email.com
+Scenes 3 Password ••••••••••••••••
+Rooms 6 Default text/SMS None _
+Schedules 1 Remember Me
+House Home
+House Management 1 Delete Account
+Account danny@email.com
+About INSTEON App
+Get Latest Configuration
+Tap Delete Account. This cannot  Disconnect power from the Hub
+3 44
+be undone and will erase your 
+home from Insteon Connect.
+2:10 PM
+Back Account Settings
+User Email danny@email.com
+Password ••••••••••••••••
+Default text/SWMaSrning None _
+RemeItm is bstreorn gMly erecommended that you
+delete all devices prior to deleting your
+account. Failure to do so will result in
+degrated network performance.
+AltdeervniacteiDsv eaelfytl eyero tduee m leAaticyn fgca ocytouournry a trcecsoeut nyot.ur
+Cancel OK
+26 Factory Reset
+Press and hold the set button  When the long beep ends,  
+5 6
+while reconnecting power. The  release the set button. The 
+Hub will emit a long beep. Hub will double-beep. After 30 
+seconds, your Hub will beep again.
+LONG
+Unplug and then reconnect your 
+7
+Hub to power.
+Your Hub has been restored to 
+factory settings.
+27 Appendix
+Everything else you might need to know about your Insteon product.
+28 Specifications
+General
+Available Colors White
+Brand: Insteon
+FCC ID SBP22452
+Industry Canada 5202A-22452
+Manufacturer Product No.: 2245-222
+Patent No.: Protected under US and Foreign Patents (see www.insteon.com/
+patents)
+UPC: 813922013498
+Warranty: 2 years, limited
+Operation
+Audio Alert Beeper
+Local Control No
+Setup Memory Non-volatile EEPROM
+Status LED Red/Green LED
+Insteon Features
+Insteon Device Category 0x03
+Insteon Device Subcategory 0x33
+Insteon ID 1
+Insteon Links 992
+Insteon Messages Repeated Yes
+Insteon Minimum Receive Level 40 mV
+Insteon Minimum Transmit Level 3.2 Vpp into 5 Ohms
+Insteon Powerline Device Yes
+Insteon Powerline Frequency 131.65 KHz
+Insteon RF Device Yes
+Maximum Controlled Scenes 256
+Maximum Scene Memberships 992
+29 Multi-Link Support Yes
+Multi-Unlink Support Yes
+RF Beacon Yes
+Radio Frequency 915 MHz
+Radio Frequency Range Up to 250 feet
+Mechanical
+Beep on Button Press No
+Dimensions 1.5” H x 3.75” W x 3.75” D 
+38mm H x 95mm W x 95mm D
+Enclosure Material UV stabilized plastic
+Mounting Tabletop or Wall Mount
+Operating Environment Indoors
+Operating Humidity Range 0-90% relative humidity
+Operating Temperature Range 32º to 104º F 
+0º to 40º C
+Factory Reset Button Yes
+Storage Temperature Range -4º to 158º F 
+-20º to 70º C
+Weight 5.2 oz
+Electrical
+Power Consumption 2 Watts
+Supply Voltage 125 Volts AC, 50/60 Hertz, single phase
+Surge Resistance Surges over 1000 volts
+Power Connector IEC C8
+Certification FCC ID Part 15B & 15C 
+IC RSS-210 
+Intertek ETL
+30 Troubleshooting
+Initial Setup and Configuration
+Unable to create an Insteon account
+There is most likely an internet connection issue between your mobile device and the Insteon Hub
+Try this:
+•  Make sure your internet connection is working by trying to browse a website on your mobile device
+•  Look for any typos in your email address that might prevent the account from creating; if you are missing 
+the “@” symbol or “.com,” add them. Insteon requires a full, valid email address.
+Insteon App is unable to find your Insteon Hub
+A number of factors can impact the initial setup but most of them are internet connection related.
+Try this:
+•  Check all of the cables going into the Hub and make sure they are firmly seated. Trace the ethernet cable 
+from the Hub back to the router and make sure it is connected properly there, too.
+•  Look for signs of life from the Insteon Hub. Even if not properly connected, you should see a green LED 
+glow on the front of the Hub. If the LED doesn’t illuminate, check the power outlet. There should also be a 
+blinking green and solid orange light on the Hub’s ethernet port. If both ethernet LEDs are off, try a different 
+port on your router.
+•  Try power cycling your Hub by unplugging and then reconnecting it to power.
+•  For the initial connection, your mobile device must be connected to the WiFi network being generated by 
+the same router to which the Hub is connected. While some routers create a “guest” network, you most 
+often need to be connected to the main WiFi network being created by your router for the initial setup to 
+work correctly.
+•  You can check to see if the Insteon Hub was able to properly “phone home” to Insteon. This will at least 
+tell you that the Hub is up and running, even if a network configuration problem is preventing you from 
+connecting to the Hub. On your mobile device or computer, open a browser and visit connect.insteon.com/
+getinfo.asp. Any detected Insteon Hubs will be displayed on this page.
+•  Try a network reset (see Network Reset).
+•  If the problem persists, contact Insteon Support 866-243-8022
+Insteon App is unable to connect to your Insteon Hub
+A number of factors can impede connection to the Insteon Hub but most of them are internet connection 
+related.
+Try this:
+•  Check all of the cables going into the Hub and make sure they are firmly seated. Trace the ethernet cable 
+from the Hub back to the router and make sure it is connected properly there, too.
+•  Look for signs of life from the Insteon Hub. Even if not properly connected, you should see a green LED 
+glow on the front of the Hub. If the LED doesn’t illuminate, check the power outlet. There should also be a 
+blinking green and solid orange light on the Hub’s ethernet port. If both ethernet LEDs are off, try a different 
+port on your router.
+•  Ensure that your home internet connection is functioning by visiting a website from your computer’s internet 
+browser.
+•  Restart your Hub by unplugging and then reconnecting it to power.
+31 Troubleshooting
+General Issues
+Unable to add a new device using the Insteon App
+Inability to add a new device is usually centered around issues with the Insteon network.
+Try this:
+•  Relocate the new device closer to the Insteon Hub and try again. If this works, you may need a Range 
+Extender or an additional Dual-Band Insteon device to increase the reach of your Insteon Network.
+•  Log out of the Insteon App and sign back in. From the Insteon App, navigate to Settings and tap Log Out at 
+the bottom of the screen.
+Unable to delete a device using the Insteon App
+Deleting a device from the Insteon App may encounter issues if that device is no longer present or connected in 
+your home.
+Try this:
+•  Ensure that the device to be deleted is plugged in or otherwise powered. If it is a battery powered device, 
+press and hold the set button until the Status LED begins blinking and then try deleting from the App.
+•  If the device to be deleted has stopped functioning, you can force the Insteon App to delete the device but 
+only after attempts to delete the device are unsuccessful by the app. You will be presented with an option 
+to Force Remove the unresponsive device.
+•  Log out of the Insteon App and sign back in. From the Insteon App, navigate to Settings and tap Log Out at 
+the bottom of the screen.
+Unable to add a new WiFi Camera using the Insteon App
+There are several points to check when a WiFi Camera cannot be added using the Insteon App.
+Try this:
+•  Ensure that your router is functioning properly and that the Ethernet cable connecting the WiFi Camera is 
+firmly connected to both the camera and your router.
+•  Confirm that the WiFi camera has power.
+•  Log out of the Insteon App and sign back in. From the Insteon App, navigate to Settings and tap Log Out at 
+the bottom of the screen.
+Unable to receive alerts via email or SMS
+With iOS version 1.9.25 and Android version 1.7.4, SMS alerts are no longer supported in favor of push 
+notifications. The Insteon Connect cloud service may require updating if an alert setting was not properly saved.
+Try this:
+•  Check your email for an email from Insteon Connect. After initially configuring alerts, a confirmation link 
+needs to be clicked to confirm that you wish to enable alerts for the specified email address. This email may 
+32 Troubleshooting
+General Issues
+have been inadvertently routed to your spam folder or deleted.
+•  Disable and then re-enable alerts for the device that is not transmitting alerts.
+•  Ensure that a recipient email address is entered for the alert.
+•  Ensure that the Insteon for Hub app has permission to send push notifications. From the home screen of 
+your iPhone, iPad or iPod touch, navigate to Settings. Scroll to the bottom of the list and locate Insteon. 
+In the “Allow Insteon to Access” section, tap Notifications. Flip the switch to green to enable push 
+notifications. You will still need to configure push notifications on a per-device basis from within the Insteon 
+app.
+Unable to disable alerts via email
+The Insteon Connect cloud service may require updating if an alert setting was not properly saved.
+Try this:
+•  Log out of the Insteon App and sign back in.
+•  Delete the device for which alerts cannot be disabled and then re-add the device and enable alerts.
+Schedules do not appear to run at the correct time
+It is possible that the Hub’s clock is incorrect and requires resetting.
+Try this:
+•  From the Insteon App, navigate to Settings > House and check Hub Local Time. If this time is incorrect 
+or if the Hub Location is incorrect, tap Hub Location and locate your Insteon Hub on the map. This will 
+automatically update your Hub’s internal clock.
+•  If updating the Hub time does not correct the schedule run time, try a Network Reset.
+Check for firmware updates for your Insteon Hub
+Your Hub will update its firmware automatically but you can manually check for updates.
+Try this:
+•  From the Insteon App, navigate to Settings > House and tap Check for Updates.
+33 Certifications and Warnings
+Read and understand these instructions before installing and retain them for future reference.
+This product is not designed or approved for use on powerlines other than 125VAC, 50Hz or 60Hz, single 
+phase. Attempting to use this product on unapproved powerlines may have hazardous consequences.
+•  Use only indoors or in outdoor rated box
+•  This product may feel warm during operation. The amount of heat generated is within approved limits and 
+poses no hazards. To minimize heat buildup, ensure the area surrounding this product is as clear of clutter 
+as possible.
+•  Each Insteon product is assigned a unique Insteon I.D., which is printed on the product’s label.
+•  Changes or modifications to the hardware not expressly approved by Insteon may void the user’s authority 
+to operate the equipment in a licensed manor.
+•  For pluggable equipment, the socket-outlet shall be installed near the equipment and shall be easily 
+accessible.
+ 
+This device complies with FCC Rules and Industry Canada license-exempt RSS standard(s). Operation is 
+subject to the following two conditions: (1) this device may not cause harmful interference, and (2) this device 
+must accept any interference, including interference that may cause undesired operation of the device.
+Le present appareil est conforme aux CNR d’Industrie Canada applicables aux appareils radio exempts 
+de licence. L’exploitation est autorise aux deux conditions suivantes: (1) l’appareil ne doit pas produire de 
+brouillage, et (2) l’utilisateur de l’appareil doit accepter tout brouillage radiolectrique subi, mme si le brouillage est 
+susceptible d’en compromettre le fonctionnement.
+34 Product Warranty
+Limited Warranty
+Seller warrants to the original consumer purchaser of this product that, for a period of two years from the date 
+of purchase, this product will be free from defects in material and workmanship and will perform in substantial 
+conformity to the description of the product in this Owner’s Manual. This warranty shall not apply to defects or 
+errors caused by misuse or neglect. If the product is found to be defective in material or workmanship, or if the 
+product does not perform as warranted above during the warranty period, Seller will either repair it, replace it, 
+or refund the purchase price, at its option, upon receipt of the product at the address below, postage prepaid, 
+with proof of the date of purchase and an explanation of the defect or error. The repair, replacement, or refund 
+that is provided for above shall be the full extent of Seller’s liability with respect to this product. For repair or 
+replacement during the warranty period, call 866-243-8022 with the Model # and Revision # of the device to 
+receive an RMA# and send the product, along with all other required materials to: 
+Insteon 
+ATTN: Receiving 
+16542 Millikan Ave. 
+Irvine, CA 92606-5027
+Limitations
+The above warranty is in lieu of and Seller disclaims all other warranties, whether oral or written, express or 
+implied, including any warranty or merchantability or fitness for a particular purpose. Any implied warranty, 
+including any warranty of merchantability or fitness for a particular purpose, which may not be disclaimed 
+or supplanted as provided above shall be limited to the two-year of the express warranty above. No other 
+representation or claim of any nature by any person shall be binding upon Seller or modify the terms of the 
+above warranty and disclaimer. 
+Home automation devices have the risk of failure to operate, incorrect operation, or electrical or mechanical 
+tampering. For optimal use, manually verify the device state. Any home automation device should be viewed as 
+a convenience, but not as a sole method for controlling your home. 
+In no event shall Seller be liable for special, incidental, consequential, or other damages resulting from 
+possession or use of this device, including without limitation damage to property and, to the extent permitted by 
+law, personal injury, even if Seller knew or should have known of the possibility of such damages. Some states 
+do not allow limitations on how long an implied warranty lasts and/or the exclusion or limitation of damages, in 
+which case the above limitations and/or exclusions may not apply to you. You may also have other legal rights 
+that may vary from state to state. 
+Protected under U.S. and foreign patents (see www.insteon.com/patents)   
+©2016 Insteon Rev 05.16.16
+35

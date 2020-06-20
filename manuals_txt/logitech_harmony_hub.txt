@@ -1,0 +1,1059 @@
+HARMONY®
+Hub
+Setup Guide Logitech Harmony Hub
+Languages
+English                                                          3  
+Deutsch                                                     1 3 
+Français                                                    2  3 
+Italiano                                                     3  3 
+Español                                                     4  3
+Nederlands                                               5  3 
+Svenska                                                    6  3
+Dansk                                                       7  3 
+Norsk                                                        8  3
+Suomi                                                       9  3 
+2 Logitech Harmony Hub
+Package contents
+1 3
+2 4
+1. Harmony Hub  3. IR mini blaster 
+Controls devices via IR, Bluetooth® or Wi-Fi Extends IR coverage when used in 
+2. Power adapter  combination with the Harmony Hub
+Provides power to the Harmony Hub 4. USB cable 
+Set up hub via PC or Mac if access 
+to mobile device is not available 
+English    3 Logitech Harmony Hub
+Congratulations on the purchase of Harmony Hub
+1 2
+The Harmony Hub is the center of your Harmony system—always keep it powered on!
+1. The hub receives commands from the mobile app 
+2. The hub sends commands to your audio video and home control devices in the form 
+of Bluetooth, Wi-Fi, and infrared signals (IR) 
+4    English Logitech Harmony Hub
+Lets get started
+STEP 1
+Position the Harmony Hub
+IR mini blaster Harmony Hub
+Place the Harmony Hub in an unobstructed location next to your entertainment devices  
+Or    If using closed cabinets, place the Hub inside the cabinet and the IR mini blaster outside 
+the cabinet to control your TV 
+English    5 Logitech Harmony Hub
+STEP 2
+Power up your Harmony Hub
+Once plugged in, the hub takes approx  30 seconds to power up 
+6    English Logitech Harmony Hub
+STEP 3
+Setup Using Smartphone or Tablet
+• Visit the Apple App Store or Google Play and install the Harmony App 
+• Launch the app, select the Setup New Remote button, and follow setup instructions 
+The remainder of setup will be done using your mobile device  See next section for an overview 
+of what to expect 
+Note: If you have an iPhone 4, iPad 1 or iPad 2, or an Android device that does not support Bluetooth, please visit 
+setup.myharmony.com on a computer to connect the hub to your Wi-Fi network before beginning Step 3 of setup 
+or
+Setup Using PC or Mac 
+Visit setup.myharmony.com to download the MyHarmony desktop software 
+Note: Some home control devices can only be set up using the Harmony App on a smartphone or tablet 
+For more detailed instructions and product info, please visit  
+support.myharmony.com/hub
+English    7 Logitech Harmony Hub
+Mobile App Setup Overview
+• Connect hub to Wi-Fi. Using your mobile device’s Bluetooth, connect your hub 
+to your wireless network 
+• Create a Harmony account.
+• Scan your Wi-Fi network for devices that can be controlled by Harmony (e g  Roku, Sonos, 
+hue, Smart TVs) 
+• Add home entertainment devices for additional devices not found during Wi-Fi scan 
+(e g  TV, cable box, AVR, game console, Blu-ray player) 
+• Add home control devices. Harmony supports various devices such as select lights, 
+locks, thermostats, and home control platforms  See Home Controls Explained section 
+for further details 
+• Create Activities. You’ll be guided through creating Activities such as Watch TV, 
+Listen to Music, and Play Xbox  See One-Touch Activities section for further details 
+8    English Logitech Harmony Hub
+Home Controls Explained
+Your Harmony Hub supports a variety of devices such as lights, light switches, locks, 
+thermostats, and blinds  Harmony Hub also connects to other home control platforms to 
+access additional devices supported by these solutions  The list of supported devices includes:* 
+Nest Learning Thermostats, Honeywell Wi-Fi Thermostats 
+Philips hue Lights, Lutron Caséta Wireless Lights
+Lutron Serena Window Shades
+August Smart Locks
+SmartThings, PĒQ
+*The list of Harmony-compatible devices is always growing  Visit myharmony.com/compatibility for the most 
+up-to-date list of compatible brands, devices, and model numbers  Device compatibility is subject to change 
+without notice  
+English    9 Logitech Harmony Hub
+Activities Explained
+Create your own customized Activities  Here are some examples of what you can do 
+One-Touch Activities
+Watch Movie: One touch and your TV, surround sound system, and Blu-ray player are 
+all powered on and switched to the right settings 
+10    English Logitech Harmony Hub
+One-Touch Activities with Home Control Devices
+Movie Time: Your One-touch “Watch Movie” Activity PLUS your lights automatically dim 
+to your favorite setting 
+Get creative: Activities can be configured to automatically turn on lights, open blinds, 
+adjust thermostat temperature, turn on music/TV, or unlock a door 
+English    11 Logitech Harmony Hub
+Troubleshooting
+Harmony Hub cannot connect to Wi-Fi or is not detected by the Harmony app 
+• Ensure the hub is within range of your router 
+• Ensure your phone and hub are connected to the same Wi-Fi network 
+• Restart your hub by disconnecting and reconnecting its power supply  
+It will take 30 seconds to restart 
+• Restart your router by disconnecting and reconnecting its power supply 
+Support Info
+There’s more information and support online for your product  Please visit  
+support.myharmony.com/hub where you can find:
+• Frequently asked questions • Online Documentation
+• Troubleshooting • Warranty Information
+• Support Community • Phone and email support info
+12    English Logitech Harmony Hub
+Inhalt
+1 3
+2 4
+1. Harmony Hub  3. IR-Mini-Sender 
+Steuert Geräte über Infrarot,  Erhöht die Infrarot-Reichweite 
+Bluetooth® oder WLAN in Verbindung mit einem Harmony Hub
+2. Netzteil  4. USB-Kabel 
+Sorgt für die Stromversorgung  Richten Sie den Hub über PC oder Mac 
+des Harmony Hub ein, wenn kein Mobilgerät für diesen Zweck 
+verfügbar ist 
+Deutsch    13 Logitech Harmony Hub
+Vielen Dank, dass Sie sich für Harmony Hub entschieden haben.
+1 2
+Der Harmony Hub ist der Mittelpunkt Ihres Harmony Systems – lassen Sie ihn 
+immer eingeschaltet!
+1. Der Hub empfängt Befehle von der Mobile-App 
+2. Der Hub sendet Befehle in Form von Bluetooth-, WLAN- und Infrarotsignalen (IR) 
+an Ihre Audio-, Video- und Haussteuerungsgeräte 
+14    Deutsch Logitech Harmony Hub
+Ihr Einstieg
+SCHRITT 1
+Positionieren des Harmony Hub
+Infrarot-Mini-Sender Harmony Hub
+Platzieren Sie den Harmony Hub an einer beliebigen frei zugänglichen Stelle in der Nähe 
+Ihrer Unterhaltungsgeräte  
+Oder: Wenn Sie einen geschlossenen Fernsehschrank haben, platzieren Sie den Hub im Schrank 
+und den Infrarot-Mini-Sender zur Steuerung Ihres Fernsehers außerhalb des Schranks 
+Deutsch    15 Logitech Harmony Hub
+SCHRITT 2
+Schalten Sie den Harmony Hub ein
+Nach dem Anschließen dauert das Einschalten des Hubs ca  30 Sekunden 
+16    Deutsch Logitech Harmony Hub
+SCHRITT 3
+Einrichtung mit Smartphone oder Tablet
+• Besuchen Sie den Apple App Store oder Google Play und installieren Sie die Harmony-App 
+• Starten Sie die App, wählen Sie „Neue Fernbedienung einrichten“ aus und folgen Sie 
+den Anweisungen zur Einrichtung 
+Der Rest der Einrichtung erfolgt über Ihr Mobilgerät  Im nächsten Abschnitt finden Sie 
+einen Überblick über diesen Vorgang 
+Hinweis: Wenn Sie ein iPhone 4, iPad 1 oder iPad 2 bzw  ein Android-Gerät ohne Bluetooth-Unterstützung haben, 
+navigieren Sie auf einem Computer zu setup.myharmony.com, um den Hub mit Ihrem WLAN-Netzwerk 
+zu verbinden, bevor Sie mit Schritt 3 der Einrichtung beginnen 
+oder
+Einrichtung mit PC oder Mac 
+Besuchen Sie setup.myharmony.com, um die MyHarmony-Desktop-Software 
+herunterzuladen 
+Hinweis: Einige Haussteuerungsgeräte können nur mit der Harmony-App auf einem Smartphone oder Tablet 
+eingerichtet werden 
+Ausführlichere Anweisungen und Produktinformationen finden Sie unter  
+support.myharmony.com/hub 
+Deutsch    17 Logitech Harmony Hub
+Überblick über die Einrichtung der Mobile-App
+• Verbinden Sie den Hub mit dem WLAN. Verbinden Sie mithilfe der Bluetooth-Funktion 
+Ihres Mobilgeräts Ihren Hub mit Ihrem WLAN 
+• Erstellen Sie ein Harmony Konto.
+• Durchsuchen Sie Ihr WLAN-Netzwerk nach Geräten, die Sie mit der Harmony 
+steuern können (z  B  Roku, Sonos, Philips Hue, Smart TVs) 
+• Fügen Sie Home-Entertainment-Geräte hinzu, die beim WLAN-Scan nicht gefunden 
+wurden (z  B  Fernseher, Kabel-/Satellitenreceiver, AV-Receiver, Spielekonsole, Blu-Ray-Player) 
+• Fügen Sie Haussteuerungsgeräte hinzu. Die Harmony unterstützt verschiedene Geräte,  
+z  B  ausgewählte Lampen, Sperrvorrichtungen, Thermostate und Haussteuerungsplattformen  
+Genauere Informationen finden Sie im Abschnitt „Erläuterungen zur Haussteuerung“ 
+• Erstellen Sie Aktionen. Sie werden durch das Erstellen von Aktionen wie „Fernsehen“, 
+„Musik hören“ oder „Xbox spielen“ geführt  Genauere Informationen finden Sie im Abschnitt 
+„One-Touch-Aktionen“ 
+18    Deutsch Logitech Harmony Hub
+Erläuterungen zur Haussteuerung
+Der Harmony Hub unterstützt verschiedene Geräte, z  B  Lampen, Lichtschalter, 
+Sperrvorrichtungen, Thermostate und Jalousien  Außerdem können Sie den Harmony Hub 
+mit anderen Haussteuerungsplattformen verbinden, um auf weitere von diesen Lösungen 
+unterstützte Geräte zuzugreifen  Zu den unterstützten Geräten gehören folgende:* 
+Nest Learning-Thermostate, WLAN-Thermostate von Honeywell 
+Philips Hue-Leuchten, Lutron Caséta Wireless-Leuchten
+Lutron Serena-Jalousien
+August Smart Locks
+SmartThings, PĒQ
+* Die Liste der Harmony kompatiblen Geräte wird kontinuierlich länger  Unter myharmony.com/compatibility 
+finden Sie eine aktuelle Liste der kompatiblen Marken, Geräte und Modellnummern  Die Gerätekompatibilität kann 
+ohne vorherige Ankündigung geändert werden  
+Deutsch    19 Logitech Harmony Hub
+Erläuterungen zu Aktionen
+Erstellen Sie individuelle Aktionen  Nachfolgend finden Sie Beispiele für mögliche Aktionen:
+One-Touch-Aktionen
+Filme anschauen: Mit nur einem Tastendruck schalten Sie Ihren Fernseher, Ihr Surround-Sound-
+System und Ihren Blu-Ray-Player mit den richtigen Einstellungen ein 
+20    Deutsch Logitech Harmony Hub
+One-Touch-Aktionen mit Haussteuerungsgeräten
+Filmabend: Die Aktion „Filme anschauen“ UND die Dämpfung der Beleuchtung auf 
+Ihre Lieblingseinstellung erfolgen automatisch 
+Lassen Sie Ihrer Kreativität freien Lauf: Bei einer entsprechenden Konfiguration 
+lassen sich folgende Aktionen automatisch ausführen: Einschalten der Beleuchtung, 
+Öffnen der Jalousien, Ändern der Thermostattemperatur, Einschalten von Musik oder Fernseher 
+oder Entriegeln einer Tür 
+Deutsch    21 Logitech Harmony Hub
+Fehlerbehebung
+Harmony Hub kann keine WLAN-Verbindung herstellen oder wird nicht von der Harmony App 
+erkannt 
+• Vergewissern Sie sich, dass sich der Hub in Reichweite Ihres Routers befindet 
+• Vergewissern Sie sich, dass Ihr Hub und Ihr Telefon mit demselben WLAN-Netzwerk 
+verbunden sind 
+• Starten Sie Ihren Hub neu, indem Sie die Stromversorgung unterbrechen und wieder herstellen  
+Der Neustart dauert 30 Sekunden 
+• Starten Sie Ihren Router neu, indem Sie die Stromversorgung unterbrechen und wieder herstellen 
+Supportinformationen
+Hier erhalten Sie weitere Informationen und haben Zugriff auf den Online-Support für Ihr Produkt  
+Auf der Website support.myharmony.com/hub finden Sie folgende Informationen:
+• Häufig gestellte Fragen • Online-Dokumentation
+• Fehlerbehebung • Garantie
+• Support-Community • Infos zum Support per Telefon oder E-Mail
+22    Deutsch Logitech Harmony Hub
+Contenu
+1 3
+2 4
+1. Hub Harmony  3. Mini-relais IR 
+Contrôle les dispositifs via infrarouge,  Étend la couverture infrarouge lorsqu'il est 
+Bluetooth® ou Wi-Fi utilisé avec le hub Harmony 
+2. Adaptateur secteur  4. Câble USB 
+Alimente le hub Harmony  Configurez le hub via votre PC ou Mac 
+si vous n'avez pas accès à votre dispositif 
+mobile 
+Français    23 Logitech Harmony Hub
+Nous vous remercions pour votre achat du hub Harmony
+1 2
+Le hub Harmony est le centre de votre système Harmony: laissez-le toujours sous tension 
+1. Le hub reçoit des commandes de l'application mobile 
+2. Le hub envoie des commandes à vos dispositifs de contrôle audio-vidéo et domotique 
+sous forme de signaux Bluetooth, Wi-Fi et infrarouges (IR) 
+24    Français Logitech Harmony Hub
+Prise en main
+ÉTAPE 1
+Emplacement du hub Harmony
+Mini-relais IR Harmony Hub
+Placez le hub Harmony dans un endroit non encombré, près de vos dispositifs multimédia  
+Ou    Si vous utilisez un meuble fermé, placez le hub à l'intérieur et le mini-relais IR à l'extérieur 
+pour contrôler votre téléviseur 
+Français    25 Logitech Harmony Hub
+ÉTAPE 2
+Mise sous tension de votre hub Harmony
+Une fois branché, le hub nécessite environ 30 secondes pour se mettre sous tension 
+26    Français Logitech Harmony Hub
+ÉTAPE 3
+Configuration sur un smartphone ou une tablette
+• Rendez-vous sur l'App Store d'Apple ou dans la boutique Google Play pour installer 
+l'application Harmony 
+• Lancez l'application, sélectionnez le bouton Configurer une nouvelle télécommande et suivez 
+les instructions de configuration 
+Vous pourrez terminer la configuration sur votre dispositif mobile  Consultez la section suivante 
+pour en savoir plus 
+Remarque: si vous possédez un iPhone 4, un iPad 1, un iPad 2 ou un dispositif Android qui ne prend pas en charge 
+le Bluetooth, rendez-vous sur setup.myharmony.com depuis un ordinateur pour connecter le hub à votre réseau 
+Wi-Fi avant de procéder à l'étape 3 de la configuration 
+ou
+Configuration sur un PC ou un Mac
+Rendez-vous sur setup.myharmony.com pour télécharger le logiciel de bureau MyHarmony 
+Remarque: certains dispositifs de contrôle domotique ne peuvent être configurés qu'à partir de l'application 
+Harmony sur un smartphone ou une tablette 
+Pour obtenir des instructions plus détaillées et des informations sur le produit, rendez-vous sur  
+support.myharmony.com/hub
+Français    27 Logitech Harmony Hub
+Présentation de la configuration sur l'application mobile
+• Connectez le hub au réseau Wi-Fi. En sélectionnant le mode Bluetooth 
+de votre dispositif mobile, connectez votre hub à votre réseau sans fil 
+• Créez un compte Harmony.
+• Sur votre réseau Wi-Fi, recherchez les dispositifs pouvant être contrôlés par Harmony 
+(Roku, Sonos, hue, Smart TV etc ) 
+• Ajoutez les dispositifs multimédia qui n'ont pas été trouvés lors de la recherche 
+sur réseau Wi-Fi (TV, décodeur, récepteur AV, console de jeux, lecteur Blu-ray, etc ) 
+• Ajoutez des dispositifs domotiques. Harmony prend en charge différents dispositifs 
+domotiques: éclairages personnalisés, serrures, thermostats, etc  Consultez la section 
+sur la technologie domotique pour en savoir plus 
+• Créez des activités. Vous serez guidé dans la création d'activités: regarder la télévision, 
+écouter de la musique, jouer à la Xbox, etc  Consultez la section Commande directe 
+des activités pour en savoir plus 
+28    Français Logitech Harmony Hub
+La technologie domotique
+Votre système Harmony Hub prend en charge différents dispositifs: éclairages, variateurs, 
+verrous, thermostats, stores, etc  Le hub Harmony se connecte à d'autres plates-formes 
+de contrôle domotique pour accéder à d'autres dispositifs pris en charge par ces solutions  
+La liste des dispositifs pris en charge comprend:* 
+Thermostats Nest Learning Thermostat et thermostats Wi-Fi Honeywell 
+Systèmes d'éclairage Hue de Philips et Lutron Caséta Wireless
+Stores pour fenêtres Serena de Lutron
+Serrures August Smart
+SmartThings, PĒQ
+* La liste des dispositifs compatibles avec Harmony s'agrandit constamment  Rendez-vous sur myharmony.com/
+compatibility pour consulter la liste la plus récente des marques, dispositifs et numéros de modèle compatibles  
+La liste des dispositifs compatibles peut faire l'objet de modifications sans préavis  
+Français    29 Logitech Harmony Hub
+Présentation des activités
+Créez des activités personnalisées  Exemples des possibilités offertes:
+Commande directe des activités
+Regarder un film: D'une simple pression, votre TV, votre système de son surround 
+et votre lecteur Blu-ray s'allument avec les paramètres souhaités 
+30    Français Logitech Harmony Hub
+Vos activités à portée de main grâce à la domotique
+Soirée ciné: Votre activité Regarder un film à accès direct et vos lumières se règlent 
+automatiquement sur vos paramètres préférés 
+Soyez créatif: Vos activités peuvent être configurées pour allumer votre éclairage, 
+ouvrir vos stores, régler la température du thermostat, activer votre système audio ou 
+votre téléviseur ou bien encore déverrouiller une porte 
+Français    31 Logitech Harmony Hub
+Dépannage
+Le hub Harmony ne se connecte pas au Wi-Fi ou l'application Harmony ne détecte pas le hub 
+• Assurez-vous que le hub se trouve dans le rayon de communication de votre routeur 
+• Assurez-vous que votre téléphone et votre hub sont connectés au même réseau Wi-Fi 
+• Redémarrez votre hub en déconnectant et reconnectant son alimentation  Le redémarrage 
+prend 30 secondes 
+• Redémarrez votre routeur en déconnectant et reconnectant son alimentation 
+Infos d'assistance
+Des informations supplémentaires et une assistance en ligne sont disponibles pour votre 
+produit  Rendez-vous sur support.myharmony.com/hub pour accéder aux sections suivantes:
+• Questions fréquentes • Documentation en ligne
+• Dépannage • Informations sur la garantie
+• Communauté d'entraide • Coordonnées pour l'assistance 
+par téléphone ou courrier électronique
+32    Français Logitech Harmony Hub
+Contenuto della confezione
+1 3
+2 4
+1. Harmony Hub  3. Mini estensore IR 
+Controlla i dispositivi tramite IR,  Estende la copertura dei raggi infrarossi 
+Bluetooth® o Wi-Fi se utilizzato con Harmony Hub
+2. Alimentatore  4. Cavo USB 
+Fornisce l'alimentazione ad Harmony Hub Imposta l'hub tramite PC o Mac se non è 
+possibile accedere al dispositivo mobile 
+Italiano    33 Logitech Harmony Hub
+Grazie per aver acquistato Harmony Hub
+1 2
+Harmony Hub è il fulcro del sistema Harmony: tienilo sempre acceso 
+1. L'hub riceve i comandi dal dall'applicazione mobile 
+2. L'hub invia i comandi ai dispositivi audio video e di controllo della casa tramite Bluetooth, 
+Wi-Fi e sotto forma di segnali a infrarossi (IR) 
+34    Italiano Logitech Harmony Hub
+Come cominciare
+PASSAGGIO 1
+Posizionamento dell'Harmony Hub
+Mini estensore  
+a raggi infrarossi Harmony Hub
+Collocare l'Harmony Hub in una posizione che non presenti ostacoli e vicino ai dispositivi 
+di intrattenimento  
+Oppure    Se sono presenti armadi chiusi, posizionare l'hub dentro l'armadietto e il mini 
+estensore IR fuori per controllare la TV 
+Italiano    35 Logitech Harmony Hub
+PASSAGGIO 2
+Accensione di Harmony Hub
+Una volta collegato, l'hub si accende dopo circa 30 secondi 
+36    Italiano Logitech Harmony Hub
+PASSAGGIO 3
+Configurazione tramite smartphone o tablet
+• Visitare l'App Store Apple o Google Play e installare l'applicazione Harmony 
+• Avviare l'applicazione, selezionare il pulsante Installa nuovo telecomando e seguire le istruzioni 
+La parte restante dell'installazione verrà effettuata mediante il dispositivo mobile  
+Consultare la sezione successiva per una panoramica di ciò che avviene 
+Nota: se il dispositivo iPhone 4, iPad 1 o iPad 2 oppure Android in uso non supporta il Bluetooth, visitare la pagina 
+setup.myharmony.com da computer per collegare l'hub alla rete Wi-Fi prima di procedere al Passaggio 3 
+dell'installazione 
+oppure
+Configurazione tramite PC o Mac
+Visitare il sito setup.myharmony.com per scaricare il software desktop MyHarmony 
+Nota: alcuni dispositivi di controllo domestico possono essere configurati solamente tramite l'app Harmony 
+su uno smartphone o tablet 
+Per istruzioni più dettagliate e informazioni sul prodotto, visitare  
+support.myharmony.com/hub
+Italiano    37 Logitech Harmony Hub
+Panoramica sulla configurazione dell'applicazione mobile
+• Collegare l'hub al Wi-Fi. Utilizzando il Bluetooth del proprio dispositivo mobile, collegare l'hub 
+alla rete wireless 
+• Creare un account Harmony.
+• Eseguire la scansione della rete Wi-Fi per individuare dispositivi che possono essere 
+controllati mediante Harmony (ad es  Roku, Sonos, hue, Smart TV) 
+• Aggiungere dispositivi Home Theatre per dispositivi aggiuntivi non trovati durante 
+la scansione Wi-Fi (ad es  TV, decoder via cavo, AVR, console gaming, lettore Blu-ray) 
+• Aggiungere dispositivi di automazione della casa. Harmony supporta vari dispositivi 
+come determinate luci, serrature, termostati e piattaforme di domotica  Consultare la sezione 
+Spiegazione dei controlli di automazione della casa per ulteriori dettagli 
+• Creare Attività. Si verrà guidati nella creazione di Attività come Guarda TV, 
+Ascolta musica e Gioca con la Xbox  Consultare la sezione relativa alle attività con tasti 
+dedicati per ulteriori dettagli 
+38    Italiano Logitech Harmony Hub
+Spiegazione dei controlli di automazione della casa
+Harmony Hub supporta numerosi dispositivi come luci, interruttori, serrature, termostati 
+e oscuranti  Harmony Hub si collega inoltre ad altre piattaforme di automazione della casa 
+per accedere a dispositivi aggiuntivi supportati da queste soluzioni  L'elenco di dispositivi 
+supportati include:* 
+Termostati Nest Learning, termostati Honeywell Wi-Fi 
+Luci Philips hue, luci wireless Lutron Caséta
+Oscuranti finestre Lutron Serena
+Serrature August Smart Lock
+SmartThings, PĒQ
+*L'elenco di dispositivi compatibili con Harmony è sempre maggiore  Visitare myharmony.com/compatibility 
+per l'elenco aggiornato di marche, dispositivi e numeri modello La compatibilità con i dispositivi è soggetta a modifica 
+senza preavviso  
+Italiano    39 Logitech Harmony Hub
+Spiegazione delle Attività
+È possibile creare Attività personalizzate, procedendo in base ai seguenti esempi 
+Attività con un solo tocco
+Guarda un film: con un solo tocco la TV, il sistema audio surround e il lettore Blu-ray 
+si accenderanno e passeranno alle impostazioni corrette 
+40    Italiano Logitech Harmony Hub
+Attività con un solo tocco con i dispositivi di controllo domestico
+Serata cinema: attività "Guarda un film" PIÙ attenuazione automatica delle luci in base 
+all'impostazione desiderata 
+Spazio alla creatività: è possibile configurare le Attività per accendere automaticamente 
+le luci, alzare gli oscuranti, regolare la temperatura del termostato, accendere la musica/TV 
+o sbloccare una porta 
+Italiano    41 Logitech Harmony Hub
+Risoluzione dei problemi
+Harmony Hub non riesce a connettersi al Wi-Fi o non viene rilevato dall'app Harmony 
+• Accertarsi che l'hub si trovi nel raggio d'azione del router 
+• Assicurarsi che telefono e hub siano connessi alla stessa rete Wi-Fi 
+• Riavviare l'hub scollegando e ricollegando la relativa alimentazione  Il riavvio richiederà 
+30 secondi 
+• Riavviare il router scollegando e ricollegando la relativa alimentazione 
+Informazioni supporto
+Online sono disponibili ulteriori informazioni e il supporto per il prodotto  Visitare il sito  
+support.myharmony.com/hub per trovare:
+• Domande frequenti • Documentazione online
+• Risoluzione dei problemi • Informazioni sulla garanzia
+• Community di supporto • Informazioni per l'assistenza telefonica 
+e tramite e-mail
+42    Italiano Logitech Harmony Hub
+Contenido de la caja
+1 3
+2 4
+1. Harmony Hub  3. Miniextensor IR 
+Controla dispositivos a través de infrarrojos,  Amplía la cobertura de infrarrojos cuando 
+Bluetooth® o Wi-Fi se usa combinado con Harmony Hub
+2. Adaptador de alimentación  4. Cable USB 
+Proporciona energía a Harmony Hub Permite configurar el hub a través 
+de PC o Mac si no hay disponible acceso 
+a un dispositivo móvil 
+Español    43 Logitech Harmony Hub
+Enhorabuena por la compra de Harmony Hub
+1 2
+Harmony Hub es el centro de tu sistema Harmony ¡Mantenlo siempre encendido!
+1. El hub recibe comandos de la aplicación móvil 
+2. El hub envía comandos a tus dispositivos de audio, vídeo y control del hogar en forma 
+de señales Bluetooth, Wi-Fi e infrarrojas (IR) 
+44    Español Logitech Harmony Hub
+Empecemos.
+PASO 1
+Colocación de Harmony Hub
+Miniextensor IR Harmony Hub
+Coloca Harmony Hub en una ubicación despejada junto a tus dispositivos multimedia  
+O bien    Si usas armarios con puertas, coloca el hub en el interior del armario y el miniextensor 
+IR fuera del armario para controlar el televisor 
+Español    45 Logitech Harmony Hub
+PASO 2
+Encendido de Harmony Hub
+Una vez enchufado, el hub tarda unos 30 segundos en encenderse 
+46    Español Logitech Harmony Hub
+PASO 3
+Configuración mediante smartphone o tablet
+• Ve a la Apple App Store o Google Play e instala la aplicación de Harmony 
+• Inicia la aplicación, selecciona el botón Configurar nuevo mando y sigue las instrucciones 
+de configuración 
+El resto de la configuración se realizará mediante el dispositivo móvil  Consulta la sección 
+siguiente para ver una descripción general de lo que queda por hacer 
+Nota: Si tienes un iPhone 4, iPad 1 o iPad 2, o un dispositivo Android que no admita Bluetooth, 
+ve a setup.myharmony.com en un ordenador para conectar el hub a la red Wi-Fi antes de iniciar el paso 3 
+de la configuración 
+o
+Configuración mediante PC o Mac
+Ve a setup.myharmony.com para descargar el software de escritorio MyHarmony 
+Nota: Algunos dispositivos de control del hogar sólo se pueden configurar mediante la aplicación de Harmony 
+en un smartphone o tablet 
+Para obtener instrucciones más detalladas e información de producto, ve a  
+support.myharmony.com/hub
+Español    47 Logitech Harmony Hub
+Descripción general de la configuración de la aplicación móvil
+• Conecta el hub a la red Wi-Fi. Mediante la tecnología Bluetooth del dispositivo móvil, 
+conecta el hub a la red inalámbrica 
+• Crea una cuenta de Harmony.
+• Examina la red Wi-Fi en busca de dispositivos que se puedan controlar mediante Harmony 
+(por ejemplo, Roku, Sonos, hue, televisores Smart) 
+• Añade dispositivos multimedia domésticos para dispositivos adicionales que no se hayan 
+encontrado durante la búsqueda en Wi-Fi (por ejemplo, TV, sintonizador por cable, AVR, 
+consola de videojuegos, reproductor Blu-ray) 
+• Agrega dispositivos de control del hogar. Harmony admite diversos dispositivos 
+como luces, cerraduras, termostatos y diversas plataformas de control del hogar  
+Consulta la sección Explicación de controles del hogar para obtener más detalles 
+• Crea actividades. Se te guiará por la creación de actividades como Ver TV, Escuchar música 
+y Jugar en Xbox  Consulta la sección Actividades de una pulsación, para obtener más detalles 
+48    Español Logitech Harmony Hub
+Explicación de controles del hogar
+Harmony Hub admite diversos dispositivos como luces, interruptores de iluminación, 
+cerraduras, termostatos y persianas  Harmony Hub también se conecta a otras plataformas 
+de control del hogar para acceder a dispositivos adicionales admitidos por estas soluciones  
+La lista de dispositivos admitidos incluye:* 
+Termostatos Nest Learning, termostatos Honeywell Wi-Fi 
+Luces Philips hue, luces inalámbricas Lutron Caséta
+Cortinas Lutron Serena
+Cerraduras August Smart Lock
+SmartThings, PĒQ
+*La lista de dispositivos compatibles con Harmony está en constante expansión  
+Ve a myharmony.com/compatibility para ver la lista más actualizada de marcas, dispositivos y números 
+de modelo compatibles  La compatibilidad con dispositivos está sujeta a cambios sin previo aviso  
+Español    49 Logitech Harmony Hub
+Explicación de actividades
+Crea tus propias actividades personalizadas  Estos son algunos ejemplos de lo que puedes hacer 
+Actividades de una pulsación
+Ver película: Una pulsación y el televisor, el sistema de sonido envolvente y el reproductor 
+de Blu-ray se encienden y se asignan a las configuraciones correctas 
+50    Español Logitech Harmony Hub
+Actividades de una pulsación con dispositivos de control del hogar
+Sesión de cine: La actividad de una pulsación “Ver película” MÁS la atenuación automática 
+de las luces a tu configuración preferida 
+Sé creativo: Las actividades se pueden configurar para que enciendan luces, abran persianas, 
+ajusten la temperatura del termostato, enciendan la música o el televisor o abran una puerta 
+automáticamente 
+Español    51 Logitech Harmony Hub
+Resolución de problemas
+Harmony Hub no se puede conectar a la red Wi-Fi o la aplicación de Harmony no lo detecta 
+• Asegúrate de que el hub esté dentro del radio de acción del enrutador 
+• Asegúrate de que el teléfono y el hub estén conectados a la misma red Wi-Fi 
+• Reinicia el hub  Para ello, desenchufa y vuelve a enchufar la fuente de alimentación  
+Tardará 30 segundos en reiniciarse 
+• Reinicia el enrutador  Para ello, desenchufa y vuelve a enchufar la fuente de alimentación 
+Información de asistencia
+Encontrará más información y asistencia online para su producto  Ve a  
+support.myharmony.com/hub donde encontrarás:
+• Preguntas más habituales • Documentación online
+• Resolución de problemas • Información de garantía
+• Comunidad de asistencia • Información de asistencia por teléfono 
+y correo electrónico
+52    Español Logitech Harmony Hub
+Pakketinhoud
+1 3
+2 4
+1. Harmony Hub  3. IR-miniblaster 
+Bedient apparaten via IR, Bluetooth,®  Vergroot IR-bereik wanneer deze samen 
+of Wi-Fi met de Harmony Hub wordt gebruikt
+2. Stroomadapter  4. USB-kabel 
+Voorziet de Harmony Hub van stroom Stel hub in via pc of Mac als toegang 
+tot mobiel apparaat niet mogelijk is 
+Nederlands    53 Logitech Harmony Hub
+Gefeliciteerd met de aankoop van Harmony Hub
+1 2
+De Harmony Hub vormt het middelpunt van uw Harmony-systeem:  
+laat de hub altijd aanstaan!
+1. De hub ontvangt opdrachten van de mobiele app 
+2. De hub stuurt opdrachten naar uw audio-, video- en Home Control-apparaten 
+in de vorm van Bluetooth-, wifi- en infraroodsignalen (IR) 
+54    Nederlands Logitech Harmony Hub
+Laten we aan de slag gaan
+STAP 1
+De Harmony Hub plaatsen
+IR-miniblaster Harmony Hub
+Plaats de Harmony Hub op een vrije locatie naast uw entertainmentapparaten  
+Of    Als u een gesloten kast heeft, plaatst u de hub in de kast en de IR-miniblaster buiten 
+de kast om uw tv te bedienen 
+Nederlands    55 Logitech Harmony Hub
+STAP 2
+Uw Harmony Hub aanzetten
+Nadat de hub is aangesloten, duurt het ongeveer 30 seconden om deze in te schakelen 
+56    Nederlands Logitech Harmony Hub
+STAP 3
+Installatie met smartphone of tablet
+• Ga naar de Apple App Store of Google Play en installeer de Harmony-app 
+• Start de app, selecteer de knop Nieuwe afstandsbediening installeren en volg 
+de set-upinstructies 
+De rest van de installatie kunt uitvoeren op uw mobiele apparaat  Zie de volgende sectie 
+voor een overzicht van wat u kunt verwachten 
+N.B. Als u een iPhone 4, iPad 1 of iPad 2 heeft, of een Android-apparaat dat geen Bluetooth-ondersteuning heeft, 
+gaat u naar setup.myharmony.com op een computer om de hub met uw wifinetwerk te verbinden voordat u naar 
+stap 3 van de set-up gaat 
+of
+Installatie met pc of Mac 
+Ga naar setup.myharmony.com om de MyHarmony-desktopsoftware te downloaden 
+N.B. Sommige Home Control-apparaten kunnen alleen worden ingesteld met de Harmony-app op een smartphone 
+of tablet 
+Ga naar support.myharmony.com/hub voor gedetailleerde instructies en productinformatie
+Nederlands    57 Logitech Harmony Hub
+Overzicht set-up mobiele app
+• Verbind hub met wifi. Gebruik Bluetooth van uw mobiele apparaat om de hub te verbinden 
+met uw draadloze netwerk 
+• Maak een Harmony-account aan.
+• Scan uw wifi-netwerk op apparaten die kunnen worden bediend door Harmony (bijv  Roku, 
+Sonos, hue, Smart-tv's) 
+• Voeg thuisentertainmentapparaten toe voor extra apparaten die niet gevonden zijn via 
+de wifi-scan (bijv  tv, kabelontvanger, AV-ontvanger, gameconsole, Blu-ray-speler) 
+• Voeg Home Control-apparaten toe. Harmony ondersteunt verschillende apparaten, 
+zoals bepaalde lampen, sloten, thermostaten en Home Control-platformen  Zie de sectie 
+Home Control toegelicht voor meer informatie 
+• Maak activiteiten. U krijgt een stapsgewijze uitleg voor het maken van activiteiten, 
+zoals Tv kijken, Naar muziek luisteren en Met de Xbox spelen  Zie de sectie Eendruksactiviteiten 
+voor meer informatie 
+58    Nederlands Logitech Harmony Hub
+Home Control toegelicht
+Uw Harmony Hub ondersteunt een aantal verschillende apparaten, zoals lampen, 
+lichtknopjes, sloten, thermostaten en rolgordijnen  De Harmony Hub maakt ook 
+verbinding met andere Home Control-platformen voor toegang tot verdere apparaten 
+die deze oplossingen ondersteunen  De lijst met ondersteunde apparaten bevat:* 
+Nest Learning Thermostats, Honeywell Wi-Fi-thermostaten 
+Philips hue-lampen, Lutron Caséta Wireless Lights
+Lutron Serena Window Shades
+August Smart Locks
+SmartThings, PĒQ
+*De lijst met apparaten die compatibel zijn met Harmony wordt steeds langer  
+Ga naar myharmony.com/compatibility voor de meest recente lijst met compatibele merken, 
+apparaten en modelnummers  Apparaatcompatibiliteit is aan verandering zonder kennisgeving onderhevig  
+Nederlands    59 Logitech Harmony Hub
+Verklaring van activiteiten
+Maak uw eigen aangepaste activiteiten  Hier zijn een aantal voorbeelden van wat u kunt doen 
+Eendruksactiviteiten
+Film kijken: Uw tv, surroundsoundsysteem en Blu-ray-speler worden allemaal ingeschakeld 
+en naar de juiste instellingen geschakeld met één druk op een knop 
+60    Nederlands Logitech Harmony Hub
+Eendruksactiviteiten met Home Control-apparaten
+Filmavondje: Uw eendruksactiviteit Film kijken PLUS uw verlichting wordt automatisch gedimd 
+naar uw favoriete instelling 
+Laat uw creativiteit de vrije loop: Activiteiten kunnen worden geconfigureerd 
+om automatisch verlichting in te schakelen, rolgordijnen te openen, de temperatuur van 
+de thermostaat aan te passen, muziek/tv in te schakelen of een deur van het slot te halen 
+Nederlands    61 Logitech Harmony Hub
+Problemen oplossen
+Harmony Hub kan geen verbinding maken met wifi of wordt niet gedetecteerd door 
+de Harmony-app 
+• Controleer of uw hub zich binnen het bereik van uw router bevindt 
+• Zorg dat uw telefoon en hub zijn verbonden met hetzelfde wifi-netwerk 
+• Start uw hub opnieuw door de stroomtoevoer te ontkoppelen en opnieuw aan te sluiten  
+Het duurt 30 seconden voordat de hub opnieuw is opgestart 
+• Start uw router opnieuw door de stroomtoevoer te ontkoppelen en opnieuw aan te sluiten 
+Ondersteuningsinfo
+Online vindt u meer informatie over en ondersteuning voor uw product  Ga naar 
+support.myharmony.com/hub  Hier vindt u:
+• Veelgestelde vragen • Onlinedocumentatie
+• Problemen oplossen • Garantie-informatie
+• Ondersteuningscommunity • Informatie over telefonische 
+en e-mailondersteuning
+62    Nederlands Logitech Harmony Hub
+Förpackningsinnehåll
+1 3
+2 4
+1. Harmony Hub  3. IR-miniomvandlare 
+styr enheter via IR, Bluetooth® eller Wi-Fi utökar IR-räckvidden när den kombineras 
+2. Nätadapter  med Harmony-hubben
+Förser Harmony Hub med ström 4. USB-kabel 
+Ställ in hubben via PC eller Mac om du inte 
+har åtkomst till mobil enhet 
+Svenska    63 Logitech Harmony Hub
+Grattis till köpet av Harmony-hubben
+1 2
+Harmony Hub är navet i ditt Harmony-system– se till att det alltid är på!
+1. Hubben får kommandon från fjärrkontrollen eller mobilappen 
+2. Hubben skickar kommandon till dina ljud-, video- och hemkontrollenheter i form 
+av Bluetooth, Wi-Fi och IR-signaler 
+64    Svenska Logitech Harmony Hub
+Nu börjar vi!
+STEG 1
+Placera Harmony-hubben
+IR-miniomvandlare Harmony Hub
+Placera Harmony-hubben i fritt läge bredvid dina underhållningsenheter  
+Eller    Placera hubben inuti skåpet, om du använder slutna skåp, och IR-miniomvandlaren 
+på utsidan för att styra din tv 
+Svenska    65 Logitech Harmony Hub
+STEG 2
+Starta din Harmony-hubb
+När den har anslutits tar det ca 30 sekunder för hubben att starta 
+66    Svenska Logitech Harmony Hub
+STEG 3:
+Konfigurering med smarttelefon eller surfplatta
+• Besök Apple App Store eller Google Play och installera Harmony-appen 
+• Starta appen, välj knappen Konfigurera ny fjärrkontroll och följ installationsanvisningarna 
+Resten av installationen görs via din mobila enhet  I nästa avsnitt finns en översikt över vad 
+du kan förvänta dig 
+Obs! Om du har en iPhone 4, iPad 1 eller iPad 2, eller en Android-enhet som inte stöder Bluetooth, 
+gå till setup.myharmony.com på en dator för att ansluta hubben till Wi-Fi-nätverket innan du påbörjar steg 3 
+av konfigureringen 
+eller
+installera med PC eller Mac 
+Gå tillt setup.myharmony.com to för att ladda ner skrivbordsprogramvaran MyHarmony 
+Obs! Vissa styrningsenheter i hemmet kan endast installeras med Harmony-appen på en smarttelefon 
+eller surfplatta 
+Mer detaljerade anvisningar och produktinformation finns på  
+support.myharmony.com/hub
+Svenska    67 Logitech Harmony Hub
+Översikt över konfigurering av mobil app
+• Anslut hubben till Wi-Fi. Använd den mobila enhetens Bluetooth och anslut hubben 
+till det trådlösa nätverket 
+• Skapa ett Harmony-konto.
+• Sök efter enheter i Wi-Fi-nätverket som kan styras med Harmony (t ex  Roku, Sonos, 
+hue, Smart TV) 
+• Lägg till underhållningsenheter i hemmet för ytterligare enheter som inte hittats 
+under Wi-Fsökning (t ex  tv, kabelbox, AVR, spelkonsol, Blu-ray-spelare) 
+• Lägg till hemkontrollenheter. Harmony stödjer olika enheter som vissa lampor, 
+lås termostater och styrningsplattor i hemmet  Se avnsittet för hemkontroller 
+för mer information 
+• Skapa aktiviteter. Du vägleds genom skapandet av aktiviteter t ex  titta på tv, lyssna på 
+musik och spela Xbox  Se avsnittet om aktivitetsbaserade snabbknappar för mer information 
+68    Svenska Logitech Harmony Hub
+Förklaring av hemkontroller
+Din Harmony Hub stöder en mängd olika enheter som lampor, strömbrytare, lås, termostater 
+och rullgardiner  Harmony Hub ansluter även till andra styrningsplattformar i hemmet för att 
+nå ytterligare enheter som stöds av dessa lösningar  Listan över enheter som stöds inkluderar:* 
+Nest Learning Thermostat, Honeywell Wi-Fi Thermostat 
+Philips hue-lampor, Lutron Caséta trådlösa lampor
+Lutron Serena rullgardiner
+Augusti Smart Locks
+SmartThings, PĒQ
+*Listan över Harmony-kompatibla enheter växer ständigt  Gå till myharmony.com/compatibility för att få 
+den senaste listan över kompatibla märken, enheter och modellnummer  Enhetskompatibilitet kan ändras utan 
+föregående meddelande  
+Svenska    69 Logitech Harmony Hub
+Förklaring av aktiviteter
+Skapa dina egna anpassade aktiviteter  Här är några exempel på vad du kan göra 
+Aktivitetsbaserade snabbknappar
+Titta på tv: Ett tryck och din tv, systemet för surroundljud och Blu-ray-spelare är alla påslagna 
+med rätta inställningar 
+70    Svenska Logitech Harmony Hub
+Aktivitetsbaserade snabbknappar med hemkontrollenheter
+Filmdag: Din snabbknapp ”Titta på tv” PLUS-aktivitet tonar automatiskt ned ljusen till 
+din favoritinställning 
+Var kreativ!: Aktiviteter kan konfigureras till att automatiskt tända ljus, öppna gardiner, 
+justera termostatens temperatur, sätta på musik/tv och låsa upp dörren 
+Svenska    71 Logitech Harmony Hub
+Felsökning
+Harmony-hubben kan inte ansluta till WIFI och Harmony-appen kan inte identifiera den 
+• Se till att hubben är inom routerns räckvidd 
+• Se till att telefonen och hubben är anslutna till samma Wi-Fi-nätverk 
+• Starta om hubben genom att koppla ifrån och återansluta strömkällan  Det tar 30 sekunder 
+att starta om 
+• Starta om routern genom att koppla ifrån och återansluta strömkällan 
+Supportinformation
+Det finns mer produktinformation och support på Internet  
+Besök support.myharmony.com/hub på där du kan hitta:
+• Vanliga frågor och svar • Elektronisk dokumentation
+• Felsökning • Garantiinformation
+• Supportgemenskap • Telefon och e-post till support
+72    Svenska Logitech Harmony Hub
+Pakken indeholder
+1 3
+2 4
+1. Harmony Hub  3. IR-minisender 
+styrer enheder vha  infrarød-  
+signalBluetooth®, eller Wi-Fi Udvider IR-dækningen når de anvendes 
+2. Strømadapter  i kombination med Harmony Hub
+Leverer strøm til Harmony Hub 4. USB-kabel 
+Du kan konfigurere hubben via pc eller Mac 
+hvis du ikke har adgang til en mobilenhed 
+Dansk    73 Logitech Harmony Hub
+Tillykke med dit køb af Harmony Hub
+1 2
+Harmony Hub er kernen i Harmony-systemet – derfor skal du altid have den tændt 
+1. Hubben modtager kommandoer fra mobilappen 
+2. Hubben sender kommandoer til lyd-, video-, og hjemmebetjeningsenhederne vha  Bluetooth, 
+Wi-Fi og infrarøde signaler (IR) 
+74    Dansk Logitech Harmony Hub
+Lad os komme i gang
+TRIN 1
+Placer Harmony Hub
+Miniomformer Harmony Hub
+Stil Harmony Hub på et uhindret sted ved siden af dine underholdningsenheder  
+Eller    Hvis du placerer hubben inde i et skab, skal du sætte IR-minisenderen uden for skabet 
+for at betjene dit tv 
+Dansk    75 Logitech Harmony Hub
+TRIN 2
+Tænd for din Harmony Hub
+Når den er tilsluttet, tager det hubben cirka  30 sekunder at tænde 
+76    Dansk Logitech Harmony Hub
+TRIN 3
+Konfigurer vha. smartphone eller tablet-pc
+• Besøg Apple App Store eller Google Play, og installer Harmony-appen 
+• Start appen, vælg knappen Konfigurer ny fjernbetjeningen, og følg 
+konfigurationsanvisningerne 
+Resten af konfigurationen udføres vha  mobilenheden  I næste afsnit kan du læse mere om 
+hvad du kan forvente 
+Bemærk: Hvis du har en iPhone 4, iPad 1 eller iPad 2 eller en Android-enhed der ikke understøtter Bluetooth, skal du gå 
+ind på setup.myharmony.com på en computer for at oprette forbindelse mellem hubben og det trådløse netværk 
+inden du begynder de 3 trin i mobilkonfigurationen 
+eller
+Konfigurer vha. pc eller Mac
+På setup.myharmony.com kan du hente MyHarmony-skrivebordssoftware 
+Bemærk: Nogle enheder til betjening af hjemmet kan kun konfigureres vha  Harmony-appen på en smartphone 
+eller tablet-pc 
+Du finder detaljerede instruktioner og produktoplysninger på  
+support.myharmony.com/hub
+Dansk    77 Logitech Harmony Hub
+Oversigt over konfiguration med mobilappen
+• Opret forbindelse mellem hubben og Wi-Fi. Brug din mobilenhedsBluetooth til at oprette 
+forbindelse mellem hubben og dit trådløse netværk 
+• Opret en Harmony-konto.
+• Søg på Wi-Fi-netværket efter enheder der kan betjenes af Harmony (f eks  Roku, Sonos, 
+hue, Smart TV) 
+• Tilføj enheder til hjemmeunderholdningen for at få yderligere enheder der ikke blev fundet 
+ved Wi-Fi-søgningen (f eks  tv, kabelbokse, AVR, spillekonsoller, Blu-ray-afspillere) 
+• Tilføj hjemmebetjeningsenheder. Harmony understøtter forskellige enheder, 
+såsom udvalgte lamper, låse, termostater og systemer til betjening af hjemmet  
+Du finder flere oplysninger under Beskrivelse af systemer til betjening af hjemmet 
+• Opret aktiviteter. Du bliver guidet igennem oprettelsen af aktiviteter, såsom at se tv, lytte til 
+musik og spille Xbox  Du finder flere oplysninger under afsnittet Aktiviteter med ét tryk 
+78    Dansk Logitech Harmony Hub
+Beskrivelse af systemer til betjening af hjemmet
+Harmony Hub understøtter en række forskellige enheder, såsom lamper, lyskontakter, låse, 
+termostater og rullegardiner  Der kan også oprettes forbindelse mellem Harmony Hub 
+og andre systemer til betjening af hjemmet, så der kan opnås adgang til yderligere enheder 
+der understøttes af disse løsninger  Listen over understøttede enheder omfatter:* 
+Nest Learning-termostater, Honeywell Wi-Fi-termostater 
+Phillips hue-lamper, trådløse Lutron Caséta-lamper
+Lutron Serena-rullegardiner til vinduer
+August Smart-låse
+SmartThings, PĒQ
+*Listen over Harmony-kompatible enheder er stadigt voksende  Gå ind på myharmony.com/compatibility  
+hvor du kan finde den nyeste liste over kompatible mærker, enheder og modelnumre  Enhedskompatibilitet kan 
+ændres uden varsel  
+Dansk    79 Logitech Harmony Hub
+Beskrivelse af aktiviteter
+Skab dine egne tilpassede aktiviteter  Her er nogle eksempler på hvad du kan gøre 
+Aktiviteter der startes ved tryk på en knap
+Se en film: Med et tryk bliver dit tv, surroundsoundsystem og din Blu-ray-afspiller tændt 
+og sat til de rigtige indstillinger 
+80    Dansk Logitech Harmony Hub
+Aktiviteter med ét tryk ved hjælp af enhederne til betjening af hjemmet
+Tid til film: Din aktivitet "Se film" med ét tryk OG lyset i lamperne dæmpes automatisk 
+til din foretrukne indstilling 
+Vær kreativ: Aktiviteterne kan konfigureres til automatisk at tænde lys, trække gardiner op, 
+justere temperaturen på termostaten, tænde for musik og tv eller låse en dør op 
+Dansk    81 Logitech Harmony Hub
+Problemløsning
+Harmony Hun kan ikke oprette forbindelse til Wi-Fi eller er ikke blevet registreret 
+i Harmony-appen 
+• Hubben skal være inden for routerens rækkevidde 
+• Telefonen og hubben skal være sluttet til det samme trådløse netværk 
+• Genstart hubben ved at trække stikket ud og sætte det i igen  Det vil tage cirka 30 sekunder 
+at genstarte den 
+• Genstart routeren ved at trække stikket ud og sætte det i igen 
+Supportoplysninger
+Der findes flere oplysninger om dit produkt samt support på nettet  Gå ind på  
+support.myharmony.com/hub hvor du kan finde:
+• Spørgsmål og svar • Onlinedokumentation
+• Problemløsning • Oplysninger om garanti
+• Supportgruppe • Oplysninger om telefon- og e-mailsupport
+82    Dansk Logitech Harmony Hub
+Pakkens innhold
+1 3
+2 4
+1. Harmony Hub  3. Infrarød minisender 
+Styrer enheter via IR, Bluetooth®, eller Wi-Fi Forlenger IR-dekningen når den brukes 
+2. Strømadapter  sammen med Harmony Hub
+Forsyner Harmony Hub med strøm 4. USB-kabel 
+Konfigurer huben via en PC eller Mac 
+hvis du ikke har tilgang til en mobilenhet 
+Norsk    83 Logitech Harmony Hub
+Gratulerer med kjøp av Harmony Hub
+1 2
+Harmony Hub er midtpunktet i Harmony-systemet ditt – pass på at den alltid er tilkoblet!
+1. Huben mottar kommandoer fra mobilappen 
+2. Huben sender kommandoer til lyd-, video- og hjemmekontrollenhetene i form av Bluetooth, 
+Wi-Fi og infrarøde signaler (IR) 
+84    Norsk Logitech Harmony Hub
+La oss komme i gang
+TRINN 1
+Plassere Harmony Hub
+Infrarød minisender Harmony Hub
+Plasser Harmony Hub på et åpent sted, uten hindringer, ved siden 
+av underholdningsenhetene dine  
+Eller     Hvis du bruker lukkede skap, plasserer du huben inne i skapet og den infrarøde 
+minisenderen utenfor skapet for å styre TV-en 
+Norsk    85 Logitech Harmony Hub
+TRINN 2
+Slå på Harmony Hub
+Etter at huben er tilkoblet, bruker den omtrent 30 sekunder på å starte 
+86    Norsk Logitech Harmony Hub
+TRINN 3
+Konfigurering via smarttelefon eller nettbrett
+• Gå til Apple App Store eller Google Play og installer Harmony-appen 
+• Kjør appen, trykk på knappen Konfigurer ny fjernkontroll og følg anvisningene 
+Resten av konfigurasjonen skjer på mobilenheten  Du kan se en oversikt over hva 
+du kan forvente, i neste avsnitt 
+Merk: Hvis du har iPhone 4, iPad 1 eller iPad 2, eller en Android-enhet som ikke støtter Bluetooth,  
+går du til setup.myharmony.com på en datamaskin  Der kobler du huben til WiFi-nettverket før du begynner 
+på trinn 3 i konfigureringen 
+eller
+Konfigurering på en PC eller Mac
+Gå til setup.myharmony.com for å laste ned skrivebordsprogramvaren for MyHarmony 
+Merk: Noen hjemmekontrollenheter kan kun konfigureres ved å bruke Harmony-appen på en smarttelefon 
+eller et nettbrett 
+Du finner mer detaljert informasjon og produktinformasjon på  
+support.myharmony.com/hub
+Norsk    87 Logitech Harmony Hub
+Oversikt over konfigurering av mobilappen
+• Koble huben til Wi-Fi. Bruk mobilenhetens Bluetooth når du kobler huben til det trådløse 
+nettverket 
+• Opprett en Harmony-konto.
+• Skann Wi-Fi-nettverket etter enheter som kan kontrolleres av Harmony (f eks  Roku, Sonos, 
+hue, Smart TV-er) 
+• Legg til hjemmeunderholdningsenheter for andre enheter som ikke registreres under Wi-Fi-
+skanningen (f eks  TV, kabelboks, AVR, spillkonsoll, Blu-ray-spiller) 
+• Legg til hjemmekontrollenheter. Harmony støtter flere enheter, for eksempel utvalgte lys, 
+låser, termostater og hjemmekontrollplattformer  Se avsnittet Forklaring av hjemmekontroller 
+hvis du ønsker mer informasjon 
+• Opprett aktiviteter. Du veiledes i oppretting av aktiviteter som for eksempel Se på TV, 
+Lytte til musikk og Spille Xbox  Se avsnittet Ettrykksaktiviteter hvis du ønsker mer informasjon 
+88    Norsk Logitech Harmony Hub
+Forklaring av hjemmekontroller
+Harmony Hub støtter en rekke ulike enheter, for eksempel lys, lysbrytere, låser, termostater 
+og persienner  Harmony Hub kan også koble til andre hjemmekontrollplattformer for å få tilgang 
+til andre enheter som støttes av disse løsningene  Listen over støttede enheter inkluderer:* 
+Nest Learning-termostater, Honeywell Wi-Fi-termostater 
+Philips Hue-belysning, Lutron Caséta Wireless-belysning
+Lutron Serena-persienner
+Låser av typen August Smart Locks
+SmartThings, PĒQ
+*Listen over Harmony-kompatible enheter blir stadig lengre  Besøk myharmony.com/compatibility for å se en 
+fullstendig oppdatert liste over kompatible merkevarer, enheter og modellnumre  Enhetenes kompatibilitet kan endres 
+uten forvarsel  
+Norsk    89 Logitech Harmony Hub
+Forklaring av aktiviteter
+Opprett dine egne tilpassede aktiviteter  Her er noen eksempler på hva du kan gjøre 
+Ettrykksaktiviteter
+Se på film: Med ett tastetrykk kan du slå på TV-en, surroundlydsystemet og Blu-ray-spilleren, 
+og de settes automatisk til riktige innstillinger 
+90    Norsk Logitech Harmony Hub
+Ettrykksaktiviteter med hjemmekontrollenheter
+Tid for film: Start aktiviteten «Se på film» med ett tastetrykk og lysene dine dempes 
+AUTOMATISK til favorittinnstillingene dine 
+Vær kreativ: Aktiviteter kan konfigureres slik at de automatisk slår på lys, åpner persienner, 
+justerer termostattemperaturen, slår på musikk/TV og låser opp en dør 
+Norsk    91 Logitech Harmony Hub
+Feilsøking
+Harmony Hub kan ikke koble til Wi-Fi eller registreres ikke av Harmony-appen 
+• Kontroller at huben er innenfor rekkevidden til ruteren 
+• Kontroller at telefonen og huben er tilkoblet samme trådløse nettverk 
+• Start huben på nytt ved å kople fra og til strømforsyningen på nytt  Den bruker 
+ca  30 sekunder på å starte på nytt 
+• Start ruteren på nytt ved å koble ble fra og til strømforsyningen på nytt 
+Støtteinformasjon
+Du finner mer informasjon om og støtte for produktet på nettet  Gå til  
+support.myharmony.com/hub for å se følgende:
+• Vanlige spørsmål • Nettbasert dokumentasjon
+• Feilsøking • Garantiinformasjon
+• Støttefellesskap • Info om brukerstøtte via telefon og e-post
+92    Norsk Logitech Harmony Hub
+Pakkauksen sisältö
+1 3
+2 4
+1. Harmony Hub -keskitin  3. Infrapunaminilaajennin 
+Keskitin hallitsee laitteita  Laajennin laajentaa infrapunasäteiden 
+infrapunayhteyden, Bluetooth®-yhteyden  kantomatkaa yhdessä Harmony Hub 
+ja Wi-Fi-yhteyden välityksellä -keskittimen kanssa
+2. Verkkolaite  4. USB-johto 
+Verkkolaite syöttää virtaa Harmony Hub  Määritä keskittimen asetukset PC- tai Mac-
+-keskittimeen tietokoneen avulla, jos mobiililaitetta ei ole 
+käytettävissä 
+Suomi    93 Logitech Harmony Hub
+Kiitokset Harmony Hub -keskittimen hankinnasta
+1 2
+Harmony Hub -keskitin on Harmony-järjestelmän keskus – pidä keskittimen 
+virta kytkettynä 
+1. Keskitin vastaanottaa komentoja mobiilisovelluksesta 
+2. Keskitin lähettää komentoja AV-laitteisiin ja kodin ohjattaviin laitteisiin Bluetooth-yhteyden, 
+Wi-Fi-yhteyden ja infrapunasignaalien välityksellä 
+94    Suomi Logitech Harmony Hub
+Käytön aloittaminen
+VAIHE 1
+Harmony Hubin sijoittaminen
+Infrapunaminilaajennin Harmony Hub -keskitin
+Sijoita Harmony Hub kodin viihdelaitteiden viereen paikkaan, josta on esteetön yhteys laitteisiin  
+Tai    Jos laitteet sijaitsevat suljetussa kaapissa, aseta Hub kaapin sisäpuolelle 
+ja infrapunaminilaajennin kaapin ulkopuolelle television ohjaamista varten 
+Suomi    95 Logitech Harmony Hub
+VAIHE 2
+Virran kytkeminen Harmony Hubiin
+Kun keskitin on yhdistetty pistorasiaan, se käynnistyy noin 30 sekunnissa 
+96    Suomi Logitech Harmony Hub
+VAIHE 3
+Asetusten määritys älypuhelimen tai taulutietokoneen avulla
+• Lataa Harmony-sovellus Applen App Store -verkkokaupasta tai Googlen Google Play 
+-verkkokaupasta ja asenna se 
+• Käynnistä sovellus ja valitse Set Up New Remote (Määritä uuden kaukosäätimen asetukset)  
+Määritä sitten asetukset ohjeiden mukaisesti 
+Asetusten määrittäminen suoritetaan loppuun mobiililaitteelta  Asetuksia koskeva yleiskatsaus 
+löytyy seuraavasta osiosta 
+Huomautus: Jos käytössäsi on iPhone 4, iPad 1 tai iPad 2 tai Android-laite, joka ei tue Bluetooth-yhteyttä, 
+siirry tietokoneella sivustolle setup.myharmony.com, jotta voit yhdistää keskittimen Wi-Fi-verkkoon  Tämän jälkeen 
+voit siirtyä vaiheeseen 3 asetusten määrittämisessä 
+tai
+Asetusten määrittäminen PC- tai Mac-tietokoneella 
+Lataa MyHarmony-työpöytäsovellus osoitteesta setup.myharmony.com 
+Huomautus: Jotkin kodinohjauslaitteet voidaan määrittää vain Harmony-sovelluksessa älypuhelimella 
+tai taulutietokoneella 
+Saat tarkemmat ohjeet sekä tuotetiedot osoitteesta  
+support.myharmony.com/hub
+Suomi    97 Logitech Harmony Hub
+Mobiilisovelluksen asetuksien yleiskatsaus
+• Yhdistä keskitin Wi-Fi-verkkoon. Yhdistä keskitin langattomaan verkkoon mobiililaitteen 
+Bluetooth-yhteyden välityksellä 
+• Luo Harmony-tili.
+• Etsi Wi-Fi-verkosta laitteita, joita voidaan hallita Harmony-kaukosäätimen avulla 
+(esim  Roku-, Sonos- ja Hue-laitteet sekä älytelevisiot) 
+• Lisää kotiviihdelaitteet, joita ei löydetty Wi-Fi-haun yhteydessä (esim  televisiot, 
+kaapelisovittimet, viritinvahvistimet, pelikonsolit ja Blu-ray-soittimet) 
+• Lisää kodin ohjauslaitteet. Harmony tukee erilaisia laitteita, kuten tiettyjä valoja, 
+lukkoja, lämmönsäätimiä ja kodinohjausjärjestelmiä  Löydät lisätietoja osiosta 
+Kodin ohjauslaitteiden määrittäminen 
+• Luo toimintoja. Toiminnot, esimerkiksi television katselu, musiikin kuuntelu ja Xbox-
+pelikonsolilla pelaaminen, luodaan ohjatusti  Saat lisätietoja osiosta Yhden kosketuksen 
+toiminnot 
+98    Suomi Logitech Harmony Hub
+Kodin ohjauslaitteiden määrittäminen
+Harmony Hub tukee erilaisia laitteita, kuten valoja, valokatkaisimia, lukkoja, lämmönsäätimiä 
+ja kaihtimia  Harmony Hub -kaukosäätimen voi lisäksi yhdistää muihin kodinohjausjärjestelmiin, 
+ja niinpä sen avulla voidaan myös käyttää laitteita, joita kyseiset ratkaisut tukevat  
+Tuettujen laitteiden luettelo sisältää seuraavat laitteet:* 
+Nest Learning Thermostat -laitteet, Honeywell Wi-Fi Thermostat -lämmönsäätimet 
+Philips Hue -valot, Lutron Caséta Wireless -valot
+Lutron Serena -ikkunakaihtimet
+August-älylukot
+SmartThings- ja PĒQ-kodinohjausjärjestelmät
+*Harmony-kaukosäätimen kanssa yhteensopivien laitteiden määrä kasvaa jatkuvasti  Löydät päivitetyn 
+luettelon kaukosäätimen kanssa yhteensopivista merkeistä, laitteista ja mallinumeroista osoitteesta 
+myharmony.com/compatibility  Laitteiden yhteensopivuutta koskevat tiedot voivat muuttua ilman 
+erillistä ilmoitusta  
+Suomi    99 Logitech Harmony Hub
+Toimintojen määrittäminen
+Luo omia mukautettuja toimintojasi  Seuraavassa on kuvattu joitakin mahdollisia toimintoja 
+Yhden kosketuksen toiminnot
+Elokuvan katselu: Televisio, tilaäänijärjestelmä Blu-ray-soitin kytketään kaikki päälle ja oikeisiin 
+asetuksiin yhdellä painalluksella 
+100    Suomi Logitech Harmony Hub
+Yhden kosketuksen toiminnot kodinohjausjärjestelmissä
+Elokuvahetki: Yhden kosketuksen Elokuvan katselu -toiminto sekä valojen automaattinen 
+himmentäminen valitsemaasi asetukseen 
+Ryhdy luovaksi: Toiminnot voidaan määrittää kytkemään valot päälle, avaamaan kaihtimet, 
+säätämään termostaattia, kytkemään musiikin tai television päälle tai avaamaan 
+oven lukituksen 
+Suomi    101 Logitech Harmony Hub
+Vianmääritys
+Harmony Hub ei saa yhteyttä Wi-Fi-verkkoon, tai Harmony-sovellus ei löydä sitä 
+• Varmista, että keskitin on reitittimen kantoalueella 
+• Varmista, että puhelimesi ja keskitin on liitetty samaan Wi-Fi-verkkoon 
+• Käynnistä keskitin uudelleen irrottamalla sen virtajohto ja liittämällä se uudelleen  
+Uudelleenkäynnistyminen kestää 30 sekuntia 
+• Käynnistä reititin uudelleen irrottamalla sen virtajohto ja liittämällä se uudelleen 
+Tukitiedot
+Tuotteeseesi liittyvää lisätietoa ja tukea on saatavilla verkossa  Osoitteesta  
+support.myharmony.com/hub löydät seuraavaa:
+• Usein esitetyt kysymykset • Verkossa olevat käyttöohjeet
+• Vianmääritys • Takuutiedot
+• Tukiyhteisö • Tukipalvelun puhelinnumero 
+ja sähköpostiosoite
+102    Suomi www logitech com
+support.myharmony.com/hub
+© 2017 Logitech  Logitech, Logi , Harmony, the Harmony logo, and other Logitech marks are owned by Logitech and may be 
+registered  All other trademarks are the property of their respective owners  Logitech assumes no responsibility for any errors that 
+may appear in this manual  Information contained herein is subject to change without notice 
+620-007024 003

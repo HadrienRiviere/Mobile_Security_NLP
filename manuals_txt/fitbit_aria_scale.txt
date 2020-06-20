@@ -1,0 +1,325 @@
+ 
+ 
+Product Manual (USA) 
+Aria Product Manual Rev C 114-0019 
+ 
+  Table of Contents 
+Getting started................................................................................................................................... 1 
+Intended use .......................................................................................................................................... 1 
+What’s included .................................................................................................................................... 1 
+Power on your scale ........................................................................................................................... 1 
+Setting up your Fitbit Aria .............................................................................................................. 2 
+Networking Requirements............................................................................................................... 2 
+Setting up your Aria .......................................................................................................................... 2 
+Verifying your scale setup ............................................................................................................... 3 
+Changing your Wi-Fi network ........................................................................................................ 3 
+Using your Aria ................................................................................................................................. 4 
+Viewing your data ............................................................................................................................. 4 
+Inviting other users to use the scale ........................................................................................... 4 
+Reassigning a measurement .......................................................................................................... 4 
+Choosing Regular or Lean modes................................................................................................. 5 
+Ensuring accuracy .............................................................................................................................. 5 
+Fitbit Aria General Info & Specifications .................................................................................... 6 
+Sensors .................................................................................................................................................. 6 
+Limitations ........................................................................................................................................... 6 
+Batteries and power ......................................................................................................................... 6 
+Size and weight .................................................................................................................................. 6 
+Environmental conditions ............................................................................................................... 6 
+Care and maintenance ...................................................................................................................... 7 
+Regulatory and Safety Notices .................................................................................................... 8 
+USA: Federal Communications Commission (FCC) Statement ......................................... 8 
+Safety Statement ............................................................................................................................... 9 
+Aria Product Manual Rev C 114-0019 
+ 
+  Important Safety Instructions ....................................................................................................... 9 
+Battery Precautions .......................................................................................................................... 9 
+Disposal and Recycling Information .......................................................................................... 10 
+Help and Warranty .......................................................................................................................... 11 
+Help ........................................................................................................................................................ 11 
+Return policy and warranty ........................................................................................................... 11 
+ 
+Aria Product Manual Rev C 114-0019 
+ 
+  Getting started 
+The Fitbit Aria® Wi-Fi Smart Scale measures body weight and body fat percentage 
+and automatically uploads this data to your online Fitbit dashboard. 
+Intended use 
+The Aria Wi-Fi Smart Scale is a body analyzer that measures body weight and uses 
+bioelectrical impedance analysis (BIA) technology to estimate body fat percentage in 
+generally healthy individuals 10 years of age or older. It is intended for home use 
+only.  
+What’s included 
+Your Fitbit Aria Scale box includes: 
+  The Fitbit Aria Wi-Fi Smart Scale 
+  4 AA batteries, already installed 
+  Aria Quick Start Guide 
+Power on your scale 
+Your Aria scale is shipped with 4 AA batteries that have been previously installed. 
+Pull the small plastic tab sticking out of the battery compartment to remove the tab 
+and power on your scale.  
+ 
+WARNING 
+•  Do not use if you have a pacemaker or any other internal medical 
+ 
+device. 
+•  Do not use if you are pregnant. 
+•  Not intended for use by children under the age of 10.  
+•  Aria should not be used to diagnose or treat any medical condition. 
+Always consult your physician to determine what is ideal for you. 
+CAUTION 
+•  Slippery when wet. 
+ 
+1  Aria User Manual Rev C 114-0019  Setting up your Fitbit Aria 
+Set up Fitbit Aria using a phone or tablet over Wi-Fi or with a Wi-Fi-enabled 
+computer. 
+Networking Requirements 
+The Fitbit Aria connects directly to your home’s wireless network and supports the 
+following network configurations:  
+  Wireless 802.11b standard 
+  WEP / WPA / WPA2 personal security 
+  Automatic (DHCP) IP setup (static IP configuration not supported)  
+Aria requires an 802.11b-compatible network to connect and sync your scale data to 
+your Fitbit dashboard. 
+Setting up your Aria 
+Follow the steps below to set up your Fitbit Aria. If you prefer to watch a video, visit 
+https://www.youtube.com/watch?v=D7Q5FvHHPJo. 
+1.  On your mobile device, go to http://www.fitbit.com/scale/setup/start. 
+2.  Tap Get Started.  
+3.  Log in to your existing Fitbit.com account or create a new one 
+4.  Name your scale and insert your initials, then tap Continue. 
+5.  Follow the onscreen instructions to put your scale into setup mode, then tap 
+Continue. 
+6.  Follow the onscreen instructions to connect your mobile device to the wireless 
+network that is broadcasting from your Aria. To do this, you will need to leave 
+the browser window and go to your smartphone's Wi-Fi settings. In your list of 
+available wireless networks, look for the word “Aria” followed by a series of six 
+letters and numbers, and connect to this option. 
+7.  When you’ve connected to your Aria’s network, return to your browser and 
+click I’m connected. The setup software will show all visible networks in range.  
+8.  Select your network from the list.  
+9.  If your network is password-protected, enter your password in the box to the 
+right and click Connect.  
+10. Enter the wireless network password and tap Submit. When you’ve submitted 
+the correct password, your scale will save the network credentials, join your 
+Wi-Fi network, link to your Fitbit.com dashboard, and show a checkmark once 
+linking is successful. 
+11.  Ensure that your mobile device has switched back to your home network and 
+tap I’m Connected!  
+2  Aria User Manual Rev C 114-0019  Verifying your scale setup 
+Now that you’ve linked your scale to your Fitbit.com account, you’ll want to verify 
+that the scale appears correctly on your profile.  
+1.  Go to http://www.fitbit.com/login. 
+2.  Login to your Fitbit.com account. 
+3.  Click the gear icon at the top-right, and look for the Aria listed in the drop-
+down menu. 
+If you don’t see your scale in this menu, your setup may not have completed properly 
+or you may be logged into a Fitbit.com account that is not associated with your 
+scale. See http://www.fitbit.com/support for further troubleshooting.  
+Changing your Wi-Fi network 
+If you’ve altered the name, password, router, or provider of your network, you’ll need 
+to reconnect your Aria to the updated network. 
+In this case, you may find that your scale does not display “Set Up Active” after you 
+remove and then reinsert a battery. It may instead display the name of your previous 
+network followed by “Tap to change.” 
+When you see the “Tap to change” message appear, press briefly and firmly on the 
+two corners farthest from the display to put it in “Set Up Active” mode. If the scale’s 
+display goes blank or displays measurement information, you’ll need to remove and 
+reinsert a battery and attempt this again. 
+When the scale reads “Set Up Active,” you can continue with the setup as described 
+above. 
+3  Aria User Manual Rev C 114-0019  Using your Aria 
+Your Aria Scale measures your weight and body fat percentage. When connected to 
+your Fitbit.com account, weight and body fat measurements from your scale will 
+automatically sync to your dashboard. 
+Viewing your data 
+When you have weighed yourself and your Aria has synced, you can view the 
+measured data on your Fitbit.com Dashboard.  After logging into your account, go to 
+http://www.fitbit.com/weight. 
+From this page you can view your recorded weight data on a graph. You can also 
+view a full listing of the weights attributed to your account as well as delete or 
+manually enter a weight. 
+Inviting other users to use the scale 
+Up to eight users can associate their Fitbit.com accounts with a single Aria scale. If 
+someone who does not have an account linked with the scale steps on the Aria, only 
+their weight will display (body fat % will not appear) and the data will not be shared 
+with anyone or attributed to a user account. 
+To invite other users to join your Aria scale: 
+1.  Make sure that you’ve connected your scale to your Fitbit.com account. 
+2.  Click the gear icon at the top-right of your dashboard and select the scale 
+from the drop-down menu. 
+3.  Click the pink Invite People button and enter the email address of the person 
+you’d like to invite. If that person already has a Fitbit account, you'll want to 
+use the same email address that they use with Fitbit.  
+4.  An email will be sent to the user at this address. Upon accepting the invitation, 
+their measurements on the scale will automatically sync with their Fitbit 
+account. If they do not yet have an account, they will be prompted to create 
+one to begin using the scale. 
+Reassigning a measurement 
+If two users on the same scale are close in weight (within 8 lbs.), the Aria will prompt 
+you to select the correct user, noted by their identifying initials.  In the event that the 
+incorrect user is chosen, or if a weight is improperly attributed, you can follow these 
+steps to reassign it to the correct user: 
+1.  Click the gear icon at the top-right of your Fitbit.com dashboard and select 
+the scale from the drop-down menu. 
+4  Aria User Manual Rev C 114-0019  2.  Click the Measurements tab to see a listing of all measurements synced from 
+the scale. 
+3.  Locate the weight you would like to reassign and choose the appropriate user 
+from the drop-down “People” menu. This weight should now appear correctly 
+on the user’s account. 
+Choosing Regular or Lean modes 
+“Lean” mode is intended for professional or very high-level athletes like marathon 
+runners or body builders. Individuals with exceptionally low body fat relative to their 
+muscle mass may want to consider lean mode to improve the scale’s accuracy; 
+however, many very fit and active people still get more accurate readings in 
+“Regular” mode, which is appropriate for most users.  
+To change this setting: 
+1.  Log into your Fitbit.com dashboard and click the gear icon in the top right. 
+2.  Click the image of the scale to open the Devices page. 
+3.  Choose “Regular” or “Lean.”  
+The next time you weigh yourself and Aria syncs, the mode will switch.  
+Ensuring accuracy 
+Use these tips to get the most accurate and consistent readings from your scale: 
+  Use the Aria while barefoot. The scale cannot measure body fat percentage if 
+you’re wearing shoes or socks. 
+  Make sure your feet are dry before weighing yourself. 
+  Place the scale on a hard, flat surface during use. Using the scale on a soft 
+surface - like carpet or linoleum - may affect the accuracy of the Aria's 
+readings. 
+  Balance your weight evenly between both feet while standing on the scale.  
+  Weigh yourself at the same time each day to see consistent trends. Your 
+weight and body fat percentage will naturally vary over the course of the day. 
+  If your Aria is picked up and moved between measurements, or stored 
+sideways against a wall when not in use, the scale will go through a calibration 
+process the next time it is used for weighing. Up to two consecutive weigh-ins 
+will then be required before your scale is recalibrated and again displays 
+consistently accurate measurements. You will know that your Aria is 
+calibrating when you see the "SENSING" message appear on the screen. 
+NOTE: Body fat percentage measurement requires that your Aria Scale has been set 
+up with your Fitbit.com account. You do not need to complete this setup to 
+weigh yourself. 
+5  Aria User Manual Rev C 114-0019  Fitbit Aria General Info & Specifications 
+Sensors 
+Four load cells measure weight. Body fat information is measured through electrical 
+impedance and calculated based on weight and user account data. 
+The scale measures body mass using bioimpedance analysis. Indium tin oxide (ITO) 
+electrodes form a pattern on the top of scale and send a small, safe signal through 
+the body to measure impedance. 
+Limitations 
+  The Aria will accurately measure the weight of children and adults over 20 lbs. 
+(9 kg). 
+  The maximum weight limit for the Aria is 350 lbs. (158 kg). 
+Batteries and power 
+  4 AA standard 1.5V size AA batteries included  
+(Operating max: 3.3V, 0.1A / 300mW) 
+  No power cord necessary 
+Size and weight 
+  Length  Width  Depth  Weight 
+12.3in  12.3in  1.3in  4lbs, 4.3oz 
+Aria Scale 
+31.2cm  31.2cm  33.4mm  1.93kg 
+Environmental conditions 
+Operating Temperature  41° to 113° F  
+(0° to 45° C) 
+6  Aria User Manual Rev C 114-0019  Relative Humidity  0% - 95% 
+Aria is designed to operate in a humid 
+bathroom environment. 
+Storage and Transportation  -30°C - 60°C 
+90% rH 
+NOTE: You will see the most consistent and reliable readings when placing your Aria 
+scale on a hard, flat surface. 
+Care and maintenance 
+  Do not submerge the scale or use high-pressure water jets (e.g. shower head) 
+to clean the surface. 
+  Wipe down the surface with a damp cloth using a mild detergent.  
+  Do not use antiseptic wipes, chlorine, or highly concentrated glass cleaner on 
+the surface of the scale.  
+7  Aria User Manual Rev C 114-0019  Regulatory and Safety Notices 
+Model Name:  FB201B, FB201W 
+ 
+This symbol indicates that the surface scale is a Type BF applied part 
+intended to deliver an electrophysiological signal to and from the user. The 
+scale measures body mass using bioimpedance analysis. ITO electrodes 
+form a pattern on the top of scale, and send a small, safe signal through the 
+body to measure impedance. 
+ 
+WARNING 
+  Do not use if you have a pacemaker or any other internal medical device. 
+  Do not use if you are pregnant. 
+  Not intended for use by children under 10.  
+  Aria should not be used to diagnose or treat any medical condition. Always 
+consult your physician.  
+  Slippery when wet. 
+ 
+USA: Federal Communications Commission (FCC) 
+Statement 
+This device complies with FCC part 15.19 FCC Rules. 
+Operation is subject to the following two conditions: 
+1.  This device may not cause harmful interference and 
+2.  This device must accept any interference, including interference that may 
+cause undesired operation of the device. 
+FCC Warning 
+Changes or modifications not expressly approved by the party responsible for 
+compliance could void the user’s authority to operate the equipment. 
+NOTE: This equipment has been tested and found to comply with the limits for a 
+Class B digital device, pursuant to part 15 of the FCC Rules. These limits are designed 
+to provide reasonable protection against harmful interference in a residential 
+installation. This equipment generates, uses and can radiate radio frequency energy 
+and, if not installed and used in accordance with the instructions, may cause harmful 
+interference to radio communications. However, there is no guarantee that 
+interference will not occur in a particular installation. If this equipment does cause 
+8  Aria User Manual Rev C 114-0019  harmful interference to radio or television reception, which can be determined by 
+turning the equipment off and on, the user is encouraged to try to correct the 
+interference by one or more of the following measures: 
+  Reorient or relocate the receiving antenna. 
+  Increase the separation between the equipment and receiver. 
+  Connect the equipment into an outlet on a circuit different from that to which 
+the receiver is connected. 
+  Consult the dealer or an experienced radio/TV technician for help. 
+This device meets the FCC for RF exposure in public or uncontrolled environments. 
+FCC ID: XRAFB201A 
+Safety Statement 
+This equipment has been tested to comply with safety certification in accordance 
+with the specifications of EN Standard: EN60950-1:2006 + A11:2009 + A1:2010 + A12: 
+2011 + A2:2013. 
+The complete Declaration of Conformity can be found at www.fitbit.com/Aria/specs 
+Important Safety Instructions 
+  Read these instructions. 
+  Keep these instructions. 
+  Heed all warnings. 
+  Follow all instructions. 
+  Do not drop. 
+  Do not use if cracks are present on the glass surface. Serious injury might 
+occur. 
+  Do not use abrasive cleaners to clean your Aria scale. 
+  Do not expose your Aria scale to extremely high or low temperatures. 
+  Do not leave your Aria scale in direct sunlight for an extended period of time. 
+  Do not leave your Aria scale near open flames. 
+Battery Precautions 
+Handle the battery in accordance with the instructions supplied by the 
+manufacturer. 
+9  Aria User Manual Rev C 114-0019  Disposal and Recycling Information 
+ 
+The symbol on the product or its packaging signifies that this product has to be 
+disposed separately from ordinary household wastes at its end of life. Please kindly be 
+aware that this is your responsibility to dispose electronic equipment at recycling 
+centers so as to help conserve natural resources. Each country in the European Union 
+should have its collection centers for electrical and electronic equipment recycling. For 
+information about your recycling drop off area, please contact your local related 
+electrical and electronic equipment waste management authority or the retailer where 
+you bought the product. 
+  Do not dispose of the Aria scale with household waste. 
+  Batteries are not to be disposed of in municipal waste stream and require 
+separate collection. 
+  Disposal of the packaging and your Aria scale should be done in accordance 
+with local regulations.  
+                
+10  Aria User Manual Rev C 114-0019  Help and Warranty 
+Help 
+Troubleshooting and assistance for your Fitbit Aria Scale can be found at 
+http://help.fitbit.com.  
+Return policy and warranty 
+Warranty information and the Fitbit.com Store Return Policy can be found online at 
+http://www.fitbit.com/returns.  
+ 
+ 
+11  Aria User Manual Rev C 114-0019 

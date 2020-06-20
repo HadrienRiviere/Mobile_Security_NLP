@@ -1,0 +1,211 @@
+Owner’s Manual 
+ 
+Eufy Lumos Smart LED Bulb – White 
+ 
+T1011 
+ 
+1. Installing Lumos Smart Bulb 
+ 
+ 
+●  Make sure the power switch controlling Lumos is turned off before installing. 
+●  The Wi-Fi signal may become weak if Lumos is installed into the metal luminarie.  
+ 
+2. Downloading the EufyHome App 
+ 
+What you need:  
+●  A Wi-Fi router supporting the 2.4 GHz and 802.11 b/g/n bands; 5 GHz band not 
+supported. 
+●  A smartphone or tablet connected to a Wi-Fi network. 
+●  A smartphone or tablet running iOS 8.0 (or above) or Android 4.3 (or above). 
+ 
+ 
+Download the EufyHome app from the App Store (iOS devices) or Google Play (Android 
+devices). 
+pp Store or Google Play. 
+  3. Connecting to a Wi-Fi Network 
+ 
+Note: Before Wi-Fi setup, make sure Lumos is turned on and flashes three times. 
+1. In the EufyHome app, tap + on the top right to add “Lumos White (for Model T1011)” or 
+“Lumos Tunable (for Model T1012)” to your EufyHome account.  
+2. Follow the on-screen instructions to complete the Wi-Fi connection.  
+[更新图片] 
+ 
+ 
+ 
+●  Make sure your smart device and Lumos are connected to the same Wi-Fi network.  
+●  The instructions in this manual are for your reference only. The app will be updated from 
+time to time. Always follow the instructions in the app to complete Wi-Fi setup.  
+ 
+ 
+ 
+ 
+4. Using Lumos with the EufyHome App  
+ 
+Control Lumos remotely.  
+ 
+Adjust the brightness of the bulb. 
+ 
+Set schedules for Lumos.  
+  Enable the Away Mode:  
+Lumos will be randomly turned on and off 
+during the set period of time. It deters bad 
+guys by making them believe you are home 
+ 
+while actually you are away.  
+Add and manage groups of the bulb 
+(applicable to the same model only).  
+ 
+  Control Lumos by multiple people: 
+Lumos allows any member of the 
+household to control the light. You just 
+need to get the owner's permission in the 
+app. 
+Adjust the color temperature (For Model 
+T1012 only). 
+ 
+ 
+ 
+ 
+5. Using Lumos with Amazon Alexa (Optional) 
+ 
+What you need: 
+●  Lumos connected with the EufyHome app.  
+●  An Alexa-enabled device (sold separately) such as Amazon Echo, Echo Dot and 
+Amazon Tap. 
+●  The Alexa app installed on your smart device and an existing account. 
+ 
+1.  Open the Alexa app and select “Skills” from the  menu.  
+ 
+2.  On the Skills screen, search for “EufyHome”.  
+ 
+3.  Once you have found the “EufyHome” skill, tap Enable.  
+ 
+4.  Login with your EufyHome account so that Alexa can control your Lumos. 
+ 
+5.  Say simple commands to Alexa. Below are some examples:   ●  Alexa, turn on the bedroom light. 
+●  Alexa, set bedroom to 70 percent brightness. 
+●  Alexa, dim bedroom. 
+●  Alexa, turn off the bedroom light. 
+ 
+ 
+- Amazon Alexa service is available in English only now. More languages may be available later 
+with the update of the service.  
+ 
+Troubleshooting  
+ 
+Cannot connect to your Wi-Fi network.  
+●  Check if you have entered the correct Wi-Fi password during the Wi-Fi setup. 
+●  Check whether there are any Internet connection problems. If the Wi-Fi signal is too 
+weak, reset your Wi-Fi router and try again.  
+ 
+How to reset the Wi-Fi connection. 
+●  Continuously turn the light off and on five times (2 seconds on and 2 seconds off) until 
+the light flashes three times. Then you can restart Wi-Fi connection. 
+ 
+No response when using Lumos with the EufyHome app. 
+●  Check if Lumos is turned off. If yes, turn it on and wait until Lumos reconnect with 
+the Wi-Fi network automatically.  
+●  Check if there is any Internet problem. If necessary, reset your Wi-Fi router and 
+try again. 
+●  If your smart device uses 3G or 4G mobile network, check if the Wi-Fi signal is 
+abnormal. Try again when the signal becomes stable. 
+  How to control Lumos with Alexa voice control. 
+●  Check whether you have installed the Alexa app onto your smart device and 
+enabled the “EufyHome” Skill in the Alexa app. For details, refer to this section 
+“Using Lumos with Amazon Alexa (Optional)”. 
+●  Check whether you use the proper commands when talking to Alexa. You should 
+say the wake word “Alexa” first when making your request.  
+●  Repeat your question. Speak naturally and clearly to Alexa in English.  
+●  Make sure Lumos is at least eight inches away from walls or other objects that 
+may cause interference (such as microwave ovens).  
+●  Check whether there are any Internet connection problems. 
+ 
+Customer Service  
+ 
+18-month Limited Warranty 
+Lifetime Technical Support 
+ 
+support@eufylife.com  
+ 
+For FAQs and more information, visit www.eufylife.com. 
+ 
+1-800-988-7973 (US) Mon-Fri 9am-5pm (PST) 
+ 
+EufyOfficial (Twitter, Facebook, Instagram, Pinterest) 
+ 
+Important Safety Instructions 
+ 
+Read and follow all the safety instructions: 
+●  This device is for indoor use only.  
+●  This device should not be exposed to dripping or splashing water.  
+●  This device uses a non-replaceable light source. When the light source reaches the end 
+of its life cycle, the device should be replaced. 
+●  Do not install near any heat sources. 
+●  Do not use this device with dimmers. 
+●  This device is for adults only and is not suitable for children.  
+●  RISK OF ELECTRIC SHOCK: USE IN DRY LOCATION ONLY. Do not install this device with 
+wet hands.  
+●  Do not place any sources of danger on this device (e.g. liquid filled objects, lighted 
+candles). 
+●  If this device is much heavier than the lamp to be replaced, the increased weight may 
+reduce the mechanical stability of certain luminaires and lampholders and may impair 
+contact making and lamp retention. 
+●  If this device is heavier than the lamp to be replaced, the added weight of this device 
+may cause instability of a freestanding portable luminaire.  
+ 
+   
+Notice 
+ 
+ 
+This symbol means the product must not be discarded as household waste, and should be 
+delivered to an appropriate collection facility for recycling. Proper disposal and recycling helps 
+protect natural resources, human health and the environment. For more information on disposal 
+and recycling of this product, contact your local municipality, disposal service, or the shop where 
+you bought this product. 
+ 
+FCC Statement 
+ 
+This device complies with Part 15 of the FCC Rules. Operation is subject to the following two 
+conditions: (1) This device may not cause harmful interference, and (2) this device must accept 
+any interference received, including interference that may cause undesired operation.  
+ 
+Warning: Changes or modifications not expressly approved by the party responsible for 
+compliance could void the user's authority to operate the equipment. 
+ 
+Note: This equipment has been tested and found to comply with the limits for a Class B digital 
+device, pursuant to Part 15 of the FCC Rules. These limits are designed to provide reasonable 
+protection against harmful interference in a residential installation. 
+T his equipment generates, uses and can radiate radio frequency energy and, if not installed and
+used in accordance with the instructions, may cause harmful interference to radio
+communications. However, there is no guarantee that interference will not occur in a particular
+installation. If this equipment does cause harmful interference to radio or television reception,
+which can be determined by turning the equipment off and on, the user is encouraged to try to
+correct the interference by one or more of the following measures: (1) Reorient or relocate the
+receiving antenna. (2) Increase the separation between the equipment and receiver. (3)
+Connect the equipment into an outlet on a circuit different from that to which the receiver is
+connected. (4) Consult the dealer or an experienced radio / TV technician for help.
+To maintain compliance with FCC’s RF Exposure guidelines, This equipment should be
+in stalled and operated with minimum distance between 20cm the radiator your body: Use only
+the supplied antenna.
+ 
+FCC ID:2AB7K-T1011  Specifications 
+ 
+Rated Input Voltage  AC 120 V, 60 Hz 
+Light Wattage  9 W 
+Input Current   95 mA 
+Light Output   800 Lumens 
+Lamp Base   E26 
+Color Temperature  Model T1011: 2700K Warm White 
+Model T1012: 2700-6500K Tunable White 
+LED Lifetime  20,000 hours  
+Dimensions  60 × 60 × 115  mm / 2.4 × 60 × 4.5  in 
+Weight  153 g  
+FCC ID  Model T1011: 2AB7K-T1011  
+ 
+ 
+ 
+●  Specifications are subject to change without notice. 
+ 
+ 
+ 
+ 

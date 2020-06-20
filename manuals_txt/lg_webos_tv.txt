@@ -1,0 +1,181 @@
+SMART TV Quick Setup Guide
+* Image shown may differ from your TV.
+* Image shown on a PC or mobile phone may vary depending on the OS(Operating System).
+* App icon positions may vary on the platform, depending on the software version.
+Network Settings
+1  Press the   (Home) button on the remote to  WI-FI NETWORK
+access the Home menu. Point the   (Settings)  Picture Network /
+ON 
+icon and select by pressing the   Wheel (OK)  Sound ꔐ WI-FI : AAA                          
+     WI-FI : BBB                           
+button on the remote. Programmes      WI-FI : CCC                           
+                      WI-FI : DDD                            
+Network      W I-FI : EEE                            
+General Add a hidden wireless network
+Connect via WPS PBC.
+Safety Connect via WPS PIN.
+Accessibility Advanced Wi-Fi Settings
+ 
+ 
+For wireless AP (Router) that have the 
+symbol, you need to enter the security key.  
+2  Point the   (All Settings) icon and select  5  If the connection is successful, the "Connected 
+to Internet" is displayed.  
+by pressing the   Wheel (OK) button on the 
+ 
+remote.
+NETWORK
+Picture
+Sound TV Name 
+[LG] WebOS TV WEBOS3.5
+Programmes WNoitr Ceodn nCeoctnednection (Ethernet)
+                 Wi-Fi Connection  
+Network CWoin-nFeic Dteidr etoc Itnternet
+General LG Connect Apps
+All Settings Safety
+Accessibility
+3  Select the Network → Wired Connection 
+ 
+(Ethernet) or Wi-Fi Connection.
+You can check the status of connection in 
+NETWORK Advanced Wi-Fi settings. 
+Picture  
+Sound TV Name  WI-FI NETWORK
+[LG] WebOS TV WEBOS3.5
+Programmes WNoitr Ceodn nCeoctnednection (Ethernet) Picture Network / ON 
+Wi-Fi Connection
+Network NWoit- CFoi nDniercetecdt Sound ꔐ      WWII--FFII  ::  BABABA                                                     
+General LG Connect Apps Programmes      WI-FI : CCC                           
+                      WI-FI : DDD                            
+Safety Network      W I-FI : EEE                            
+Accessibility General Add a hidden wireless network
+   Connect via WPS PBC.
+Safety Connect via WPS PIN.
+4  The device automatically tries to connect to the  Accessibility Advanced Wi-Fi Settings
+network available (wired network first). 
+    
+When you select the Wi-Fi Connection, the 
+network list available is displayed. Choose the        
+network you wish to use. 
+www.lg.com Troubleshooting Network Problems
+1  Press the   (Home) button on the remote to 
+Check the AP (Router) or consult your Internet 
+access the Home menu. Point the   (Settings) 
+service provider.
+icon and select by pressing the   Wheel (OK) 
+button on the remote.
+When X appears next to Gateway:
+1 Unplug the power cord of the AP (Router) and 
+try to connect after 5 seconds.
+2 Initialize (Reset) the AP (Router).
+2  Point the   (All Settings) icon and select 
+3 Contact internet service provider or AP (Router) 
+by pressing the   Wheel (OK) button on the  company.
+remote.
+When X appears next to DNS:
+All Settings
+1 Unplug the power cord of the AP (Router) and 
+3  Select the Network → Wired Connection  try to connect after 5 seconds.
+(Ethernet) or Wi-Fi Connection → Advanced 
+Wi-Fi settings. 2 Initialize (Reset) the AP (Router).
+NETWORK WI-FI NETWORK 3 Check that the MAC address of the TV/AP (Router) 
+is registered with your Internet service provider. 
+Picture Picture Network /
+ON  (The MAC address displayed on the right 
+Sound T[LVG]  NWaebmOeS  TV WEBOS3 Sound ꔐ WI-FI : AAA                           pane of the network status window should be 
+Programmes WNoitr Ceodn nCeoctnednection (Ethernet) Programmes           WWII--FFII  ::  CBCBBC                                                       registered with your Internet service provider.)
+Network WNWoiit-- CFFoii  nCDnoiercnetencdtection Network           WW II--FFII  ::  DEEDED                                                       4 Check the AP (Router) manufacturer’s website 
+General LG Connect Apps General Add a hidden wireless network to make sure your router has the latest firmware 
+Safety Safety Connect via WPS PBC. version installed.
+Connect via WPS PIN.
+Accessibility Accessibility Advanced Wi-Fi Settings
+Follow the instructions below that correlate to your 
+network status.
+Check the TV or the AP (Router).
+When X appears next to TV:
+1 Check the connection status of the TV, AP 
+(Router).
+2 Power off and power on the TV, AP (Router).
+3 If you are using a static IP, enter the IP directly.
+4 Contact internet service provider or AP (Router) 
+company. SmartShare PC SW Installing & Setting
+1  Install the SmartShare PC SW programme on your PC.
+2  Go to www.lg.com. Then, select your region. 
+3  Select SUPPORT. Then, select Drivers & Software, SOFTWARE UPDATE or Software & Firmware.
+4  Search for your model. Then, select SmartShare PC SW.
+5  You can run the programme when installation is complete.
+ 
+NOTE
+y  SmartShare service is only available if TV and other devices are connected via a single AP (Router).
+SmartShare Connection to Smartphone
+1  Check that Wi-Fi is enabled on your smartphone. To use SmartShare, both devices must 
+on the same local network.
+2  Install/run the app for sharing content on your smartphone (It's called LG TV Plus on LG 
+phones).
+3  Enable your smartphone to share content files with other devices.
+4  Open Device Connector application.  
+ (Home) → Device Connector → Smartphone → CONTENT SHARE.
+5  Select the file type you want to play (movie, audio or photo).
+6  Select a movie, music or photo file to play on the TV.
+7  Play the media file to view and enjoy it on your TV.
+Updating the TV Firmware
+* If the TV is turned on for the first time after it was shipped from the factory, initialization of the TV may 
+take a few minutes.
+1   (Home) →   (Settings) →  (All Settings) →  General → About This TV →  
+CHECK FOR UPDATES
+2  After checking the version of the software, update it.  
+If you check the "Allow Automatic Updates",  you can update the software automatically.
+GENERAL ABOUT THIS TV 
+Picture Picture General /
+Sound Eco Mode Sound Software Version                xx.xx.xx                        
+Monbile TV On  ꔐ Allow Automatic Updates
+Programmes Programmes
+SIMPLINK (HDMI-CEC)
+Network LG Wireless Keyboard Network CHECK FOR UPDATES
+TV Information
+Setting Help [LG] webOS TV WEBOS3.5
+General General Customer Service
+Screen Saver
+User Agreements
+Safety Reset to Initial Settings Safety
+About This TV Legal Notice
+Accessibility HDMI ULTRA HD Deep Colour                     Accessibility Open Source Software Notice    
+    Wi-Fi Direct Setting
+Wi-Fi Direct  (Home) →   (Settings) →   (All Settings) →  Network → Wi-Fi Direct
+Picture Network / REFRESH LIST If a local network is not available, you can connect a portable device directly to the 
+Sound ꔐ  WI-FI : AAA                           TV using Wi-Fi Direct. 
+Programmes             WWII--FFII  ::  CBCBCB                                                       With SmartShare, you can share files or screens of devices connected to Wi-Fi 
+Network        WI-FI : DDD                           Direct.
+      WI-FI : EEE                            
+General
+1  When you open Wi-Fi Direct menu, a list of available devices appears. 
+Safety
+Accessibility 2  When you are prompted to request connection, select Yes. Wi-Fi Direct is now 
+connected to your TV. 
+ Miracast Setting
+Miracast allows a portable device to securely send video and sound to the TV wirelessly.
+→
+ (Home)/  (Input)    Screen Share
+1  Miracast should be set to "ON" on your portable device.
+2  When your TV is detected, select the device on your portable device. 
+When connection is completed, the device screen appears on the TV screen.
+If you turn Listen Mode to ON after launching the Screen Share app, you can connect the 
+device without starting the Screen Share app.
+WiDi (Wireless Display) Setting
+Intel’s WiDi (Wireless Display) technology enables easy and fast connection without wires or internet 
+network for mirrored and dual monitor display on your TV. You can sit back and experience your favorite 
+movies, videos, photos, online shows and more in full HD on your TV with great image clarity and sound. 
+→
+ (Home)/  (Input)    Screen Share
+1  Intel's WiDi is set to On. Your laptop runs the Intel WiDi programme.
+2  It detects LG webOS TVs available, which supports WiDi. In the list, select the TV you want and click 
+Connect. Enter the number shown on the screen into the input field ( ) on your laptop and then click 
+Continue.
+********
+
+Notebook Screen
+3  The laptop screen appears on the TV screen. The wireless environment may affect the screen display.  
+If the connection is poor, the Intel WiDi connection may be lost.
+* LG TVs do not need to register.
+********
+Please call LG Customer Service if you experience any problems.

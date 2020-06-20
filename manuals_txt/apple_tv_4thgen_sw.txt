@@ -1,0 +1,65 @@
+4/23/2020  Set up Apple TV - Apple Support 
+Apple  TV  User  Guide  fora  Contact customer support 
+Choose version: 
+tvOS 13.0  v 
+Table  of  Contents @) 
+Set  up  Apple  TV 
+To  use Apple TV you  need: 
+An  HDTV or a  4K TV with  HDMI 
+An  HDMI  cable to connect the Apple TV to the TV  (if you  have a  4K  HDR TV,  you  may  need  a  compatible 
+Ultra  High  Speed  HDMI  cable,  sold  separately) 
+Access to an  802.11  wireless  network (wireless streaming  requires  802.11a,  g,  n  or ac)  or an  Ethernet 
+network and  broadband  internet 
+An Apple  ID to  buy and  rent,  download  apps from  the App Store and  use  Home Sharing 
+To take full  advantage of Apple TV 4K's audio and  video features,  you  need  a  TV that supports 4K,  HDR 
+and  Dolby Vision,  and  Dolby Atmos compatible audio systems. 
+For more  information  on  how to configure Apple TV 4K for use with  a  4K TV,  see the Apple Support 4K, 
+HDR,  and  Dolby Vision  support article on Apple TV 4K . 
+For more  information  on  how to configure Apple TV 4K for surround  sound,  including  Dolby Atmos,  see the 
+Apple Support  Play article  Dolby Atmos audio or surround  sound  on Apple TV  . 
+Apple TV front view: 
+Statuslys 
+Rear view of Apple TV 4K: 
+Strom  Ethernet 
+HDMI 
+Rear view of Apple TV  HD: 
+  
+https://support.apple.com/no-no/guide/tv/atvb73e46488/13.0/tvos/13.0  1/3 4/23/2020  Set up Apple TV - Apple Support 
+Stram  USB-C  Ethernet 
+HDMI 
+Set  up  Apple  TV 
+Before you  start,  make sure you  know the  name of the wireless  network (and the  password  if the  network 
+is  password  protected).  If you  have a wired  network, you  can  connect Apple TV to the  network with  an 
+Ethernet cable. 
+1.  Connect one end  of an  HDMI  cable to the  HDMI  port on the Apple TV ,  and  connect the other end to 
+the  HDMI  port on the TV. 
+2.  Connect one end  of the  power cable to the  power connector on Apple TV ,  and  the other end to a wall 
+outlet. 
+3.  Turn  on the TV,  then  select the  HDMI  source connected  to Apple TV . 
+On  some TVs this can  happen  automatically. 
+4.  Follow the on-screen  instructions to configure your  Internet connection,  one-time  login, and  other 
+configuration  options. 
+Read  Set  up  one-time sign-in to the TV distributor on  Apple TV  . 
+To use VoiceOver during  setup,  press the  MENUbutton  on the Siri  Remote  remote three times.  For more 
+information,  see  Use VoiceOver on Apple TV . 
+Configure  Apple  TV  automatically  with  an  iOS  or 
+iPadOS  device 
+Alternatively, you can transfer Wi-Fi  networks and  passwords and  Apple  ID account  information 
+automatically to Apple TV from  an  iOS device with  iOS 9.1  or  later or from  an  iPadOS device with  iPadOS 
+13 or  later. 
+1.  When the Apple TV configuration  screen  appears,  unlock your iOS or iPadOS device and  make sure 
+Bluetooth® and  Wi-Fi are turned  on. 
+2.  Touch Apple TV with your device and follow the instructions on your iOS or iPadOS device and 
+Apple TV. 
+Note: Auto Configuration  does  not transfer account information for third-party services such  as  Netflix or 
+Hulu,  nor does  it turn  on  iTunes  Match  or Home Sharing. 
+<  |( 
+  
+Useful? 
+  
+<  Previous  Apple  ID  Next your  » 
+Introduction to Apple TV 
+https://support.apple.com/no-no/guide/tv/atvb73e46488/13.0/tvos/13.0  2/3 4/23/2020  Set up Apple TV - Apple Support 
+Support  Apple TV User Guide  Set up Apple TV 
+Copyright © 2020 Apple Inc. All rights reserved.  Privacy  statement Terms of use  Sales and reimbursement  Website overview  4H  Norway 
+https://support.apple.com/no-no/guide/tv/atvb73e46488/13.0/tvos/13.0  3/3

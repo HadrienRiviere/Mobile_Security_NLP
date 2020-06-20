@@ -1,0 +1,84 @@
+OnHub – Google
+HELP CENTER
+Set up
+ Just got OnHub and need help setting it up?
+GET STARTED
+Support
+ Already set up and have additional questions?
+GET ANSWERS
+Get started
+Welcome! To set up your OnHub, you’ll also need:
+Google account Android or iOS device Broadband connection
+https://on.google.com/hub/support/[1/20/2016 5:28:37 PM] OnHub – Google
+Already set up your OnHub?
+1. Get the App
+Download the Google On app on your Android or
+ iOS device. Then follow the setup steps in the
+ app.
+ 
+Can’t download the app?
+2. Plug in your OnHub
+1. Find a resting spot. OnHub gives you the best signal when it’s in an open space. Try placing it
+ in plain view, like on a shelf or TV stand.
+2. Find the power and Ethernet ports near the base of your OnHub.
+https://on.google.com/hub/support/[1/20/2016 5:28:37 PM] OnHub – Google
+3. Connect the power adapter to your OnHub, then plug the other end into a power outlet. Your
+ OnHub’s light will glow to indicate that it’s powered on. Connect the provided Ethernet cable
+ to the bottom port of your OnHub and the other end to your modem.
+MORE HELP WITH SETUP AND PLACEMENT
+3. Get Online
+Open the Google On app, which gives you easy-
+to-follow steps for setting up your Wi-Fi network.
+https://on.google.com/hub/support/[1/20/2016 5:28:37 PM] OnHub – Google
+ ANDROID
+1. The Google On app will automatically find your OnHub. OnHub will then send a setup code
+ directly to your mobile device via an audio tone. Audio tone didn’t work?
+2. Now that you’re connected to OnHub, the final step is to create your Wi-Fi network. When
+ prompted in the Google On app, create a network name and password, and let the app
+ complete the setup for you. After setup, you'll connect your devices to the newly created Wi-Fi
+ network.
+3. During setup, your OnHub may download and install a software update. It’ll happen
+ automatically and may take up to 10 minutes.
+Have more questions about setup?
+ IOS
+1. Take note of the setup name and code printed on the base of your OnHub. You’ll need these
+ in the next step.
+2. On your mobile device, exit the Google On app when prompted, and open your iOS device’s
+ Wi-Fi settings. Select your OnHub's setup name (found on the bottom of your OnHub) from
+ the list of available networks, and enter the setup code as the password.
+3. Once you’re connected to OnHub, the next step is to create your Wi-Fi network. When
+ prompted in the Google On app, create a network name and password, and let the app
+ complete the setup for you. After setup, you'll connect your devices to the newly created Wi-Fi
+ network.
+4. During setup, your OnHub may download and install a software update during setup. It’ll
+ happen automatically and may take up to 10 minutes.
+Have more questions about setup?
+You're ready to go!
+Explore the Google On app
+https://on.google.com/hub/support/[1/20/2016 5:28:37 PM] OnHub – Google
+Get Answers
+Using the Google On App
+Easily share password
+Set a Priority device
+See which devices are using the most bandwidth
+Add a manager
+Run a Network check
+Wave control
+Need help?
+Can’t connect to OnHub
+Wi-Fi is slow
+Forgot my password
+OnHub's light
+Other problems
+Have more questions?
+ Visit the OnHub Help Center
+Contact our support team
+ onsupport@google.com
+ 844-442-3693  (toll-free from US and Canada)
+https://on.google.com/hub/support/[1/20/2016 5:28:37 PM] OnHub – Google
+ Or click to call us through the Google On app
+Privacy
+Terms of Service
+Help Center
+United States - English
+https://on.google.com/hub/support/[1/20/2016 5:28:37 PM]

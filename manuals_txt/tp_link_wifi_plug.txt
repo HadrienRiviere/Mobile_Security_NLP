@@ -1,0 +1,266 @@
+User’s Manual
+Wi-Fi Smart Plug HS100
+Wi-Fi Smart Plug with Energy Monitoring HS110
+1910012261    REV 2.0.1 Copyright & Trademarks
+Specifications are subject to change without notice. TP-Link is a registered trademark 
+of TP-Link Technologies Co., Ltd. Other brands and product names are trademarks or 
+registered trademarks of their respective holders.
+No part of the specifications may be reproduced in any form or by any means or used 
+to make any derivative such as translation, transformation, or adaptation without 
+permission from TP-Link Technologies Co., Ltd. 
+© 2017 TP-Link. All rights reserved.
+www.tp-link.com CONTENTS
+4  Chapter 1. Introduction
+4 1.1 Product Overview
+4 1.2 Main Features
+5 1.3 Panel Layout
+7  Chapter 2. Quick Start
+8  Troubleshooting
+8 Frequently Asked Questions
+8 Support User’s Manual
+Chapter 1. Introduction
+1.1 Product Overview
+What This Product Does
+The Wi-Fi Smart Plugs make it easy to control your lights or household 
+electronic devices anywhere in the world with the TP-Link Kasa app on your 
+smartphones or tablets.
+Schedule and Away Mode
+With the Kasa’s Schedule and Away Mode, you can automate your lights or 
+plugged-in appliances to turn on and off according to specific schedules, to 
+simulate occupancy when you’re away from home. In addition, the countdown 
+timer enhances safety by automatically switching off the running household 
+appliances after a preset time.
+Compatible with Amazon Echo
+You can pair the Smart Plugs with Amazon Echo for voice control.
+Compatible with Android, iOS
+The free Kasa app lets you run them from any Android (4.1 and higher) or iOS 
+(iOS 8 and higher) smartphone.
+Energy Conservation (for HS110 only)
+You can efficiently conserve energy and save money while using the Smart 
+Plugs to control your space heaters and fans. The Smart Plug tracks your 
+device’s power consumption in real-time, and has weekly and monthly 
+summaries.
+1.2 Main Features
+•  Control devices connected to the Smart Plug wherever you have Internet 
+using the free Kasa app on yoursmartphone.
+•  Schedule the Smart Plug to automatically power electronics on and off as 
+needed, like setting lights to come on at dusk or turn off at sunrise.
+www.tp-link.com 4 User’s Manual
+• Analyze your plugged-in device’s real-time and historical power 
+consumption. (for HS110 only)
+• Turns your devices on and off at different times to give the appearance that
+someone is home.
+• Amazon Echo (sold separately) lets you control devices connected to the
+Smart Plugs just using your voice.
+1.3 Panel Layout
+Settings Button
+Wi-Fi LED
+Power LED
+USB Port
+* Image may differ from actual product due to different regional power specifications. Here we use
+the U.S. version as an example.
+Sta-
+Itemes Description
+tus
+Press this button for 5 seconds or until the 
+Wi-Fi LED   blinks amber and green to      
+initiate the app-config process.
+ (Settings  /
+Button) Press and hold for 10 seconds or until the 
+Wi-Fi LED   blinks amber rapidly to factory 
+reset.
+www.tp-link.com 5 User’s Manual
+Sta-
+Itemes Description
+tus
+Amber and green: App configuring process.
+Blink Green: Connecting to the network.
+Amber: Factory resetting.
+ (Wi-Fi LED)
+Green: Network connection established.
+On Amber: Rebooting.
+Red: No network connection.
+On The Smart Plug is switched on.
+ (Power LED)
+Off The Smart Plug is switched off.
+Charge your USB-powered electronic devic-
+USB Port
+es.
+/
+(HS110 Only)
+Maximum output current: 1000mA (1A).
+Supported Load Types:
+Coffee Maker: 800 W
+Desk Lamp: 235.2 W
+LCD: 270 W
+Heater: 1500 W
+Humidifier: 260 W
+Iron: 1500 W
+Toaster: 850 W
+Tower Fan: 50 W
+www.tp-link.com 6 User’s Manual
+Chapter 2. Quick Start
+1.  Download Kasa for Mobile from the App Store or Google Play.
+OR
+scan QR 
+code
+2.  Connect your mobile device to a 2.4GHz Wi-Fi network.
+Note: The Smart Plug only supports 2.4GHz networks.
+3.  Launch Kasa and follow the app instructions to connect the 
+Smart Plug to your network.
+www.tp-link.com 7 User’s Manual
+Troubleshooting
+Frequently Asked Questions
+1.  What devices can I control with the Smart Plug?
+You can control lights, electronics and small appliances such as 
+humidifiers, air purifiers, portable heaters and fans.
+2.  What should I do when I can’t control the connected device?
+•  Check that the connected device is switched to ON.
+•  Make sure your mobile device and the Smart Plug are on the same Wi-Fi 
+network.
+•  Enable Remote Control to control the connected device from outside 
+your home.
+3.  What should I do when the Wi-Fi LED is lit red?
+A red LED light indicates no network connection.
+•  Check your network connectivity.
+•  Relocate the Smart Plug. Avoid placing the Smart Plug near potential 
+sources of radio signal interference.
+•  Repeat the app configuring process.
+•  Factory reset the Smart Plug and try to add it again.
+4.  How do I pair the Smart Plug with Amazon Echo?
+Visit www.tp-link.com/en/faq-944.html or within the Kasa Help section for 
+pairing instructions.
+Support
+•  Specifications can be found on the product page at www.tp-link.com
+•  Our Technical Support and troubleshooting information can be found at 
+www.tp-link.com/support.
+www.tp-link.com 8 User’s Manual
+FCC Statement
+This equipment has been tested and found to comply with the limits for a Class B digital device, 
+pursuant to part 15 of the FCC Rules. These limits are designed to provide reasonable protection 
+against harmful interference in a residential installation. This equipment generates, uses and can 
+radiate radio frequency energy and, if not installed and used in accordance with the instructions, 
+may cause harmful interference to radio communications. However, there is no guarantee that 
+interference will not occur in a particular installation. If this equipment does cause harmful 
+interference to radio or television reception, which can be determined by turning the equipment 
+off and on, the user is encouraged to try to correct the interference by one or more of the following 
+measures:
+•  Reorient or relocate the receiving antenna.
+•  Increase the separation between the equipment and receiver.
+•  Connect the equipment into an outlet on a circuit different from that to which the receiver is 
+connected.
+•  Consult the dealer or an experienced radio / TV technician for help.
+This device complies with part 15 of the FCC Rules. Operation is subject to the following two 
+conditions:
+1)  This device may not cause harmful interference.
+2)  This device must accept any interference received, including interference that may cause 
+undesired operation.
+Any changes or modifications not expressly approved by the party responsible for compliance 
+could void the user’s authority to operate the equipment.
+Note: The manufacturer is not responsible for any radio or TV interference caused by unauthorized 
+modifications to this equipment. Such modifications could void the user’s authority to operate the 
+equipment.
+FCC RF Radiation Exposure Statement
+This equipment complies with FCC RF radiation exposure limits set forth for an uncontrolled 
+environment. This device and its antenna must not be co-located or operating in conjunction with 
+any other antenna or transmitter.
+“To comply with FCC RF exposure compliance requirements, this grant is applicable to only Mobile 
+Configurations. The antennas used for this transmitter must be installed to provide a separation 
+distance of at least 20 cm from all persons and must not be co-located or operating in conjunction 
+with any other antenna or transmitter.”
+CE Mark Warning
+www.tp-link.com 9 User’s Manual
+This is a class B product. In a domestic environment, this product may cause radio interference, in 
+which case the user may be required to take adequate measures.
+OPERATING FREQUENCY(the maximum transmitted power) 
+2412MHz—2472MHz(20dBm)
+No restrictions exist in the use of radio frequencies or frequency bands in all EU member states 
+and EFTA countries.
+EU declaration of conformity
+TP-Link hereby declares that the device is in compliance with the essential requirements and other 
+relevant provisions of directives 2014/53/EU, 2009/125/EC and 2011/65/EU.
+The original EU declaration of conformity may be found at http://www.tp-link.com/en/ce.
+RF Exposure Information
+This device meets the EU requirements (2014/53/EU Article 3.1a) on the limitation of exposure of 
+the general public to electromagnetic fields by way of health protection.
+The device complies with RF specifications when the device used at 20 cm from your body.
+Canadian Compliance Statement
+This device complies with Industry Canada license-exempt RSSs. Operation is subject to the 
+following two conditions:
+1)  This device may not cause interference, and
+2)  This device must accept any interference, including interference that may cause undesired 
+operation of the device.
+Le présent appareil est conforme aux CNR d’Industrie Canada applicables aux appareils radio 
+exempts de licence. L’exploitation est autorisée aux deux conditions suivantes :
+1)  l’appareil ne doit pas produire de brouillage;
+2)  l’utilisateur de l’appareil doit accepter tout brouillage radioélectrique subi, meme si le 
+brouillage est susceptible d’en compromettre le fonctionnement.
+Radiation Exposure Statement 
+This equipment complies with IC radiation exposure limits set forth for an uncontrolled 
+environment. This equipment should be installed and operated with minimum distance 20cm 
+between the radiator and your body. 
+www.tp-link.com 10 User’s Manual
+Déclaration d’exposition aux radiations
+Cet équipement est conforme aux limites d’exposition aux rayonnements IC établies pour un 
+environnement non contrôlé. Cet équipement doit être installé et utilisé avec un minimum de 20 cm 
+de distance entre la source de rayonnement et votre corps.
+Industry Canada Statement
+CAN ICES-3 (B)/NMB-3(B)
+Korea Warning Statements
+당해 무선설비는 운용중 전파혼신 가능성이 있음.
+NCC Notice
+注意！ 依據 低功率電波輻射性電機管理辦法
+第十二條 經型式認證合格之低功率射頻電機，非經許可，公司、商號或使用者均不得擅自變更頻率、加大功
+率或變更原設計之特性或功能。
+第十四條 低功率射頻電機之使用不得影響飛航安全及干擾合法通行；經發現有干擾現象時，應立即停用，
+並改善至無干擾時方得繼續使用。前項合法通信，指依電信規定作業之無線電信。低功率射頻電機需忍受
+合法通信或工業、科學以及醫療用電波輻射性電機設備之干擾。
+BSMI Notice
+安全諮詢及注意事項
+•  請使用原裝電源供應器或只能按照本產品注明的電源類型使用本產品。
+•  清潔本產品之前請先拔掉電源線。請勿使用液體、噴霧清潔劑或濕布進行清潔。
+•  注意防潮，請勿將水或其他液體潑灑到本產品上。
+•  插槽與開口供通風使用，以確保本產品的操作可靠並防止過熱，請勿堵塞或覆蓋開口。
+•  請勿將本產品置放於靠近熱源的地方。除非有正常的通風，否則不可放在密閉位置中。
+•  請不要私自打開機殼，不要嘗試自行維修本產品，請由授權的專業人士進行此項工作。
+ 
+www.tp-link.com 11 User’s Manual
+限用物質含有情況標示聲明書
+限用物質及其化學符號
+產品元件名稱 鉛 鎘 汞  六價鉻  多溴聯苯 多溴二苯醚
+Pb Cd Hg CrVI PBB PBDE
+PCB ○ ○ ○ ○ ○ ○
+外殼 ○ ○ ○ ○ ○ ○
+電源供應板 — ○ ○ ○ ○ ○
+備考1. "超出0.1wt% "及"超出0.01wt% "系指限用物質之百分比含量超出百分比含量基準值。
+備考2. "○"系指該項限用物質之百分比含量未超出百分比含量基準值。
+備考3. "—" 系指該項限用物質為排除項目。
+Продукт сертифіковано згідно с правилами системи УкрСЕПРО на відповідність вимогам 
+нормативних документів та вимогам, що передбачені чинними законодавчими актами 
+України.
+Safety Information
+•  Keep the device away from water, fire, humidity or hot environments.
+•  Do not attempt to disassemble, repair, or modify the device.
+•  Do not use the device where wireless devices are not allowed.
+•  The socket-outlet shall be installed near the equipment and shall be easily accessible.
+•  For passthrough devices, plug the power strips into the integrated electrical sockets of the 
+devices, but devices of the same or another type not be stacked in normal use.
+•  The devices are not intended for use in locations where the temperature may be less than 
+actual room conditions, such as unheated warehouses or garages.
+Please read and follow the above safety information when operating the device. We cannot 
+guarantee that no accidents or damage will occur due to improper use of the device. Please use 
+this product with care and operate at your own risk.
+www.tp-link.com 12 User’s Manual
+Explanation of the symbols on the product label
+Symbol Explanation
+AC voltage
+Indoor use only
+RECYCLING
+This product bears the selective sorting symbol for Waste electrical and 
+electronic equipment (WEEE). This means that this product must be 
+handled pursuant to European directive 2012/19/EU in order to be recycled 
+or dismantled to minimize its impact on the environment.
+User has the choice to give his product to a competent recycling 
+organization or to the retailer when he buys a new electrical or electronic 
+equipment.
+www.tp-link.com 13

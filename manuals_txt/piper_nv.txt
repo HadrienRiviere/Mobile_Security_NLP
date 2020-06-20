@@ -1,0 +1,818 @@
+User Manual Content 
+•  User Safety Information  
+o  AC Power 
+o  Battery Power 
+o  Environmental 
+o  Safety Certification 
+o  Emissions Certification 
+o  FCC Statement 
+•  Unboxing Piper 
+•  Piper Details 
+•  Setup Instructions  
+o  Product Requirements  
+o  Piper Installation          
+o  Piper Mobile App Setup  
+  Piper Setup: iOS  
+▪
+  Piper Setup: Android 
+▪
+•  Multiple Pipers  
+o  Multi Piper Setup          
+o  Multi Piper Mobile App Setup  
+  Multi Piper Setup: iOS 
+▪
+  Multi Piper Setup: Android 
+▪
+•  The Piper Mobile App  
+o  Dashboard  
+  Piper View 
+▪
+  Live Video 
+▪
+  Security Panel 
+▪
+o  Notable States  
+  Activity in Armed Modes 
+▪
+  Siren Activated 
+▪
+  Not Connected to Piper 
+▪
+o  Events  
+  Timeline 
+▪
+  Event Features 
+▪
+  Home Vitals 
+▪
+o  Rules  
+  Armed Security Mode Rules (Armed Away/Armed Stay) 
+▪
+  Notification Rules 
+▪
+  Automation Rules  
+▪
+  Schedule 
+▪
+  Temperature 
+▪
+  Ambient Light 
+▪
+o  Settings  
+  My Details 
+▪
+  Piper Options 
+▪   Siren, Chimes and LED 
+▪
+  Trusted Circle 
+▪
+  “Notify Trusted Circle” Security Rule 
+▪
+  Wireless Accessories 
+▪
+  Video Settings 
+▪
+  Multi Piper Management 
+▪
+  Smart Arming with Life360 (Beta) 
+▪
+•  Features  
+o  Wireless Accessories  
+  What are Wireless Accessories? 
+▪
+  What is Z-Wave?   
+▪
+  Purchasing Wireless Accessories 
+▪
+  Updates 
+▪
+  Adding Wireless Accessories 
+▪
+  Removing Wireless Accessories 
+▪
+  Reordering Wireless Accessories List 
+▪
+  Resetting Wireless Accessory Controller 
+▪
+o  Working with IFTTT  
+  What is IFTTT? 
+▪
+  How does it work with Piper? 
+▪
+  Connecting to the Piper Channel 
+▪
+o  Smart Arming with Life360 (Beta)  
+  What is Smart Arming with Life360? 
+▪
+  Smart Arming with Life360 Setup 
+▪
+•  Icons  
+o  Dashboard and Main Navigation 
+o  Video 
+o  Events 
+o  Home Vitals 
+o  Rules 
+o  Security Events and Wireless Accessories 
+o  Weather 
+•  Latest PDF and Word Output  
+o  PDF Document 
+o  Word Document 
+  
+ 
+User Safety Information 
+AC Power 
+Only the power adaptor provided with Piper should be used with the equipment.  •  Input: 100-240 VAC, 50Hz-60Hz, maximum input current 0.3A. 
+•  Output: 5VDC, maximum output current 2A (current limited). 
+•  Output connector: Tip (inner part) positive, barrel (outer part) negative.  
+ 
+Battery Power  
+This device uses 3 “AA” type 1.5V batteries.  The device will stop functioning when the 
+combined voltage of the 3 batteries is below 3.5 Volt. 
+The following precautions should be followed: 
+•  Batteries should be replaced on a regular basis with fresh batteries. All batteries should 
+be replaced to keep them from unevenly wearing out. 
+•  Due to the high power demand on the batteries during a power failure, batteries should be 
+replaced after a power failure event. 
+Environmental 
+•  Only the power adapter provided with the Piper is acceptable for use. 
+•  Ensure the outlet you select is easily accessible.  
+•  Never expose the device to water or condensing humidity. 
+•  Do not use the device near water where it can be a shock hazard. 
+•  Keep the device away from heat sources such as radiators, registers, stoves, other heat 
+producing devices and direct sunlight. 
+•  Install the unit where air flow will not be impeded through the top and bottom ventilation 
+holes. 
+•  Keep the device at an ambient temperature between 5°C and 35°C (41°F and 95°F). 
+•  The device should be operated at an altitude at or below 2,000 meters. 
+•  The device should be cleaned with mild soap and a soft cloth. Strong cleaning agents may 
+damage the finish and render the camera unusable. 
+•  Install the AC adapter where it can be easily accessed and is not a tripping hazard. 
+•  Remove batteries and unplug Piper if it is not going to be used for an extended period of 
+time. 
+•  Under no circumstances should the unit be opened or modified in any way. 
+Safety Certification 
+This device complies with IEC/EN/UL60950-1 and CSA C22.2 No. 60950-1 standards. 
+Emissions Certification 
+Industry Canada Statement   This Class B digital apparatus complies with Canadian ICES-
+003. This device complies with Industry Canada license-exempt RSS standard(s). Operation is 
+subject to the following two conditions: (1) this device may not cause interference, and (2) this  device must accept any interference, including interference that may cause undesired operation  
+of the device. 
+ 
+FCC Statement  
+This device complies with part 15 of the FCC Rules. Operation is subject to the following two 
+conditions: (1) this device may not cause harmful interference, and (2) this device must accept  
+any interference received, including interference that may cause undesired operation. 
+NOTE: This equipment has been tested and found to comply with the limits for a Class B digital
+  device, pursuant to part 15 of the FCC Rules. These limits are designed to provide reasonable  
+protection against harmful interference in a residential installation. This equipment generates, 
+uses, and can radiate radio frequency energy and, if not installed and used in accordance with  
+the instructions, may cause harmful interference to radio communications. However, there is no  
+guarantee that interference will not occur in a particular installation. If this equipment does  
+cause harmful interference to radio or television reception, which can be determined by turning  
+the equipment off and on, the user is encouraged to try to correct the interference by one or  
+more of the following measures:  
+•  Reorient or relocate the receiving antenna. 
+•  Increase the separation between the equipment and receiver.  
+•  Connect the equipment into an outlet on a circuit different from that to which the receiver 
+is connected.  
+•  Consult the dealer or an experienced radio/ TV technician for help.  
+Changes or modifications not expressly approved by the party responsible for compliance could 
+ void the user’s authority to operate the equipment. 
+  
+ 
+  
+Congratulations on your recent Piper purchase! With this guide, you will learn how to operate 
+Piper and all its features effectively. It includes information that will help you take advantage of 
+the numerous smart home security and automation services that Piper offers, along with 
+installation instructions for a quick and seamless setup. 
+  
+  Unboxing Piper 
+Before starting, please ensure your Piper purchase contains each of the items listed below. If any 
+are missing, contact your Piper retailer or the Piper support line for your region available at 
+getpiper.com/contact-us.  
+Each box includes:                                              
+•  Piper 
+•  Quick start guide 
+•  Power adapter with 6 foot (1.8m) cord 
+•  3 x AA alkaline batteries 
+•  Optional wall mount 
+•  Battery door screw 
+  
+ 
+Piper Details 
+Piper has the following features: 
+•  Immersive HD video with a 180° field of view. You can access pan, tilt, and zoom 
+features while viewing live video, even in quad-view or with night vision activated. 
+•  Built-in environmental sensors detect sound, motion, brightness, humidity, and the indoor 
+and outdoor temperature. 
+•  Microphone and speaker allow for interactive two-way audio while viewing live video. 
+•  Powerful 105 dB siren sounds during emergencies or when manually activated. 
+•  802.11b/g/n Wi-Fi. 
+•  Z-Wave compatibility for wireless accessories. 
+•  Dimensions (with stand): 6.14" x 3.27" x 2.68" (156mm x 83mm x 68mm). 
+Note: To learn more about live video features, refer to the Live Video section. 
+  
+ 
+Setup Instructions 
+Product Requirements   The minimum requirements necessary for Piper to function are as follows: 
+•  Broadband Internet with Wi-Fi (Minimum upload speed of 0.8 Mbps) 
+•  iOS Device running at least iOS 9 (iPhone, iPad, iPod Touch) or Android device running 
+at least 4.1.x 
+•  A/C Power Source (Wall adapter and 3xAA battery backup included) 
+Piper Installation          
+Follow these steps to begin the installation of Piper: 
+1.  Remove Piper from its detachable stand. 
+2.  Open the battery door located at the back of Piper and insert the provided AA batteries. 
+Close the battery door and secure it with the provided screw. 
+3.  Connect the power cable to Piper and plug the opposite end to an electrical outlet. If you 
+are choosing to use the stand, make sure to thread the power cable through the legs of the 
+stand. 
+Note: Only the power adapter provided with Piper is acceptable for use. Ensure the 
+outlet you select is easy accessible. 
+4.  Re-attach the stand and position your Piper on a flat surface in the desired location. 
+Note: If you’d like Piper to be installed on a wall, attach the wall bracket to ½” minimum 
+drywall using two #6 ¾” long wood screws and a conical expansion anchor for #6 screw 
+size. Align the slots in the back of Piper with the bracket and snap it in, as you would 
+with the stand. 
+Note: During the setup process, you will need to enter the serial number of your Piper, 
+which can be found on Piper and its package. Take note of the serial number (S/N) 
+located on the label below the battery compartment before reattaching the stand if you 
+don't have the Piper package handy.  
+5.  If Piper’s LED light does not turn yellow within 10 seconds, press the power button on 
+the back of the Piper, located on the bottom-right.  
+6.  When your Piper’s LED light turns blue, download the Piper app from 
+getpiper.com/download and create an account. 
+Note: If you have more than one Piper to set up, do this process for one Piper at a time. There 
+should be only one Piper with a blue LED on during the setup. For multiple Piper setup 
+instructions, go to Multi Piper Setup. 
+Piper Mobile App Setup 
+You are now ready to connect your mobile device to Piper. 
+•  For setup instructions using an iOS device, go to Piper Setup: iOS. 
+•  For setup instructions using an Android device, go to Piper Setup: Android. 
+Piper Setup: iOS   Follow these steps to set up Piper from your Apple iOS device: 
+1.  Confirm the prompt to start setup after creating your Piper account.  
+2.  Name your Piper and enter the serial number, then tap “Continue” to proceed. 
+Note: The serial number of your Piper can be found on the package and on the back of 
+Piper below the battery compartment.  
+3.  Open your iOS device’s settings and go to the Wi-Fi screen. Select “Piper” from the list 
+of networks.  
+Note: In this step, your mobile device is connecting to your Piper via Wi-Fi to set it up. 
+4.  Once your mobile device has connected to the “Piper” Wi-Fi network, return to the Piper 
+app. Select your home Wi-Fi network from the list that will appear and enter the 
+password. 
+5.  Confirm your home Wi-Fi network information before tapping “Connect.” 
+6.  Your Piper will automatically update to the latest firmware if necessary, and then finish 
+setup.  
+Note: Piper will show the following screen, you can tap close and put the app in the 
+background while you wait for Piper to finish. 
+7.  The Dashboard screen will appear after setup has finished, or if you selected to 
+background the app then you will receive a notification that Piper has finished setting up.  
+Note: Your Piper’s LED light should now be green. 
+You will receive two notices of confirmation: 
+•  A text message from a number that Piper will use to contact you. Be sure to add this 
+number to your contacts. 
+•  A welcome email with links to various tutorial videos. 
+Note: To access Piper, family members can download the app and sign in with the account 
+owner’s login information. 
+Piper Setup: Android 
+Follow these steps to set up Piper from your Android device: 
+1.  Confirm the prompt to start setup after creating your Piper account.  
+2.  Name your Piper and enter the serial number, then tap “Continue” to proceed.  
+Note: The serial number of your Piper can be found on the package and on the back of 
+Piper below the battery compartment.   
+3.  Connect your Android device to the “Piper” Wi-Fi network by selecting “Connect.”  
+Note: In this step, your mobile device is connecting to your Piper via Wi-Fi to set it up.  
+Note: If you have the “Smart switch network” feature enabled on your mobile device, it 
+will not connect to the “Piper” Wi-Fi network. To disable this feature found on certain 
+Android devices, go to your mobile device’s Wi-Fi settings.  
+4.  A list of nearby Wi-Fi networks will appear. Select your home Wi-Fi network from the 
+list and enter the password. 
+5.  Confirm your home Wi-Fi network information before tapping “Connect.”  6.  Your Piper will automatically update to the latest firmware if necessary, and then finish 
+setup.  
+Note: Piper will show the following screen, you can tap close and put the app in the 
+background while you wait for Piper to finish. 
+7.  The Dashboard screen will appear after setup has finished, or if you selected to 
+background the app then you will receive a notification that Piper has finished setting up. 
+Note: Your Piper’s LED light should now be green. 
+You will also receive two notices of confirmation: 
+•  A text message from a number that Piper will use to contact you. Be sure to add this 
+number to your contacts. 
+•  A welcome email with links to various tutorial videos. 
+Note: To access Piper, family members can download the app and sign in with the account 
+owner’s login information. 
+ 
+Choosing Your Password 
+When you are creating a new account or changing an existing password you will be required to 
+enter a minimum of 8 characters, containing at least two of the character categories listed below. 
+The screen will provide an indication of the password strength as you enter. If your password is 
+too short or weak, it will be rejected. 
+Only the following characters will be accepted for the password.  
+•  Lowercase letters [ a-z ] 
+•  Uppercase letters [ A-Z ] 
+•  Numbers [ 0-9 ] 
+•  Special characters [ !"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ ] 
+ 
+ 
+Multiple Pipers 
+For enhanced security, you can install multiple Pipers on a home network to arm different floors 
+or high traffic areas. A maximum of five Pipers sharing the same home Wi-Fi network can be 
+linked to one account. All Pipers configured under the same account follow the security mode, 
+notification, and automation rules set in the Piper mobile app.  You can monitor live video, view environmental sensor data, and receive security notifications 
+from each Piper. 
+Multi Piper Setup          
+To set up additional Pipers on a network using the same account, please follow the steps below. 
+iOS and Android devices follow separate instructions after the physical installation of your Piper. 
+Note: The initial Piper must be set up before additional Pipers can be added.  
+Follow these steps to add an additional Piper to your network: 
+1.  Remove Piper from its detachable stand. 
+2.  Open the battery door located at the back of Piper and insert the provided AA batteries. 
+Close the battery door and secure it with the provided screw. 
+3.  Connect the power cable to Piper and plug the opposite end to end electrical outlet. If you 
+are choosing to use the stand, make sure to thread the power cable through the legs of the 
+stand. 
+Note: Only the power adapter provided with Piper is acceptable for use. Ensure the 
+outlet you select is easy accessible. 
+4.  Re-attach the stand and position your Piper on a flat surface in the desired location. 
+Note: If you’d like Piper to be installed on a wall, attach the wall bracket to ½” minimum 
+drywall using two #6 ¾” long wood screws and a conical expansion anchor for #6 screw 
+size. Align the slots in the back of Piper with the bracket and snap it in, as you would 
+with the stand. 
+Note: During the setup process, you will need to enter the serial number of your Piper, 
+which can be found on Piper and its package. Take note of the serial number (S/N) 
+located on the label below the battery compartment before reattaching the stand if you 
+don't have the Piper package handy.  
+5.  If Piper’s LED light does not turn yellow within 10 seconds, press the power button on 
+the back of the Piper, located on the bottom-right.  
+6.  When your Piper’s LED light turns blue, download the Piper app 
+from getpiper.com/download and create an account. 
+Note: Be sure to do this process for one Piper at a time. There should be only one Piper with a 
+blue LED on during the setup. 
+Multi Piper Mobile App Setup 
+You are now ready to connect your mobile device to the new Piper. 
+•  For setup instructions using an iOS device, go to Multi Piper Setup: iOS. 
+•  For setup instructions using an Android device, go to Multi Piper Setup: Android. 
+Multi Piper Setup: iOS  Follow these steps to set up Piper from your Apple iOS device: 
+1.  When Piper’s LED light turns blue, open the Piper app, tap the App Menu icon and go to 
+Settings > Multi Piper Management. 
+2.  Select “Add a Piper.” 
+3.  Give the new Piper a name and enter the serial number, then tap “Continue” to proceed. 
+4.  Open your iOS device’s settings and go to the Wi-Fi screen. Select “Piper” from the list 
+of networks.  
+Note: In this step, your mobile device is connecting to your Piper via Wi-Fi to set it up. 
+5.  Once your mobile device has connected to the “Piper” Wi-Fi network, return to the Piper 
+app.  
+6.  Your Piper will automatically update to the latest firmware if necessary, and then finish 
+setup.  
+Note: This process may take up to 10 minutes or more. Do not unplug or turn off your 
+Piper during this process. 
+7.  The name of the new Piper should now appear on the Multi Piper Management screen. 
+The setup of all additional Pipers follows the same instructions as listed above. After each 
+successful installation, the Dashboard screen will appear. 
+Multi Piper Setup: Android 
+Follow these steps to set up Piper from your Android device: 
+1.  When Piper’s LED light turns blue, open the Piper app, tap the App Menu icon and go to 
+Settings > Multi Piper Management. 
+2.  Select “Add a Piper.” 
+3.  Give the new Piper a name and enter the serial number, then tap “Continue” to proceed. 
+4.  Connect your Android device to the “Piper” Wi-Fi network by selecting “Connect.” 
+Note: In this step, your mobile device is connecting to your Piper via Wi-Fi to set it up.  
+5.  Your Piper will automatically update to the latest firmware if necessary, and then finish 
+setup.  
+Note: This process may take up to 10 minutes or more. Do not unplug or turn off your 
+Piper during this process.     
+6.  The name of the new Piper should now appear on the Multi Piper Management screen. 
+The setup of all additional Pipers follows the same instructions as listed above. After each 
+successful installation, the Dashboard screen will appear. 
+  
+ 
+The Piper Mobile App  The Piper mobile app is divided into three tabs—Dashboard, Events, and Rules—which cover 
+the present, past, and future states of your home respectively. This section expands on the 
+different features found in each tab and how to access them. 
+Dashboard 
+The Dashboard displays information about the present state of your home:  the current security 
+mode, the status of your wireless accessories, and the latest snapshot captured by Piper. 
+Piper View 
+The image at the top of the Dashboard displays the latest snapshot captured by Piper. 
+•  Above the video snapshot is the name of the Piper in question (left) and the time it was 
+taken (right). 
+•  If you’ve set up more than one Piper, you can swipe left to view their snapshots. Pipers 
+appear in the order they were initially set up. 
+•  Current weather, as well as indoor and outdoor temperatures are displayed on the lower 
+right-hand corner of the snapshot. 
+Note: A description of all icons used in the Piper mobile app can be found at the end of this 
+document. 
+Live Video 
+Live video allows you to monitor what Piper is currently viewing. To watch live video from a 
+Piper, tap its video snapshot. 
+•  Multiple features can be accessed while viewing live video. To bring up live video 
+features, tap the screen once. The icons automatically disappear after a few moments.  
+o  Tap on this icon to change your Piper’s night vision settings manually or 
+automatically. When set to ‘Auto’, Piper activates night vision if the ambient light 
+level has gone below the visible threshold, and automatically de-activates night 
+vision when there’s enough light. These settings will persist once the live video 
+window is closed. 
+o  To use two-way audio, tap and hold the microphone icon while speaking into your 
+mobile device. Release the icon when you’re done speaking. 
+o  Tap on the Wireless Accessory icon to display a list of connected wireless 
+accessories. you can turn switches on or off and adjust dimmer levels. Tap the 
+video once to dismiss these controls. 
+o  The quad-view icon divides live video into four screens. This enables you to focus 
+in on specific areas of a room while maintaining access to zoom, pan, and tilt 
+features within each quadrant. 
+o  You can use the brightness slider to adjust the brightness level of live video. Drag 
+the slider down to decrease brightness, or up to increase brightness.  o  Zoom in: Place two fingers on the area you would like to enlarge and separate 
+fingers to expand the live video. Zoom out: Perform the opposite action by 
+pinching or bringing fingers back together on the screen. 
+o  Pan/Tilt: Slide finger across the screen from top to bottom or side to side. 
+Security Panel 
+The Security Panel is the area beneath Piper View and contains the Security Mode Wheel, the 
+Wireless Accessory Drawer, and the Panic Button. 
+•  Security Mode Wheel: Tap on one of the three modes in the wheel to arm or disarm your 
+Piper. Your corresponding security mode rules, which are defined in the Rules tab, go 
+into effect once active.  
+o  Armed Away Mode: Piper is armed after a countdown. This mode is 
+recommended for when no one is at home. 
+o  Armed Stay Mode: Piper is armed immediately. This mode is recommended for 
+when you want your home secured while you're there. This is especially useful 
+when you’re going to bed. 
+o  Disarmed Mode: Piper’s security is disarmed. Only notifications and automations 
+may happen when Piper is disarmed. 
+Note: To learn more about security rules and how to enable rules for Piper in Armed Away and 
+Armed Stay Mode, please refer to the Rules section. 
+•  Wireless Accessory Drawer: Tap the Wireless Accessory icon on the top left-hand corner 
+of the Security Panel to open the Wireless Accessory Drawer. This will reveal a list of 
+wireless accessories that are connected to your Piper system.  
+o  From the Wireless Accessory Drawer, users can view the current state of sensor 
+accessories (such as door/window sensors) and control wireless accessories with 
+an on/off switch or dimmer (such as a light bulb). 
+o  A battery icon will appear beside sensor accessories when either a battery is dead 
+or running low. 
+o  Tap, hold, and drag any accessory to change its position on the list.  
+Note:  To learn more about wireless accessories including product information and set up 
+instructions, see Wireless Accessories. 
+•  Security Bar: When the Wireless Accessory Drawer is open, a minimized version of the 
+Security Panel is accessible at the bottom of the Dashboard.  
+o  From the Security Bar, you can close the Wireless Accessory Drawer, change the 
+security mode that your Piper is in, and activate the siren using the Panic 
+button.                                                          
+o  To expand the Security Panel, tap on the drawer icon or swipe the Security Bar 
+upwards.  •  Panic Button: Located on the bottom right-hand corner of the Dashboard, you can press 
+and swipe the Panic Button icon left to manually activate the siren.  
+o  Using the Panic Button will bypass the Siren Lockout feature and sound the siren 
+for 4 minutes regardless of Piper’s operating mode. 
+o  Tap on the Notable State icon in the Security Mode Wheel (see Notable States 
+section for details) or siren deactivation icon on the bottom right-hand corner. 
+Notable States 
+Piper can enter a notable state when one of three events take place: when activity is detected in 
+an armed mode, when the siren is activated, or when Piper cannot be reached. Piper’s notable 
+state will be displayed on the Security Panel. Additionally, the Piper emblem located in the 
+center of the Security Mode Wheel will be replaced with a Notable State icon. Tap on this icon 
+to see how to resolve the issue. 
+Activity in Armed Modes 
+When Piper detects activity while in an armed mode, a description of the security event will be 
+displayed above the Security Mode Wheel and a relevant Notable State icon is displayed. Tap on 
+this icon to re-arm or disarm Piper. 
+Siren Activated 
+When the siren is activated by using the Panic Button, “Siren Activated” will be displayed above 
+the Security Mode Wheel. Tap on the notable state icon to deactivate the siren. 
+When the siren is activated, the Panic Button will be replaced with a Deactivate Siren icon that 
+you can tap to quickly deactivate the siren. 
+Not Connected to Piper 
+When Piper cannot be reached from your mobile device, tap on the notable state icon to see three 
+options: Retry, Troubleshoot, and Ignore. 
+Events 
+Using the Events tab, you can review past activity in the Timeline and Video Clips sections, as 
+well as graphed data in Home Vitals. 
+Timeline 
+Timeline is the leftmost section in Events. This is a list of recent notable events detected by your 
+Piper. The past 7 days of events will be available to view in the app. 
+Video Clips  Video Clips is the center section in Events. You can review video clips recorded during certain 
+security events and save the clips onto a mobile device. You can define what activity you want 
+Piper to record from the Rules tab. Like events, the past 7 days of video clips will be available to 
+view in the app. 
+Event Features 
+•  To view:  Tap on an event in Video Clips to view recorded video footage. 
+•  To download: Tap the downward facing arrow next to the video you wish to save onto 
+your mobile device. 
+•  To delete or mark as read:  
+o  Tap on the Context Menu icon located on the top-right corner of the list. The 
+dropdown allows users to select specific events or automatically select all events 
+in Timeline or Video Clips. 
+o  The selected events (highlighted in blue) can now be deleted or marked as read. 
+o  Mark as read: Unread events are displayed in bold, and the badge on the Events 
+tab icon shows the unread event count. When events are marked as read, they 
+remain in the Timeline. 
+o  Delete: Before erasing the selected events, a dialogue box will appear asking you 
+to confirm the action. Deleted events cannot be recovered. 
+Home Vitals 
+The rightmost section in the Events tab is the Home Vitals screen. Here, users can monitor 
+specific vitals that Piper records through out the course of the day. 
+•  Piper records the temperature, relative humidity, ambient light, sound level, and 
+movement of the area it monitors. This information is presented in a graph, which 
+displays a history of the past 48 hours. 
+•  The Context Menu icon on the right-hand side of the Home Vitals screen allows users to 
+view the vitals of individual Pipers in a home. Tap on this icon to view a list of all Pipers 
+linked to one account. Select the name of a Piper to view the vitals of the area it monitors. 
+Other Pipers’ vital graphs will show up in grey, with the vitals of the selected Piper 
+appearing in color. 
+•  The numbers on the right hand side represent the highest and lowest values of the vitals 
+detected by Piper’s environmental sensors. 
+Rules 
+In the Rules tab, users can set armed security mode rules, notification rules, and automation rules 
+for wireless accessories. These rules activate when an event occurs or a specified condition is 
+met. Piper automatically prioritizes security events, or events that may compromise the safety of 
+your home. 
+Armed Security Mode Rules (Armed Away/Armed Stay)  Your Piper detects three main security events: 
+•  If Piper detects motion… 
+•  If the temperature changes… 
+•  If loud sound is detected… 
+If you have added wireless sensor accessories to your Piper, these sensors can trigger as security 
+events as well. For example: 
+•  If Door Sensor opens… 
+•  If Flood Sensor detects water… 
+Tap on an event (such as “If Piper detects motion…”) to view a list of customizable security 
+actions. 
+•  Security rules are a set of actions that respond to breached security events. 
+•  When events are detected, the security rules set by you will be activated. 
+•  Rules will only activate if the event is breached in the specific security mode they are set 
+for. 
+To set security rules, follow these steps: 
+1.  Select the security mode for which you would like to set rules. 
+2.  Tap on the event you would like to set security rules for. 
+3.  Enable the desired security rule by toggling the control. 
+Note: Piper cannot be armed if there are no rules associated with the security mode. If you try to 
+switch Piper to an armed mode without any rules, a dialogue box will notify you. 
+More about rules: 
+•  When the “Record video clip” security rule is activated, Piper will automatically record a 
+35-second clip of the security event taking place—the first 5 seconds prior to the event, 
+and the proceeding 30 seconds of footage. 
+•  Security rules chosen by the user will be applied to all Pipers on the same account. 
+Owners with multiple Pipers cannot set customizable security rules for different Pipers in 
+a home.                   
+•  If the siren is activated during a security event, it will sound for 4 minutes before 
+automatically turning off. 
+Note: If a security rule is triggered while in an armed mode, Piper will enter a notable state and 
+display information on the Dashboard. For more information, see the Notable States section. 
+Notification Rules  You can receive a notification when a specific event is detected, regardless of the security mode 
+Piper is in. You can choose to receive this notification directly to the mobile app (via push a 
+notification) or via an email. 
+To set Notification rules: 
+1.  Go to the Notifications section of the Rules screen. 
+2.  Tap on the event for which you would like to receive notifications and toggle the control 
+to enable the setting. 
+3.  Select how you wish to be notified. 
+Automation Rules 
+•  The Automations section of the Rules tab allows you to customize automations for 
+wireless accessories connected to household appliances. 
+•  Automations displays a list of the control accessories currently connected with the Piper 
+system. Tap on an accessory’s name to view or edit the rules assigned to it. 
+•  There are three automation types for accessories: Schedule, Temperature, and Ambient 
+Light. 
+•  Select an accessory’s automation type to open its settings. 
+Schedule 
+Use the Schedule automation type to set "turn on" and "turn off" times for the household 
+appliance that is plugged into the associated wireless accessory. Independent settings for 
+weekdays and weekends can be configured. 
+To set a Schedule automation: 
+1.  Enable "turn on" and "turn off" times by toggling the schedule you wish to set. 
+2.  Tap on the time to adjust the hour and minutes. 
+Temperature 
+A threshold temperature can be set for the automatic activation of either a space heater or air 
+conditioner that is plugged into the associated wireless accessory. The appliance will be 
+automatically turned off when the temperature goes back to being above or below the threshold. 
+To set a Temperature automation: 
+1.  Toggle the checkbox to turn on temperature automation rule. 
+2.  Choose whether your household appliance should activate when the room temperature 
+goes above or falls below the temperature threshold. 
+3.  Set the threshold temperature. 
+Ambient Light  This category turns a light or other appliance on automatically when Piper detects that the 
+ambient light has decreased, and its environment is dark. 
+To set an Ambient Light automation: 
+1.  Toggle the control on to enable the Ambient Light automation rule. 
+2.  Enable “Turn off after” and tap on the desired number of hours to choose when the 
+connected appliance should be switched off. 
+Settings 
+The App Menu icon is on the top left-hand corner of the Piper app. Tap on this icon to view a list 
+of options, including the Settings screen. From Settings, you can modify account information, 
+customize preferences, and enable additional security features. 
+My Details 
+On this screen, you can update personal information, change your password, and change the 
+notification language. 
+Piper Options 
+Various Piper settings can be adjusted, including the main Piper’s name, auto re-arming options, 
+motion sensor sensitivity for pets, temperature units, disconnection notifications, and weather 
+alerts. 
+Note: Switches for settings appear blue when on/active, and grey when off/inactive. 
+•  Auto re-arm Piper:  By enabling this feature, Piper will automatically re-arm itself to its 
+prior armed mode 5 minutes after an event is detected.  
+o  Automatic re-arming: 
+  Users will continue to receive notifications if security events are detected 
+▪
+once Piper has re-armed itself. 
+  To set this preference, go to Settings> Piper Options and select “Auto re-
+▪
+arm Piper.”  
+•  Manual re-arming:  
+o  If Piper is not automatically or manually re-armed after a security rule is 
+triggered, you will not receive notifications when events are detected. 
+o  You can also manually re-arm Piper by opening the app and setting Piper back to 
+Armed Away or Armed Stay security mode. 
+o  Auto re-arm Notifications:  
+  Users can be notified with a notification to their mobile device (via a push 
+▪
+message) each time Piper automatically re-arms itself. 
+  Go to “Notify me upon re-arming” located beneath “Auto re-arm Piper” to 
+▪
+enable this notification on.  Note: The “Auto re-arm Piper” feature must be enabled before users can turn on notifications 
+for auto-rearming. 
+•  Pet at Home: The motion sensor’s sensitivity can be adjusted to exclude pets based on 
+their size to avoid false triggers and unnecessary notifications. 
+•  Temperature Display: Choose between displaying the indoor and outdoor temperature in 
+Celsius or Fahrenheit. 
+•  Weather Alerts: Piper can notify you of any local weather alerts. In order to receive these 
+events, enable this feature. 
+•  Alarm Activation Grace Period:  When Piper is set to Armed Away mode, a sound will 
+chime in advance of activation to notify anyone close by. Once the chiming stops, Piper 
+is armed with security rules. You adjust the length of this grace period or disable it 
+completely. 
+Siren, Chimes and LED 
+This list of settings allows you to set security rule sirens, Panic Button, operation chimes, and 
+LED indicator preferences. 
+•  Mute siren: Enabling this option mutes security rule sirens even if you have a rule with 
+siren. The siren may still be activated via the Panic Button on the Dashboard unless it is 
+also disabled. 
+•  Siren warning: An audible warning chime will sound for 10 seconds before a siren goes 
+off in Armed Away mode to warn those close by. The siren will sound immediately in 
+Armed Stay mode even when this option is enabled. 
+•  Panic Button: The Panic Button on the Dashboard will activate a siren immediately in 
+case of an emergency. Disabling this option hides the Panic Button, eliminating the 
+possibility of siren activation by mistake while operating the Piper app. The siren may 
+still be activated as per your security rules unless it is also muted. 
+•  Operation chimes: Piper communicates with you using audible operation chimes when it 
+gets ready on startup, changes security modes and warns before a siren goes off (if siren 
+warning is enabled). Disabling this option will turn off these chimes. Disabling this 
+option does not affect the siren, two-way audio in live video or the audio recording in 
+video clips. 
+•  Security mode LED: Piper indicates its operation status with an LED. Disabling this 
+option turns off the LED indicator when Piper is operating normally. This includes when 
+the LED is green (Piper is disarmed), red (Piper is armed), and white (you’re viewing live 
+video). Disabling this option does not affect blue, yellow, and flashing indicators, and the 
+LED will be re-enabled temporarily when the reset button is pressed.   
+Trusted Circle 
+The Trusted Circle is comprised of individuals who will receive email notifications if specific 
+security rules are triggered. In the Rules tab, users can customize the alerts their Trusted Circle 
+members receive.  •  To manually add a Trusted Circle member, tap “Add.” Fill out the form with the new 
+contact’s information and finish by saving the entry. 
+•  To add a Trusted Circle member from your device’s address book, tap on the “Add from 
+Contacts” button to view a list. Select the person you’d like to add to your Trusted Circle 
+and finish by saving the entry. 
+Note:  A maximum of four contacts can be added to your Trusted Circle. 
+“Notify Trusted Circle” Security Rule 
+With “Notify Trusted Circle” enabled as a security rule action, the members in your Trusted 
+Circle will receive a notification whenever a configured security event is triggered.  
+To set “Notify Trusted Circle” as a security rule, follow these steps: 
+1.  Go to the Rules tab and select a security mode. 
+2.  Choose an event. This will bring up a list of applicable security rules. 
+3.  Toggle on the “Notify trusted circle” rule. 
+Wireless Accessories 
+The Wireless Accessories screen allows you to connect new wireless accessories, remove 
+existing ones, and shop for more. It includes a list of your connected accessories that you can 
+rearrange for your convenience. for your existing accessories (e.g. turn on/off) may be found in 
+the Wireless Accessory Drawer on the Dashboard. To learn more about wireless accessories, 
+including setup instructions, removal, and where to purchase new accessories, please refer to the 
+Wireless Accessories section. 
+Video Settings 
+Piper can adjust the bandwidth utilization of live video based on settings applicable to your 
+mobile device’s connection (Wi-Fi or 3G/LTE). Setting the video’s quality alters how much 
+bandwidth is needed to stream live video. Drag the handle on the slider to the left to decrease the 
+video quality. Drag it to the right to increase the quality. 
+Multi Piper Management 
+Instructions for the set up of additional Pipers on the same network can be found in the Multiple 
+Pipers section. 
+Smart Arming with Life360 (Beta) 
+Smart Arming is a security feature available to all Piper users. To learn more about this feature, 
+along with set-up instructions, please refer to the Smart Arming section. 
+    
+Features 
+Wireless Accessories 
+What are Wireless Accessories? 
+Wireless accessories inform you of changes in your home by way of sensors and let you control 
+the state of your household appliances remotely. Piper also lets you set an automation schedule 
+or turn your appliances on or off based on temperature or ambient light levels in your home. 
+What is Z-Wave?   
+Similar to Wi-Fi and Bluetooth, Z-Wave is a form of wireless communication used in home 
+automation devices. Piper uses Z-Wave to talk to various wireless accessories. 
+Purchasing Wireless Accessories 
+To view a list of accessories that Piper currently supports, visit our website at getpiper.com. Our 
+support page provides additional compatibility information. Wireless accessories are available 
+for purchase directly through our online store at store.getpiper.com. You can also access it 
+through the Piper app by tapping "Shop" under Settings > Wireless Accessories.  
+Wireless accessories can also be purchased through the retailer and in select electronic stores. 
+Note: Piper is compatible with most On/Off (Open/Close) wireless accessories with Z-Wave 
+technology designed for your region. 
+Updates 
+Piper continues to expand the range of home automation accessories it supports. You can stay 
+informed by signing up for updates online at getpiper.com/contact-us. 
+Adding Wireless Accessories 
+Adding wireless accessories is done through an "inclusion" process, informing the Z-Wave 
+enabled wireless accessory in question to be included to your Piper system at home. To add a 
+wireless accessory to Piper, follow these steps: 
+1.  Open the App Menu and go to Settings > Wireless Accessories. 
+2.  Select “Add.” 
+3.  Tap “Start.” 
+4.  Wait for the prompt before pressing the button on the wireless accessory you wish to add.  5.  Press and release the button on the wireless accessory for one second. Do not hold it 
+down. Refer to the wireless accessory’s manual for more detailed instructions on how to 
+connect it to a Z-Wave controller such as Piper. 
+6.  Wait for Piper to connect and finish by giving your wireless accessory an identifying 
+name. 
+Once the accessory has been successfully added to your Piper system, it will appear in the 
+Wireless Accessory Drawer, available on the Dashboard. You can customize security rules 
+or automation rules based on the type of wireless accessory. To learn how to set up rules using 
+wireless accessories, refer to the Rules section. 
+Note: To connect additional wireless accessories to Piper, repeat the steps outlined above. 
+Removing Wireless Accessories 
+Removing wireless accessories is done by "exclusion" process, informing the Z-Wave enabled 
+wireless accessory in question to be excluded from your Piper system at home. To remove 
+wireless accessories from Piper, follow these steps: 
+1.  Open the App Menu and go to Settings > Wireless Accessories. 
+2.  Select “Remove.” 
+3.  Tap “Start.” 
+4.  Wait for the prompt before pressing the button on the accessory you wish to remove. 
+5.  Press and release the button on the wireless accessory for one second. Do not hold it 
+down. Refer to the wireless accessory’s manual for more detailed instructions on how to 
+remove it from a Z-Wave controller such as Piper. 
+6.  For increased accuracy, we recommend completing the removal process with your mobile 
+device in close proximity to the wireless accessory you wish to remove. 
+7.  The wireless accessory should now be removed from the Piper system and will no longer 
+appear in the app. 
+Reordering Wireless Accessories List 
+You can reorder the list of your wireless accessories from the Wireless Accessories settings: 
+1.  Open the App Menu and go to Settings > Wireless Accessories. 
+2.  iOS: Tap “Edit” then drag any accessory up or down to change its position on the list. 
+Tap "Done" when you are finished. 
+Android: Tap, hold and drag any accessory up or down to change its position on the list. 
+Note: On Android, you can also tap, hold and drag to reorder within the Wireless Accessory 
+Drawer on the Dashboard. 
+The order you set will be used throughout the Piper mobile app on your mobile device, but each 
+mobile device signed into your Piper account can have a unique order.   Resetting Wireless Accessory Controller 
+  
+While troubleshooting your wireless accessory connectivity issues over the phone, the customer 
+support representative may instruct you to perform a special procedure to solve the issue. After 
+performing this procedure, all of your wireless accessories must be reset and then added to your 
+Piper system again. 
+To perform this procedure, we ask you to call our customer support number below. Our support 
+team member can enable the Advanced Options under Settings > Wireless Accessories remotely 
+and assist you further to solve the issue. 
+Customer Support line: 
++1 (888) 612-7688 (US) 
++44 (800) 014-8109 (UK) 
++33 (805) 083240 (France) 
++39 (800) 596764 (Italy) 
+Working with IFTTT 
+What is IFTTT? 
+IFTTT is a web-based service that offers you creative control over the products and apps you 
+love. Piper is now compatible with IFTTT, allowing you to integrate your home security with 
+other apps and home automation products including Phillips Hue, Amazon Echo, and Nest 
+Thermostat. These simple, but powerful connections offer you new ways to protect your home, 
+business, family, or pets. 
+How does it work with Piper? 
+IFTTT allows you to create Recipes with the simple statement its name represents— “If This 
+Then That.” Channels are the basic building blocks of Recipes. Each Channel corresponds to an 
+app or product and has its own “This” triggers and “That” actions. Choosing a “This” trigger and 
+a “That” action creates your unique Recipe. A Channel may present a mix of “This” and “Thats.” 
+IFTTT also has a Do Button app that can be downloaded separately. It allows you to create a 
+shortcut to the “That” actions, so with a single tap from your home screen on your mobile device 
+you can change your security mode, receive a notification to arm Piper, or automate certain 
+accessories. Other apps are available from IFTTT that involve similar simplified functionalities. 
+To create these Recipes, you first have to connect to the Piper Channel through IFTTT. 
+To learn more about IFTTT, visit ifttt.com.  Connecting to the Piper Channel 
+1.  Create an IFTTT account online at ifttt.com/join, or download the free IFTTT app from 
+the App store for iOS or Google Play for Android.  
+2.  Login to your IFTTT account and begin to create a new Recipe. Scroll through or use the 
+search bar to find the Piper Channel. Tap on it, then tap Connect.  
+3.  IFTTT will redirect you to your web browser to complete the Channel activation. Enter 
+your Piper account email address and password and tap Submit. This will allow your 
+Piper to connect with IFTTT and integrate with other Channels.  
+4.  Once returned to the IFTTT app, you will be presented with a list of popular Recipes 
+which work well with Piper. You’ve now activated the Piper Channel! From here you can 
+select these pre-made Recipes or create your own. 
+5.  Creating Recipes is easy! To find out more check out our tutorial video.  
+Smart Arming with Life360 (Beta) 
+What is Smart Arming with Life360? 
+Life360 is a mobile app that uses location-based technology to detect where your family 
+members are. Smart Arming with Life360 (Beta) notifies users when the last family member has 
+left the house. When your home is empty, you can keep it secure by tapping on the Smart 
+Arming notification and automatically setting Piper back to Armed Away Mode, enabling the 
+corresponding security rules.  
+Smart Arming with Life360 Setup 
+To enable Smart Arming with Life360, follow these steps: 
+1.  In the Piper app, go the the App Menu and select Settings > Smart Arming with Life360 
+(Beta) and login to your Life360 account.  
+2.  Select the address where your Piper is located from your list of places and the 
+corresponding family circle and then tap “Save”. 
+Note: all members of a circle must enable the location setting on their mobile device for 
+Smart Arming with Life360 to work. 
+3.  Finish by tapping “Enable Smart Arming”. 
+Note: there must already be a rule set for Armed Away mode to enable Smart Arming 
+with Life360.  
+ 

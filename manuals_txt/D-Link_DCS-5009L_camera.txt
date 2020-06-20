@@ -1,0 +1,817 @@
+Version 1.0 | 08/04/2014
+User Manual
+Pan & Tilt Day/Night Network Camera 
+DCS-5009L Manual Overview
+D-Link reserves the right to revise this publication and to make changes in the content hereof without obligation to notify any 
+person or organization of such revisions or changes. Information in this document may become obsolete as our services and 
+websites develop and change. Please refer to the www.mydlink.com website for the most current information.
+Manual Revision
+Revision Date Description
+1.00 04 August, 2014 Initial release
+Trademarks
+D-Link and the D-Link logo are trademarks or registered trademarks of D-Link Corporation or its subsidiaries in the United 
+States or other countries. All other company or product names mentioned herein are trademarks or registered trademarks of 
+their respective companies.
+Copyright © 2012-2014 by D-Link Corporation.
+All rights reserved. This publication may not be reproduced, in whole or in part, without prior express written permission from 
+D-Link Corporation. Table of Contents
+Table of Contents
+Manual Overview...............................................................2 Live Video ......................................................................................21
+Manual Revision ............................................................................2 Setup ...............................................................................................22
+Trademarks .....................................................................................2 Wizard .....................................................................................22
+Internet Connection Setup Wizard ........................23
+Product Overview ..............................................................4
+Network Setup ..............................................................25
+Wireless Setup ......................................................................26
+Product Overview ..............................................................4
+Dynamic DNS (DDNS) .......................................................27
+Package Contents .........................................................................4
+Image Setup .........................................................................28
+System Requirements .................................................................4
+Video .......................................................................................29
+Introduction ...................................................................................5
+Audio .......................................................................................30
+Features ............................................................................................6
+Motion Detection ...............................................................31
+Hardware Overview .....................................................................7
+Mail ..........................................................................................32
+Front View ................................................................................7
+FTP ............................................................................................34
+Rear View .................................................................................8
+Time and Date ......................................................................36
+Installation .........................................................................9 Day/Night Mode .................................................................37
+Zero Configuration Setup ........................................................10 Camera Control ...................................................................38
+Camera Setup Wizard ................................................................13 Maintenance ................................................................................39
+Windows Users ....................................................................13 Admin .....................................................................................39
+Mac Users...............................................................................14 System ....................................................................................40
+Manual Hardware Installation ................................................15 Firmware Upgrade ..............................................................41
+Wireless Installation Considerations ....................................16 Status ..............................................................................................42
+WPS - Push Button Setup .........................................................17 Device Info ............................................................................42
+Mounting Instructions ..............................................................18 Active User ............................................................................43
+mydlink ...........................................................................................19
+Troubleshooting ..............................................................44
+Configuration ...................................................................20
+Technical Specifications ..................................................47
+Using the Web Configuration Interface ..............................20
+D-Link DCS-5009L User Manual 3 Section 1 - Product Overview
+Product Overview
+Product Overview
+Package Contents
+•  DCS-5009L Pan & Tilt Day/Night Network Camera 
+•  CAT5 Ethernet Cable
+•  Power Adapter
+•  Manual and Software on CD
+•  Quick Install Guide
+•  Mounting Bracket and Screws
+If any of the above items are missing, please contact your reseller.
+Note: Using a power supply with a different voltage than the one included with your 
+product will cause damage and void the warranty for this product.
+System Requirements
+•  Computer with Microsoft Windows® 8/7/Vista/XP, or Mac with OS X 10.6 or higher
+•  PC with 1.3 GHz or above and at least 128 MB RAM
+•  Internet Explorer 7, Firefox 12, Safari 4, or Chrome 20 or higher version with Java installed 
+and enabled
+•  Existing 10/100 Ethernet-based network or 802.11g/n wireless network
+D-Link DCS-5009L User Manual 4 Section 1 - Product Overview
+Introduction
+Congratulations on your purchase of the DCS-5009L Pan & Tilt Day/Night Network Camera . The DCS-5009L is a versatile and 
+unique solution for your home or small office. Unlike a standard webcam, the DCS-5009L is a complete system with a built-in CPU 
+and web server that transmits high quality video images for security and surveillance. The pan/tilt function allows the camera 
+to patrol a wide area, while the built-in IR LEDs provide around-the-clock surveillance regardless of the lighting conditions. 
+The DCS-5009L can be accessed remotely, and controlled from any PC/Notebook over your local network or through the 
+Internet via a web browser. The simple installation and intuitive web-based interface offer easy integration with your Ethernet/
+Fast Ethernet or 802.11 b/g/n wireless network, and with Wireless N technology you have the freedom to place the DCS-5009L 
+anywhere within range of your existing wireless network. The DCS-5009L also comes with remote monitoring and motion 
+detection features for a customizable, cost-effective security solution. 
+Your DCS-5009L is mydlink-enabled, which means that you can view and manage your camera from anywhere over the Internet 
+through the mydlink website, or through the mydlink mobile app for iOS and Android. You can view your live video feed, take 
+snapshots, and manage the camera’s configuration, all from anywhere you have Internet access.
+D-Link DCS-5009L User Manual 5 Section 1 - Product Overview
+Features
+Easy to Use and mydlink-Enabled for Easy Access and Management
+The DCS-5009L is a standalone surveillance camera that requires no special hardware or software, and can operate independently, even without a 
+PC. This camera is also mydlink-enabled, which means you can view and manage your camera through the mydlink website, or through the mydlink 
+mobile app for iOS and Android mobile devices.
+Pan/Tilt for Wide Viewing Area
+Patrol a large area with one camera thanks to the DCS-5009L’s pan and tilt functions. You can use the web interface to manually adjust the camera 
+lens position, or set up to 24 pre-defined preset positions, enabling you to quickly move to frequently used points of interest. 
+IR LEDs for Day and Night functionality
+The built-in infrared LEDs enable night time viewing of up to 8 meters (26 feet), giving you clear images regardless of lighting conditions.
+H.264 Codec for Smooth, Space-Efficient Video
+This camera supports use of the H.264 video codec, which gives you high-quality video with reduced bandwidth requirements. This means that 
+you can enjoy smoother, more reliable video streaming over the Internet, and less disk space is required to save recordings.
+Motion Triggered Notifications and Recordings
+The DCS-5009L can send e-mail notifications with snapshots or video clips whenever motion is detected. You can customize areas of the video to 
+monitor for motion to keep watch over specific areas of interest, and have the DCS-5009L send you an e-mail notification or upload images to an 
+FTP server whenever motion is detected. 
+802.11b/g/n Wireless or Ethernet/Fast Ethernet Support
+The DCS-5009L offers wireless 802.11b/g/n and Ethernet/Fast Ethernet connectivity, making it easy to integrate into your existing network 
+environment. The DCS-5009L works with either a 10 Mbps Ethernet-based network or 100 Mbps Fast Ethernet-based network for traditional wired 
+environments, and works with 802.11b/g/n wireless routers or access points for added flexibility. The Site Survey feature also allows you to view 
+and connect to any available wireless networks within range of the camera.
+D-Link DCS-5009L User Manual 6 Section 1 - Product Overview
+Hardware Overview
+Front View
+Light Sensor
+IR LED
+Camera Lens
+Manual Focus Bezel
+Microphone
+WPS LED Power and  Link LED
+D-Link DCS-5009L User Manual 7 Section 1 - Product Overview
+Rear View
+Power Connector
+WPS Button Ethernet Port
+Reset Button
+D-Link DCS-5009L User Manual 8 Section 2 - Installation
+Installation
+There are three ways to set up your camera:
+Zero Configuration Setup: If you have a mydlink-enabled router (D-Link cloud router), this is the easiest way to set up 
+your camera. Refer to “Zero Configuration Setup” on page 10.
+Camera Installation Wizard: If you do not have a mydlink-enabled router, use the Camera Installation Wizard to guide 
+you through setup and initial configuration of your camera. Refer to “Camera Setup Wizard” on page 13.
+Manual Hardware Installation: This section shows you how to manually set up your camera, however in order to use 
+the mydlink features of your camera, you will still need to run the Camera Installation Wizard. Refer to “Manual Hardware 
+Installation” on page 15.
+D-Link DCS-5009L User Manual 9 Section 2 - Installation
+Zero Configuration Setup
+If you have a mydlink-enabled Cloud Router, you can take advantage of Zero Configuration Setup. Zero Configuration 
+automatically configures your camera's settings for you, and adds the camera to your mydlink account automatically. This type 
+of setup allows you to set up your camera by simply plugging it in and connecting it to your router.
+Connect your camera to your mydlink-enabled Cloud Router and Zero Configuration will automatically configure your DCS-5009L 
+and add the camera to your mydlink account. After the short time it takes to do this you can remotely access your camera from 
+the website (http://www.mydlink.com) to manage and monitor your DCS-5009L.
+Connect the Ethernet Cable and Power Cable 
+Use the included Ethernet cable and plug it into the camera. Plug the other 
+end into an available port on your D-link Cloud Router. If you wish to use 
+your camera wirelessly, you will be able to remove the cable after Zero 
+Configuration Setup is complete. You can also plug the external power adapter 
+cable into the camera at this time.
+Attach the External Power Adapter
+Plug the power adapter in to a wall outlet.
+D-Link DCS-5009L User Manual 10 Section 2 - Installation
+Check Your mydlink Account
+From any computer with an Internet connection, open a web browser and log 
+in to your mydlink account. The mydlink page will check for new devices and 
+display a New device Found! pop-up notification in the bottom-left corner. 
+Click the notification to continue.
+A summary and confirmation notification will appear with the automatically 
+configured details. Make a note of the details and click Yes to add the camera 
+to your account.
+DCS-5009L
+D-Link DCS-5009L User Manual 11 Section 2 - Installation
+Zero Configuration will navigate to the mydlink Live View tab for your camera 
+where you will see a screen similar to the following.
+If you wish to connect your camera to your router wirelessly, you can simply 
+disconnect the Ethernet cable and move the camera to its intended location; 
+your router's wireless settings have been automatically transferred to the 
+camera, and no further configuration is required.
+Your camera is now set up, and you can skip to “mydlink” on page 19 to learn 
+more about the mydlink features of this camera, or to “Configuration” on page 
+20 for advanced configuration of your camera.
+Note: If the live image is blurry or out of focus, you can manually adjust the 
+focus by rotating the manual focus bezel surrounding the camera lens.
+D-Link DCS-5009L User Manual 12 Section 2 - Installation
+Camera Setup Wizard
+If you do not have a mydlink-enabled cloud router, you can use the Camera Setup Wizard to guide you through the process 
+of adding your camera to the mydlink service
+Windows Users
+Insert the Installation CD-ROM into your computer’s optical drive to start the autorun program. If the Setup program does not 
+automatically open on your computer, go to Start > Run. In the box, type D:\windows\Autorun.exe (where D: represents the 
+drive letter of your CD-ROM drive) and click OK
+Simply click Set up your Cloud Camera to go through the Setup Wizard, which will guide you step-by-step through the 
+installation process from connecting your hardware to configuring your camera and registering it with your mydlink account.
+If you do not have a CD-ROM drive, or the CD is missing, please download the Setup Wizard from http://www.mydlink.com/support
+D-Link DCS-5009L User Manual 13 Section 2 - Installation
+Mac Users
+Insert the Installation CD-ROM into your computer’s optical drive. On the desktop, open your 
+CD drive and double-click on the SetupWizard file.
+After about 20-30 seconds, the Setup Wizard will open, which will guide you step-by-step through the installation process 
+from connecting your hardware to configuring your camera and registering it with your mydlink account.
+If you do not have a CD-ROM drive, or the CD is missing, please download the Setup Wizard from http://www.mydlink.com/support
+D-Link DCS-5009L User Manual 14 Section 2 - Installation
+Manual Hardware Installation
+If you wish to set up your camera without using the Camera Setup Wizard, please follow these steps. 
+Note: In order to use the mydlink features of this product, you will need to go through the Camera Setup Wizard or Zero 
+Configuration Setup.
+Connect the Ethernet Cable and Power Cable
+Use the included Ethernet cable and plug it into the camera. Plug the other 
+end into an available LAN port on your router. Plug the supplied power 
+adapter into the back of the camera
+Plug in the External Power Adapter
+Plug the power adapter into a wall outlet.
+Configure Your Camera
+Refer to “Configuration” on page 20 for information on how to configure your 
+camera.
+Optional: Use WPS to Connect Wirelessly
+You can use WPS to connect your camera to your network wirelessly. For 
+more information, refer to “WPS - Push Button Setup” on page 17. If your router 
+does not support WPS, you will still be able to set up your camera’s wireless 
+settings in the camera’s web interface.
+D-Link DCS-5009L User Manual 15 Section 2 - Installation
+Wireless Installation Considerations
+Your D-Link Wireless Network Camera lets you access your network using a wireless connection from anywhere within the 
+operating range of your wireless network. However, the number, thickness and location of walls, ceilings, or other objects 
+that the wireless signals must pass through, may limit the range. Typical ranges vary depending on the types of materials and 
+background RF (radio frequency) noise in your home or business. The key to maximizing wireless range is to follow these basic 
+guidelines:
+1. Minimize the number of walls and ceilings between your adapter and other network devices (such as your 
+Network Camera) - each wall or ceiling can reduce your adapter’s range by 1-30 meters  (3-90 feet).
+2. Be aware of the direct line between network devices. A wall that is half a meter thick (1.5 feet), at a 45-degree 
+angle appears to be almost 1 meter (3 feet) thick. At a 2-degree angle, it can appear over 14 meters (42 feet) 
+thick. Position your devices so that the signal will travel straight through a wall or ceiling (instead of at an angle) 
+for better reception.
+3. Building materials make a difference. A solid metal door or aluminum studs may weaken the wireless signal. Try 
+to position your access points, wireless routers, and other networking devices where the signal passes through 
+drywall or open doorways. Materials and objects such as glass, steel, metal, walls with insulation, water (fish 
+tanks), mirrors, file cabinets, brick, and concrete will degrade your wireless signal.
+4. Keep your product at least or 1-2 meters (3-6 feet ) away from electrical devices or appliances that generate RF 
+noise.
+5. If you are using 2.4 GHz cordless phones or other radio frequency sources (such as microwave ovens), your 
+wireless connection may degrade dramatically or drop completely. Make sure your 2.4 GHz phone base is as 
+far away from your wireless devices as possible. The base transmits a signal even if the phone in not in use.
+D-Link DCS-5009L User Manual 16 Section 2 - Installation
+WPS - Push Button Setup
+If your router supports Wi-Fi Protected Setup (WPS), you can create a secure wireless connection using the WPS Button on the 
+back of the camera. Please note that WPS setup only establishes a secure wireless connection, and you will still need to run 
+the Setup Wizard to configure your camera.
+To create a WPS connection:
+Step 1
+Make sure the camera is plugged in, then press and hold the WPS button for 
+ten seconds. The blue WPS status LED will start blinking.
+Step 2
+Press the WPS button on your router within 60 seconds. The WPS button is 
+usually on the front or side of your router. On some routers, you may need 
+to log in to the web interface and click on an on-screen button to activate 
+the WPS feature. If you are not sure where the WPS button is on your router, 
+please refer to your router’s User Manual.
+The DCS-5009L will automatically create a secure wireless connection to your 
+router. While connecting, the blue LED will flash and your camera will reboot. WPS Button
+D-Link DCS-5009L User Manual 17 Section 2 - Installation
+Mounting Instructions
+To mount your camera on a wall or ceiling, please follow the steps below.
+It is suggested that you configure the camera  
+before mounting.
+Fasten the mounting bracket to the wall using 
+Place the mounting bracket where you want 
+1 the screws provided. 4
+to position the camera and use a pencil to 
+mark the holes.
+Do not overtighten the screws as this may  
+crack the mounting bracket.
+Use appropriate tools to drill two holes the 
+Using the supplied thumbscrew, fasten the  
+same diameter as the plastic anchors. After  2 5
+camera  to  the  mounting  bracket.  
+drilling the holes, insert the plastic anchors 
+Connect the power and Ethernet cables to the  
+to support the screws.
+camera. 
+If desired, the power and Ethernet cables  Adjust  the  angle  of  the  arm  on  the  
+can be concealed behind the mounting  3 mounting bracket as required. Tighten the  6
+bracket. Run the cables through the back of  thumbscrew to lock the arm in place.
+the mounting bracket, securing them with 
+the built-in guides. Be sure to leave enough 
+cable length protruding from the top to  
+allow connection to the camera.  
+D-Link DCS-5009L User Manual 18 Section 2 - Installation
+mydlink
+After registering your DCS-5009L camera with a mydlink account in the Camera Installation Wizard, you will be able to remotely 
+access your camera from the www.mydlink.com website. After signing in to your mydlink account, you will see a screen similar 
+to the following:
+For more details on using your camera with mydlink, go to the Support section of the mydlink website and check the User 
+Manual section for your product to find the latest instruction guide for your camera's mydlink features.
+D-Link DCS-5009L User Manual 19 Section 3 - Configuration
+Configuration
+Using the Web Configuration Interface
+After completing the Camera Installation Wizard, your camera is ready to use. The camera’s built-in web configuration interface 
+is designed to allow you to easily access and configure your DCS-5009L. There are two ways in which you can access your 
+camera’s web configuration interface:
+•  Log in to your mydlink account to access your camera’s configuration interface. 
+•  You can also access the interface locally by entering the IP address of your camera into a web browser, such as Internet 
+Explorer®. To log in, use the User name admin and the password you created in the Installation Wizard. If you did not create 
+a password, leave the password field blank. After entering your password, click OK.
+Note: If you are directly connecting your camera to your PC, or if you are using the camera on a closed network, the default IP 
+is 192.168.0.20. If the camera is connected to a router or network, a different IP address may have been assigned. 
+DCS-5009L
+D-Link DCS-5009L User Manual 2200 Section 3 - Configuration
+Live Video
+The Live Video screen shows you the live video feed from your camera. For information on how to configure your Live Video streams, refer to “Video” 
+on page 29. 
+Video  Click the H.264 or MJPEG radio button to choose which stream to 
+Compression  view. 
+Format:
+Pan/Tilt Wheel: Click on the directional arrows on the pan/tilt wheel to manually 
+control the pan and tilt functions of the camera. At any time, you can 
+click the home button in the center of the wheel to return the camera 
+to its home position.
+Go To: Select one of the preset locations from the drop-down menu to move 
+the camera to that position. Preset positions can be set by going to 
+the Camera Control section of the Setup menu.
+Pan Step: Select the increment of movement for each press of a pan (up/down)
+arrow on the pan/tilt wheel.
+Tilt Step: Select the increment of movement for each press of a tilt (left/right) 
+arrow on the pan/tilt wheel.
+Language: You can select the desired language for the web interface from this 
+drop-down menu.
+Zoom: Click on these buttons to adjust the level of digital zoom applied to 
+the image
+Audio: Click on these buttons to turn audio playback on and off.
+Night Mode: If you have set the night mode to manual, the night mode feature can 
+be toggled using these buttons
+Note: If the live image is blurry or out of focus, you can manually 
+adjust the focus by rotating the manual focus bezel surrounding the 
+camera lens.
+D-Link DCS-5009L User Manual 2211 Section 3 - Configuration
+Setup
+Wizard
+You may choose to configure your Internet connection by using the Internet Connection 
+Setup Wizard that includes step-by-step instructions. Otherwise, you may manually 
+configure your connection using the Manual Internet Connection Setup.
+Note: To register your camera with mydlink and enable its mydlink-related features, you 
+will need to use the Camera Installation Wizard. Please refer to “Camera Setup Wizard” 
+on page 13 for more details.
+D-Link DCS-5009L User Manual 2222 Section 3 - Configuration
+Internet Connection Setup Wizard
+This wizard will guide you through a step-by-step process to configure your new D-Link 
+Camera and connect the camera to the Internet. 
+Click Next to continue.
+Select what kind of Internet connection your camera should use:
+DHCP Connection (Default): If you are connected to a router, or are not sure which 
+connection to use, select DHCP Connection.
+Static IP Address: This will allow you to manually enter your network settings 
+for the camera. Select this option if your Internet Service Provider or network 
+administrator has provided you with a set of predefined IP addresses. If you are 
+not sure what settings to enter, check with your Internet Service Provider or 
+network administrator.
+PPPoE Connection: If your camera is directly connected to a DSL modem, you may 
+need to use PPPoE. Enter the username and password provided to you by your 
+Internet  Service Provider.
+Click Next to continue.
+D-Link DCS-5009L User Manual 2233 Section 3 - Configuration
+If you have a Dynamic DNS account and would like the camera to update your IP 
+address automatically, select Enable and enter your host information. Otherwise, 
+simply select Disable.
+Click Next to continue.
+Enter a name for your camera. Click Next to continue.
+Configure the correct time to ensure that all events are triggered, captured, and 
+scheduled at the right time. Click Next to continue.
+This page displays your configured settings. Click Apply to save and activate your 
+changes, or click Back to change your settings.
+D-Link DCS-5009L User Manual 2244 Section 3 - Configuration
+Network Setup
+This section allows you to configure your network settings.
+DHCP: Select this connection if you have a DHCP server running on your 
+network and would like a dynamic IP address to be assigned to your 
+camera automatically. 
+Static IP Client: Select this connection type if your Internet Service Provider (ISP) 
+or network administrator has provided you with a static or fixed IP 
+address and other network information for your camera. Click on the 
+Static IP Address radio button to activate this method.
+IP Address: The fixed IP address
+Subnet Mask: The default value is “255.255.255.0.” Used to determine 
+if the destination is the same subnet.
+Default Gateway: The gateway used to forward data to destinations 
+in a different subnet. Invalid gateway settings may cause the failure 
+of transmissions to a different subnet.
+Primary DNS: Primary domain name server that translates names to 
+IP addresses.
+Secondary DNS: Secondary domain name server to backup the 
+Primary DNS.
+PPoE If you need to connect to the Internet using a PPoE connection, click on 
+the PPoE radio button and enter the username and password provided 
+to you by your Internet Service Provider or Network Administrator
+Port Settings: You may configure a second HTTP port that will allow you to connect 
+to the camera via a standard web browser. The port can be set to a 
+number other than the default TCP port of 80. A corresponding port 
+must be opened on the router. For example, if the port is changed 
+to 1010, users must type http://192.168.0.100:1010 instead of only 
+“http://192.168.0.100”. 
+UPnP Settings: Enable this setting to configure your camera as a UPnP device in the 
+network. You can also enable UPnP port forwarding. 
+Bonjour  Enable this setting to allow your camera to be discovered by the 
+Settings: Bonjour service. You can also specify a Bonjour name for the device.
+D-Link DCS-5009L User Manual 2255 Section 3 - Configuration
+Wireless Setup
+This section allows you to set up and configure the wireless settings on your camera.
+Enable  Check this box to allow your camera to connect to your network 
+Wireless: wirelessly.
+SSID: Enter the network name (SSID) of the wireless network you want to 
+connect to. You can also click the Site Survey button below to choose 
+an available network and fill in settings automatically.
+Channel: If you are using Ad-Hoc as your connection mode, select the same 
+channel that is being used by your wireless network.
+Connection  Select the connection mode used by your wireless network. In most 
+Mode: cases, you should select Infrastructure. Ad-Hoc is only used if your 
+camera is directly connecting to another PC or device without the use 
+of a router or access point.
+Site Survey: Clicking this button will allow you to select an available wireless 
+network to connect to, and will fill in the necessary settings for you.
+Wireless  Select the wireless security mode used by your wireless network. If 
+Security Mode: you select WEP or WPA-PSK/WPA2-PSK, enter the password for your 
+wireless network in the text box that appears.
+D-Link DCS-5009L User Manual 2266 Section 3 - Configuration
+Dynamic DNS (DDNS)
+This section allows you to configure the DDNS setting for your camera. DDNS will allow all users to access your camera using a domain name instead 
+of an IP address.
+Enable: Click to enable the DDNS function.
+Server Address:  Select your Dynamic DNS Server from the pull-down menu.
+Host Name: Enter the host name of the DDNS server.
+User Name: Enter your username or e-mail used to connect to the DDNS.
+Password: Enter your password used to connect to the DDNS server.
+Timeout: This allows you to specify the periodic update time for the DDNS 
+address. 
+D-Link DCS-5009L User Manual 2277 Section 3 - Configuration
+Image Setup
+This section allows you to configure the image settings for your camera.
+Enable  If you have lights flickering in your camera video, try enabling 
+Antiflicker: antiflicker. Otherwise, you should leave this disabled.
+Flip Image:  Select this box to vertically flip the video.
+Mirror: Horizontally flip the video. 
+Note: If the camera is installed upside down, Flip Image and Mirror 
+should both be checked
+Brightness  Allows you to adjust the brightness level. Select a setting between 
+Control: -5 and +5.
+Contrast  Allows you to adjust the contrast level. Select a setting between -5 
+Control: and +5.
+Saturation  Allows you to adjust the saturation level. Select a setting between -5 
+Control: and +5.
+D-Link DCS-5009L User Manual 2288 Section 3 - Configuration
+Video
+This section allows you to configure the video settings for your camera.
+Video Profile: This section allows you to change the Resolution, FPS, and Quality.
+Encode Type: Your camera has separate settings for the H.264 and MJPEG video 
+streams.
+Resolution: Select the desired video resolution from three formats: 640x480, 
+320x240, and 160x112. Higher settings offer better quality, but will 
+require more bandwidth to stream.
+Bit Rate Select the desired bit rate for the video. A higher bit rate will increase 
+image quality, but will require more bandwidth to stream. 
+FPS: Select the frame rate (FPS) to use for the video stream. Higher settings 
+offer better quality, but will require more bandwidth to stream.
+JPEG Quality: Select one of five levels of image quality: Highest, High, Medium, 
+Low, and Lowest.
+Default View  Select the default encoding to use when viewing your video on the 
+Mode: Live Video page.
+Light  Select the frequency used by your lighting and power to help reduce 
+Frequency: image flicker.
+D-Link DCS-5009L User Manual 2299 Section 3 - Configuration
+Audio
+This section allows you to adjust the audio settings for your camera.
+Note: Please wait a few seconds for the camera to adjust the audio after making changes. 
+Audio Settings: You may Enable or Disable the camera audio feed.
+ 
+Volume  Select the desired volume percentage level. 
+Settings:
+D-Link DCS-5009L User Manual 3300 Section 3 - Configuration
+Motion Detection
+Motion detection allows you to mark areas of your camera’s video to monitor for motion, which can be used to trigger snapshots or recordings. 
+Refer to “Mail” on page 32 and “FTP” on page 34 for more details.
+Motion  Select whether you want to enable or disable the motion detection 
+Detection: feature of your camera.
+Time: Specify whether you want to Always have motion detection enabled, 
+or according to a Schedule that you define.
+Sensitivity: Specify the amount of difference required to determine whether 
+there was motion.
+Detection  Use your mouse to click on the areas of the video that you would like 
+Areas: to monitor for motion. 
+D-Link DCS-5009L User Manual 3311 Section 3 - Configuration
+Mail
+This section allows you to configure your camera to send snapshots and video clips to an e-mail address. If you are not sure what settings to use, 
+check with your e-mail service provider.
+SMTP Server  This is the domain name or IP address of your external e-mail server.
+Address:
+SMTP Server  This allows you to set the port for the SMTP Server. The default value 
+Port: is 25, and should only be changed if advised by your e-mail provider.
+Sender e-mail  This is the e-mail address listed as the sender for your notification 
+Address: e-mails.
+Receiver e-mail  This is the e-mail address that your notification e-mails will be sent to.
+Address:
+User Name: If the SMTP server uses authentication, enter your user name.
+Password: If the SMTP server uses authentication, enter your password.
+For example, if you want to use Gmail with SSL-TLS for e-mail 
+notifications, you can follow the setup procedure as below:
+Step 1 - Enter “smtp.gmail.com” in SMTP Server Address.
+Step 2 - Change the SMTP server port number from 25 to 465.
+Step 3 - Enter your gmail e-mail address in Sender E-mail Address.
+Step 4 - Enter the destination e-mail address in Receiver E-mail 
+Address.
+Step 5 - Enter the user name required to access the SMTP server.
+Step 6 - Enter the password required to access the SMTP server.
+Step 7 - Select SSL-TLS and then click Save Settings.
+Step 8 - Click the Test button to send a test e-mail to the account 
+listed above.
+Note: You can also use STARTTLS, which will use SMTP server port 
+number 587.
+Note: If you want to use a Yahoo SMTP server, the SMTP server address will 
+be different between each registered region, and only SMTP port 465 is 
+supported for SSL-TLS.
+D-Link DCS-5009L User Manual 3322 Section 3 - Configuration
+Enable the  Enabling this will allow snapshots to be e-mailed to you in different 
+emailing of  ways: 
+images to an 
+email account: •  Choosing Always will email snapshots continuously based on 
+the Email Interval specified. 
+•  Choosing Schedule will allow you to schedule when to start 
+and stop the emailing of snapshots.
+•  Select Motion Detection if you would like the camera to 
+email images only when motion is detected. You can choose 
+whether to email a snapshot immediately, or email 6 snapshots 
+together, with 3 frames before and after motion was detected. 
+You can also set the Frame interval time to specify how far 
+apart the snapshots should be.
+Email Interval: This sets the limit for how frequently email notifications will be sent. 
+This can be set from 1 to 65535 seconds.
+Enable the  Enabling this will allow video clips to be emailed to you in different 
+emailing of  ways. This is the same as emailing images, as specified above, but will 
+video clips  take video clips according to the Video Limit settings you specify.
+to an email 
+account:
+Test Email  This will send a test email according to the email settings you have 
+Account: specified above.
+D-Link DCS-5009L User Manual 3333 Section 3 - Configuration
+FTP
+This section allows you to configure your camera to send snapshots and video clips to an FTP server.
+Host Name: Enter the IP address of the FTP server that you will be connecting to.
+Port: Enter the port of the FTP server that you will be connecting to. 
+User Name: Enter the user name of your FTP server account.
+Password: Enter the password of your FTP server account.
+Path: Enter the destination path/folder to save files to on the FTP server.
+Passive Mode: Enabling passive mode may help you reach your FTP server if your 
+camera is behind a router protected by a firewall.
+Enable the  Enabling this will allow snapshots to be uploaded in different ways: 
+uploading of 
+images to an  •  Choosing Always will upload snapshots continuously based 
+FTP server: on the Image Frequency specified. 
+•  Choosing Schedule will allow you to schedule when to start 
+and stop the uploading of snapshots.
+•  Select Motion Detection if you would like the camera to 
+upload images only when motion is detected.
+Image  Set how frequently you want images to be taken and uploaded. You 
+Frequency: can choose to upload by frames per second, or by seconds per frame.
+Base File Name: Set the desired base file name for your snapshots.
+D-Link DCS-5009L User Manual 3344 Section 3 - Configuration
+File: Select how you want uploading of snapshots to be handled:
+•  Overwrite will replace the old snapshot with the new one. 
+This means you will only have one snapshot that is updated 
+every time a new one is taken.
+•  Date/Time Suffix will add the date and time to the end of the 
+snapshot file name. You can also choose to make subfolders 
+based on a period of time you specify to help you organize 
+your snapshots.
+•  Sequence Number Suffix will add a number to the end of the 
+snapshot file name up to the number you specify, after which 
+the oldest files will be overwritten.
+Enable the  Enabling this will allow video clips to be uploaded to your FTP server 
+uploading of  in various ways.
+video clip to an  •  Choosing Always will upload video continuously, based on 
+FTP server: the Video Limit specified below. 
+•  Choosing Schedule will allow you to schedule when to start 
+and stop the uploading of video.
+•  Select Motion Detection if you would like the camera to 
+upload video only when motion is detected.
+File Name  Set the desired base file name for your videos.
+Prefix:
+Video Limit: Specify the maximum file size and duration of the videos to be 
+uploaded.
+Test FTP Server: Clicking on the Test button will send a test JPEG snapshot to the FTP 
+server specified above to make sure that your settings are correct.
+D-Link DCS-5009L User Manual 3355 Section 3 - Configuration
+Time and Date
+This section allows you to configure the settings of the internal system clocks for your camera.
+Time Zone: Select the time zone for your region from the drop down menu.
+Synchronize  Enabling this will allow the camera to update its clock automatically 
+NTP Server: from an NTP server. Select the NTP server closest to you, and select 
+whether you want to apply daylight saving corrections.
+Set the Date  If Synchronize NTP Server is disabled, you can set the date and time 
+and Time  manually. You can also click on Copy Your Computer’s Time Settings 
+Manually: to automatically set the date and time based on your computer’s 
+settings.
+D-Link DCS-5009L User Manual 3366 Section 3 - Configuration
+Day/Night Mode
+This section allows you to configure when Day and Night modes are used. Day mode uses the infrared cut filter to provide a corrected color image 
+for times where there is available lighting. Night mode moves the filter out of the way to use all available light, and turns on the IR LED illuminators 
+to allow for clear black and white video in dark areas with little or no light.
+Auto: This mode will automatically switch between Day and Night mode 
+based on the amount of available lighting.
+Manual: This mode allows you to manually switch between modes through 
+the Live Video page.
+ 
+Always Day  This sets the camera to always use Day mode.
+Mode:
+Always Night  This sets the camera to always use Night mode.
+Mode: 
+Day Mode  This sets the camera to use Day mode during the times you specify, 
+Schedule: and will switch to Night mode outside the times you specify.
+D-Link DCS-5009L User Manual 3377 Section 3 - Configuration
+Camera Control
+This section allows you to configure the pan and tilt operations of your camera. You can specify the lens location for the Home button, and specify 
+up to 24 pre-set lens locations, allowing you to quickly view these pre-determined areas of the camera’s range from the Live Video screen.
+Pan/Tilt Wheel: Use the directional arrows on the wheel to move the camera lens 
+through its pan and tilt ranges.
+Set as Home: Click this button to set the current lens location as the Home location. 
+Once set, the camera will return to this location whenever the Home 
+button in the center of the pan/tilt wheel is clicked.
+Default Home: Clicking on this button returns the Home location to the factory 
+default setting. 
+Pan Step: Select the increment of movement for each press of a pan (up/down)
+arrow on the pan/tilt wheel.
+Tilt Step: Select the increment of movement for each press of a tilt (left/right) 
+arrow on the pan/tilt wheel.
+Preset Position: The camera allows you to specify up to 24 pre-determined lens 
+positions, which can be used to quickly move the camera’s view to 
+areas of interest. 
+•  Select the number of the position that you would like to specify.
+•  Use the pan/tilt wheel to move the camera’s lens to the desired 
+preset position.
+•  Enter a name to help you easily identify the preset.
+•  Click on the Set button to save the preset.
+•  Any pre-saved positions can be cleared by selecting the desired 
+preset and clicking on the Clear button. 
+D-Link DCS-5009L User Manual 3388 Section 3 - Configuration
+Maintenance
+Admin
+This section allows you to change the administrator’s password and configure the server settings for your camera. You can also manage the user 
+account(s) that are allowed to access to your camera.
+Admin  To change the admin password used to log into the web interface, 
+Password: enter the old password, then enter the new password and retype it 
+in the next text box, then click Apply.
+Camera Name: Specify a name for your camera
+LED Control: Select Normal to enable the LEDs on the front of the device, or select 
+Off to disable the LED. Disabling the LED function may be useful if 
+you want to make the camera less obvious.
+User Access  Select Enable to enable user access control or Disable to allow only 
+Control: the administrator account to access the camera.
+Snapshot URL  Select Enable to allow access to the current camera snapshot via the 
+Authentication: web address indicated.
+OSD Time: Select Enable to allow the current time to be added to the camera 
+video, and select a color to use for the text.
+Add User  You can create new users to provide viewing access for your camera’s 
+Account: video. User accounts will only be able to access the Live Video section 
+of the web configuration interface, but cannot access any other parts 
+or change any settings. 
+To create a new user, enter a user name, password, and retype the 
+password, then click Add. A maximum of 8 user accounts can be 
+created.
+User List: Displays the account names of authorized users. You can modify or 
+delete an account by clicking on its modify or delete icon.
+D-Link DCS-5009L User Manual 3399 Section 3 - Configuration
+System
+This section allows you to save and restore your configuration, restore the factory settings, and/or restart the camera.
+Save To Local  Click the Save Configuration button to save the current camera 
+Hard Drive: configuration to your local PC.
+Load From  To load a previously saved configuration, click the Browse... 
+Local Hard  button, select your saved configuration file, then click the Restore 
+Drive: Configuration From File button.
+Restore  Click the Restore Factory Defaults button to reset all settings back 
+To Factory  to the factory defaults. Please note that this will erase any changes 
+Default: you have made to the settings of the camera.
+Reboot The  Click the Reboot the Device button to reboot the camera.
+Device:
+D-Link DCS-5009L User Manual 4400 Section 3 - Configuration
+Firmware Upgrade
+Your current firmware version and date will be displayed on your screen. You may go to the D-Link Support Page to check for the latest firmware 
+versions available. 
+To upgrade the firmware on your DCS-5009L, download the latest firmware from the 
+D-Link Support Page to your local hard drive. Click the Browse... button and select the 
+firmware file, then click the Upload button to start the firmware upgrade.
+Warning: The firmware upgrade process must not be interrupted or the camera may be 
+damaged. When upgrading firmware, do not unplug the camera or your PC, or close your 
+web browser until the process is complete. It is also highly recommended that you use a 
+wired connection for your camera and PC when upgrading firmware.
+D-Link DCS-5009L User Manual 4411 Section 3 - Configuration
+Status
+Device Info
+This section displays all the detailed information about your device and network settings.
+D-Link DCS-5009L User Manual 4422 Section 3 - Configuration
+Active User
+This page lists all the active users’ information including the User Name, IP address, and the time that camera access began.
+D-Link DCS-5009L User Manual 4433 Section 4 - Troubleshooting
+Troubleshooting
+1. What is Remote Access? How do I enable it?
+Remote Access allows you to access your camera from any PC connected to the Internet through a web browser. This lets you view your camera 
+feed and manage your camera’s settings when you’re away from home. 
+To enable Remote Access, simply go through the Camera Installation Wizard included on the Installation CD that came in your package. You can 
+also download the wizard from: http://www.mydlink.com/support
+After going through the wizard, you should see “Remote Status: Enabled” on the summary page.
+If you see Remote Status: Disabled, make sure that:
+the front LED on your camera is lit solid green
+your Internet connection is working
+your router’s LAN & WAN connections are working properly
+your router has UPnP enabled (if your router does not support UPnP, please refer to Appendix A)
+your router can get a public IP address
+your router’s firmware has been upgraded to the latest version
+you have tried rebooting your router by unplugging it, then plugging it back in
+After checking the above items, you can click the Retry button to refresh the summary screen to see if Remote Access has been enabled.
+2. What can I do if I forget the password for my camera’s web configuration interface?
+If you forget your password, you will need to perform a factory reset of your camera. This process will change all your settings back to the factory 
+defaults. It is therefore recommended that you make a record of the password for future reference. 
+To reset your camera, please use an unfolded paperclip to press and hold the RESET button for at least 10 seconds while your camera is plugged in.
+3. The image on the live view is blurry or out of focus, what can I do?
+You can manually adjust the focus of the lens by rotating the bezel on the front of the camera (surrounding the lens). While watching the live view, 
+rotate the bezel until the desired level of focus is achieved.
+D-Link DCS-5009L User Manual 44 Section 4 - Troubleshooting
+4. Why don’t the LEDs light up?
+The power supply might be faulty. Confirm that you are using the provided DC 12V power supply for this network camera. Verify that the power 
+supply is correctly connected. The WPS LED will only turn on if there is a WPS connection present, the camera may still be functioning correctly 
+even if this LED is not lit. If the camera is functioning normally, the LEDs may have been disabled. See “Admin” on page 39 for information about how 
+to enable the LEDs.
+5. Why is the camera’s network connection unreliable?
+There might be a problem with the network cable. To confirm that the cables are working, PING the address of a known device on the network. If 
+the cabling is OK and your network is reachable, you should receive a reply similar to the following (…bytes = 32 time = 2 ms). 
+Another possible problem may be that the network device such as a hub or switch utilized by the Network Camera is not functioning properly. 
+Please confirm the power for the devices are well connected and functioning properly.
+If you are using a wireless connection to connect the camera, be aware of the range limitations of the wireless N standard. Most wireless N devices 
+have a maximum indoor range of around 70 metres (230 feet). Also be aware that obstacles such as walls, floors, doors and other solid objects can 
+have an adverse effect on signal range. 
+6. Why does a series of broad vertical white lines appear throughout the image?
+It could be that the image sensor has become overloaded when it has been exposed to bright light such as direct exposure to sunlight or halogen 
+lights. Reposition the camera into a more shaded area immediately, as prolonged exposure to bright lights will damage the sensor.
+7. The camera is producing noisy images. How can I solve the problem?
+The video images might be noisy if the camera is used in a very low light environment. Try switching to night mode if you are consistently monitoring 
+a low light area.
+D-Link DCS-5009L User Manual 45 Section 4 - Troubleshooting
+8. The images are poor quality, how can I improve the image quality?
+Make sure that your computer’s display properties are set to at least 6-bit color. Using 16 or 256 colors on your computer will produce dithering 
+artifacts in the image, making the image look as if it is of poor quality. 
+You may also need to check your image settings to make sure the brightness, contrast, and other settings are set properly. For more, refer to ”Image 
+Setup” on page 28.
+9. Why are no images available through the Web browser?
+ActiveX might be disabled. If you are viewing the images from Internet Explorer make sure ActiveX has been enabled in the Internet Options menu. 
+You may also need to change the security settings on your browser to allow the ActiveX plug-in to be installed. Also, check that you have the latest 
+version of Java installed. Java can be downloaded from http://www.java.com
+If you are using Internet Explorer with a version number 6 or lower, then you will need to upgrade your Web browser software in order to view the 
+streaming video transmitted by the Network Camera. 
+D-Link DCS-5009L User Manual 46 Appendix A - Technical Specifications
+Technical Specifications
+SYSTEM REQUIREMENTS WIRELESS TRANSMIT OUTPUT POWER (TYPICAL)
+•  Microsoft Windows® 8/7/Vista/XP, or Mac with OS X 10.6 or higher •  11b - 16 dbm
+•  PC with 1.3 GHz or above and at least 128 MB RAM •  11g/11n - 12 dbm
+•  Internet Explorer 7, Firefox 12, Safari 4, or Chrome 20 or higher 
+SDRAM
+version with Java installed and enabled
+•  64 MB
+NETWORKING PROTOCOL
+FLASH MEMORY
+•  IPV4, ARP, TCP, UDP, ICMP
+•  8 MB
+•  DHCP Client
+•  NTP Client (D-Link) RESET BUTTON
+•  DNS Client •  Reset to factory default
+•  DDNS Client (Dyndns and D-Link)
+VIDEO CODECS
+•  SMTP Client
+•  H.264
+•  FTP Client
+•  MJPEG
+•  HTTP Server
+•  JPEG for still images
+•  PPPoE
+•  UPnP Port Forwarding VIDEO FEATURES
+•  LLTD •  Adjustable image size and quality
+•  Time stamp and text overlay
+BUILT-IN PROTOCOL 
+•  Flip and Mirror
+•  10/100 BASE-TX Fast Ethernet
+•  RESOLUTION
+•  802.11b/g/n WLAN
+•  640 x 480 at up to 30 fps
+WIRELESS CONNECTIVITY •  320 x 240 at up to 30 fps
+•  802.11b/g/n Wireless with WEP/WPA/WPA2 security •  160 x 112 at up to 30 fps
+•  WPS
+D-Link DCS-5009L User Manual 47 Appendix A - Technical Specifications
+LENS POWER
+•  Focal length: 2.2 mm, F2.0
+•  Input: 100-240 V AC, 50/60 Hz
+SENSOR •  Output: 12 V DC, 1 A
+•  VGA 1/5 inch CMOS sensor
+DIMENSIONS (W X D X H)
+IR LED
+•  Camera Only - 102.35 x 101.27 x 133.6 mm (4.03 x 3.99 x 5.26 inches)
+•  8 meter illumination distance with 10 LEDs and light sensor
+•  Camera Including Mounting Bracket - 102.35 x 101.27 x 230.0 mm 
+(4.03 x 3.99 x 9.06 inches)
+MINIMUM ILLUMINATION
+•  Color: 1 lux @ F2.0 (Day)
+WEIGHT
+•  B/W: 0 lux @ F2.0 (Night)
+•  Device: 292.4 grams (0.64 lbs) 
+VIEWING ANGLE •  Mounting Bracket: 60.8 grams (0.13 lbs)   
+•  Horizontal: 66.2°
+MAX POWER CONSUMPTION 
+•  Vertical: 49.08°
+•  8.64 W
+•  Diagonal: 77.04°
+OPERATION TEMPERATURE
+PAN/TILT RANGE •  0 ˚C to 40 ˚C (32 ˚F to 104 ˚F)
+•  Pan Range: +170° ~ -170° (Total 340°)
+STORAGE TEMPERATURE
+•  Tilt Range: +95° ~ -25° (Total 120°) •  -20 ˚C to 70 ˚C (-4 ˚F to 158 ˚F)
+DIGITAL ZOOM HUMIDITY
+•  Up to 4x •  20-80% RH non-condensing
+3A CONTROL EMISSION (EMI), SAFETY & OTHER CERTIFICATIONS
+•  AGC (Auto Gain Control) •  FCC Class B
+•  AWB (Auto White Balance) •  IC
+•  AES (Auto Electronic Shutter) •  C-Tick
+•  CE
+D-Link DCS-5009L User Manual 48

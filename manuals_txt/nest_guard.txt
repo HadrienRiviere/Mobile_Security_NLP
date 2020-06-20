@@ -1,0 +1,822 @@
+Nest Secure
+User’s Guide Contents
+In the box 4
+                                                                                                                                                                                                                                      
+Do this first 5
+                                                                                                                                                                                                                                 
+Meet Nest Secure 6
+                                                                                                                                                                                                               
+Placement tips 10
+                                                                                                                                                                                                                    
+  Where to place Nest Guard 10
+                                                                                                                                                                         
+  Nest Guard’s standard detection area 12
+                                                                                                                                           
+  Where you can place Nest Detect 13
+                                                                                                                                                        
+  Nest Detect’s standard detection area 14
+                                                                                                                                         
+  Dog Pass 15
+                                                                                                                                                                                                                          
+Using Nest Secure 16
+                                                                                                                                                                                                           
+  Setting the security levels 16
+                                                                                                                                                                           
+  Arming and disarming 17
+                                                                                                                                                                                       
+  Nest Secure features 17
+                                                                                                                                                                                         
+  Nest Guard features 18
+                                                                                                                                                                                           
+  Nest Detect features 20
+                                                                                                                                                                                         
+  Nest Tag features 20
+                                                                                                                                                                                                   
+Testing, maintenance and other useful information 21
+                                                                                                                 
+Safety and regulatory information 27
+                                                                                                                                                               
+Warranty 30
+                                                                                                                                                                                                                                     
+Want help?
+Go to nest.com/support for installation videos and troubleshooting 
+You can also find a Nest Pro to install Nest Secure 
+3 In the box 
+Nest Guard Nest Tags Nest Detect sensors  
+Alarm, motion sensor  Key fob to quickly arm and  with open-close magnets
+and keypad  disarm your home   Senses when a door or window opens 
+or when someone walks nearby 
+For Nest Guard installation For Nest Detect installation
+Power cable Power  Power adapter  Corner  Extra adhesive  Screws
+adapter bracket and screw backplates mounting strips
+4 Do this first 
+The Nest app will show you how to  
+set up, install and test everything 
+Get the Nest app Tap the Add button  Add Nest Guard first 
+for Android or iOS  Don’t see a   ?  Then add Tags and Detects 
+Tap the    
+Want to see how it’s done?
+Go to nest.com/installsecure for installation videos and additional tips 
+SYSTEM REQUIREMENTS
+To set up and use Nest Secure you’ll need a compatible iOS or Android phone or tablet with 
+Bluetooth 4 0, the Nest app and a free Nest Account, an unused indoor power outlet, and a 
+Wi-Fi 802 11 a/b/g/n (2 4GHz or 5GHz) network connection  Go to nest.com/requirements 
+for more information. Nest Guard 
+Alarm, motion sensor and keypad  
+Light ring
+Shows you the alarm’s 
+status  Learn more 
+Motion sensor
+on page 19 
+Detects when someone 
+walks nearby 
+Speaker
+For spoken alerts 
+and the alarm 
+Front
+Panic button 
+Power port 
+Press to instantly 
+Plug in the power cable 
+sound the alarm and 
+here  A green light 
+send an emergency 
+tells you it’s receiving 
+alert to everyone who 
+AC power 
+shares access to your 
+Nest home 
+Back
+6 Nest Guard’s illuminated keypad
+Guard lights up when you approach, and the buttons 
+light up as you need them so you’ll know what to do 
+Security level buttons 1 2 3
+Let you switch between 
+security levels  4 5 6 Keypad
+Enter your passcode 
+7 8 9 or tap Nest Tag here 
+to arm and disarm 
+0
+Info button
+Press when lit to check the 
+status of your security system 
+7 Nest Tag 
+Key fob lets you arm or disarm without entering a passcode  
+Disarm with a tap
+Tap and hold Nest Tag on 
+Guard to arm or disarm 
+when you’re leaving and 
+coming home 
+Give one to people 
+you trust
+Kids and guests won’t have 
+to remember a passcode  
+You can also set a schedule 
+that lets them come in at 
+certain times 
+Key loop 
+Attach to your key ring 
+8 Nest Detect
+Nest Detect is a versatile sensor  Put it on a door or window 
+to know when it opens or closes, or put it on the wall to know 
+if someone walks nearby  
+Motion sensor 
+and button 
+Open-close magnet
+Senses when someone 
+walks by  When Nest  Works with Nest Detect 
+Secure is armed, press  to sense when a door 
+the button to open a  or window opens or closes 
+door or window without 
+the alarm going off 
+Light ring 
+Press the button and 
+the light will show you 
+Nest Detect’s status 
+Battery  Mounting backplate
+compartment 
+Attaches Nest Detect  
+Includes one CR123A  to a flat surface 
+3V lithium battery 
+9 Placement tips
+The Nest app will tell you how to install and set up Nest Guard, 
+Nest Detect and Nest Tag  Here are some tips to get started 
+ 
+ 
+ 
+Where to place Nest Guard
+28-42 inches
+(0 7-1 2 m)
+It should be close to where you   Make sure it’s at the right height.
+come and go.
+Put Nest Guard on a table or low shelf so it’s 
+So it’s easy to access on your way   easy to reach and its motion sensor can see 
+in and out  the room  It must be between 28 and 42 inches 
+above the floor  Use an unswitched wall outlet. 
+Choose an outlet that’s not controlled 
+by a switch, so you don’t accidentally 
+turn off Nest Guard  The included bracket 
+helps keep Nest Guard plugged in  
+Find a spot with a good   The motion sensor should face front.
+Wi-Fi signal.
+Keep it free from mail, keys and anything  
+Nest Guard needs a Wi-Fi internet  else that could block its view  
+connection so it can send alerts 
+and notifications to your phone  Nest Guard placement Standard detection area
+Guard should be placed on a surface 28 to  Nest Guard can sense motion from people walking 
+42 inches (0 7 to 1 2 m) above the floor, and  up to 10 feet (3 m) away and up to 90° in front of it 
+within 2 feet (0 6 m) of the edge so it has a 
+clear view of the room  If it’s placed outside 
+of these specifications, the detection range 
+can be affected, and you may also experience 
+false alarms  10' (3 m)
+42"
+10' (3 m)
+28"
+42"
+28"
+Side view
+14'
+(4 m)
+14'
+(4 m)
+Top view
+12 Where you can place Nest Detect 
+Nest Detect will sense different things depending on where you place it.
+On a door On a window On a wall
+Nest Detect can sense when a  Nest Detect can sense when   Nest Detect can sense when 
+door opens or closes, or when  a window opens or closes   someone walks nearby 
+someone walks nearby  
+On a door On a window On a wall
+Detects motion in a room 
+or hallway 
+ 
+Detects open-close
+(Requires open-close magnet)
+13 Nest Detect mounting height Standard detection area
+Nest Detect must be mounted 5 feet to 6 feet  Nest Detect can sense motion from people walking 
+4 inches (1 5 to 2 m) above the floor  If you mount  up to 15 feet (4 5 m) away 
+it higher or lower, the detection range decreases, 
+and you may also experience false alarms 
+15' (4.5 m)
+1155''  ((44..55  mm))
+6'4"
+6'4"
+6'4"
+5'
+5'
+5'
+Side view
+14'
+(4.3 m)
+14'
+14'
+(4.3 m)
+(4.3 m)
+Top view
+14 Dog Pass
+If you have a dog under 40 pounds (18 kg), turn on Reduced Motion Sensitivity in 
+the Nest app settings to help avoid false alarms  There are different installation 
+requirements and motion detection ranges when using Reduced Motion Sensitivity 
+Mounting height Reduced Motion Sensitivity detection area
+Nest Guard should be placed above your dog’s head,  Nest Detect can sense motion from people 
+but still mounted within the standard range of 28 to  walking up to 10 feet (3 m) away 
+42 inches (0 7 to 1 2 m) above the floor 
+Nest Detect should be mounted exactly 6 feet 4 
+inches (1.9 m) above the floor. 10' (3 m)
+6'4" (1.9 m)
+3' (0.9 m)
+Nest Guard Side view
+6'4"
+(1.9 m)
+12'
+(3.5 m)
+Nest Detect Top view
+15 Using Nest Secure
+SETTING THE SECURITY LEVELS
+Nest Secure has three different security levels you’ll use when you’re 
+home or away  You can easily switch between them on Nest Guard or 
+with the Nest app  
+WHAT HAPPENS WHAT’S DETECTED NOTIFICATIONS
+Alarm and  
+Motion Open/close
+security alerts
+Away and Guarding   The alarm sounds when a door 
+or window opens, or when 
+Use when no one   there’s motion in a room 
+is home  
+Home and Guarding   The alarm sounds when a door  
+or window opens  —
+Use when you’re home 
+and want security  
+Off  The alarm won’t sound 
+— — —
+Use when you don’t 
+want security  HOW TO ARM AND DISARM NEST SECURE FEATURES
+You can arm and disarm your home in three ways:  No Rush
+entering your passcode on Guard, tapping Tag on  With No Rush, you can take the time you need to leave 
+Guard, or using the Nest app  When you hear Nest  home or disarm before the alarm sounds  By default, 
+Guard’s Heads-Up alert, the light ring will also show  you have 60 seconds  But you can use the Nest app 
+you a countdown so you know how much time you  to choose a different time limit between 30 seconds 
+have before the alarm sounds   and 5 minutes 
+Nest Tag  Remind Me
+Hold Tag on Nest Guard to: If anyone forgets to arm or disarm, the Nest app can 
+• Disarm send a Remind Me notification to the last person who 
+• Arm to Away and Guarding left the house or the first to come home  They can easily 
+• Silence when the alarm is sounding arm or disarm by tapping the Remind Me notification  
+Nest Guard IMPORTANT: Nest Secure does not automatically 
+• To arm: Press a security level button   arm or disarm when you leave or come home  Arming 
+• To disarm: Enter your passcode, then  and disarming must be done manually with the Nest 
+press the   button  app or on Guard 
+• If you make a mistake, press the   
+button, then try again 
+If you enter the wrong passcode five times, 
+you won’t be able to try again for 90 seconds  
+But you can use the Nest app or Tag to disarm 
+17 NEST GUARD FEATURES
+Info button
+Nest cellular backup 
+If the Info button lights up, there’s an issue with your  You can purchase a cellular backup subscription  
+security system  Press the button and Nest Guard  at store.nest.com that will let Nest Secure stay 
+will tell you what it is  Some issues might prevent the  connected if your home’s Wi-Fi or internet connection 
+system from keeping your home secure  has stopped working  With cellular backup, you can 
+still get mobile notifications, arm and disarm with 
+Issues that won’t prevent arming:
+your phone, and more 
+•  A door or window is open
+Heads-Up and alarm
+•  Power loss on Guard
+•  Poor network connectivity  Heads-Up
+•  A device needs attention and should be checked Before the alarm goes off, you’ll usually hear a 
+Issues that prevent arming: Heads-Up: a friendly, human voice that tells you the 
+alarm is about to sound  After the Heads-Up, you’ll 
+If there’s an issue that will prevent arming the Info 
+have 60 seconds to disarm  This time can be adjusted 
+button will turn red 
+in the Nest app’s alarm countdown setting 
+•  Very low battery on Guard
+Alarm
+•  A software update is in progress
+When Nest Guard sounds the alarm, its light ring will 
+•  Hardware failure pulse red  You can also get a mobile alert so you’ll know 
+•  Wireless interference what’s happening at home  To turn the alarm off, use 
+the app, enter your passcode on Nest Guard, or tap 
+IMPORTANT: If you leave a window or door open and  Nest Tag on Guard 
+arm Nest Secure, the Detect on that door or window 
+Panic button
+is temporarily deactivated  The alarm won’t sound if 
+Nest Guard’s panic button can also sound the alarm  
+someone opens it more or closes it 
+Press and hold the button until the alarm sounds  The 
+light ring will also turn red  If you release the button 
+Backup features early, the alarm won’t sound  
+Pressing the panic button sounds the alarm and sends 
+Nest Guard battery backup 
+mobile notifications to other people who share access 
+Nest Guard includes a backup battery that will last for 
+to your home with the Nest app 
+up to 12 hours  So even if the power is out, Nest Secure 
+can still detect when an intruder is in your home and 
+sound the alarm  IMPORTANT: Nest Secure and cellular backup  
+do not include third-party monitored emergency 
+notifications, response or police dispatch 
+18 Nest Guard lights and sounds
+What you see  What you hear  What it means 
+Green light ring countdown  “YOU HAVE [ONE MINUTE] TO EXIT ” After the countdown, the alarm will 
+LS Away and Guarding illuminated sound if motion is detected, or doors  
+VE or windows are opened 
+E
+L
+TY  Home and Guarding  CHIME Alarm will sound if doors or windows 
+RI illuminated are opened 
+U
+C
+E
+S Off illuminated CHIME The alarm won’t sound 
+S Info button  EXAMPLE: “THE BEDROOM  One or more potential issues exist  
+N illuminated white WINDOW IS OPEN ”
+O
+TI
+P
+E
+C Info button  EXAMPLE: “NEST DETECT ON THE  There are one or more issues that may 
+X
+E illuminated yellow BACK DOOR WAS TAMPERED WITH ” require attention 
+D 
+N
+A
+S 
+E Info button  EXAMPLE: “NEST GUARD IS  One or more issues that will prevent 
+U
+S illuminated red UNPLUGGED AND THE BACKUP  arming exist 
+IS BATTERY IS TOO LOW ”
+P
+U
+S- Yellow light ring   “PLEASE ENTER YOUR PASSCODE ” Heads-Up: the alarm will sound if you 
+D countdown with   don’t disarm with your passcode 
+A
+E number keys illuminated or Tag before the countdown ends 
+H
+P
+TU Pulsing blue light ring “USE YOUR NEST APP TO BEGIN SETUP” Initial setup is in process 
+E
+S
+R
+O Pulsing yellow light ring NOTHING Nest Guard’s battery is extremely low  
+RR and needs to be plugged in and charged 
+E before normal operation can resume 
+M
+AR Pulsing red light ring EXAMPLE: “SECURITY ALERT    The alarm is sounding  
+L THE FRONT DOOR WAS OPENED ” 
+A
+[ALARM SOUNDS]
+19 NEST DETECT FEATURES NEST TAG FEATURES
+Quiet Open Home Entry Schedules
+When Nest Secure is set to Home and Guarding,   When you give a Nest Tag to someone you can also set 
+you can use Quiet Open to open a door or window  a schedule for them, so people like your dog walker or 
+without the alarm going off  Press the button on the  cleaner can only come in during certain times 
+Nest Detect that you want to use  The light ring will 
+Disabling Nest Tag
+turn green, and you’ll have 10 seconds to open it   
+Your Detect will automatically re-arm when you   If you lose or misplace a Tag, you can disable it with the 
+close the door or window   Nest app in the Settings menu  You can always re-enable 
+your Tag later 
+You can enable or disable Quiet Open in the Nest app’s 
+Settings menu  Select Security then Security Levels 
+Add more Nest Tags
+Pathlight
+You can give Nest Tags to everyone who needs to enter 
+When you walk by Nest Detect in the dark, Pathlight  your home  Use the Nest app to scan the QR code on a 
+turns on to help light your way  Using Pathlight may  new Tag and assign it to anyone you like 
+decrease Nest Detect’s battery life, so you can change 
+the brightness or turn it off with the Nest app 
+TAMPER DETECTION
+Pathlight is off by default  You’ll need to turn it on with 
+the Nest app in Nest Detect’s Settings menu  Nest Guard and Nest Detect can sense if they’re being 
+tampered with  
+Dog Pass
+If you have a dog under 40 pounds (18 kg), you can turn  In Home and Guarding, the alarm sounds when:
+on Reduced Motion Sensitivity with the Nest app to  •  The power cable is unplugged from Nest Guard’s 
+help prevent false alarms caused by your dog   power port
+Tamper detection •  Nest Detect is removed from the backplate
+If someone tampers with Nest Detect and removes it  In Away and Guarding, the alarm sounds when:
+from the backplate, the Nest app will send you an alert  •  Nest Guard is picked up or moved if motion  
+to let you know   detection is on
+•  The power cable is unplugged from 
+Add more Nest Detects Nest Guard’s power port
+You can have up to 30 Nest Detects (go to  •  Nest Detect is removed from the backplate
+nest.com/howmany) in your home to look after doors, 
+windows and rooms  Adding more is easy  Just use the 
+Nest app to scan the QR code on your new Nest Detect 
+to get started 
+20 Testing, maintenance and other useful information
+TESTING How to check Detect’s status
+Just press the button and the light ring will tell 
+Full installation testing
+you if Nest Detect is working and connected to 
+Once your installation is complete, test to make  Nest Guard 
+sure all parts of Nest Secure are working  
+UL requirements state that you should also test  What you see What it means
+Guard weekly, and test all of your Detects’ open/
+close and motion sensing at least once a year  
+BLUE pulse Nest Detect is working right 
+You should also re-test Guard if you move it to a 
+new location 
+Testing Nest Guard GREEN pulse If enabled, Quiet Open can be 
+used on this door or window 
+1   Set the security level to Away and Guarding 
+and wait for the countdown to finish 
+5x YELLOW pulses There’s a problem with Nest 
+2   Walk past Nest Guard (within 10 feet) to 
+Detect  Check the Nest app 
+trigger the motion sensor 
+for more information  It could 
+3   Nest Guard will speak the Heads-Up alert  mean a few things:
+“Please enter a passcode ” The alarm will 
+• The battery is critically low 
+sound after the countdown ends 
+and needs to be replaced  
+If you don’t want to test the alarm, disarm by 
+• Nest Detect needs to  
+entering your passcode or tapping a Tag on 
+be recalibrated 
+Guard before the countdown ends  
+• There’s an issue with 
+Testing Nest Detect Detect’s hardware 
+1    Set the security level to Away and Guarding 
+and wait for the countdown to finish  BLUE pulses Nest Detect hasn’t been 
+set up and added to your 
+2   Walk past a Detect that’s installed on a wall 
+Nest Account 
+or door, or open the door or window that it’s 
+installed on  RED blinking Unpaired, and critical battery
+3   Nest Guard will speak the Heads-Up alert 
+“Please enter a passcode ”
+4  D  isarm by entering your passcode or tapping 
+Tag on Guard 
+5   Repeat the previous steps for all Detects in 
+your home   MAINTENANCE
+Nest Guard Nest Detect
+Restarting Powering off
+Restarting Nest Guard can help with troubleshooting  If you need to power off Nest Detect, just remove 
+some issues   the battery  
+1  Disarm Nest Secure  Restarting
+2  Press and hold the “5” button until Guard’s light  Restarting Nest Detect can help with troubleshooting 
+ring starts spinning blue (about 10 seconds)  some issues  
+3  Release the button when Guard tells you to  1  Press and hold the button until the light ring pulses 
+4  Guard will restart and say, “Hi, from Nest ” blue once (about 10 seconds )
+Reset to factory settings 2  Release the button 
+If you remove Guard from your Nest Account and  Reset to factory settings
+you want to add it back, you’ll need to reset it to  If you remove Nest Detect from your Nest Account  
+factory settings   and you need to add it back, you’ll need to reset it  
+Follow these steps: to factory settings  
+1  Disarm Nest Secure  1  Press and hold Detect’s button until the light ring 
+2  Press and hold the “2” button until Guard asks  stays yellow (about 15 seconds)  
+if you want to reset  2  Release the button  You can cancel the reset by 
+pressing the button again while the light is yellow 
+Note: You won’t be able to reset if Nest Secure is 
+armed, sounding a Heads-Up or sounding an alarm   Check for updates
+Check for updates Nest Detect will automatically update its software,  
+but you can manually check for updates if you want 
+Nest Guard will automatically update its software, 
+but you can manually check for updates if you want  Follow these steps: 
+Follow these steps:  1  Disarm Nest Secure 
+1  Disarm Nest Secure  2  Press Detect’s button and release it 
+2  Press and hold the “2” button until Guard asks if  3  Press the button again and hold it down   
+you want to update the software  Release it when the light blinks blue 
+3  Release the button and it will check for updates  4  Detect will begin automatically updating its 
+software and turn off the light when finished 
+22 INSTALLATION TIPS FOR NEST DETECT
+Cleaning During setup, the Nest app will show you where to  
+put Nest Detect and its open-close magnet so they 
+•  Both Nest Guard and Detect should be cleaned 
+work properly  
+once every month  If the motion sensor gets 
+dirty, the detection range could decrease   Here are more things to consider before you install 
+Nest Detect on a wall, window or door 
+•  To clean, wipe with a damp cloth  You can use 
+isopropyl alcohol if it gets really dirty  Mounting with adhesive strips
+•  Make sure Nest Detect and Guard sense motion  Nest Detect and the open-close magnet should be 
+after cleaning  Follow the testing instructions in  installed on smooth, flat surfaces only 
+the Nest app   1  Make sure the surface is clean and dry 
+Battery replacement 2  Peel the protective cover off the adhesive strip 
+The Nest app will notify you when a Detect’s battery  3  Press evenly with your palm and hold in place for 
+gets low  Remove the battery and replace it with  at least 30 seconds 
+another Energizer CR123 or Panasonic CR123A 3V  The adhesive strips shouldn’t be used on surfaces 
+lithium battery  painted with low-VOC or zero-VOC paint or any 
+To open the battery compartment: surfaces not listed on page 28  
+•  If Nest Detect is mounted to a surface, grip the 
+top and pull it firmly toward you  IMPORTANT: Nest Detect’s adhesive strips are very 
+•  If Nest Detect is not mounted to a surface, use a  strong and can’t be easily repositioned  Before you 
+flathead screwdriver to pry off the backplate  press and hold it for 30 seconds, be sure Nest Detect  
+is straight and in the right spot 
+23 Mounting with screws Orienting Nest Detect for motion detection
+Install Nest Detect with screws if your walls, windows  When installing Nest Detect on a door or wall, 
+or doors have rough surfaces, are contoured or dirty,  the Nest logo must be upright to detect motion 
+are prone to heat or high humidity, or are painted 
+with low-VOC or zero-VOC paint  For best results use a  Installing Nest Detect on a door or window
+Phillips #2 screwdriver 
+•  Nest Detect should only be installed indoors  
+1  Remove Nest Detect’s mounting backplate and 
+•  Install Nest Detect on the upper corner of a door or 
+you’ll see the screw hole 
+window with the Nest logo right side up  
+2  Remove all the adhesive material from 
+•  Nest Detect should be attached horizontally on 
+the backplate 
+vertical double-hung windows  
+3  Screw the backplate onto the surface  Drill a  
+•  Make sure you choose a spot for Nest Detect where 
+3/32" pilot hole first if you’re attaching it to  
+the magnet can also fit  They need to be installed 
+wood or other hard material 
+close together to sense when doors and windows 
+4  Snap the Nest Detect onto its backplate  open or close  
+To install the open-close magnet: Installing the open-close magnet:
+1  Snap off the backplate and you’ll see the   •  Install the magnet on the door or window frame 
+screw hole  inside the room  The Nest app will show you where to 
+2  Remove all the adhesive material from  place it, and you’ll know it’s in the right spot when 
+the backplate  the Nest Detect light ring turns green  
+3  Screw the backplate onto the surface  Drill a   •  The magnet should be aligned with the bottom of 
+1/16" pilot hole first if you’re attaching it to wood   Nest Detect and placed within 1 5 inches (3 8 cm) of 
+or other hard material  Detect when the door or window is closed, as shown 
+4  Snap the open-close magnet onto its backplate  in the image below  
+IMPORTANT: Nest Detect should only be installed 
+indoors 
+1 5 inches (3 8 cm) max
+24 MORE ABOUT GUARD AND DETECT
+Installing Nest Detect on a wall False alarms
+•  Choose a flat spot on the wall or in a corner of a  The following may cause unintended alarms:
+room  For more information on mounting heights,  •  Pets that walk, climb or fly above 3 feet (1 m)
+refer to page 14  •  Pets heavier than 40 pounds (18 kg)
+•  Make sure Nest Detect is pointed toward the area  •  Heat sources like electric heaters, heat vents  
+you want to keep track of  For more information on  and fireplaces
+motion detection range, refer to page 14 
+•  Cold sources like drafty windows, air conditioners 
+•  To install Nest Detect in a corner, take off the flat  and AC vents
+backplate and use the included corner backplate 
+•  Curtains near windows that may move while Nest 
+for installation 
+Guard is armed
+•  Direct sun exposure: the front of Nest Guard and 
+Troubleshooting offline issues
+Nest Detect should not be placed in direct sunlight
+If one or more Detects are listed as offline in the  
+•  Party balloons left unattended: they may drift into 
+Nest app after installation, they may be too far from 
+the field of view of your sensors
+Guard to connect  You can install a Nest Connect  
+•  Insects that may come very close to the sensor
+(sold separately) to bridge the gap, or try moving  
+your Detects and Guard closer together  •  Vibration or movement caused by pets bumping Nest 
+Guard when it’s set to Away and Guarding 
+•  Wireless access points within 6 feet (2 m) of  
+Nest Detect
+Special considerations
+•  You can have up to 20 Nest Detects working with your 
+Nest Guard  Go to nest.com/howmany for updates
+•  Place Nest Guard where it can’t get bumped  When 
+Nest Guard is set to Away and Guarding and it moves, 
+the alarm may sound 
+•  Nest Guard should be installed in accordance with 
+the National Electrical Code, ANSI/ NFPA 70 
+•  In some installations the magnet may need to travel 
+up to 1 97" (50 mm) for Nest Detect to detect that a 
+door or window is open 
+25 •  Don’t install Nest Detect outdoors  
+•  Don’t install Nest Detect in a garage  
+PRODUCT INFORMATION
+•  Don’t install Nest Detect on glass  
+Nest Guard   
+•  Nest Detect and Nest Guard can’t detect motion 
+Model: A0024
+through glass, like if someone’s moving outside  
+FCC ID: ZQAH10
+a window  
+Certification: UL 639, UL 1023
+•  Don’t install where Nest Detect could get wet, like 
+swing-out windows that could be rained on  Nest Guard Power Supply   
+•  Don’t install Nest Detect or the open-close magnet  Model: A0017 
+where pets or young children can reach them  Certification: UL 60950-1
+•  Don’t expose the adhesive mounting strips to oils,  Nest Detect   
+chemicals, refrigerants, soaps, X-rays or sunlight  Model: A0028
+•  Don’t paint any part of Nest Guard, Detect or Tag  FCC ID: ZQAH11 
+Certification: UL 639, UL 634
+•  Don’t install Nest Detect near magnets other than 
+the open-close magnet  They’ll interfere with Nest  Nest Tag     
+Detect’s open-close sensors  Model: A0068
+•  Don’t install Nest Detect within 3 feet (1 m) of a heat 
+source like an electric heater, heat vent or fireplace 
+or another source that may produce turbulent air 
+•  Don’t install Nest Detect behind large appliances 
+or furniture that may obstruct its motion sensors 
+26 Safety and regulatory information
+Battery and Power Information Battery disposal information
+Nest Guard Dispose of used batteries promptly and in accordance 
+100-240V AC, 50-60Hz, current (2 5 amps) to your local environmental laws and guidelines  Keep 
+away from children  Do not disassemble and do not 
+Only use the included power adapter with Nest Guard 
+dispose of in fire 
+One 3 7V rechargeable lithium 18650 battery
+All batteries must be recycled or disposed of 
+The included battery provides 12 hours of battery  separately from household waste in accordance with 
+backup under normal operating conditions  local regulations 
+Nest Detect If your Nest Guard needs servicing, contact our support 
+team first at nest.com/help to get a returns number and 
+One 3V lithium battery, Energizer CR123 
+delivery information 
+or Panasonic CR123A
+Use only these batteries  Other batteries may 
+Battery replacement 
+damage Nest Detect 
+Caution – The battery used in Nest Guard may present 
+a risk of fire or chemical burn if mistreated  Do not 
+Safe operating requirements
+disassemble, heat above 40°C, or incinerate  
+All components of Nest Secure are intended for  
+The lithium-ion battery in Nest Guard must be 
+indoor use only 
+replaced by Nest or an authorized service provider  
+Nest Guard: 0°C (32°F) to 40°C (104°F) up to  Use of another battery may present a risk of fire 
+93% humidity or explosion 
+Nest Detect: 0°C (32°F) to 40°C (104°F) up to  
+93% humidity
+  California Battery Charger  
+  Energy Efficiency
+ WARNING
+This product contains small magnets, which 
+can cause choking or injury if ingested by 
+small children  Keep out of reach of children   WARNING * Search for A0024 (Nest Guard) and A0028 
+Wireless communications (Nest Detect) in the UL Certification Directory 
+• Nest Guard and Nest Detects are engineered to  (www ul com/database) to see the list of 
+communicate with each other if they’re within  products evaluated by UL to route signals on the 
+50 ft of each other in a home   same network as Nest Guard and Nest Detect 
+• Some features of a home may reduce the effective 
+range, including the number of floors, number and  Additional certification details
+size of rooms, furniture, large metallic appliances, 
+construction materials, and other features like  Nest Guard and Nest Detect were designed to meet 
+suspended ceilings, ductwork and metal studs  rigorous UL security standards, and were tested for 
+• Nest Guard’s and Nest Detect’s specified range  compliance by Underwriters Laboratories for residential 
+is for comparative purposes only and may be  use only  Nest Guard was evaluated by UL for use as a 
+reduced when installed in a home  burglar alarm control panel and PIR intrusion detector  
+• Wireless transmissions between buildings will  Nest Detect was evaluated by UL as a magnetic contact 
+not work and the alarms will not communicate  switch and a PIR intrusion detector 
+properly  To meet UL specifications, please enable Limited Settings 
+• Metal objects and metallic wallpaper may  within the app and install Nest Guard and Nest Detect 
+interfere with signals from wireless alarms   as the primary means of intrusion detection within the 
+Test your Nest products first with metal doors  protected area of the household  Enabling Limited Settings 
+opened and closed  limits the alarm countdown to 120 seconds maximum 
+• Nest Guard and Nest Detect have been  and disarm time to 45 seconds maximum, and allows you 
+specifically designed and tested to comply   to arm with a passcode  Nest Guard will also provide an 
+with the standards for which they are   audible warning tone once per minute when there is an 
+Listed  While Nest’s wireless network may  issue that needs attention 
+route signals through other Nest or other 
+Thread-compatible products* to optimize  For UL certified installations the adhesive is suitable 
+network reliability, you need to ensure every  for use on Galvanized steel, Enameled steel, Nylon - 
+Nest Detect can communicate with Nest   Polyamide, Polycarbonate, Glass Epoxy, Phenolic - Phenol 
+Guard directly  Formaldehyde, Polyphenylene ether/Polystyrene blend, 
+Polybutylene terephthalate, Epoxy paint, Polyester paint, 
+To make sure Nest Detect can directly communicate 
+Coated epoxy paint (Coating is 3M Adhesive Promoter 111), 
+to Nest Guard, completely power off your other Nest 
+Acrylic urethane paint, Epoxy/Polyester paint 
+or other Thread- compatible products before 
+installing or relocating Nest Detect  Nest Detect  Nest Detect in Reduced Motion Sensitivity mode has 
+will flash yellow 5 times during installation if it  been evaluated by UL only for motion detection of people 
+cannot directly communicate to Nest Guard  Nest 
+The UL certification of Nest Guard and Nest Detect does 
+Detect’s light ring will pulse green when it’s connected 
+not include an evaluation of the Nest app, software 
+to Nest Guard  To learn more about powering off  
+updates, Nest Connect’s use as a range extender, and 
+your Nest or other Thread-compatible products, 
+Wi-Fi or cellular communication to the Nest Service  
+please see the user guides included with your 
+or to a professional monitoring center 
+devices, or support.nest.com, for more information 
+28 FCC Compliance Notice
+This equipment has been tested and found to comply  RF Exposure Information
+with the limits for a Class B digital device, pursuant  
+This equipment complies with FCC radiation exposure 
+to part 15 of the FCC Rules  These limits are designed  
+limits set forth for an uncontrolled environment  In 
+to provide reasonable protection against harmful  
+order to avoid the possibility of exceeding the FCC 
+interference in a residential installation  This equipment 
+radio frequency exposure limits, human proximity to 
+generates, uses and can radiate radio frequency energy 
+the antenna shall not be less than 20cm during 
+and, if not installed and used in accordance with the 
+normal operation 
+instructions, may cause harmful interference to radio 
+communications  However, there is no guarantee that 
+interference will not occur in a particular installation  
+If this equipment does cause harmful interference to 
+radio or television reception, which can be determined 
+by turning the equipment off and on, the user is 
+encouraged to try to correct the interference by one or 
+more of the following measures:
+•  Reorient or relocate the receiving antenna 
+•  Increase the separation between the equipment 
+and receiver 
+•  Connect the equipment into an outlet on a circuit 
+different from that to which the receiver is connected 
+•  Consult the dealer or an experienced radio/TV 
+technician for help 
+This device complies with part 15 of FCC rules  
+Operation is subject to the following two conditions:
+1  This device may not cause harmful interference 
+2  This device must accept any interference received, 
+including interference that may cause undesired 
+operation 
+Change or modifications that are not expressly 
+approved by the manufacturer could void the user’s 
+authority to operate the equipment 
+29 Nest Labs, Inc  
+Limited Warranty 
+Nest Secure
+THIS LIMITED WARRANTY CONTAINS IMPORTANT INFORMATION ABOUT 
+YOUR RIGHTS AND OBLIGATIONS, AS WELL AS LIMITATIONS AND EXCLUSIONS 
+THAT MAY APPLY TO YOU.
+ 
+1. WHAT THIS LIMITED WARRANTY COVERS; PERIOD OF COVERAGE
+Nest Labs, Inc  (“Nest Labs”), 3400 Hillview Avenue, Palo Alto, California USA, 
+warrants to the owner of the enclosed product that the product contained in 
+this box (“Product”) will be free from defects in materials and workmanship 
+for a period of two (2) years from the date of delivery following the original 
+retail purchase (the “Warranty Period”)  If the Product fails to conform to this 
+Limited Warranty during the Warranty Period, Nest Labs will, at its sole discretion, 
+either (a) repair or replace any defective Product or component; or (b) accept 
+the return of the Product and refund the money actually paid by the original 
+purchaser for the Product  Repair or replacement may be made with a new or 
+refurbished product or components, at Nest Labs’ sole discretion  If the Product 
+or a component incorporated within it is no longer available, Nest Labs may, 
+at Nest Labs’ sole discretion, replace the Product with a similar product of 
+similar function  This is your sole and exclusive remedy for breach of this 
+Limited Warranty  Any Product that has either been repaired or replaced under 
+this Limited Warranty will be covered by the terms of this Limited Warranty 
+for the longer of (a) ninety (90) days from the date of delivery of the repaired 
+Product or replacement Product, or (b) the remaining Warranty Period  This 
+Limited Warranty is transferable from the original purchaser to subsequent 
+owners, but the Warranty Period will not be extended in duration or expanded 
+in coverage for any such transfer 
+ 
+2. TOTAL SATISFACTION RETURN POLICY
+If you are the original purchaser of the Product and you are not satisfied with 
+this Product for any reason, you may return it in its original condition within 
+thirty (30) days of the original purchase and receive a full refund 
+ 
+3. WARRANTY CONDITIONS; HOW TO GET SERVICE IF YOU WANT TO CLAIM 
+UNDER THIS LIMITED WARRANTY
+Before making a claim under this Limited Warranty, the owner of the Product 
+must (a) notify Nest Labs of the intention to claim by visiting nest com/support 
+during the Warranty Period and providing a description of the alleged failure, 
+and (b) comply with Nest Labs’ return shipping instructions  Nest Labs will 
+have no warranty obligations with respect to a returned Product if it determines, 
+in its reasonable discretion after examination of the returned Product, that the 
+Please recycle Nest’s 100% recyclable packaging  Product is an Ineligible Product (defined below)  Nest Labs will bear all costs 
+of return shipping to owner and will reimburse any shipping costs incurred 
+by the owner, except with respect to any Ineligible Product, for which owner 
+RECYCLING AND DISPOSAL  will bear all shipping costs 
+Visit nest com/recycle  
+30 4. WHAT THIS LIMITED WARRANTY DOES NOT COVER 7. LIMITATION OF LIABILITY
+This Limited Warranty does not cover the following (collectively “Ineligible  THE NEST LABS ONLINE SERVICES (“SERVICES”) PROVIDE YOU INFORMATION 
+Products”): (i) Products marked as “sample” or “Not for Sale”, or sold “AS IS”;  (“PRODUCT INFORMATION”) REGARDING YOUR NEST PRODUCTS OR OTHER 
+(ii) Products that have been subject to: (a) modifications, alterations, tampering, or  PERIPHERALS CONNECTED TO YOUR PRODUCTS (“PRODUCT PERIPHERALS”)  
+improper maintenance or repairs; (b) handling, storage, installation, testing, or use  THE TYPE OF PRODUCT PERIPHERALS THAT MAY BE CONNECTED TO YOUR 
+not in accordance with the User’s Guide, Placement Guidelines, or other instructions  PRODUCT MAY CHANGE FROM TIME TO TIME  WITHOUT LIMITING THE GENERALITY 
+provided by Nest Labs; (c) abuse or misuse of the Product; (d) breakdowns,  OF THE DISCLAIMERS ABOVE, ALL PRODUCT INFORMATION IS PROVIDED FOR 
+fluctuations, or interruptions in electric power or the telecommunications  YOUR CONVENIENCE,“AS IS”, AND “AS AVAILABLE”  NEST LABS DOES NOT 
+network; or (e) Acts of God, including but not limited to lightning, flood, tornado,  REPRESENT, WARRANT, OR GUARANTEE THAT PRODUCT INFORMATION WILL 
+earthquake, or hurricane; or (iii) any non-Nest Labs branded hardware products,  BE AVAILABLE, ACCURATE, OR RELIABLE OR THAT PRODUCT INFORMATION 
+even if packaged or sold with Nest Labs hardware  This Limited Warranty does  OR USE OF THE SERVICES OR PRODUCT WILL PROVIDE SAFETY IN YOUR HOME  
+not cover consumable parts, including batteries, unless damage is due to  YOU USE ALL PRODUCT INFORMATION, THE SERVICES, AND THE PRODUCT AT 
+defects in materials or workmanship of the Product, or software (even if packaged  YOUR OWN DISCRETION AND RISK  YOU WILL BE SOLELY RESPONSIBLE FOR 
+or sold with the product)  Nest Labs recommends that you use only authorized  (AND NEST LABS DISCLAIMS) ANY AND ALL LOSS, LIABILITY, OR DAMAGES, 
+service providers for maintenance or repair  Unauthorized use of the Product  INCLUDING TO YOUR WIRING, FIXTURES, ELECTRICITY, HOME, PRODUCT, PRODUCT 
+or software can impair the Product’s performance and may invalidate this  PERIPHERALS, COMPUTER, MOBILE DEVICE, AND ALL OTHER ITEMS AND PETS 
+Limited Warranty  IN YOUR HOME, RESULTING FROM YOUR USE OF THE PRODUCT INFORMATION, 
+SERVICES, OR PRODUCT  PRODUCT INFORMATION PROVIDED BY THE SERVICES 
+  IS NOT INTENDED AS A SUBSTITUTE FOR DIRECT MEANS OF OBTAINING THE 
+  INFORMATION  FOR EXAMPLE, A NOTIFICATION PROVIDED THROUGH THE SERVICE 
+5. DISCLAIMER OF WARRANTIES IS NOT INTENDED AS A SUBSTITUTE FOR AUDIBLE AND VISIBLE INDICATIONS 
+EXCEPT AS STATED ABOVE IN THIS LIMITED WARRANTY, AND TO THE MAXIMUM  IN THE HOME AND ON THE PRODUCT, NOR FOR A THIRD PARTY MONITORING 
+EXTENT PERMITTED BY APPLICABLE LAW, NEST LABS DISCLAIMS ALL EXPRESS,  SERVICE THAT MONITORS ALARM STATE 
+IMPLIED, AND STATUTORY WARRANTIES AND CONDITIONS WITH RESPECT TO   
+THE PRODUCT, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY  8. YOUR RIGHTS AND THIS LIMITED WARRANTY
+AND FITNESS FOR A PARTICULAR PURPOSE  TO THE MAXIMUM EXTENT 
+PERMITTED BY APPLICABLE LAW, NEST LABS ALSO LIMITS THE DURATION OF  This Limited Warranty gives you specific legal rights  You may also have other 
+ANY APPLICABLE IMPLIED WARRANTIES OR CONDITIONS TO THE DURATION  legal rights that vary by state, province, or jurisdiction  Likewise, some of the 
+OF THIS LIMITED WARRANTY  limitations in this Limited Warranty may not apply in certain states, provinces 
+or jurisdictions  The terms of this Limited Warranty will apply to the extent 
+  permitted by applicable law  For a full description of your legal rights you should 
+6. LIMITATION OF DAMAGES refer to the laws applicable in your jurisdiction and you may wish to contact a 
+IN ADDITION TO THE ABOVE WARRANTY DISCLAIMERS, IN NO EVENT WILL  relevant consumer advisory service 
+NEST LABS BE LIABLE FOR ANY CONSEQUENTIAL, INCIDENTAL, EXEMPLARY, 
+OR SPECIAL DAMAGES, INCLUDING ANY DAMAGES FOR LOST DATA OR LOST 
+PROFITS, ARISING FROM OR RELATING TO THIS LIMITED WARRANTY OR THE  064-00004-US
+PRODUCT, AND NEST LABS’ TOTAL CUMULATIVE LIABILITY ARISING FROM OR 
+RELATED TO THIS LIMITED WARRANTY OR THE PRODUCT WILL NOT EXCEED 
+THE AMOUNT ACTUALLY PAID FOR THE PRODUCT BY THE ORIGINAL PURCHASER  
+ 
+31 064-00081-US-B

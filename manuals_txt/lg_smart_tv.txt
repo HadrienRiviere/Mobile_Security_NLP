@@ -1,0 +1,710 @@
+OWNER’S MANUAL
+Safety and Reference
+Please read this manual carefully before operating your set and 
+retain it for future reference.
+www.lg.com
+*MFL68662438*
+P/NO : MFL68662438 (1502-REV00)
+Printed in Korea Safety instructions
+Please read these safety precautions carefully before 
+using the product.
+EN  WARNING Make sure  to connect Mains cable to compliant AC mains socket with 
+G Grounded earth pin. (Except for devices which are not grounded on 
+L
+IS earth.) Otherwise possibility  you may be electrocuted or injured.
+H
+Do not place the TV and/or remote control in the following 
+environments:
+(cid:116)(cid:1)A location exposed to direct sunlight Insert power cable  plug completely into wall socket otherwise if not 
+(cid:116)(cid:1)An area with high humidity such as a bathroom secured completely into socket, fi re ignition may break out.
+(cid:116)(cid:1)Near any heat source such as stoves and other devices that 
+produce heat
+(cid:116)(cid:1)Near kitchen counters or humidifi ers where they can easily be 
+exposed to steam or oil
+(cid:116)(cid:1)An area exposed to rain or wind
+(cid:116)(cid:1)Near containers of water such as vases Ensure the power cord does not come into contact with hot objects 
+Otherwise, this may result in fi re, electric shock, malfunction or product  such as a heater.  This may cause a fi re or an electric shock hazard.
+deformation.
+Do not place a heavy object, or the product itself, on power cables. 
+Otherwise, this may result in fi re or electric shock.
+Do not place the product where it might be exposed to dust.  This may 
+cause a fi re hazard.
+Bend antenna cable between inside and outside building to prevent 
+rain from fl owing in.  This may cause water damaged inside the Product 
+Mains Plug is the TV connecting/disconnecting device to AC mains  and could give an electric shock.
+electric supply. This plug must remain readily attached and operable 
+when TV is in use.
+When mounting TV onto wall make sure to neatly install and isolate 
+cabling from rear of TV as to not create possibility of electric shock /
+Do not touch the power plug with wet hands. Additionally, if the cord 
+fi re hazard.
+pin is wet or covered with dust, dry the power plug completely or wipe 
+dust off .  You may be electrocuted due to excess moisture.
+Do not plug too many electrical devices into a single multiple electrical 
+outlet. Otherwise, this may result in fi re due to over-heating.
+2 E
+Do not drop the product or let it fall over when connecting external  Do not drop metallic objects such as coins, hair pins, chopsticks or wire  N
+devices. Otherwise, this may result in injury or damage to the product. into the product, or inflammable objects such as paper and matches.  GL
+Children must pay particular attention. Electrical shock, fire or injury  IS
+H
+can occur. If a foreign object is dropped into the product, unplug the 
+power cord and contact the service centre.
+Desiccant
+Keep the anti-moisture packing material or vinyl packing out of the 
+reach of children. Anti-moisture material is harmful if swallowed. If 
+swallowed by mistake, force the patient to vomit and visit the nearest 
+hospital. Additionally, vinyl packing can cause suffocation. Keep it out  Do not spray water on the product or scrub with an inflammable 
+of the reach of children. substance (thinner or benzene). Fire or electric shock accident can 
+occur.
+Do not let your children climb or cling onto the TV.  
+Otherwise, the TV may fall over, which may cause serious injury. Do not allow any impact, shock or any objects to fall  into the unit, 
+and do not drop anything onto the screen. You may be injured or the 
+product can be damaged.
+Dispose of used batteries carefully to ensure that a small child does not 
+consume them. Please seek Doctor- Medical Attention immediately if 
+child consumes batteries. Never touch this product or antenna during a thunder or lighting storm.  
+You may be electrocuted.
+Do not insert any metal objects/conductors (like a metal chopstick/
+cutlery/screwdriver) between power cable plug and input Wall Socket  Never touch the wall outlet when there is leakage of gas, open the 
+while it is connected to the input terminal on the wall. Additionally,  windows and ventilate. It may cause a fire or a burn by a spark.
+do not touch the power cable right after plugging into the wall input 
+terminal. You may be electrocuted.  (Depending on model)
+Do not disassemble, repair or modify the product at your own 
+discretion. Fire or electric shock accident can occur.  
+Do not put or store inflammable substances near the product. There is a  Contact the service centre for check, calibration or repair.
+danger of combustion/explosion or fire due to careless handling of the 
+inflammable substances.
+3  CAUTION
+E
+N
+G If any of the following occur, unplug the product immediately and 
+LIS contact your local service centre. Install the product where no radio wave occurs.
+H
+(cid:116)(cid:1)The product has been impacted by shock
+(cid:116)(cid:1)The product has been damaged
+(cid:116)(cid:1)Foreign objects have entered the product
+(cid:116)(cid:1)The product produced smoke or a strange smell
+This may result in fire or electric shock.
+There should be enough distance between an outside antenna and 
+power lines to keep the former from touching the latter even when the 
+antenna falls. This may cause an electric shock.
+Unplug the TV from AC mains wall socket if you do not intend to use the 
+TV for a long period of time. Accumulated dust can cause fire hazard 
+and insulation deterioration can cause electric leakage/shock/fire.
+Do not install the product on places such as unstable shelves or inclined 
+surfaces. Also avoid places where there is vibration or where the 
+product cannot be fully supported. Otherwise, the product may fall or 
+flip over, which may cause injury or damage to the product.
+Apparatus shall not be exposed to dripping or splashing and no objects 
+filled with liquids, such as vases, shall be placed on the apparatus.
+Do not install this product on a wall if it could be exposed to oil or oil 
+mist. This may damage the product and cause it to fall. If you install the TV on a stand, you need to take actions to prevent the 
+product from overturning. Otherwise, the product may fall over, which 
+may cause injury.
+If you intend to mount the product to a wall, attach VESA standard 
+If water enters or comes into contact with TV, AC adapter or power  mounting interface (optional parts) to the back of the product. When 
+cord please disconnect the power cord and contact service centre  you install the set to use the wall mounting bracket (optional parts), fix 
+immediately. Otherwise, this may result in electric shock or fire.  it carefully so as not to drop.
+Only use the attachments / accessories specified by the manufacturer.
+Only use an authorized AC adapter and power cord approved by 
+LG Electronics. Otherwise, this may result in fire, electric shock, 
+malfunction or product deformation.
+When installing the antenna, consult with a qualified service 
+technician. If not installed by a qualified technician, this may create a 
+Never Disassemble the AC adapter or power cord. This may result in fire  fire hazard or an electric shock hazard.
+or electric shock.
+4 E
+We recommend that you maintain a distance of at least 2 to 7 times  Do not turn the product On/Off by plugging-in or unplugging the power  N
+G
+the diagonal screen size when watching TV.  If you watch TV for a long  plug to the wall outlet. (Do not use the power plug for switch.)  It may  L
+period of time, this may cause blurred vision. cause mechanical failure or could give an electric shock. IS
+H
+Only use the specified type of battery.  This could cause damage to the  Please follow the installation instructions below to prevent the product 
+remote control. from overheating.
+(cid:116)(cid:1)The distance between the product and the wall should be more 
+than 10 cm.
+(cid:116)(cid:1)Do not install the product in a place with no ventilation (e.g., on a 
+bookshelf or in a cupboard).
+(cid:116)(cid:1)Do not install the product on a carpet or cushion.
+Do not mix new batteries with old batteries. This may cause the  (cid:116)(cid:1)Make sure the air vent is not blocked by a tablecloth or curtain.
+batteries to overheat and leak.
+Otherwise, this may result in fire.
+Batteries should not be exposed to excessive heat. For example, keep 
+away from direct Sunlight , open fireplace and electric heaters.
+Do not place non-rechargeable batteries in charging device. Take care not to touch the ventilation openings when watching the TV 
+for long periods as the ventilation openings may become hot. This does 
+not affect the operation or performance of the product.
+Periodically examine the cord of your appliance, and if its appearance 
+Make sure there are no objects between the remote control and its  indicates damage or deterioration, unplug it, discontinue use of the 
+sensor. appliance, and have the cord replaced with an exact replacement part 
+by an authorized servicer.
+Signal from Remote Control can be interrupted due to external/internal  
+lighting eg Sunlight, fluorescent lighting. If this occurs turn off lighting 
+or darken viewing area.
+Prevent dust collecting on the power plug pins or outlet. This may cause 
+a fire hazard.
+When connecting external devices such as video game consoles, make 
+sure the connecting cables are long enough.  Otherwise, the product 
+may fall over, which may cause injury or damage the product. Protect the power cord from physical or mechanical abuse, such as 
+being twisted, kinked, pinched, closed in a door, or walked upon. Pay 
+particular attention to plugs, wall outlets, and the point where the cord 
+exits the appliance.
+5 E
+N Do not press strongly upon the panel with a hand or sharp object such 
+G When moving or unpacking the product, work in pairs because the 
+L as nail, pencil or pen, or make a scratch on it, as it may cause damage 
+ISH to screen. product is heavy.  Otherwise, this may result in injury.
+Contact the service centre once a year to clean the internal parts of the 
+Avoid touching the screen or holding your finger(s) against it for long 
+product.  
+periods of time. Doing so may produce some temporary or permanent 
+Accumulated dust can cause mechanical failure.
+distortion/damage to screen.
+Refer all servicing to qualified service personnel. Servicing is required 
+When cleaning the product and its components, unplug the power 
+when the apparatus has been damaged in any way, such as power 
+first and wipe it with a soft cloth. Applying excessive force may cause 
+supply cord or plug is damaged, liquid has been spilled or objects have 
+scratches or discolouration. Do not spray with water or wipe with a wet 
+fallen into the apparatus, the apparatus has been exposed to rain or 
+cloth. Never use glass cleaner, car or industrial shiner, abrasives or wax, 
+moisture, does not operate normally, or has been dropped.
+benzene, alcohol etc., which can damage the product and its panel.  
+Otherwise, this may result in fire, electric shock or product damage 
+(deformation, corrosion or breakage).
+As long as this unit is connected to the AC wall outlet, it is not 
+disconnected from the AC power source even if you turn off this unit  If the product feels cold to the touch, there may be a small “flicker” 
+by SWITCH. when it is turned on. This is normal, there is nothing wrong with 
+product.
+When unplugging the cable, grab the plug and unplug it, by pulling at 
+the plug. The panel is a high technology display product with resolution of two 
+million to six million pixels. You may see tiny black dots and/or brightly 
+Don’t pull at the cord to unplug the power cord from the power board, 
+coloured dots (red, blue or green) at a size of 1 ppm on the panel. This 
+as this could be hazardous.
+does not indicate a malfunction and does not affect the performance 
+and reliability of the product.   
+This phenomenon also occurs in third-party products and is not subject 
+to exchange or refund.
+When moving the product, make sure you turn the power off first. Then, 
+unplug the power cables, antenna cables and all connecting cables.  
+The TV set or power cord may be damaged, which may create a fire 
+hazard or cause electric shock.
+6 Preparing
+ NOTE
+You may find different brightness and color of the panel depending on  (cid:116)(cid:1)Image shown may differ from your TV. EN
+your viewing position(left/right/top/down).   (cid:116)(cid:1)Your TV’s OSD (On Screen Display) may differ slightly from that  GL
+This phenomenon occurs due to the characteristic of the panel. It is not  shown in this manual. IS
+related with the product performance, and it is not malfunction. (cid:116)(cid:1)The available menus and options may differ from the input source  H
+or product model that you are using.
+(cid:116)(cid:1)New features may be added to this TV in the future.
+*  LG LED TVs are LCD TVs with LED backlighting. (cid:116)(cid:1)The TV can be placed in standby mode in order to reduce the power 
+consumption. And the TV should be turned off if it will not be 
+watched for some time, as this will reduce energy consumption.
+(cid:116)(cid:1)The energy consumed during use can be significantly reduced if the 
+level of brightness of the picture is reduced, and this will reduce 
+the overall running cost.
+(cid:116)(cid:1)The items supplied with your product may vary depending on the 
+Displaying a still image (e.g., broadcasting channel logo, on-screen  model.
+menu, scene from a video game) for a prolonged time may cause  (cid:116)(cid:1)Product specifications or contents of this manual may be changed 
+damage to the screen, resulting in retention of the image, which is  without prior notice due to upgrade of product functions.
+known as image sticking. The warranty does not cover the product for  (cid:116)(cid:1)For an optimal connection, HDMI cables and USB devices should 
+image sticking.   have bezels less than 10 mm thick and 18 mm width. Use an 
+Avoid displaying a fixed image on your television’s screen for a  extension cable that supports USB 2.0 if the USB cable or USB 
+prolonged period (2 or more hours for LCD, 1 or more hours for Plasma).   memory stick does not fit into your TV’s USB port. 
+Also, if you watch the TV at a ratio of 4:3 for a long time, image sticking 
+mThaisy  pohcceunro omne tnhoen b aolrsdoe orsc coufr tsh ien  pthainrdel-.p  arty products and is not subject  B B *A <= 10 mm
+to exchange or refund. A A     *B <= 18 mm  
+(cid:116)(cid:1)Use a certified cable with the HDMI logo attached. 
+Generated sound  (cid:116)(cid:1)If you do not use a certified HDMI cable, the screen may not display 
+or a connection error may occur. (Recommended HDMI Cable Types) 
+“Cracking” noise: A cracking noise that occurs when watching or turning 
+- High-Speed HDMI®/TM Cable (3 m or less) 
+off the TV is generated by plastic thermal contraction due to tempera-
+- High-Speed HDMI®/TM Cable with Ethernet (3 m or less)
+ture and humidity. This noise is common for products where thermal 
+deformation is required. Electrical circuit humming/panel buzzing: 
+ CAUTION
+A low level noise is generated from a high-speed switching circuit, 
+which supplies a large amount of current to operate a product. It varies  (cid:116)(cid:1)Do not use any unapproved items to ensure the safety and product 
+depending on the product.   life span.
+This generated sound does not affect the performance and reliability  (cid:116)(cid:1)Any damage or injuries caused by using unapproved items are not 
+of the product. covered by the warranty.
+(cid:116)(cid:1)Some models have a thin film attached on to the screen and this 
+must not be removed.
+Do not use high voltage electrical goods near the TV (e.g. electric 
+mosquito-swatter). This may result in product malfunction. 
+7 Separate purchase Lifting and moving the TV
+Separate purchase items can be changed or modified for quality  Please note the following advice to prevent the TV from being scratched 
+improvement without any notification. Contact your dealer to buy these  or damaged and for safe transportation regardless of its type and size.
+EN items. These devices only work with certain models. (cid:116)(cid:1)It is recommended to move the TV in the box or packing material 
+GL The model name or design may be changed depending on the upgrade  that the TV originally came in.
+ISH of product functions, manufacturer’s circumstances or policies. (cid:116)(cid:1)Before moving or lifting the TV, disconnect the power cord and 
+all cables.
+(Depending on model) (cid:116)(cid:1)When holding the TV, the screen should face away from you to 
+avoid damage.
+AN-VC5** AN-MR500 AN-WF500
+Smart camera Magic Remote Wi-Fi/Bluetooth Dongle
+LG Audio Device
+* You can use the Magic Remote and LG Audio Device(Wireless) only 
+when you are using the Wi-Fi/Bluetooth Dongle. (cid:116)(cid:1)Hold the top and bottom of the TV frame firmly. Make sure not to 
+hold the transparent part, speaker, or speaker grill area.
+Maintenance
+Cleaning your TV
+Clean your TV regularly to keep the best performance and to extend the 
+product lifespan.
+(cid:116)(cid:1)Make sure to turn the power off and disconnect the power cord and  (cid:116)(cid:1)When transporting a large TV, there should be at least 2 people. 
+all other cables first. (cid:116)(cid:1)When transporting the TV by hand, hold the TV as shown in the 
+(cid:116)(cid:1)When the TV is left unattended and unused for a long time,  following illustration.
+disconnect the power cord from the wall outlet to prevent possible 
+damage from lightning or power surges.
+Screen, frame, cabinet and stand
+To remove dust or light dirt, wipe the surface with a dry, clean, and 
+soft cloth. (cid:116)(cid:1)When transporting the TV, do not expose the TV to jolts or 
+excessive vibration.
+To remove major dirt, wipe the surface with a soft cloth dampened in  (cid:116)(cid:1)When transporting the TV, keep the TV upright, never turn the TV 
+clean water or a diluted mild detergent. Then wipe immediately with 
+on its side or tilt towards the left or right.
+a dry cloth. (cid:116)(cid:1)Do not apply excessive pressure to cause flexing /bending of frame 
+(cid:116)(cid:1)Avoid touching the screen at all times, as this may result in damage  chassis as it may damage screen.
+to the screen. (cid:116)(cid:1)When handling the TV, be careful not to damage the protruding 
+(cid:116)(cid:1)Do not push, rub, or hit the screen surface with your fingernail or a  joystick button. 
+sharp object, as this may result in scratches and image distortions.
+(cid:116)(cid:1)Do not use any chemicals as this may damage the product.
+ CAUTION
+(cid:116)(cid:1)Do not spray liquid onto the surface. If water enters the TV, it may 
+result in fire, electric shock, or malfunction. (cid:116)(cid:1)Avoid touching the screen at all times, as this may result in damage 
+to the screen.
+Power cord (cid:116)(cid:1)Do not move the TV by holding the cable holders, as the cable 
+Remove the accumulated dust or dirt on the power cord regularly. holders may break, and injuries and damage to the TV may occur. 
+(cid:116)(cid:1)When attaching the stand to the TV set, place the screen facing 
+down on a cushioned table or flat surface to protect the screen 
+from scratches.
+(cid:116)(cid:1)Make sure that the screws are inserted correctly and fastened 
+securely.  (If they are not fastened securely enough, the TV may 
+tilt forward after being installed.) Do not use too much force and 
+over tighten the screws; otherwise screw may be damaged and not 
+tighten correctly.
+8 Using the joystick button  Mounting on a table
+(Image shown may differ from your TV.) (Depending on model)
+You can simply operate the TV functions, pressing or moving the joystick  1 Lift and tilt the TV into its upright position on a table.  
+E
+button up, down, left or right. (cid:116)(cid:1)Leave a 10 cm (minimum) space from the wall for proper  NG
+ventilation. LIS
+H
+Joystick Button 10 cm
+10 cm
+10 cm
+10 cm
+Basic functions   10 cm
+When the TV is turned off, place your  2 Connect the power cord to a wall outlet.
+Power On finger on the joystick button and 
+ CAUTION
+press it once and release it. 
+When the TV is turned on, place your  (cid:116)(cid:1)Do not place the TV near or on sources of heat, as this may result in 
+finger on the joystick button and  fire or other damage.
+press it once for a few seconds and 
+Securing the TV to a wall 
+Power Off release it.  (However, if the Menu 
+button is on the screen, pressing and 
+(This feature is not available for all models.)
+holding the joystick button will let 
+you exit the Menu.)
+If you place your finger over the 
+Volume  joystick button and move it left or 
+Control right, you can adjust the volume level 
+you want. 
+If you place your finger over the 
+Programmes  joystick button and move it up or 
+Control down, you can scrolls through the 
+saved programmes you want. 
+1 Insert and tighten the eye-bolts, or TV brackets and bolts on the back 
+of the TV. 
+Adjusting the menu
+(cid:116)(cid:1)If there are bolts inserted at the eye-bolts position, remove the 
+When the TV is turned on, press the joystick button one time.  You can  bolts first.
+adjust the Menu items moving the joystick button up, down, left or  2 Mount the wall brackets with the bolts to the wall. 
+right. Match the location of the wall bracket and the eye-bolts on the rear 
+of the TV.
+  Turns the power off. 
+3 Connect the eye-bolts and wall brackets tightly with a sturdy rope. 
+Clears on-screen displays and returns to TV viewing. Make sure to keep the rope horizontal with the flat surface.
+Changes the input source.
+ CAUTION
+Accesses the main menu.
+(cid:116)(cid:1)Make sure that children do not climb on or hang on the TV.
+ NOTE  NOTE
+(cid:116)(cid:1)When your finger over the joystick button and push it to the up,  (cid:116)(cid:1)Use a platform or cabinet that is strong and large enough to 
+down, left or right, be careful not to press the joystick button. If you  support the TV securely.
+press the joystick button first, you may not be able to adjust the  (cid:116)(cid:1)Brackets, bolts and ropes are not provided. You can obtain 
+volume level and saved programmes. additional accessories from your local dealer.
+9 Mounting on a wall  CAUTION
+(cid:116)(cid:1)Disconnect the power first, and then move or install the TV. 
+Attach an optional wall mount bracket at the rear of the TV carefully  Otherwise electric shock may occur.
+and install the wall mount bracket on a solid wall perpendicular to  (cid:116)(cid:1)Remove the stand before installing the TV on a wall mount by 
+EN the floor. When you attach the TV to other building materials, please  performing the stand attachment in reverse.
+GL contact qualified personnel. LG recommends that wall mounting be  (cid:116)(cid:1)If you install the TV on a ceiling or slanted wall, it may fall and 
+ISH performed by a qualified professional installer. We recommend the  result in severe injury. Use an authorised LG wall mount and 
+use of LG’s wall mount bracket. When you do not use LG’s wall mount  contact the local dealer or qualified personnel.
+bracket, please use a wall mount bracket where the device is adequately  (cid:116)(cid:1)Do not over tighten the screws as this may cause damage to the TV 
+secured to the wall with enough space to allow connectivity to external  and void your warranty.
+devices. (cid:116)(cid:1)Use the screws and wall mounts that meet the VESA standard. Any 
+damages or injuries by misuse or using an improper accessory are 
+not covered by the warranty.
+(cid:116)(cid:1)Screw length from outer surface of back cover should be under  
+10 cm 8 mm. (Only LF49**) 
+10 cm Wall mount Pad
+10 cm
+Back Cover
+10 cm
+Wall mount Pad
+Make sure to use screws and wall mount bracket that meet the VESA  Back Cover
+standard. Standard dimensions for the wall mount kits are described in  Standard screw
+the following table.
+: M4 x L10
+Separate purchase (Wall mounting bracket)
+Max. 8 mm
+Model 22LF49** 28LF49**
+ NOTE
+VESA (A x B) 75 x 75 100 x 100
+(cid:116)(cid:1)Use the screws that are listed on the VESA standard screw 
+Standard screw M4 X L10 M4 X L10
+specifications.
+Number of screws 4 4 (cid:116)(cid:1)The wall mount kit includes an installation manual and necessary 
+Wall mount bracket  LSW140B LSW140B parts.
+Model 32LF58** 42/50/55LF58** (cid:116)(cid:1)The wall mount bracket is not provided. You can obtain additional 
+VESA (A x B) 200 x 200 400 x 400 accessories from your local dealer.
+(cid:116)(cid:1)The length of screws may differ depending on the wall mount. 
+Standard screw M6 M6
+Make sure to use the proper length.
+Number of screws 4 4 (cid:116)(cid:1)For more information, refer to the manual supplied with the wall 
+LSW240B LSW440B mount.
+Wall mount bracket 
+MSW240 MSW240 (cid:116)(cid:1)When attaching a wall mounting bracket to the TV, insert the wall 
+mount spacers into the TV wall mount holes to adjust the vertical 
+angle of the TV.  (Only when the item of the following form is 
+A provided)
+B
+Provided Item
+Wall Mount Spacer
+10 Connections (notifications) Adapter connection
+(Depending on model)
+Connect various external devices to the TV and switch input modes to 
+select an external device. For more information of external device’s   CAUTION
+connection, refer to the manual provided with each device. (cid:116)(cid:1)Please be sure to connect the TV to the AC-DC power adapter  EN
+G
+Available external devices are: HD receivers, DVD players, VCRs, audio  before connecting the TV’s power plug to a wall power outlet. L
+systems, USB storage devices, PC, gaming devices, and other external  ISH
+devices. Euro scart connection
+ NOTE (Depending on model)
+(cid:116)(cid:1)The external device connection may differ from the model. Transmits the video and audio signals from an external device to the 
+(cid:116)(cid:1)Connect external devices to the TV regardless of the order of the  TV set. Connect the external device and the TV set with the euro scart 
+TV port. cable.
+(cid:116)(cid:1)If you record a TV program on a DVD recorder or VCR, make sure to                                               Output Type                                                       
+AV1
+connect the TV signal input cable to the TV through a DVD recorder  Current
+(TV Out1)
+or VCR. For more information of recording, refer to the manual  input mode
+provided with the connected device.
+Digital TV Digital TV
+(cid:116)(cid:1)Refer to the external equipment’s manual for operating 
+instructions. Analogue TV, AV
+(cid:116)(cid:1)If you connect a gaming device to the TV, use the cable supplied  Component Analogue TV
+with the gaming device.
+HDMI
+(cid:116)(cid:1)In PC mode, there may be noise associated with the resolution, 
+vertical pattern, contrast or brightness. If noise is present, change  1  TV Out : Outputs Analogue TV or Digital TV signals.
+the PC output to another resolution, change the refresh rate to  (cid:116)(cid:1)Any Euro scart cable used must be signal shielded.
+another rate or adjust the brightness and contrast on the PICTURE 
+menu until the picture is clear. CI module connection
+(cid:116)(cid:1)In PC mode, some resolution settings may not work properly 
+depending on the graphics card. (Depending on model)
+Antenna connection View the encrypted (pay) services in digital TV mode. 
+(cid:116)(cid:1)Check if the CI module is inserted into the PCMCIA card slot in the 
+Connect the TV to a wall antenna socket with an RF cable (75 Ω). right direction. If the module is not inserted properly, this can 
+cause damage to the TV and the PCMCIA card slot.
+(cid:116)(cid:1)Use a signal splitter to use more than 2 TVs. (cid:116)(cid:1)If the TV does not display any video and audio when CI+ CAM is 
+(cid:116)(cid:1)If the image quality is poor, install a signal amplifier properly to  connected, please contact to the Terrestrial/Cable/Satellite Service 
+improve the image quality. Operator.
+(cid:116)(cid:1)If the image quality is poor with an antenna connected, try to 
+realign the antenna in the correct direction. Other connections
+(cid:116)(cid:1)An antenna cable and converter are not supplied.
+(cid:116)(cid:1)Supported DTV Audio: MPEG, Dolby Digital, Dolby Digital Plus,  Connect your TV to external devices. For the best picture and audio 
+HE-AAC quality, connect the external device and the TV with the HDMI cable. 
+Some separate cable is not provided.
+Satellite dish connection
+(Only satellite models)
+Connect the TV to a satellite dish to a satellite socket with a satellite RF 
+cable (75 Ω).
+11 Remote control B
+    Adjusts the volume level.
+The descriptions in this manual are based on the buttons on the remote 
+  Accesses your favourite programme list.
+control. Please read this manual carefully and use the TV correctly.
+E   Views the information of the current programme and screen. 
+N To replace batteries, open the battery cover, replace batteries (1.5 
+GL V AAA) matching the   and   ends to the label inside the      Mutes all sounds.
+ISH compartment, and close the battery cover. To remove the batteries,  (cid:3)     Scrolls through the saved programmes.
+perform the installation actions in reverse. (cid:3)     Moves to the previous or next screen.
+  Accesses the main menus.
+ CAUTION
+    Accesses the Home menu.
+(cid:116)(cid:1)Do not mix old and new batteries, as this may damage the remote        Shows the list of Apps.
+control.
+(cid:116)(cid:1)The remote control will not be included for all sales market.
+Make sure to point the remote control toward the remote control sensor 
+on the TV.
+(Depending on model)
+C
+A
+C
+FAV
+P
+PAGE B Teletext buttons (   /  )  These buttons are used for 
+teletext.
+Navigation buttons (up/down/left/right)  Scrolls through menus 
+or options.
+  Selects menus or options and confirms your input.
+A
+  Returns to the previous level.
+  Clears on-screen displays and returns to TV viewing.
+ (POWER)  Turns the TV on or off.
+  Selects the MHP TV menu source. (Depending on model)
+  Selects Radio, TV and DTV programme.
+  Starts to record and displays record menu. (Only Time 
+   Recalls your preferred subtitle in digital mode. MachineReady supported model) (Depending on model)
+  Accesses the quick menus.     Returns to LIVE TV.
+  Shows programme guide. Control buttons ( )  Controls the Premium 
+  By Pressing AD button, audio descriptions function will be  contents, Time MachineReady or SmartShare menus or the SIMPLINK 
+enabled. compatible devices (USB or SIMPLINK or Time MachineReady).
+     Changes the input source.  Coloured buttons  These access special functions in some menus. 
+Number buttons  Enters numbers. ( : Red,  : Green,  : Yellow,  : Blue)
+  Accesses the saved programme list.
+ (Space) Opens an empty space on the screen keyboard. 
+  Returns to the previously viewed programme. 
+12 (Depending on model)
+C
+E
+N
+G
+L
+IS
+A H
+1 2 3
+ .,;@   abc   def
+4 5 6
+  ghi   jkl   mno
+D
+7 8 9
+  pqrs   tuv   wxyz
+0
+FAV
+PAGE B
+MUTE C
+  Views the information of the current programme and screen.
+A     Accesses the Home menu.
+      Shows the list of Apps.
+ (POWER)   Turns the TV on or off. Navigation buttons (up/down/left/right)  Scrolls through menus 
+   Recalls your preferred subtitle in digital mode. or options.
+     Resizes an image.    Selects menus or options and confirms your input.
+     Changes the input source.    Returns to the previous level.
+  Accesses the main menus.
+  Selects Radio, TV and DTV programme.
+Number buttons  Enters numbers.   Clears on-screen displays and returns to TV viewing.
+  Accesses the saved programme list.
+ (Space)  Opens an empty space on the screen keyboard. D
+  Returns to the previously viewed programme.
+Coloured buttons  These access special functions in some menus.
+( : Red,  : Green,  : Yellow,  : Blue)
+B
+Teletext buttons (   /  )  These buttons are used for 
+teletext.
+    Adjusts the volume level.
+   Accesses the quick menus. 
+  Accesses your favourite programme list.
+   Returns to LIVE TV.
+  Shows programme guide.
+Control buttons ( )  Controls the Premium 
+    Mutes all sounds.
+contents, Time MachineReady or SmartShare menus or the SIMPLINK 
+(cid:3)     Scrolls through the saved programmes. compatible devices (USB or SIMPLINK or Time MachineReady).
+(cid:3)     Moves to the previous or next screen.   Starts to record and displays record menu. (Only Time 
+MachineReady supported model) (Depending on model)
+  Sets the sleep timer.
+  By Pressing AD button, audio descriptions function will be 
+enabled.
+  Selects the MHP TV menu source. (Depending on model)
+13 Licenses Troubleshooting
+Supported licenses may differ by model. For more information about  Cannot control the TV with the remote control.
+licenses, visit www.lg.com. (cid:116)(cid:1)Check the remote control sensor on the product and try again.
+E
+N (cid:116)(cid:1)Check if there is any obstacle between the product and the remote 
+G
+LISH   (cid:116)(cid:1)cCohnetcrko li.f the batteries are still working and properly installed (   
+to  ,   to  ).
+No image display and no sound is produced.
+(cid:116)(cid:1)Check if the product is turned on.
+(cid:116)(cid:1)Check if the power cord is connected to a wall outlet.
+(cid:116)(cid:1)Check if there is a problem in the wall outlet by connecting other 
+Open source software  products.
+The TV turns off suddenly.
+notice information
+(cid:116)(cid:1)Check the power control settings. The power supply may be 
+interrupted.
+To obtain the source code under GPL, LGPL, MPL, and other open source  (cid:116)(cid:1)Check if the Automatic Standby (Depending on model) / Sleep 
+licenses, that is contained in this product, please visit http://opensource. Timer / Off Time is activated in the TIME settings.
+lge.com. (cid:116)(cid:1)If there is no signal while the TV is on, the TV will turn off 
+In addition to the source code, all referred license terms, warranty  automatically after 15 minutes of inactivity.
+disclaimers and copyright notices are available for download. When connecting to the PC (HDMI), ‘No signal’ or ‘Invalid Format’ is 
+displayed.
+LG Electronics will also provide open source code to you on CD-ROM 
+for a charge covering the cost of performing such distribution (such  (cid:116)(cid:1)Turn the TV off/on using the remote control.
+as the cost of media, shipping, and handling) upon email request to  (cid:116)(cid:1)Reconnect the HDMI cable.
+opensource@lge.com. This offer is valid for three (3) years from the date  (cid:116)(cid:1)Restart the PC with the TV on.
+on which you purchased the product.
+External control device 
+setup
+To obtain the external control device setup information, please visit 
+www.lg.com.
+14 Specifications
+CI Module (W x H x D) 100.0 mm x 55.0 mm x 5.0 mm
+Operating 
+Wireless LAN module specification Temperature 0 °C to 40 °C
+(cid:116)(cid:1)Because band channel used by the country could be different, the 
+Operating  E
+user can not change or adjust the operating frequency and this  Less than 80 % N
+Environment  Humidity G
+product is set for the regional frequency table. L
+(cid:116)(cid:1)This device should be installed and operated with minimum  condition Storage    -20 °C to 60 °C ISH
+distance 20 cm between the device and your body. And this phrase  Temperature
+is f or the general statement for consideration of user environment.  Storage  
+Less than 85 %
+0197 Humidity
+Digital TV Analogue TV
+Wireless LAN module (TWFM-B006D) specification (Depending on  (Depending on 
+model) model)
+Standard IEEE802.11a/b/g/n
+DVB-T (DVB-T/T2*)
+Television  PAL/SECAM B/G/I/D/K
+2400 to 2483.5 MHz system DVB-C SECAM L/L’
+Frequency Range 5150 to 5250 MHz DVB-S/S2*
+5725 to 5850 MHz (for Non EU)
+Programme  VHF, UHF
+VHF, UHF, CATV
+802.11a: 11 dBm coverage C-Band*, Ku-Band*
+802.11b: 14 dBm
+Maximum 
+Output Power (Max.) 802.11g: 10.5 dBm
+number of  DVB-S/S2 : 6,000
+802.11n - 2.4 GHz: 11 dBm
+storable  DVB-T/T2/C & Analogue TV : 1,500
+802.11n - 5 GHz: 12.5 dBm
+programmes
+External 
+antenna  75 Ω
+impedance
+* Only DVB-T2/C/S2 support models.
+22LF49**
+Manufacturer : Lien Chang
+Model : LCAP35
+Manufacturer : APD
+Model : DA-48F19
+Input: AC 100-240 V~ 50/60 Hz
+Output: 19 V   2.53 A
+AC-DC Adaptor
+28LF49**
+Manufacturer : Lien Chang
+Model : LCAP39
+Manufacturer : APD
+Model : DA-65G19
+Input: AC 100-240 V~ 50/60 Hz
+Output: 19 V   3.42 A
+15 Regulatory
+LG Recycling Policy (Only EU)
+LG Electronics offers a customized e-waste take-back & recycling service that meets local needs and requirements in the countries where e-waste 
+regulations are in place, and also provides product and packaging take-back & recycling service voluntarily in some countries. LG Electronics 
+evaluates products’ recyclability at the design step using LG’s recyclability evaluation tool, with the goal of improving recyclability where practicable. 
+Through these activities, LG seeks to contribute to conserving natural resources and protecting the environment.
+For more information about the LG Recycling Policy, please visit our global site at http://www.lg.com/global/sustainability/environment/take-back-
+recycling
+Energy Saving 
+Energy efficiency cuts energy consumption and thus saves money by reducing electricity bills. The following indications allow to reduce power 
+consumption when the television is not being watched: 
+(cid:116)(cid:1)Turning the television off at its mains supply, or un-plugging it, will cut energy use to zero for all televisions, and is recommended when the 
+television is not being used for a long time, e.g. when on holiday,
+(cid:116)(cid:1)Putting the television into standby mode, will reduce energy consumption, but will still draw some power,
+(cid:116)(cid:1)Reducing the brightness of the screen will reduce energy use.
+Isolator (Only Sweden, Norway)
+(cid:116)(cid:1)“Equipment connected to the protective earthing of the building installation through the mains connection or through other equipment with 
+a connection to protective earthing - and to a cable distribution system using coaxial cable, may in some circumstances create a fire hazard. 
+Connection to a cable distribution system has therefore to be provided through a device providing electrical isolation below a certain frequency 
+range (galvanic isolator, see EN 60728-11)”
+(cid:116)(cid:1)“Utrustning som är kopplad till skyddsjord via jordat vägguttag och/eller via annan utrustning och samtidigt är kopplad till kabel-TV nät kan i 
+vissa fall medföra risk för brand. 
+För att undvika detta skall vid anslutning av utrustningen till kabel-TV nät galvanisk isolator finnas mellan utrustningen och kabel-TV nätet.”
+(cid:116)(cid:1)“Utstyr som er koplet til beskyttelsesjord via nettplugg og/eller via annet jordtilkoplet utstyr - og er tilkoplet et kabel-TV nett, kan forårsake 
+brannfare. 
+For å unngå dette skal det ved tilkopling av utstyret til kabel-TV nettet installeres en galvanisk isolator mellom utstyret og kabel-TV nettet.”
+16 EU ecolabel (Only EU ecolabel applied model)
+Better for the environment...
+(cid:116)(cid:1)High Energy Efficiency
+(cid:116)(cid:1)Reduced CO2 emissions
+(cid:116)(cid:1)Designed to facilitate repair and recycling
+              ... better for you.
+EU Ecolabel : PL/22/004
+LGE announced the ‘LG Declaration for a Cleaner Environment ‘in 1994, and this ideal has served as a Guiding managerial principle ever since. The 
+Declaration is a foundation that has allowed us to undertaike Environmentally friendly activities in careful consideration of economic, environmental, 
+and social aspects. We promote activities for environmental preservation, and we specifically develop our products to embrace the Concept of 
+environment- friendly through whole process from getting raw materials, production, transportation, usage and end-of-life. These environmental 
+characteristics are endorsed by the award of the European Commission as approval of the product environmental status for energy saving. Facilities 
+for recycling and a host of other features. 
+The full list of criteria and more information on the eco label can be found at the web-site address : http://www.ecolabel.eu
+Restriction of Hazardous Substances (Only Ukraine)  
+Обмеження України на наявність небезпечних речовин
+(cid:116)(cid:1)The equipment complies with requirements of the Technical Regulation, in terms of restrictions for the use of certain dangerous substances in 
+electrical and electronic equipment.
+(cid:116)(cid:1)Устаткування відповідає вимогам технічного регламенту щодо обмеженного використання небезпечних речовин в електричному і 
+електронному обладнанні.
+Packing Information (Only Russia, Kazakhstan, Belarus)
+Русский
+Символ «не для пищевой продукции» применяется в соответствие с техническим регламентом Таможенного союза «О безопасности 
+упаковки» 005/2011 и  указывает на то, что упаковка данного продукта не предназначена для повторного использования и подлежит 
+утилизации.  Упаковку данного продукта запрещается использовать для хранения пищевой продукции.
+(cid:1300)(cid:602)(cid:609)(cid:602)(cid:1301)(cid:626)(cid:602)
+(cid:587)(cid:610)(cid:614)(cid:604)(cid:616)(cid:613)(cid:3)(cid:580)(cid:607)(cid:606)(cid:607)(cid:615)(cid:606)(cid:639)(cid:612)(cid:3)(cid:616)(cid:606)(cid:602)(cid:1301)(cid:620)(cid:629)(cid:1305)(cid:3)(cid:19)(cid:19)(cid:24)(cid:18)(cid:21)(cid:19)(cid:20)(cid:20)(cid:3)(cid:620)(cid:607)(cid:623)(cid:615)(cid:610)(cid:612)(cid:602)(cid:613)(cid:629)(cid:1301)(cid:3)(cid:618)(cid:607)(cid:605)(cid:613)(cid:602)(cid:614)(cid:607)(cid:615)(cid:620)(cid:639)(cid:615)(cid:607)(cid:3)(cid:619)(cid:1317)(cid:611)(cid:612)(cid:607)(cid:619)(cid:3)(cid:1301)(cid:616)(cid:613)(cid:606)(cid:602)(cid:615)(cid:629)(cid:613)(cid:602)(cid:606)(cid:629)(cid:3)(cid:608)(cid:1317)(cid:615)(cid:607)(cid:3)(cid:616)(cid:619)(cid:629)(cid:3)(cid:1319)(cid:615)(cid:639)(cid:614)(cid:615)(cid:639)(cid:1305)(cid:3)(cid:1301)(cid:602)(cid:617)(cid:620)(cid:602)(cid:614)(cid:602)(cid:619)(cid:629)(cid:615)(cid:3)
+(cid:607)(cid:612)(cid:639)(cid:615)(cid:626)(cid:639)(cid:3)(cid:618)(cid:607)(cid:620)(cid:3)(cid:617)(cid:602)(cid:611)(cid:606)(cid:602)(cid:613)(cid:602)(cid:615)(cid:621)(cid:1297)(cid:602)(cid:3)(cid:602)(cid:618)(cid:615)(cid:602)(cid:613)(cid:614)(cid:602)(cid:1297)(cid:602)(cid:615)(cid:629)(cid:615)(cid:3)(cid:608)(cid:1317)(cid:615)(cid:607)(cid:3)(cid:608)(cid:616)(cid:632)(cid:1297)(cid:602)(cid:3)(cid:608)(cid:602)(cid:620)(cid:602)(cid:620)(cid:629)(cid:615)(cid:629)(cid:615)(cid:3)(cid:612)(cid:1319)(cid:618)(cid:619)(cid:607)(cid:620)(cid:607)(cid:606)(cid:639)(cid:17)(cid:3)(cid:584)(cid:619)(cid:629)(cid:3)(cid:1319)(cid:615)(cid:639)(cid:614)(cid:615)(cid:639)(cid:1305)(cid:3)(cid:1301)(cid:602)(cid:617)(cid:620)(cid:602)(cid:614)(cid:602)(cid:619)(cid:629)(cid:615)(cid:3)(cid:602)(cid:609)(cid:629)(cid:1301)(cid:16)(cid:620)(cid:1307)(cid:613)(cid:639)(cid:612)(cid:3)
+(cid:1319)(cid:615)(cid:639)(cid:614)(cid:606)(cid:607)(cid:618)(cid:639)(cid:615)(cid:3)(cid:619)(cid:602)(cid:1301)(cid:620)(cid:602)(cid:621)(cid:3)(cid:1307)(cid:626)(cid:639)(cid:615)(cid:3)(cid:617)(cid:602)(cid:611)(cid:606)(cid:602)(cid:613)(cid:602)(cid:615)(cid:621)(cid:1297)(cid:602)(cid:3)(cid:620)(cid:629)(cid:611)(cid:629)(cid:614)(cid:3)(cid:619)(cid:602)(cid:613)(cid:629)(cid:615)(cid:602)(cid:606)(cid:629)(cid:17)
+Русский
+Символ «петля Мебиуса» указывает на возможность утилизации упаковки. Символ может быть дополнен обозначением материала 
+упаковки в виде цифрового и/или буквенного обозначения.
+(cid:1300)(cid:602)(cid:609)(cid:602)(cid:1301)(cid:626)(cid:602)
+(cid:587)(cid:610)(cid:614)(cid:604)(cid:616)(cid:613)(cid:3)(cid:1301)(cid:602)(cid:617)(cid:620)(cid:602)(cid:614)(cid:602)(cid:615)(cid:629)(cid:3)(cid:608)(cid:616)(cid:632)(cid:3)(cid:614)(cid:1307)(cid:614)(cid:612)(cid:639)(cid:615)(cid:606)(cid:639)(cid:605)(cid:639)(cid:615)(cid:3)(cid:612)(cid:1319)(cid:618)(cid:619)(cid:607)(cid:620)(cid:607)(cid:606)(cid:639)(cid:17)(cid:3)(cid:587)(cid:610)(cid:614)(cid:604)(cid:616)(cid:613)(cid:3)(cid:619)(cid:602)(cid:615)(cid:606)(cid:629)(cid:1301)(cid:3)(cid:612)(cid:616)(cid:606)(cid:3)(cid:608)(cid:1317)(cid:615)(cid:607)(cid:18)(cid:615)(cid:607)(cid:614)(cid:607)(cid:619)(cid:607)(cid:3)(cid:1317)(cid:618)(cid:639)(cid:617)(cid:3)(cid:603)(cid:607)(cid:613)(cid:605)(cid:639)(cid:613)(cid:607)(cid:618)(cid:639)(cid:3)(cid:620)(cid:1307)(cid:618)(cid:639)(cid:615)(cid:606)(cid:607)(cid:605)(cid:639)(cid:3)(cid:1301)(cid:602)(cid:617)(cid:620)(cid:602)(cid:614)(cid:602)(cid:3)
+(cid:614)(cid:602)(cid:620)(cid:607)(cid:618)(cid:610)(cid:602)(cid:613)(cid:629)(cid:615)(cid:629)(cid:1305)(cid:3)(cid:603)(cid:607)(cid:613)(cid:605)(cid:639)(cid:619)(cid:639)(cid:614)(cid:607)(cid:615)(cid:3)(cid:620)(cid:616)(cid:613)(cid:629)(cid:1301)(cid:620)(cid:629)(cid:618)(cid:629)(cid:613)(cid:621)(cid:629)(cid:3)(cid:614)(cid:1307)(cid:614)(cid:612)(cid:639)(cid:615)(cid:17)
+17 Please contact LG First.
+If you have any inquiries or comments, please contact 
+LG customer information centre.
+LG Customer Information Centre
+Country  Service  Country  Service 
+Österreich 0 810 144 131 Nederland 0900 543 5454
+België 015 200 255 Norge 800 187 40
+Luxembourg 0032 15 200255 Polska 801 54 54 54
+(cid:571)(cid:628)(cid:613)(cid:605)(cid:602)(cid:618)(cid:610)(cid:633) 07001 54 54 Portugal 808 78 54 54
+(cid:203)(cid:70)(cid:84)(cid:76)(cid:160)(cid:1)(cid:51)(cid:70)(cid:81)(cid:15) 810 555 810 (cid:51)(cid:80)(cid:78)(cid:161)(cid:79)(cid:74)(cid:66) 031 228 3542
+Danmark 8088 5758 Slovensko 0850 111 154
+Record the model number and serial number of the TV. Suomi 0800 0 54 54 (cid:38)(cid:84)(cid:81)(cid:66)(cid:176)(cid:66) 963 05 05 00
+Refer to the label on the back cover and quote this  France 3220 dites LG ou tapez 54 Sverige 0770 54 54 54
+information to your dealer when requiring any service. 01806 11 54 11
+(0,20€ pro Anruf aus 
+Deutschland dem Festnetz der DTAG;  Schweiz 0848 543 543
+MODEL Mobilfunk: max. 0,60€ 
+pro Anruf.)
+SERIAL (cid:508)(cid:540)(cid:540)(cid:528)(cid:303)(cid:302) 801 11 200 900, United Kingdom0344 847 5454
+210 4800 564 (cid:586)(cid:616)(cid:619)(cid:619)(cid:610)(cid:633) 8 800 200 7676
+(cid:46)(cid:66)(cid:72)(cid:90)(cid:66)(cid:83)(cid:80)(cid:83)(cid:84)(cid:91)(cid:160)(cid:72)06 40 54 54 54 Eesti 800 9990
+Éire 01 686 9454 (cid:589)(cid:612)(cid:618)(cid:602)(cid:610)(cid:615)(cid:602) 0 800 303 000
+Italia 199600099 (cid:580)(cid:602)(cid:609)(cid:602)(cid:623)(cid:619)(cid:620)(cid:602)(cid:615) 8 8000 805 805,
+(cid:571)(cid:607)(cid:613)(cid:602)(cid:618)(cid:621)(cid:619)(cid:630) 8 820 0071 1111 2255(GSM)
+Latvija 80200201 (cid:589)(cid:609)(cid:603)(cid:607)(cid:612)(cid:610)(cid:619)(cid:620)(cid:68)(cid:615) 8 800 120 2222
+Lietuva 880008081 (cid:580)(cid:629)(cid:618)(cid:605)(cid:629)(cid:609)(cid:619)(cid:620)(cid:602)(cid:615)0-800-805-8050
+Türkiye 444 6 543
+www.lg.com

@@ -1,0 +1,180 @@
+Nest Cam Outdoor
+Installation Guide First, a word about privacy. Contents
+We’re committed to being open and honest about 
+In the box 4
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+how we use data. We’ll always ask for permission 
+What you’ll need 5
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+before sharing personally identifiable information 
+Do this first 6
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+like your email address, and we work hard to keep 
+Choose a good spot 8
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+your data safe. To learn more about our Privacy  Mount your camera 10
+.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  
+Policy, go to nest.com/privacy Limited warranty 12
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Safety 14
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ 
+ 
+ 
+Want to see how it’s done?
+Go to nest.com/installnestcam for installation videos and additional tips.
+¿Prefieres leer esto en español? Visita nest.com/es-guide
+2 3 In the box. What you’ll need.
+•   Wi-Fi and a working broadband internet  Other items you may need
+connection with at least 2 Mbps upload 
+speed. DSL may not qualify. •   Drill bit (3/32" for pilot holes. Or 7/32" 
+if you’re using wall anchors.)
+Mounting magnet 12 wall screws •   A phone or tablet with iOS 8 or later 
+or Android 4 or later •   Ladder
+•   A Nest Account
+•   A power outlet No outdoor outlet?
+•   A Phillips screwdriver or power drill  You can plug Nest Cam Outdoor into an 
+with Phillips driver bit indoor outlet. This requires some extra 
+steps, which may include drilling through 
+Camera
+your home’s exterior wall. Keep in mind 
+Camera wall plate 12 wall anchors that you’ll need to know where any in-wall 
+pipes and wiring are.
+Don’t want to do it yourself?
+Power adapter Adapter wall plate 9 cable clips
+Nest Cam Outdoor is designed for easy DIY installation, 
+or you can hire a Nest Pro. They’ll take care of the 
+installation and make sure everything’s up and running. 
+Find a local Nest Pro at nest.com/install
+CAUTION: The mounting magnet is very strong. Mind your fingers 
+and keep it in the box until you’re ready to use it.
+4 5 Do this first.
+1. Turn on Nest Cam indoors 2. Add it to your Nest Account 3.  Bring your camera outside 4. Make sure it’s streaming
+Start by turning on your camera inside the  Download the Nest app from the App Store®  Once you’ve added Nest Cam to your  Before you mount the camera, make sure 
+house to get everything set up before you  or Google Play™. Open the app and tap “Sign  account, unplug it and take it to the spot  it can get Wi-Fi in the spot you’ve picked.
+take it outside. up” to create an account. Then tap Add,  you’ve chosen outdoors.
+Hold your Nest Cam where you’d like to mount 
+choose Nest Cam and follow the instructions.
+Connect your Nest Cam’s cable to the power  Plug it into the outlet you want to use and  it and check to make sure it’s streaming 
+adapter. Push and twist the USB connector  If you already have a Nest Account: Tap the  wait for the green light to turn on. Nest Cam  video to the Nest app. If you don’t see video, 
+into place. Then plug the adapter into a power  settings icon in the top-right corner of the  will reconnect to your Wi-Fi network  the Wi-Fi may not be strong enough there – 
+outlet. Your Nest Cam will turn on and you’ll  app home screen. Then tap “Add product,”  automatically. This may take a minute or two. you’ll need to find a different spot or move 
+see a blue light. choose Nest Cam and follow the steps. your Wi-Fi router.
+Keep Nest Cam plugged in for the rest 
+If you need help, go to nest.com/pair of the installation.
+→ See location tips on the next page.
+6 7 Choose a good spot.
+12'
+11'
+10'
+9'
+8'
+7'
+6'
+5'
+4'
+3'
+2'
+1'
+Avoid direct sunlight.  Keep it in range of your router. Consider the surroundings. Place it up high.
+Nest Cam Outdoor is designed to operate  Make sure to pick a place within range of  Is a post, plant or porch light blocking the  But not too high. We find 7 to 10  feet above 
+between –4° and 104°F (–20° to 40°C).  your network. Thick or insulated walls can  view? It might throw off exposure, focus  the ground, tilted downward, is best – close 
+If it gets hotter or colder, image quality may  greatly reduce the strength of your Wi-Fi  or Night Vision. If you start noticing glare,  enough to see someone’s face and talk with 
+be affected. signal even if your router is close by, so you  adjust the camera so the horizon is out  them through the camera. Check the video 
+should try streaming video before you  of frame.  in the Nest app to make sure Nest Cam is 
+mount your camera. seeing what you want to see.
+ 
+Learn more at nest.com/wifihelp Mount your camera.
+5. Place the mounting magnet 6. Attach the camera 7. Mount the power adapter 8. Secure the cable
+Screw the wall plate onto your wall. It’s a  Put Nest Cam onto the mounting magnet  Before you mount the power adapter to the  Fasten the cable to the wall using as many 
+good idea to drill pilot holes first. If the wall  and aim it where you like. Use the video  wall, take a minute to plan the route of the  of the included cable clips as you need. It’s 
+is made of a material like brick or stone,  stream in the Nest app to fine-tune your  cable from your outlet to the camera. Be sure  a good idea to route the cable along a ledge 
+you may need to use the included wall anchors  camera’s position. to leave some slack at both ends. or another hidden place, and you can paint 
+to hold the screws. it to match your house. Don’t pull the cable too 
+We recommend installing the weatherproof  tight in case you want to adjust the camera 
+Next, put the magnet onto the wall plate. adapter at least 18 inches above the ground  angle later on.
+in case of flooding or deep snow.
+Got a magnetic surface nearby? The mounting 
+magnet may be all you need. Just put it  Mount the adapter wall plate with the flat 
+where you’d like the camera to be and move  side flush to the wall. When that’s done, snap 
+on to the next step. the power adapter into place.
+Tip: If the camera wall plate sticks to the  Tip: Some outdoor outlets have covers you 
+mounting magnet, you can use a screwdriver  can lock in place. Use a zip tie or padlock 
+to help pry them apart. to keep the cover shut.
+10 11 Nest Labs, Inc.  THIS LIMITED WARRANTY CONTAINS IMPORTANT INFORMATION  to owner and will reimburse any shipping costs incurred by the  7. LIMITATION OF LIABILITY
+ABOUT YOUR RIGHTS AND OBLIGATIONS, AS WELL AS  owner, except with respect to any Ineligible Product, for which  THE NEST LABS ONLINE SERVICES (“SERVICES”) PROVIDE 
+Limited Warranty  LIMITATIONS AND EXCLUSIONS THAT MAY APPLY TO YOU. owner will bear all shipping costs. YOU INFORMATION (“PRODUCT INFORMATION”) REGARDING 
+YOUR NEST PRODUCTS OR OTHER PERIPHERALS CONNECTED 
+Nest Cam Outdoor 1. WHAT THIS LIMITED WARRANTY COVERS;  4. WHAT THIS LIMITED WARRANTY DOES NOT COVER TO YOUR PRODUCTS (“PRODUCT PERIPHERALS”). THE TYPE 
+This Limited Warranty does not cover the following (collectively  OF PRODUCT PERIPHERALS THAT MAY BE CONNECTED TO 
+PERIOD OF COVERAGE
+“Ineligible Products”): (i) Products marked as “sample” or “Not  YOUR PRODUCT MAY CHANGE FROM TIME TO TIME. WITHOUT 
+Nest Labs, Inc. (“Nest Labs”), 3400 Hillview Avenue, Palo Alto,  for Sale”, or sold “AS IS”; (ii) Products that have been subject  LIMITING THE GENERALITY OF THE DISCLAIMERS ABOVE, 
+California USA, warrants to the owner of the enclosed product  to: (a) modifications, alterations, tampering, or improper  ALL PRODUCT INFORMATION IS PROVIDED FOR YOUR 
+that the product contained in this box (“Product”) will be free  maintenance or repairs; (b) handling, storage, installation,  CONVENIENCE,“AS IS”, AND “AS AVAILABLE”. NEST LABS 
+from defects in materials and workmanship for a period of two  testing, or use not in accordance with the User’s Guide, Placement  DOES NOT REPRESENT, WARRANT, OR GUARANTEE THAT 
+(2) years from the date of delivery following the original retail  Guidelines, or other instructions provided by Nest Labs;  PRODUCT INFORMATION WILL BE AVAILABLE, ACCURATE, 
+purchase (the “Warranty Period”). If the Product fails to conform  (c) abuse or misuse of the Product; (d) breakdowns, fluctuations,  OR RELIABLE OR THAT PRODUCT INFORMATION OR USE OF 
+to this Limited Warranty during the Warranty Period, Nest  or interruptions in electric power or the telecommunications  THE SERVICES OR PRODUCT WILL PROVIDE SAFETY IN YOUR 
+Labs will, at its sole discretion, either (a) repair or replace any  network; or (e) Acts of God, including but not limited to lightning,  HOME. YOU USE ALL PRODUCT INFORMATION, THE SERVICES, 
+defective Product or component; or (b) accept the return of the  flood, tornado, earthquake, or hurricane; or (iii) any non-Nest  AND THE PRODUCT AT YOUR OWN DISCRETION AND RISK. 
+Product and refund the money actually paid by the original  Labs branded hardware products, even if packaged or sold with  YOU WILL BE SOLELY RESPONSIBLE FOR (AND NEST LABS 
+purchaser for the Product. Repair or replacement may be made  Nest Labs hardware. This Limited Warranty does not cover  DISCLAIMS) ANY AND ALL LOSS, LIABILITY, OR DAMAGES, 
+with a new or refurbished product or components, at Nest  consumable parts, including batteries, unless damage is due  INCLUDING TO YOUR WIRING, FIXTURES, ELECTRICITY, HOME, 
+Labs’ sole discretion. If the Product or a component incorporated  to defects in materials or workmanship of the Product, or  PRODUCT, PRODUCT PERIPHERALS, COMPUTER, MOBILE 
+within it is no longer available, Nest Labs may, at Nest Labs’  software (even if packaged or sold with the product). Nest Labs  DEVICE, AND ALL OTHER ITEMS AND PETS IN YOUR HOME, 
+sole discretion, replace the Product with a similar product of  recommends that you use only authorized service providers  RESULTING FROM YOUR USE OF THE PRODUCT INFORMATION, 
+similar function. This is your sole and exclusive remedy for  for maintenance or repair. Unauthorized use of the Product  SERVICES, OR PRODUCT. PRODUCT INFORMATION PROVIDED 
+breach of this Limited Warranty. Any Product that has either  or software can impair the Product’s performance and may  BY THE SERVICES IS NOT INTENDED AS A SUBSTITUTE FOR 
+been repaired or replaced under this Limited Warranty will  invalidate this Limited Warranty. DIRECT MEANS OF OBTAINING THE INFORMATION. FOR 
+be covered by the terms of this Limited Warranty for the longer  EXAMPLE, A NOTIFICATION PROVIDED THROUGH THE SERVICE 
+of (a) ninety (90) days from the date of delivery of the repaired  5. DISCLAIMER OF WARRANTIES IS NOT INTENDED AS A SUBSTITUTE FOR AUDIBLE AND 
+Product or replacement Product, or (b) the remaining Warranty  EXCEPT AS STATED ABOVE IN THIS LIMITED WARRANTY, AND  VISIBLE INDICATIONS IN THE HOME AND ON THE PRODUCT, 
+Period. This Limited Warranty is transferable from the original  TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW,  NOR FOR A THIRD PARTY MONITORING SERVICE THAT 
+purchaser to subsequent owners, but the Warranty Period will  NEST LABS DISCLAIMS ALL EXPRESS, IMPLIED, AND STATUTORY  MONITORS ALARM STATE.
+not be extended in duration or expanded in coverage for any 
+For more information, visit nest.com such transfer. WINACRLRUADNINTGIE TSH AEN IDM CPOLNIEDDIT WIOANRSR WAINTHTI RESES OPFE MCTE TROC THHAEN PTRAOBDILUITCYT ,  8. YOUR RIGHTS AND THIS LIMITED WARRANTY
+Need help? Contact us at nest.com/support 2. TOTAL SATISFACTION RETURN POLICY AND FITNESS FOR A PARTICULAR PURPOSE. TO THE MAXIMUM  This Limited Warranty gives you specific legal rights. You may 
+EXTENT PERMITTED BY APPLICABLE LAW, NEST LABS ALSO  also have other legal rights that vary by state, province, or 
+For FCC Compliance Statement, visit  If you are the original purchaser of the Product and you are not  LIMITS THE DURATION OF ANY APPLICABLE IMPLIED  jurisdiction. Likewise, some of the limitations in this Limited 
+satisfied with this Product for any reason, you may return  WARRANTIES OR CONDITIONS TO THE DURATION OF THIS  Warranty may not apply in certain states. The terms of this 
+nest.com/legal/fcc-compliance-notice it in its original condition within thirty (30) days of the original  LIMITED WARRANTY. Limited Warranty will apply to the extent permitted by applicable 
+purchase and receive a full refund. law. For a full description of your legal rights you should refer 
+6. LIMITATION OF DAMAGES to the laws applicable in your jurisdiction and you may wish 
+3. WARRANTY CONDITIONS; HOW TO GET SERVICE IF YOU  IN ADDITION TO THE ABOVE WARRANTY DISCLAIMERS, IN NO  to contact a relevant consumer advisory service. 
+WANT TO CLAIM UNDER THIS LIMITED WARRANTY
+EVENT WILL NEST LABS BE LIABLE FOR ANY CONSEQUENTIAL, 
+Before making a claim under this Limited Warranty, the owner  INCIDENTAL, EXEMPLARY, OR SPECIAL DAMAGES, INCLUDING 
+of the Product must (a) notify Nest Labs of the intention to  ANY DAMAGES FOR LOST DATA OR LOST PROFITS, ARISING FROM 
+claim by visiting nest.com/support during the Warranty Period  OR RELATING TO THIS LIMITED WARRANTY OR THE PRODUCT,  064-00083-US
+and providing a description of the alleged failure, and (b) comply  AND NEST LABS’ TOTAL CUMULATIVE LIABILITY ARISING FROM 
+with Nest Labs’ return shipping instructions. Nest Labs will have  OR RELATED TO THIS LIMITED WARRANTY OR THE PRODUCT 
+Please recycle Nest’s packaging. no warranty obligations with respect to a returned Product  WILL NOT EXCEED THE AMOUNT ACTUALLY PAID FOR THE 
+if it determines, in its reasonable discretion after examination  PRODUCT BY THE ORIGINAL PURCHASER. 
+RECYCLING AND DISPOSAL  of the returned Product, that the Product is an Ineligible Product 
+Visit nest.com/recycle (defined below). Nest Labs will bear all costs of return shipping 
+12 13 Safety
+PLACEMENT GUIDELINES 
+To avoid risk of overheating and burns:
+Use only in temperatures between –4° and 
+104°F (–20° to 40°C). 
+Keep out of direct sunlight.
+Do not block airflow to Nest Cam.
+To avoid risk of fire and shock:
+Use only the provided USB cable and power adapter.
+Install in accordance with building and installation 
+codes where you live. For example, if your desired 
+electrical outlet is exposed to direct rain, the 
+electrical code may require that the outlet have 
+a while-in-use cover.
+We recommend using only an electrical outlet equipped 
+with a ground fault circuit interrupter (look for “Test” 
+and “Reset” buttons on your outlet).
+To avoid risk of other serious injury:
+Keep camera and all components out of the reach 
+of children and pets.
+If your Nest Cam is installed more than 6.5 feet (2 m) 
+above the ground, make sure you’ve got a cable clip 
+close to the camera head (19.5 inches or 50 cm from 
+the base). 
+14 064-00084-US-A

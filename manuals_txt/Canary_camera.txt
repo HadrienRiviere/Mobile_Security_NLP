@@ -1,0 +1,325 @@
+User Guide Table of Contents
+3    Secure Setup
+4    Setup Requirements
+5    Home Screen
+6    Modes
+7    Mode Settings
+8    Manual Mode Switching
+9    Watch Live
+10   Timeline
+11    Event Screen
+12    Motion Notification Settings
+13    HomeHealth Technology™
+15    Navigating HomeHealth
+16    Siren and Emergency Services
+17    Canary Widget (iOS)
+18    Settings
+19    Membership
+20   Help
+2 Secure Setup
+1. Download the app. 
+Visit the App Store, Google Play, or  
+http://canary.is/app to download the free 
+Canary app on your smartphone. 
+2. Launch the app. 
+Open the app on your Android or iOS device. 
+3. Follow in-app instructions. 
+The Canary app will walk you through creating 
+an account and setting up your device. 
+33 Setup 
+Canary can connect to the internet using  
+Wi-Fi or an Ethernet cable.
+Requirements
+Wi-Fi Network Requirements 
+In order for your Canary to connect to 
+your Wi-Fi network, it will need to meet the 
+following requirements: 
+  Your Wi-Fi network broadcasts at  
+2.4GHz (802.11 b/g/n).
+  Your network upload speed is greater  
+than 1 Mbps.
+iOS Requirements
+To set up your Canary Flex using an iOS 
+device, it must be running iOS 8 or newer. 
+This includes the following devices:
+  iPhone (4S or newer)
+  iPad (2nd generation or newer)
+  iPad mini (1st generation or newer)
+  iPod Touch (5th generation or newer)
+Android Requirements
+To set up Canary on an Android device, 
+it will need to be running Android 4.3 or 
+newer.
+4 Home Screen
+The Home Screen is the main screen of the 
+Canary app. From here, you can  
+view any information about your Canary in 
+just a few taps.
+Location name
+Menu
+Dynamic background
+Device name
+Watch Live
+HomeHealth
+Current mode
+Location members
+View Timeline
+5 Modes
+Canary has three modes: away (shield), 
+home (house), and night (moon).
+In away mode, Canary monitors your 
+home for activity and sends you a push 
+notification with a video when it detects 
+movement.
+In home mode, Canary can send you 
+notifications when it detects activity, 
+record activity without notifications, or you 
+can disable the camera and microphone 
+entirely.
+In night mode, you can set a schedule for 
+when you want your Canary to monitor your 
+home for activity with or without sending 
+you notifications. Alternatively, you can 
+schedule your Canary to be set private.
+You may choose from two settings when 
+in home and night modes: “Record video” 
+and “Set to private”. When Canary is set 
+Away
+to “Record video”, you can stream real-
+When all members are away 
+time video, view and save video events to 
+Canary monitors for activity 
+your location timeline and elect to receive 
+and sends notifications.
+motion notifications. When using “Set to 
+private”, Canary’s camera, microphone, 
+and motion detection capabilities are fully 
+disabled.
+Home
+When a member is home  Note: If you’ve enabled Auto-Mode 
+Canary is customizable. Switching on the free plan, your location 
+will automatically be set to private when at 
+least one user is home. Home mode and 
+night mode customization is only available 
+with Canary Membership.
+Night
+Schedule Canary to monitor 
+for activity while you sleep.
+6 Mode Settings
+In Mode Settings, you can configure  
+how Canary changes modes by activating  
+or disabling Auto-Mode Switching. 
+Auto-Mode Switching
+While Auto-Mode Switching is on, Canary 
+will use your phone’s location services to  
+detect whether you’re home or away.
+Canary will switch into away mode when all 
+location members leave home, and switch 
+into home mode when at least one member 
+arrives home.
+You can also schedule Canary to switch into 
+and out of night mode at specific times. 
+Night mode will only activate when at least 
+one member is home.
+Note: If you’ve enabled Auto-Mode 
+Switching on the free plan, your location 
+will automatically be set to private when at 
+least one user is home. Home mode and 
+night mode customization is only available 
+with Canary Membership.
+7 Manually 
+You can manually change Canary’s mode 
+from the Home Screen even if Auto-Mode 
+Switching Modes Switching is on. To do so, tap the mode 
+icon and select the desired mode
+If Auto-Mode Switching is off, Canary will  
+only change modes when you manually  
+select a different mode. You can change 
+Canary’s mode by tapping on the mode 
+icon on the Home Screen.
+8 Watch Live
+View a livestream of your home when 
+Canary is in away mode or any time it’s set 
+to record motion.
+On this screen, you can sound the siren, call 
+emergency services, or activate two-way 
+Canary Talk.
+Note: Canary Talk is only available with 
+Canary Membership.
+If you want to catch the smaller details, 
+double-tap or pinch the screen to zoom in.
+Sound the siren.
+Hold to speak with Canary Talk.
+Contact emergency services.
+9 Timeline
+To access the Timeline, swipe up or tap  
+View Timeline on the Home Screen. 
+You can review recent video events, watch 
+saved videos, keep track of member activity, 
+and monitor mode changes.
+Filter events by date
+Filter the timeline by all recorded events, 
+events recorded in away mode, or 
+bookmarked events.
+View a video event
+Notification sent for activity detected
+10 Event Screen
+On the Event Screen, you can play  
+back recorded activity, export and delete 
+video, tag specific types of motion, 
+bookmark an event on the timeline,  
+or respond to an emergency.
+Note: Video export and social sharing are 
+only available with Canary Membership.
+Delete or export a video clip
+Rewind or fast-forward through an event
+Switch to Watch Live (    ), Tag (    ) to 
+help Canary learn, or bookmark (    ) to 
+save an event
+Sound the siren or call 
+emergency services
+11 Motion 
+You can customize how much or how 
+little activity is required to send you a 
+notification in your Motion notification 
+Notifications
+settings.
+By default, Canary’s notification 
+settings should filter out the majority of 
+background activity like TVs, ceiling fans, 
+and other repetitive motion.
+If you’d like to receive less or more 
+notifications, adjust the slider accordingly.  
+For example, if you have a pet and don’t  
+want to be notified when it moves, drag 
+the slider to the left.
+12 HomeHealth 
+Canary’s HomeHealth Technology™ 
+analyzes the temperature, humidity, and  
+Technology™ air quality in your environment to help  
+keep you safer and more connected to  
+your home.
+Your home’s current environmental 
+conditions are displayed on the Home 
+Screen, under the temperature, humidity, 
+and air quality icons. Tap on any of  
+these icons to view a 24 hour history of  
+your HomeHealth data.   
+Temperature
+Canary tracks your home’s climate and 
+shows you real-time temperature  
+readings along with recent heat spikes  
+or drops. These measurements can help 
+you monitor your comfort, your utilities  
+bill, and your safety.
+Humidity
+Humidity measures how much water  
+vapor is in the air in your home. 
+Humidity, along with temperature, can affect 
+your overall health as well as structural 
+factors in your house or apartment.
+13 Air Quality
+Canary assesses your home’s indoor air 
+quality—the amount of contaminants in the 
+air—and shows you what’s inside and outside 
+the normal range for your environment.
+Canary detects changes in air quality  
+caused by pollutants including:
+•  Isobutane
+•  Hydrogen
+•  Methane
+•  Ethanol
+•  Carbon monoxide
+•  Cigarette smoke 
+•  Cooking odors
+You can keep Canary’s air quality sensor 
+calibrated by ventilating your home with  
+outside air. Make a habit of opening windows  
+or doors to let fresh air in and help Canary  
+stay as accurate as possible.
+ 
+Air quality can also be affected by  
+temperature, humidity, and seasonal  
+climate changes in your environment.
+While Canary’s air quality sensor can detect 
+carbon monoxide and smoke, Canary isn’t 
+a replacement  for a dedicated carbon 
+monoxide or smoke detector in your home.
+For more information on HomeHealth 
+Technology™, please visit our Help Center.
+14 Navigating 
+The HomeHealth screen shows readings for 
+temperature, humidity, and air quality for the 
+HomeHealth previous 24 hours.
+To see what environmental conditions  
+were at a specific point in time, tap and hold 
+on any of the the HomeHealth graphs and 
+drag your finger along the timeline.
+These graphs display information from a 
+single Canary. If you have more than one 
+Canary and want to view HomeHealth data 
+from another device at the same location, 
+swipe left or right on the Home Screen to 
+switch between multiple devices.
+15 Siren and Emergency 
+You can sound a 90+ dB siren or contact 
+emergency services while watching live, 
+Services viewing a pre-recorded event, or by using 
+the Canary Widget for iOS.
+After tapping Siren, you’ll be asked to 
+confirm your selection before it’s activated.
+Once activated, the siren will auto- 
+matically turn off after 30 seconds; you  
+can also manually turn it off by pressing  
+the button again.
+Tap Emergency to call local police,  
+fire, or medical services.
+16 Settings
+To access Settings, swipe down on  
+the Home Screen. 
+From Settings, you can view or  
+modify the following:
+• Membership
+• Devices
+• Members
+• Modes
+• Notifications
+• Address
+• Emergency Numbers
+17 Canary 
+Membership
+Complete coverage and unmatched services 
+Canary Membership Includes:
+to keep you safe and connected to what 
+matters most.
+Unlimited full-length recorded videos, 
+stored for 30 days
+Become a member at canary.is/membership 
+and get two months free with an annual 
+Two-way Canary Talk
+subscription.
+Web app access for 
+desktop streaming
+Unlimited video downloads 
+and shares
+2-year extended device warranty*
+Incident Support Services*
+*Available to US customers only. For full terms, see canary.is/legal.
+18 Help
+If you’re having issues with your Canary Flex 
+and need support, please visit our  
+Help Center, email us, or swipe down on  
+the Home Screen and tap Get help. 
+While we’re happy to help you troubleshoot, 
+we also want to know how Canary impacts 
+your life. 
+Share your experiences with us on  
+Facebook and Twitter using #canarystories 
+or #caughtbycanary, or email  
+stories@canary.is to tell us about your 
+favorite Canary moments.
+Feel free to include videos or photos with 
+your story. 
+Thanks for choosing Canary. 
+© 2017, Canary Connect, Inc. 
+19

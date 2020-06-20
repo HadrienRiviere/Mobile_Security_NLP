@@ -1,0 +1,168 @@
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+Almond 
+Quick Setup Guide 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+   
+Contents 
+ 
+1  Introduction 
+1.1 Getting to know your Almond 
+2  Connecting your Almond as a Range Extender (Repeater) 
+3  Connecting your Almond as a Router 
+3.1 Using your Almond with a DCHP or Cable modem connection 
+3.2 Using your Almond with an xDSL modem 
+3.3 Connecting your Almond to the Internet using a static IP address   
+4  Security 
+5  Wireless 
+6  FAQ 
+3 
+  1. Introduction
+We’d like to congratulate you on the purchase of your Almond, the world’s first user friendly touchscreen router. The product you’ve purchased has 
+been designed with you in mind and we hope you’ll enjoy your Almond as much as we do. This quick start guide will help you get on the right track in 
+case you run into some problems during the initial setup of your Almond and it also contains a basic frequently asked questions (FAQ) section. For a 
+complete and up to date FAQ, please visit the Securifi website. 
+1.1 Getting to know your Almond 
+On the front of your Almond you’ll find the touchscreen. It’s used to configure most of the settings of the Almond. Most of the instructions in this 
+quick start guide will revolve around the touchscreen interface. On the right hand side you’ll find three network ports. The grey port should be 
+connected to the internet if you’re using your Almond as a router. This might be a via a network cable to a fiber service, to a cable modem, to an xDSL 
+modem or some other kind of device provided by your internet service provider. 
+4  The two black ports can be used to connect wired internet devices such as a PC, Mac, games console, set-top-box or just about anything else that 
+requires a wired connection to the internet. Note that these ports also function when the Almond is configured as Wireless Range Extender (Repeater) 
+and as a Wireless Access Point and will allow you to connect wired as well as wireless devices to the Internet. 
+Just below the network ports you’ll find a reset button, a power socket and a slot in which the stylus is located. 
+The stylus can be used to help you enter information on the touchscreen and it can be particularly useful when it comes to entering passwords and 
+other text during the initial configuration of your Almond. 
+2. Connecting your Almond as a Range Extender (Repeater)
+i. Plug the AC adapter of your Almond into a power outlet.
+ii. Please wait for your Almond to power up.
+5  iii. At this point, please select the language you want to use when you access the Almond’s touchscreen and Web UI (Note: The language can be
+changed via the icon in the top right corner of the touch screen at any point).
+iv. Select the region you reside in.
+v. Your Almond will save the settings and reboot.
+6  vi. Once your Almond has rebooted you’ll be greeted by a Setup Wizard that will help you through the basic settings that will get you connected to
+the internet. Tap on [Start wizard] to continue setting up your Almond and follow the on-screen instructions.
+7  vii. Start by selecting Range Extender and tap on [Next] to continue the setup.
+viii. At this point, you’ll be greeted by the screen below. Find your wireless internet connection in the list (Wi-Fi router/Access point) and tap on it to
+select it, it should now be highlighted in blue as per the image below. Tap on [Next] to continue the setup.
+8  ix. Enter the password for your wireless internet connection via the on screen keyboard that pops up once you tap anywhere inside the text box.
+x. Once you’ve entered the password, tap on [Done] and then [Next] to continue.
+9  xi. You should now be greeted by the screen below that shows that you’ve successfully connected the Almond to your Router or Access point. Tap
+on [Finish] to end the setup process.
+Note: If you want your Almond to issue IP addresses, i.e. to act as a DHCP server, then choose the Wireless WAN option instead of Range Extender 
+option. In Range Extender mode, the Almond relies on your main router to act as the DHCP server. 
+10  3. Connecting your Almond as a Router
+i. Unplug the AC adapter & Ethernet cables of your Internet modem (Cable, xDSL or Fiber). If your modem has a battery, please remove it.
+ii. Wait for one (1) minute. If your modem has a battery, re-insert it. Plug the AC adapter of the modem back into the power outlet.
+11  iii. Wait for one (1) minute, then plug the AC adapter of your Almond into the power outlet.
+iv. Please wait for your Almond to power on.
+v. At this point, please select the language you want to use when you access the Almond’s touchscreen and Web UI (Note: The language can be
+changed via the icon in the top right corner of the touch screen at any point).
+12  vi. Select the region you reside in.
+vii. Your Almond will save the settings and reboot.
+viii. Once your Almond has rebooted you’ll be greeted by a Setup Wizard that will help you through the basic settings that will get you connected to
+the internet. Tap on [Start wizard] to continue setting up your Almond and follow the on-screen instructions.
+13  ix. By selecting Router from the touchscreen and tapping on [Next], your Almond will start the automatic configuration procedure.
+14  x. The first thing you should do is attach the network cable from your modem/router or other type of network port that you receive your Internet
+connection through. Note: The cable should be connected to the grey port on your Almond.
+xi. The Almond will try to auto-detect your connection type and as long as your connection provides all the settings via DHCP, this step should be
+automatic.
+15  xii. Once the Wizard has auto-detected the settings, you’ll be greeted with screen below. Tap on [Finish] to finalize the configuration.
+xiii. If the Almond fails to auto-detect the type of internet connection you are using, you’ll be greeted with the following screen instead.
+xiv. If you’re uncertain about the type of internet connection you have, please select [Not sure] and tap next.
+xv. Follow the on-screen instructions on how to restart your modem.
+xvi. If this step fails, then please go back and try to manually configure your internet connection selecting one of the other three options. For more
+detailed instructions on how to configure your Almond to work with a DHCP or Cable modem connection, please see section 3.1, a DSL Dialup
+service, please see section 3.2 and for manual IP configuration, please see section 3.3.
+16  3.1 Using your Almond with a DCHP or Cable modem connection 
+If your internet provider has specified that your internet connection uses DHCP (Dynamic Host Configuration Protocol), or if your internet connection 
+uses a Cable modem, then the following steps should be taken to get your Almond connected to the Internet. 
+i. Select DHCP or Cable Modem from the menu on the screen and tap [Next] to continue.
+17  ii. Please follow the on-screen instructions of your Almond for this step. It’s important that you follow these instructions or your Almond might not
+be able to connect to your modem. Once you’re done, please tap [Next] to continue and wait for the DHCP settings to be automatically detected
+and saved.
+18  iii. If you see a green square in front of the word Connected your Almond is now configured properly and is ready to be used. Please take note of
+the Almond wireless name (SSID) and password at this point. Tap on [Finish] to save the settings and finalize the configuration. Note: You can
+always find your wireless network SSID and password by tapping on the Wireless icon on your Almond.
+19  3.2 Using your Almond with an xDSL modem 
+If you connect to the internet via an xDSL connection, then follow these steps to configure your Almond to connect to the internet through your 
+modem. Note that the Almond does not support PPPoA ADSL connections. 
+i. Select DSL Dialup from the menu on the screen, a notice will appear on the screen, tap it to close it and then tap [Next] to continue.
+ii. Enter your dial-up username and password provided by your ISP (Internet Service Provider), and tap [Done] and then [Finish]. Your Almond will
+save the settings which will take a few seconds.
+20  iii. Now you need to select the type of DSL connection you have. If you don’t know this information, please contact your Internet Service Provider. If
+you’re using PPPoE, your Almond will automatically detect the settings for you once you tap on [Next] after having selected PPPoE. If you’re
+using PPTP or L2TP, you need to fill in the additional settings in step 4 below.
+21  iv. Please fill in the required information and select the correct options. This information would’ve been given to you by your Internet Service
+Provider. Tap [Next] to continue.
+v. If you see a green square in front of the word Connected your Almond is now configured properly and is ready to be used. Please take note of
+the Almond wireless name (SSID) and password at this point. Tap on [Finish] to save the settings and finalize the configuration. Note: You can
+always find your wireless network SSID and password by tapping on the Wireless icon on your Almond.
+22  3.3 Connecting your Almond to the Internet using a static IP address 
+If your Internet Service Provider delivers the Internet to you via a service that relies on a static IP address, for example some kind of Ethernet or Fibre 
+based service, then select this option when you set up your Almond. 
+i. Select Manual IP from the on screen menu and tap [Next] to continue.
+ii. Enter the IP address, Net Mask and Gateway that you were provided by your Internet Service Provider in the boxes available. As you tap a field,
+you’ll be presented by a new screen that has an on-screen keyboard that allows you to do this. Tap on [Done] on the keyboard once you’ve
+entered the correct details and one you’ve filled in all three fields, tap on [Next] to continue.
+23  iii. If your Internet Service Provider has provided you with a Primary and Secondary DNS server, please enter them here. If not, then you can leave
+the default settings which are Google’s open DNS servers. Tap [Next] to continue.
+iv. Your settings will now be saved.
+24  v. If you see a green square in front of the word Connected your Almond is now configured properly and is ready to be used. Please take note of
+the Almond wireless name (SSID) and password at this point. Tap on [Finish] to save the settings and finalize the configuration. Note: You can
+always find your wireless network SSID and password by tapping on the Wireless icon on your Almond.
+If you ever need to re-configure your Almond, the easiest way to do this is to tap on [Internet Settings] on the touchscreen. This will allow you to 
+make changes to the Almond’s configuration and all you to follow the steps above to alter these settings. Alternatively, you can re-run the Wizard if 
+you prefer. 
+25  4. Security
+Access the security settings of your Almond by tapping on the [Security] icon on the touchscreen interface. This will allow you to change the unique 
+factory generated Wi-Fi password to something that will be easier to remember. You can also change the type of wireless encryption you want to use, 
+as well as the web UI admin password and enable the screen lock of your Almond. You can also enable the Show Passwords option if desired. 
+26  5. Wireless
+The Wireless settings screen allows you to change settings such as the SSID (i.e. the Wi-Fi name of your Almond), the wireless password and the Wi-Fi 
+channel it broadcasts on. You can also enable the guest network which you can share with visitors that you don’t want to give full access to your 
+network to. Wi-Fi clients that connect to the main SSID will have access to both the local network and the Internet. Wi-Fi clients that connect to 
+the guest SSID will have access to the Internet only. Simply provide the main SSID and password, or the guest SSID and password to clients depending 
+on how much access you want them to have to your Almond. 
+27  6. FAQ
+Q: How do I remove “_almond” from the end of my extended network’s name? 
+A: Simply go to the Wireless settings (see section 5) and tap on Name (SSID) and simply remove “_almond” using the [DEL] key on the onscreen 
+keyboard. 
+Q: How do I reset my Almond back to the original factory settings? 
+A: The reset button is on the same side of the Almond as its ports (see section 1.1), just above the power jack. You may use a paper clip, or the 
+Almond stylus to depress the reset button for a few seconds while the Almond is powered on. You may also reset your router from the web user 
+interface by going to the “Management” tab and clicking on “factory reset”. 
+Q: How do I change my Almond’s SSID (network name)? 
+A: When using your Almond in Router or Range Extender mode, please tap on the “Wireless” icon on the LCD touchscreen. Now tap on the text in the 
+white box under Name (SSID) and the onscreen keyboard will appear and you can change the SSID of your Almond. Tap on [Done] when you’re 
+finished and the new name will be saved. 
+Q: What is the default username and password for Almond’s Web User Interface? 
+A: admin/admin. If this for some reason has been changed, go to the second screen on your Almond’s touchscreen interface and tap on Web 
+Administer and your Almond will display the username and password. You can also change the Web User Interface username and password here by 
+simply tapping in the text boxes and edit the text via the onscreen keyboard. 
+Q: Why can’t I change the wireless channel of my Almond when it’s used in Range Extender mode? 
+A: In Range Extender mode, the Almond must be synched with the main router’s channel. If the Almond’s channel is changed independently, it will no 
+longer be able to extend the range. 
+28  Q: Can I use my Almond as a wireless bridge for Ethernet only devices? 
+A: Yes. When the Almond is configured in Range Extender mode the Ethernet ports will remain functional. This allows you to connect set-top-
+boxes, game consoles, smart TV’s and other devices that lack Wi-Fi to your wireless network. 
+Q: How do I update the software on my Almond? 
+A: The easiest way is to locate the “Software Update” option in the touchscreen menu and tap it. As long as your Almond is already connected to the 
+Internet, it’ll automatically search for new updates and allow you to install any update that’s available. You can also download the latest software from 
+our website and update your Almond via the Web User Interface. For more detailed instructions, please visit the Securifi website and have a look in 
+the Support section for detailed software upgrade instructions. 
+29 

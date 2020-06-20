@@ -1,0 +1,149 @@
+User Guide Welcome!
+Thank you for choosing SkyBell®  as your Wi-Fi video 
+doorbell. Please take a minute to review this manual.
+or
+Visit our website for instructional videos and access to 
+support information: 
+http://www.skybell.com/support
+Customer service available 7 days a week
+(844) 256 - 1826
+support@skybell.com
+1 2 SkyBell  HD  Components Contents
+SkyBell HD Mounting  Screwdriver
+Doorbell Device Plate
+(Color Night Vision)
+SKYBELL
+Masonary Drillbit Wire Sleeve (2) Wall Screws (2) Screw Anchors (2)
+0.9 in / 2.2 cm 2.8 in / 7.1 cm Additional Tools You May Need for Installation:
+1.9 oz / 53.8 g
+• Outdoor Adhesive  • Wire Strippers
+• Pliers or Crimpers • Power Drill
+3 4 DOWNLOAD APP & REGISTER ACCOUNT LED LIGHT KEY
+1. Download the SkyBell® HD app from the iTunes App Store® or  Alternating between red and blue - Battery Charging
+the Google Play Store®. 
+Alternating between red and green - Syncing Mode
+2. Once app has downloaded “Register” to create your account.
+Double blinking orange - No WiFi available / connection to WiFi 
+3. Install & sync your device using the app, or online instruction. lost
+Alternating between blue and green - Device is connected to 
+WiFi, but no connection to server is present
+Solid green or custom color chosen by User - Device is in perfect 
+working condition
+Blinking green or custom color chosen by User - SkyBell is 
+currently on a call
+5 6 ELECTRICAL SHOCK HAZARD DO NOT ATTEMPT TO POWER YOUR SKYBELL WITH AN IMPROPER POWER 
+Turn off power to the area where you will install the SkyBell at the circuit breaker or fuse  CONFIGURATION.  INFORMATION REGARDING ALL SUPPORTED POWER CONFIGURA-
+box before beginning installation. Failure to turn off the power before installation may  TIONS CAN BE FOUND AT http://www.skybell.com/pages/support (POWER 
+result in serious electrical shock, injury or death. CONFIGURATION DIAGRAMS). 
+Do not restore power until the SkyBell has been completely installed. Restoring power  FAILURE TO STRICTLY ADHERE TO OUR POWER CONFIGURATION GUIDELINES WILL 
+before installation is complete may result in serious electrical shock, injury or death. AUTOMATICALLY VOID THIS LIMITED WARRANTY.
+If you need to replace your transformer, we recommend that you use a licensed  SkyBell Limited Warranty
+professional. Turn off the power to your transformer at the circuit breaker or fuse box  Subject to the terms and conditions of this Limited Warranty, SkyBell Technologies, Inc. 
+before beginning installation. Failure to turn off the power before installation may result in  (“SBT”), warrants to you only (the original purchaser), that under normal use, the SkyBell 
+serious electrical shock, injury or death. Wi-Fi enabled video doorbell (the “Product”) will substantially conform with the 
+specifications listed on the box in which your SkyBell was originally packaged and be free 
+Do not restore power to your transformer until the new transformer has been completely  of reproducible defects that eliminate the functionality or successful operation of a feature 
+installed. critical to the primary functionality or successful operation of the Product for a period of 
+one (1) year from the date of your Product purchase (the "Warranty Period").  This Limited 
+Restoring power before installation is complete may result in serious electrical shock,  Warranty only applies to Products purchased from SkyBell or an authorized SkyBell 
+injury or death. If you are replacing your door chime, turn off power to your transformer at  reseller. A list of authorized resellers can be found at www.skybell.com/pages/legal/.
+the circuit breaker or fuse box before beginning installation. Failure to turn off the power 
+before installation may result in serious electrical shock, injury or death. Exclusive Remedy 
+During the Warranty Period, SBT will, at its sole option, repair or replace any Product or 
+IMPORTANT INFORMATION ABOUT YOUR RIGHTS AND OBLIGATIONS AS WELL AS  parts of a Product that fail in normal use. Such repairs or replacement will be made at no 
+LIMITATIONS AND EXCLUSIONS THAT MAY APPLY TO YOU. charge to the customer for parts or labors. SBT retains the exclusive right to replace the 
+Product with a new or refurbished “like new” Product in its sole discretion. A replacement 
+PRODUCT LIMITED WARRANTY Product or part assumes the remaining warranty of the original Product or ninety (90) 
+SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR  days from the date of replacement or repair, whichever provides longer coverage for you. 
+CONSEQUENTIAL DAMAGES OR ALLOW LIMITATIONS ON HOW LONG AN IMPLIED  When a Product or part is exchanged, any replacement item becomes your property and 
+WARRANTY OR CONDITION MAY LAST, SO THE LIMITATIONS OR EXCLUSIONS  the replaced item becomes SBT’s property. There is no warranty of any kind for any 
+DESCRIBED BELOW MAY NOT APPLY TO YOU TO THE EXTENT THEY ARE INCONSIS- defects discovered after the Warranty Period has lapsed.
+TENT WITH YOUR STATE'S APPLICABLE LAW. THIS LIMITED WARRANTY GIVES YOU 
+SPECIFIC LEGAL RIGHTS, AND YOU MAY ALSO HAVE OTHER RIGHTS UNDER STATE 
+LAW.
+7 8 SUCH REMEDY SHALL BE YOUR SOLE AND EXCLUSIVE REMEDY FOR ANY BREACH  In addition to any other remedies available to us, if we have shipped a new device to you 
+OF THIS LIMITED WARRANTY. and we have not received your original device within 30 days from the initiation of the 
+return process, we shall have the right to terminate your original device and/or your 
+Obtaining Warranty Service replacement.
+To receive instructions for obtaining repair or replacement warranty services you must 
+No Other Warranties
+e-mail: support@skybelltechnologies.zendesk.com.  THE WARRANTIES AND REMEDIES CONTAINED HEREIN ARE EXCLUSIVE AND IN LIEU 
+OF ALL OTHER WARRANTIES EXPRESSED, IMPLIED, OR STATUTORY, INCLUDING ANY 
+You must receive shipping instructions and an RMA tracking number from SBT prior to  LIABILITY ARISING UNDER ANY WARRANTY OF MERCHANT-ABILITY OR FITNESS 
+shipping your device to us. Write the RMA tracking number clearly on the outside of the  FOR A PARTICULAR PURPOSE, STATUTORY OR OTHERWISE. THIS WARRANTY GIVES 
+package. Send the device, freight charges prepaid, to the address on the RMA label. YOU SPECIFIC LEGAL RIGHTS, WHICH MAY VARY FROM STATE TO STATE.
+You must also: THE EXPRESS WARRANTY STATED HEREIN IS THE ONLY EXPRESS WARRANTY 
+1. Submit proof of purchase in the form of a bona fide, dated bill of sale, receipt, or invoice  MADE TO YOU AND IS PROVIDED IN LIEU OF ALL OTHER EXPRESS OR IMPLIED 
+(or a copy) from an Authorized Reseller evidencing that your request for service is made  WARRANTIES AND CONDITIONS (IF ANY) INCLUDING ANY CREATED BY ANY OTHER 
+within the Warranty Period; and  DOCUMENTATION OR PACKAGING. NO OTHER WARRANTIES OR CONDITIONS ARE 
+2. Follow shipping and other instructions to ensure the Product has an adequate degree of  MADE WITH RESPECT TO THE PRODUCT OR THE WARRANTY SERVICES BY ANY 
+protection against damage during transit to the location specified by SBT. Except as  PERSON, INCLUDING BUT NOT LIMITED TO SBT AND ITS  SUPPLIERS. NO INFORMA-
+otherwise required by legislation in your jurisdiction, costs associated with transport  TION (ORAL OR WRITTEN) OR SUGGESTIONS GIVEN BY SBT, ITS AGENTS OR 
+(including packaging) for warranty service shall be at your expense.  SUPPLIERS, OR ITS OR THEIR EMPLOYEES, SHALL CREATE A WARRANTY OR 
+CONDITION OR EXPAND THE SCOPE OF THIS LIMITED WARRANTY. ALSO, THERE IS 
+Failure to follow the above instructions may result in delays, cause you to incur additional  NO WARRANTY OR CONDITION OF TITLE, QUIET ENJOYMENT, OR NON-INFRINGE-
+charges or may void your warranty.  MENT IN THE PRODUCT. YOU MAY HAVE GREATER RIGHTS EXISTING UNDER 
+LEGISLATION IN YOUR JURISDICTION. WHERE SUCH LAWS PROHIBIT ANY TERM OF 
+Exchanging Your Device THIS LIMITED WARRANTY, IT SHALL BE NULL AND VOID, BUT THE REMAINDER OF 
+If we provide you with warranty service by sending you a replacement device, you will be  THE LIMITED WARRANTY SHALL REMAIN IN FULL FORCE AND EFFECT.
+required to return your original device to us.  In the event we do not receive your original 
+device within 30 days of sending your replacement device, you hereby agree that we have  WITHOUT LIMITING THE GENERALITY OF THE DISCLAIMERS CONTAINED HEREIN, 
+the right to charge you for the full retail price of the replacement device and/or not send  ALL PRODUCT INFORMATION IS PROVIDED FOR YOUR CONVENIENCE, “AS IS”, AND 
+you a replacement device. Full retail price shall be equal to the sale price on our website  “AS AVAILABLE”. SBT DOES NOT REPRESENT, WARRANT, OR GUARANTEE THAT 
+(www.skybell.com) not including sales, promotions or other discounts. PRODUCT INFORMATION WILL BE AVAILABLE, ACCURATE, OR RELIABLE.
+9 10 SBT MAY ALSO PROVIDE OR SELL PRODUCTS WHICH ARE INTENDED TO BE USED  THIS LIMITED WARRANTY OR MAKE A PRODUCT EXCHANGE WITHOUT RISK TO OR 
+WITH YOUR SKYBELL (“PRODUCT PERIPHERALS”). YOU USE THE PRODUCT, ALL  LOSS OF PROGRAMS OR DATA. ALL CLAIMS BY YOU, WHETHER IN TORT, CONTRACT, 
+PRODUCT INFORMATION, AND THE PRODUCT PERIPHERALS AT YOUR OWN RISK.  STRICT LIABILITY OR OTHERWISE, MUST BE BROUGHT WITHIN TWO YEARS FROM 
+YOU WILL BE SOLELY RESPONSIBLE FOR (AND SBT DISCLAIMS) ANY LIABILITY, OR  THE DATE THE CAUSE OF ACTION ACCRUES. THIS LIMITATION OF LIABILITY 
+DAMAGES, INCLUDING BUT NOT LIMITED TO YOUR WIRING, FIXTURES, ELECTRICITY,  CONSTITUTES AN ESSENTIAL PART OF THIS AGREEMENT.
+HOME, PRODUCT, PRODUCT PERIPHERALS, COMPUTER, MOBILE DEVICE, AND ALL 
+OTHER ITEMS AND PETS IN YOUR HOME, RESULTING FROM YOUR USE OF THE  THE FOREGOING APPLIES EVEN IF SBT OR ANY SUPPLIER OR AGENT HAS BEEN 
+PRODUCT, PRODUCT INFORMATION, OR PRODUCT PERIPHERALS. ADVISED OF THE POSSIBILITY OF SUCH LOSSES OR DAMAGES; EVEN IN THE EVENT 
+OF FAULT, TORT (INCLUDING NEGLIGENCE), STRICT OR PRODUCT LIABILITY, 
+Exclusion of Consequential, Incidental, and Certain Other Damages, and Limitation of Liability MISREPRESENTATION OR OTHER REASON; AND EVEN IF ANY REMEDY FAILS OF ITS 
+ESSENTIAL PURPOSE. 
+TO THE FULL EXTENT ALLOWED BY LAW, SBT IS NOT LIABLE FOR ANY:
+Some jurisdictions do not allow the exclusion or limitation of incidental or consequential 
+(i) CONSEQUENTIAL OR INCIDENTAL DAMAGES;  damages, so the above limitations or exclusions may not apply to you. If any term of this 
+(ii) DAMAGES OR LOSS OF ANY NATURE WHATSOEVER RELATING TO LOST PROFITS, LOSS  Limited Warranty is held to be illegal or unenforceable, the legality or enforceability of 
+OF OR DAMAGE TO PERSONAL PROPERTY, LOSS OF DATA OR PRIVACY OR CONFIDENTIALI- the remaining terms shall not be affected or impaired.
+TY, ANY INABILITY TO USE ALL OR PART OF THE PRODUCT, PERSONAL INJURY, OR ANY 
+FAILURE TO MEET ANY DUTY (INCLUDING BUT NOT LIMITED TO ANY LACK OF NEGLIGENCE  Exclusions From Limited Warranty
+OR OF WORKMANLIKE EFFORT); OR (iii) INDIRECT, SPECIAL, OR PUNITIVE DAMAGES ARISING  This warranty does not apply to: (i) theft or loss of the Product; (ii) damage caused by 
+OUT OF RELATING IN ANY WAY TO THE SKYBELL PRODUCT. accident, abuse, misuse, water, flood, fire, or other acts of nature or external causes; (iii) 
+damage caused by service performed by anyone who is not an authorized service provider 
+SBT’S CUMULATIVE LIABILITY, WHETHER FOR BREACH OF CONTRACT, WARRANTY,  of SBT; (iv) damage to a product that has been modified or altered without the written 
+NEGLIGENCE, STRICT LIABILITY IN TORT, INDEMNIFICATION, CONTRIBUTION, OR  permission of SBT; (v) any damage or defects caused by rough handling or extreme 
+OTHERWISE, SHALL BE LIMITED TO THE DIRECT DAMAGES RECOVERABLE UNDER LAW, BUT  thermal or environmental conditions or a rapid change in such conditions, corrosion, 
+NOT TO EXCEED THE PURCHASE PRICE FOR THE SKYBELL PRODUCT. YOU HEREBY  oxidation, unauthorized modifications or connections, unauthorized opening or repair, 
+RELEASE SBT, ITS MANUFACTURERS, SERVICE PROVIDERS, LICENSORS AND EACH OF THEIR  repair by use of unauthorized spare parts, accidents, forces of nature, or other actions 
+RESPECTIVE AFFILIATES, FROM ANY AND ALL OBLIGATIONS, LIABILITIES, AND CLAIMS IN  beyond the reasonable control of SBT; (vi) any damage or defects caused by operating the
+EXCESS OF THIS LIMITATION. SBT IS ALSO NOT LIABLE FOR ANY COSTS OR DAMAGES 
+ARISING FROM OR RELATED TO YOUR BREACH OF THIS AGREEMENT. SBT, ITS MANUFAC-
+TURERS, SERVICE PROVIDERS, LICENSORS AND EACH OF THEIR RESPECTIVE AFFILIATES, 
+DISCLAIM ANY REPRESENTATION THAT IT WILL BE ABLE TO REPAIR ANY PRODUCT UNDER
+11 12 product outside of the permitted or intended uses described on SBT’s website; (vii) 
+damage caused during a SkyBell installation; (viii) damage caused by connecting SkyBell 
+to an improper power configuration; or (viv) cosmetic damage, such as 
+scratches, nicks, and dents.
+In addition, SBT reserves the right to refuse warranty claims against products or services 
+that are obtained and/or used in contravention of the laws of any country. 
+Geographic Limitations
+Devices returned from outside the US and Canada may not be able to be returned due to 
+an act of God, war, embargo or other act by one or more sovereign nations limiting 
+commerce between the US and another country or some other action or event outside 
+SBT’s control. Return of devices from outside the US and Canada is at your own risk. SBT 
+is not responsible for providing a replacement device if, in SBT’s sole discretion, it cannot 
+successfully or legally ship a product to an international destination.
+Reseller Limitations
+This Warranty only applies to devices purchased from SkyBell or an Authorized Reseller.
+A list of Authorized Resellers can be found on www.skybell.com/pages/legal. Devices 
+purchased from unauthorized dealers and/or individuals reselling new or used devices, are 
+not 
+eligible to receive Warranty service or a refund of any kind.
+THE LIMITED WARRANTY IS SUBJECT TO CHANGE FROM TIME TO TIME AT SBT’S 
+SOLE DISCRETION AND WITHOUT NOTICE.
+SkyBell and SkyBell Technologies, Inc. are trademarks SkyBell Technologies, Inc., 
+registered in the U.S. and other countries.
+13 14 W W W. S K Y B E L L .C O M
+USAv090315

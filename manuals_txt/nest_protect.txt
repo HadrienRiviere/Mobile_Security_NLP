@@ -1,0 +1,1051 @@
+REVISION HISTORY
+Date  Rev Description ECO
+07-14-2014 A   Release for production R11
+Updated URLs. Updated Model Numbers. Changed to “This is only a test. The alarm will sound.” 
+P12: Step 10: Added Note/Warning copy. P14 "Yellow Pulses" section: Changed to 1 to 4 hours. 
+Added Privacy Statement. Added Updated Dutch warranty.
+PRINTING STATIONS
+SPOT
+COLORS:
+Pantone Pantone
+7544 638
+FONTS USED: User’s Guide, Wired - GB
+Akkurat-Bold
+Akkurat-Regular PART #: 64-10-0030-GB PART DESCRIPTION: BRAND:  
+Akkurat-Light User’s guide book FINISH: 
+EXECUTIVE:   DATE APPROVED: 06-24-2014 TYPE: Saddle stitch book
+COATING: 
+LEGAL:   DATE APPROVED: 06-24-2014
+DESIGN:   DATE APPROVED: 07-11-2014
+NOTES: Page Size: W 145mm x H 145mm
+PRODUCTION:  DATE APPROVED: 07-14-2014
+PRODUCT MANAGER:   DATE APPROVED: 07-11-2014 
+COPYWRITER:   DATE APPROVED: 07-11-2014
+LEGAL COPY HERE
+Nest Protect (Wired 230V ~ 50Hz)
+Detects smoke and carbon monoxide (CO)
+User’s Guide
+ATTENTION: Please read carefully and save this User’s Guide in a safe place. TABLE OF CONTENTS
+Meet your Nest Protect 3
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Location in your home 5
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Placement on the ceiling or wall 6
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Placement on a sloped ceiling 7
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Setup and installation 8
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Operating instructions 14
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Heads-Up and Emergency Alarms 16
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Wireless interconnect 17
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Testing Nest Protect 18
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+General maintenance 19
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Safety 22
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Alarm limitations 22
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Installation code 24
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+AC installation warnings 25
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Installation in Ireland 27
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Carbon monoxide (CO) precautions 29
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+What to do in case of a carbon monoxide alarm 30
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Fire safety precautions 31
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Mobile notifications 31
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+EU Declaration of Conformity 32
+  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Limited Warranty 33
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+WE TAKE YOUR PRIVACY SERIOUSLY
+We’re committed to being open and honest about how we use data. We will always ask for 
+permission before sharing your personally identifiable information such as your email address.
+We also keep your data safe with industry-standard security tools. To learn more about our 
+Privacy Policy, please go to nest.com/eu/privacy.
+0086-CPR-599229
+2 MEET YOUR NEST PROTECT
+Inside the box you’ll find:
+Terminal blocks
+Nest Protect Backplate 4 mounting screws 230V AC cable connector
+Nest Protect is designed to detect smoke and carbon monoxide in a residential environment. 
+It has multiple sensors to help it understand what’s happening in your home and a photoelectric 
+sensor to detect slow, smoldering fires. Nest Protect can be used as a single station or multiple 
+station alarm.
+The installation of this apparatus should be carried out by a competent person.
+This guide covers the installation of Nest Protect (Wired 230V) – Model number O5C-E.
+REQUIREMENTS
+Wi-Fi, an iOS or Android smartphone or tablet, and a free Nest Account are required for wireless 
+mobile notifications and software updates. During setup, Wi-Fi and a free Nest Account are 
+required for wireless interconnect and room naming. Once all the Nest Protects in your home are 
+connected, they can communicate with each other without Wi-Fi.
+3 Horn enables Nest Protect 
+to alert you with a loud 
+emergency sound.
+Speaker allows Nest Protect 
+13.4 cm to speak with a human voice.
+(5.28")
+Light ring changes 
+colour to alert you.
+Push the Nest button to 
+silence alarms and run 
+a test.
+4.1 cm
+(1.63")
+Micro-USB connector 
+(for service only).
+AC connector pins for the 
+230V cable connector.
+Backup battery 
+compartment: 
+3 AA Energizer® Ultimate 
+Lithium batteries (L91).
+4 LOCATION IN YOUR HOME
+It is recommended that you place at least one smoke alarm on every floor of a dwelling, 
+and a carbon monoxide detector in at least every room with a fuel burning appliance.
+The Nest Protect smoke and carbon monoxide alarm should be installed:
+• On every floor (required by law for smoke alarms). 
+• In every room containing a fuel burning appliance (recommended for CO alarms).
+• In every sleeping room.
+• In remote rooms that are used often but may be too far away to hear an alarm.
+• Outside of unused rooms, like the boiler room.
+Nest Protect should be installed at least 3 m (10 ft) away from cooktops or cooking appliances. 
+Nest Protect should NOT be installed in unfinished attics or garages.
+ATTIC
+BEDROOM HALL BMEDASRTOEORM
+KITCHEN LIVING/ MASTER BEDROOM
+FAMILY
+KITCHEN LFIAVMINIGLY/ ROOM
+ROOM
+CELLAR GARAGE
+DINING
+ROOM BEDROOM BEDROOM
+5 PLACEMENT ON THE CEILING OR WALL
+Installing on the ceiling is recommended. Mark where the screws will go using the backplate as 
+a guide. Make sure it’s at least 30 cm (12 in) away from the wall.
+30 cm
+CEILING (12")
+Minimum
+15 cm
+(6")
+Minimum
+BEST NOT IN
+HERE THIS AREA
+60 cm
+(24")
+Maximum
+NEST LOGO OK
+IS UPRIGHT HERE
+SIDE
+WALL
+Figure 1
+6 PLACEMENT ON A SLOPED CEILING
+If you have a sloped, pitched or cathedral ceiling, Nest Protect should be 90 cm (35 in) 
+from the highest peak.
+ANYWHERE IN
+ANYWHERE IN THIS AREA
+THIS AREA
+90 cm 90 cm
+(35") (35")
+Figure 2 Figure 3
+NEST LOGO
+IS UPRIGHT
+Figure 4
+7 SETUP AND INSTALLATION 2. Set up Nest Protect with 
+(Professional installation recommended) the Nest app 
+The Nest app will guide you through each step: 
+scanning the Nest Protect QR code, connecting 
+it to the Internet, and connecting it to other 
+The installation of a smoke/CO alarm should  Nest Protects in your home.
+be made by a qualified technician, and all 
+wiring used to install this alarm should be  Watch the video at nest.com/eu/installprotect.
+made in accordance with the British National 
+Electrical Code, the British Standard BS 7671, 
+with appropriate national electrical installation 
+regulations and/or applicable codes in your 
+local jurisdiction. Permanent connection to the 
+fixed wiring of the building should be made in 
+a suitable junction box.
+For a complete set of instructions and 
+warnings, refer to page 24.
+Tip: Lay everything out on a table for easy installation.
+1. Get the Nest app 3. Have more Nest Protects?
+Before you install your Nest Protect on the  The Nest app will ask you if you have additional 
+ceiling or wall, you’ll need to set it up with  Nest Protects to set up. If so, it’ll take you 
+the Nest app. Download the app from the  through a shorter setup. Make sure to keep 
+Apple App Store, Google Play or the Amazon  track of which Protects you’ve already set up 
+App Store and create a free Nest Account. and where you’re going to install them.
+Already Added New
+8 4. Test before you install 6. Remove your old smoke alarm
+Once you’re done setting up all of your Nest  Make sure the green power light on the old 
+Protects, test they’re added to your Nest Account  smoke alarm is off then safely remove the 
+by pushing the Nest button on one Nest Protect  old smoke alarm from its backplate – it’ll be 
+and follow the instructions to test. If they’re all  connected to some cables.
+added, every Nest Protect will speak up.
+Now you can install them on the ceiling or wall.
+5. Turn off power 7. Disconnect all cables from 
+the old backplate
+Protect yourself and avoid blowing a fuse. 
+Switch off the correct circuit breaker or remove  There will be two or four conductors attached 
+the fuse from the fuse box. to the old backplate. Disconnect them all. 
+Breaker box
+WARNING
+ELECTRICAL SHOCK HAZARD
+Failure to turn off the power may result in 
+serious electrical shock, injury and death.
+9 8. Remove the old backplate 9. Connect the cables
+Unscrew the backplate from the ceiling or dry  Each cable from the ceiling or wall contains 
+lining box. You’ll see one or two cables coming  three or four differently coloured conductors. 
+from your ceiling. Wiring colours may vary based on the age 
+of the wirings.
+Live conductor (brown or marked L)
+2 2 Neutral conductor (blue or marked N)
+Earth conductor (yellow and green) if present
+Interconnect conductor (usually black) if present
+1 1
+Cable
+10 Match the live conductors coming from   WARNING
+your ceiling to the live conductors in Nest’s  Mixing the live and neutral connections 
+230V AC cable connector and put them into  when interconnecting alarms will damage all 
+a terminal block. the alarms – ensure that the same colours 
+are used throughout the premises for live, 
+All the neutral conductors go into another 
+neutral and interconnect cables (if present).
+terminal block, and the earth conductors into 
+a third terminal block. There is no need for 
+the interconnect cable as all Nest Protects  Terminal block
+are wirelessly interconnected. If there’s an 
+interconnect conductor, insulate it.
+Cable
+Terminal block Terminal block
+230V cable connector
+11 10. Install Nest Protect backplate 11. Connect power
+Screw the backplate to the existing electrical  Plug the 230V cable connector into the back of 
+box, reusing the existing screws. (You can also  Nest Protect.
+screw the plate directly into the wall or ceiling 
+with the Nest screws.)
+Tabs face away from 
+the ceiling or wall.
+12. Mount your Nest Protect
+ WARNING
+  Be sure to prevent dust from getting into  Firstly, tuck any excess wiring into the electrical 
+Nest Protect. Put the dust cover back on,  box and push Nest Protect onto the backplate. 
+or keep it in a separate room while you 
+Give it a slight twist clockwise. It’ll CLICK 
+drill and install the backplate. Clean 
+into place. 
+any remaining dust before you mount 
+Nest Protect.
+12 13. Switch power back on or replace 
+the fuse
+Breaker box
+14. Press to test
+Press the Nest button on one Nest Protect and 
+follow the spoken instructions to test. 
+They should all speak to you, confirming 
+that they’re in range of each other.
+13 OPERATING INSTRUCTIONS
+When the Nest Protect smoke and carbon monoxide (CO) alarm has something to say, it will speak to you 
+in words and colours instead of just beeping. It has two kinds of alerts: Heads-Up and Emergency Alarms.
+• Nest Protect can see smoke or carbon monoxide levels rising. So before it turns on an Emergency 
+Alarm, Nest Protect gives you a friendly spoken Heads-Up to warn you in advance. It pulses yellow 
+and speaks to you, telling you what and where the danger is.
+• When smoke or carbon monoxide reach dangerous levels, Nest Protect tells you where the 
+emergency is and pulses red, in addition to making a loud alarm sound. This is an Emergency Alarm.
+WHAT YOU HEAR WHAT YOU SEE ON WHAT IT MEANS WHAT TO DO
+NEST PROTECT
+P “READY. PRESS TO TEST.” BLUE rotates. To set up or run a  Press the Nest button. 
+TU manual test. Nest Protect will walk you 
+SE through next steps.
+“BE AWARE, THERE’S  YELLOW pulses. Smoke levels are rising. Stand under Nest Protect 
+SMOKE IN THE (ROOM  and press the Nest button 
+NAME). THE ALARM  to silence the alert. Then 
+MAY SOUND.” put out the source of 
+the smoke.
+“BE AWARE, THERE’S  YELLOW pulses. Carbon monoxide levels are  Stand under Nest Protect 
+CARBON MONOXIDE rising. This Heads-Up will  and press the Nest button  
+IN THE (ROOM NAME).  occur if carbon monoxide  to silence the alarm. Open 
+S THE ALARM MAY  levels stay at 70 ppm for  a window or door to get 
+T
+R SOUND.” 1 to 4 hours. fresh air, then ﬁnd the CO 
+LE leak and stop it.
+A
+(ALARM SOUND)  RED pulses. The smoke in the room has  Get out of the
+“EMERGENCY. THERE’S  reached emergency levels. house immediately.
+SMOKE IN (ROOM NAME).”
+(ALARM SOUND)  RED pulses. The carbon monoxide in  1) Keep calm and open all 
+“EMERGENCY. THERE’S  the room has now reached  doors and windows.
+CARBON MONOXIDE IN  emergency levels. 2) Stop using all 
+(ROOM NAME). MOVE fuel-burning appliances 
+TO FRESH AIR NOW.” and ensure that they are 
+turned off.
+3) Evacuate the premises 
+if the CO alarm 
+continues to sound.
+4) Call 999 or the ﬁre 
+brigade from outside.
+14 Y
+A You turn off the room  Nest Protect has tested  Sleep well.
+D
+Y  lights for the night,  its sensors and batteries 
+ER and the GREEN light  to conﬁrm they are 
+EV pulses once. working correctly.
+This is Nightly Promise.
+ 
+WHITE light. Pathlight lights your way at 
+night as you pass under it.
+“SMOKE ALARM  YELLOW or  You’ve silenced an alert.  Make sure you’re safe and 
+NG SILENCED.” RED pulses. Nest Protect will now keep  have put out the source of 
+CI quiet, unless smoke or  smoke or carbon monoxide.
+SILEN “ACLAARRBMON S MILEONNCOEXDID.”E  dcaarnbgoenr omuosn leovxeidlse. reach 
+“THE BATTERY IS LOW  YELLOW pulses. Low battery. Change the batteries 
+IN THE (ROOM NAME).  of Nest Protect soon.
+REPLACE THE 
+BATTERY SOON.”
+“THE BATTERY IS VERY  YELLOW pulses. Nest Protect batteries  Change the batteries 
+S LOW IN THE (ROOM  have been drained. of Nest Protect now.
+AL NAME). REPLACE  It will chirp.
+GN THE BATTERY NOW.” 
+SI SINGLE CHIRP EVERY 
+E  60 SECONDS.
+L
+B
+U
+RO “THE SENSORS HAVE  Nest Protect has tested  Clean with compressed 
+T FAILED IN THE (ROOM  its sensors and there is  air. If the problem 
+NAME). REPLACE NEST  a problem. It will chirp. persists, replace it.
+PROTECT NOW.” 
+SINGLE CHIRP EVERY 
+60 SECONDS.
+“NEST PROTECT HAS    Nest Protect has expired  Replace Nest Protect.
+EXPIRED. REPLACE IT  and reached its end of life.
+NOW.” TWO CHIRPS 
+EVERY 60 SECONDS.
+15 HEADS-UP AND EMERGENCY ALARMS
+ALERTS WHICH ALERTS CAN BE SILENCED
+Nest Protect has two kinds of voice alerts:  • Heads-Up alerts can be silenced by pressing 
+Heads-Up and Emergency Alarms. A Heads-Up  the Nest button.
+is a friendly warning before conditions get  • Emergency Alarms can be silenced by 
+dangerous. Nest Protect pulses yellow and   pressing the Nest button. For your safety, 
+tells you where smoke or carbon monoxide is.  get out of the house immediately.
+• Because there are many different types of 
+An Emergency Alarm occurs when smoke or  fires, you may experience an Emergency 
+carbon monoxide reach dangerous levels. Nest  Alarm without having first experienced a 
+Protect pulses red, makes a loud alarm sound  Heads-Up alert. This means that dangerous 
+and tells you which room the emergency is  levels of smoke or CO occured extremely 
+in. The smoke alarm takes precedence when  quickly and Nest Protect must sound the 
+carbon monoxide is also present. Emergency Alarm.
+• Once the Nest Protects in your home are 
+connected to each other, whenever there’s a 
+Heads-Up or an Emergency Alarm, they will 
+all tell you what and where the danger is. So 
+go to that room and press the Nest button on 
+the Nest Protect there to silence every Nest 
+Protect in the home. This will ensure that you 
+will identify the source of the danger in 
+that room.
+16 WIRELESS INTERCONNECT
+Once your Nest Protects have been wirelessly   WARNING
+connected, they’ll all speak up at once in an  • The range and proper operation of any 
+emergency. That means when one Nest Protect  wireless device will vary depending on 
+raises any kind of alert, every Nest Protect in the  its surroundings.
+house will tell you which room the smoke or CO  • Nest Protect alarms are not to be used 
+is in. For example, if you’re in the bedroom and  outdoors or to transmit between buildings. 
+the alarm goes off in the cellar, the Nest Protect  The alarms will not communicate properly 
+in the bedroom will tell you there’s smoke in the  in those conditions.
+cellar. To silence the alert, go to that room and  • Metal objects and metallic wallpaper 
+press the button on the Nest Protect there. That  may interfere with signals from wireless 
+will silence every Nest Protect in the house. alarms. Test your Nest Protects with 
+metal doors opened and closed.
+Nest Protect’s 230V connector does not have a 
+cable for interconnect as it connects wirelessly.  You can connect up to 18 interconnected 
+There’s no need to connect any cable to the  Nest Protects to your Nest Account.
+interconnect cable from the ceiling/wall. 
+Nest Protects can typically communicate 
+with each other if they’re 15 m (50 ft) apart 
+inside a home. Some features of a home may 
+reduce their range, including the number of 
+floors, number/size of rooms, furniture, type 
+of building material, suspended ceilings, 
+ductwork, large metallic appliances and 
+metal studs. This kind of interference can be 
+overcome by adding more Nest Protects that 
+can route wireless signals around obstructions.
+Nest Protect - Battery (model number 
+05A-E, 05A-UK) and Nest Protect - Wired 230V 
+(model number 05C-E, 05C-UK) are compatible  PATHLIGHT
+and can be interconnected wirelessly. Usually Nest Protect has its light turned off, 
+but it will light your way as you walk underneath 
+Nest Protect wireless interconnect will not  it in the dark. You can enable and disable 
+work with products from other brands. Pathlight from the Nest Mobile app.
+17 TESTING NEST PROTECT
+SELF-MONITORING
+Nest Protect continuously tests itself, so you  Test procedure
+don’t have to wonder if it’s working. • Press the Nest button twice to start a test.
+• Nest Protect will say: “This is only a test. 
+When you turn out the lights for the night,  The alarm will sound.”
+Nest Protect will glow green for a moment – • Once the Nest Protect you’ve tested has made 
+that means everything is working. If it glows  sure it’s working, it’ll tell you everything’s okay. 
+yellow, this means Nest Protect has detected 
+something wrong that needs your attention.  If they are interconnected, every Nest Protect 
+Just push the Nest button to hear its warning:  in the house will speak up. Walk to each one to 
+either the batteries are low, Wi-Fi has been  make sure you hear them.
+down or there is an issue with its sensors.
+ WARNING
+TEST NEST PROTECT MANUALLY • If the alarm fails to operate correctly, 
+Regulations require a weekly manual test. your Nest Protect will need servicing. 
+Contact Nest Labs.
+After installation, test Nest Protect by pressing  • DO NOT use a match, cigarette or any other 
+the Nest button twice. Before sounding the  makeshift fire to test the smoke alarm.
+alarm, Nest Protect will give you a countdown so 
+• To test the CO alarm, NEVER use vehicle 
+that you have time to move away from the alarm. 
+exhaust or any other source of gas. 
+Exhaust may cause permanent damage 
+ WARNING and voids your warranty.
+DO NOT stand close to the alarm when  • NEVER use a naked flame of any kind 
+the horn is sounding. Exposure at close  to test this alarm. You might accidentally 
+range may be harmful to your hearing. damage or set fire to the unit or to 
+When testing, step away when horn  your home. 
+starts sounding.
+18 GENERAL MAINTENANCE
+CLEANING YOUR NEST PROTECT
+Use a damp cloth to clean your Nest Protect.  You can also review the software version 
+Don’t clean it with detergents or solvents and  from the Nest App by checking the technical 
+do not spray air fresheners, hair spray or other  specifications of Nest Protect. 
+aerosols near it. These chemicals will damage 
+your smoke alarm and make it non-operational.  BACKUP BATTERY
+Cleaning fluids, polishes, paints and cooking  3 AA Energizer® Ultimate Lithium batteries (L91). 
+operations may affect the reliability of the  These backup batteries can be purchased from 
+smoke alarm. Do not disassemble your  your local retailer.
+Nest Protect or clean inside it. If a continuous 
+alarm occurs, return for servicing. Do not get  Nest Protect will let you know its backup 
+water inside the alarm. Do not paint over  batteries are getting low before they need to 
+Nest Protect, as paint will seal the vents and  be replaced. Instead of lighting up green during 
+affect its ability to detect smoke and CO. Nightly Promise, it’ll glow yellow. Once you 
+press the Nest button, Nest Protect will say, 
+RESETTING NEST PROTECT “The battery is low. Replace it soon.”
+You can reset Nest Protect to erase all your 
+settings and reset the wireless interconnection  In case of power outage, Nest Protect uses 
+between Nest Protects. You may want to do this  long-life backup lithium batteries designed to 
+before you move to a new house. After resetting  last multiple years of operation. Battery life 
+Nest Protect, it will still detect smoke and  depends on usage. 
+carbon monoxide.
+ WARNING
+To reset, refer to the complete instructions on  Use only batteries specified by Nest. 
+nest.com/eu/protect/reset. Use of a different battery model will have 
+a detrimental effect on the smoke alarm 
+SOFTWARE VERSION operation. The alarm may not operate 
+Follow these steps to check the Nest Protect  properly with other batteries. Never use 
+software version: rechargeable batteries since they may not 
+1. Press and hold the button for at least  provide a constant charge.
+10 seconds. 
+2. You’ll hear Nest Protect play a tone, then it 
+will announce the software version number.
+3. Let go of the button.
+4. If you want to keep the current settings, 
+press again to cancel erasing all settings.
+19 REPLACING THE BACKUP BATTERIES
+ WARNING 1. Remove your Nest Protect from its backplate. 
+Never remove the batteries from a  2. Using a Phillips screwdriver, unscrew the two 
+battery-operated alarm to stop an  screws from the battery door on the back of 
+unwanted alarm (caused by cooking  Nest Protect.
+smoke, etc.). Removing batteries 
+disables the alarm so it cannot sense 
+smoke, leaving you at risk. 
+The alarm will not operate without 
+battery power. The alarm cannot work 
+until you install the batteries in the 
+correct position (Match “+” to “+”  3. Replace the batteries. Make sure to use 
+and “-” to “-”). Energizer Ultimate Lithium batteries and 
+install them in the right order. If you install 
+This device contains lithium batteries.  them out of order, you may not be able to 
+If tampered with, the battery may be short  close the battery compartment.
+circuited and create a risk of fire. Never 
+attempt to open or damage the alarm.  1. First battery
+2. Second battery 1
+Replace all batteries at once and only use  3. Third battery. This  2
+battery will push the 
+new, unused batteries as replacements.
+bracket into place.  3
+4. Reattach the battery door by sliding it into 
+the tabs located on the opposite side from 
+the batteries, replacing the screws and then 
+reattaching Nest Protect to the backplate.
+5. Press the Nest button to run a test.
+20 SERVICING NEST AND THE ENVIRONMENT
+Step 1: Before sending Nest Protect for service,  Nest recognises its responsibility to minimises 
+review the information at nest.com/eu/support. the environmental impacts of its operations 
+Step 2: Contact our support team to get a  and products. More information is available on 
+return number. the web at nest.com/eu/responsibility.
+Step 3: Send it to
+Nest Labs EXPIRATION
+(YOUR RETURN NUMBER) Nest Protect has a limited life like any smoke/
+Arvato Distribution GmbH – Technology CO alarm. Nest Protect’s lifetime is 7 years. 
+Willi-Bleicher-Str. 36 You will need to replace Nest Protect after 
+52353 Düren 7 years with a brand new Nest Protect. Check 
+Germany the date of replacement written on the back 
+of Nest Protect.
+RECYCLING AND DISPOSAL 
+Visit nest.com/eu/recycle.  WARNING
+Dispose in accordance with  You’ll no longer be protected from smoke or 
+applicable legislation. CO if you don’t replace your Nest Protect.
+About two weeks before it expires, Nest Protect 
+will light up with a yellow light. Press the 
+The WEEE symbol means that your Nest Protect  Nest button and it will say, “Nest Protect has 
+must be disposed of separately from general  expired. Replace it now.” Buy a new alarm and 
+household waste. When Nest Protect reaches  recycle the expired one. Make sure you test 
+its end of life, take it to a designated waste  your new Nest Protect once it’s installed.
+collection point in your area for safe disposal or 
+recycling. By doing this, you’ll conserve natural 
+TECHNICAL SPECIFICATIONS
+resources, protect human health and help 
+• Temperature range: 4 °C (40 °F) to 38 °C (100 °F).
+the environment.
+• Humidity range: 20% RH to 80% RH 
+(non condensing).
+• Nest Protect (Wired) uses 230V ~50Hz.
+21 SAFETY ALARM LIMITATIONS
+LIMITATIONS OF SMOKE ALARMS
+Alarms reduce deaths resulting from home fires 
+worldwide. However smoke alarms can only 
+work if they are properly located, installed and 
+maintained, and if smoke reaches the alarms. 
+• Smoke alarms may not waken all individuals. 
+Make sure you create an escape plan and 
+you practice fire drills with all members of 
+the family.
+• Smoke alarms cannot work without power.
+If they are powered by batteries, the smoke 
+alarms cannot work if the batteries are 
+missing, dead or disconnected. If they are 
+wired, the smoke alarms cannot work during 
+a long power outage once the back up battery 
+is dead. Nest Protect will warn you in advance 
+when batteries are running low so that you can 
+replace them.
+• Smoke will not be able to reach the smoke 
+sensor while the dust cover is in place. The 
+dust cover must be removed.
+• Smoke alarms cannot detect fires if the smoke 
+does not reach the alarms. For example, if 
+a door is closed, smoke may not reach the 
+smoke alarm. This is why you should have 
+a smoke alarm in each bedroom and in the 
+hallways as bedroom doors may be closed 
+at night.
+• Smoke alarms may not be heard. Although 
+the smoke alarm comes with a loud horn of 
+85 decibels, it may not be heard if : 1) people 
+have consumed alcohol or drugs, 2) the 
+alarm is drowned by noise from a stereo, TV, 
+traffic, air conditioner or other appliances, 
+3) residents are hearing impaired or have 
+high frequency hearing loss associated with 
+22 LIMITATIONS OF CARBON MONOXIDE (CO) ALARMS
+ageing. Special smoke alarms should be  • NEVER ignore your carbon monoxide alarm 
+installed for those who are hearing impaired. if it sounds. Refer to “What to do in case of a 
+• This smoke alarm is not intended to  carbon monoxide alarm” for more information. 
+alert hearing impaired residents. Alarms  Failure to do so can result in injury or death.
+specifically designed for the hearing impaired,  • This CO alarm is designed for use inside 
+which feature devices like flashing strobe  a single-family home or apartment. It is 
+lights or low frequency devices are available  not meant to be used in common lobbies, 
+to alert the hearing impaired in case of fire. hallways, or cellars of multi-family buildings 
+• This smoke alarm alone is not a suitable  unless working CO alarms are also installed in 
+subvtitute for complete fire detection systems  each family living unit. CO alarms in common 
+in places housing many people—like blocks  areas may not be heard from inside individual 
+of flats, condominiums, hotels, guest houses,  family living units.
+halls of residence, hospitals, long-term  • This CO alarm alone is not a suitable 
+health care facilities, nursing homes, day care  substitute for complete detection systems in 
+facilities, or group homes of any kind—even if  places which house many people, like hotels 
+they were once single-family homes. It is not a  or halls of residence, unless a CO alarm is also 
+suitable substitute for complete fire detection  placed in each unit.
+systems in warehouses, industrial facilities,  • DO NOT use this CO alarm in warehouses, 
+industrial or commercial buildings, special-
+commercial buildings, and special-purpose 
+purpose non-residential buildings, or 
+non-residential buildings which require 
+aeroplanes. This CO alarm is specifically 
+special fire detection and alarm systems. 
+designed for residential use, and may 
+Depending on the building codes in your area, 
+not provide adequate protection in non-
+this smoke alarm may be used to provide 
+residential applications.
+additional protection in these facilities.
+• Some individuals are more sensitive to CO 
+than others, including people with cardiac or 
+respiratory problems, infants, unborn babies, 
+pregnant mothers, or elderly people can be 
+more quickly and severely affected by CO. 
+Members of sensitive populations should 
+consult their doctors for advice on taking 
+additional precautions.
+• The silence feature is for your convenience 
+only and will not correct a CO problem. Always 
+check your home for a potential problem after 
+any alarm. Failure to do so can result in injury 
+or death.
+23 INSTALLATION CODE
+Specific requirements for Smoke Alarm  WHERE TO INSTALL A SMOKE ALARM
+installation vary from country to country.  British Standards Institution (BSI) recommends 
+Check with your local Fire Brigade for current  the following installation.
+requirements in your area. 
+Multi-family or mixed occupant residence
+ WARNING (Tenancy building, student accommodation)
+Smoke alarms are designed to alert you  Your smoke/CO alarm can also be used in 
+with an audible alarm at a level specified  individual flats and bedsits, providing the 
+by the British Standard BS EN 14604: 2005.  same conditions are met as for a single-family 
+residence. However, there must already be 
+ WARNING a primary fire detection system that meets 
+The smoke alarm accompanying this  regulator y requirements for common areas 
+user’s guide employs the latest  such as lobbies and hallways.
+technology and is independently tested 
+as being compliant with all the relevant  Institutions and Hotels
+British Standards Institution. However,  This includes guest houses, hospitals, day care 
+as with any electronic product it may  facilities, long-term health care facilities, B&Bs 
+fail and may not sense all types of fire  and halls of residence. Your smoke/CO alarm 
+within sufficient time to alert you of the  can be used in individual sleeping/resident 
+danger and provide adequate time for  rooms, providing the same conditions are met 
+your escape. In order to maximise your  as for a single-family residence. However, 
+level of safety always test your smoke  there must already be a primary fire detection 
+alarm frequently to ensure it is in full  system that meets regulatory requirements for 
+working order. common areas such as lobbies and hallways. 
+Use of this smoke alarm in common areas may 
+ WARNING not provide sufficient fire warning to residents 
+There is a risk of malfunction and electric  or meet regulatory requirements.
+shock if the alarm is tampered with. 
+Commercial and Industrial Premises
+Your smoke/CO alarm is only suitable for use  This smoke alarm is not intended for any 
+in domestic residential applications as  non-residential, commercial or industrial 
+covered in this user’s guide. It is not suitable  application, nor for any other purpose than 
+for commercial or industrial applications.  described above.
+It is designed to sense smoke and carbon 
+monoxide and alert you. It will not prevent or 
+extinguish fires.
+24 AC INSTALLATION WARNINGS
+SMOKE DETECTION ELECTRICAL SHOCK HAZARD
+Are more smoke alarms desirable? • Turn off power to the area where you will install 
+The required number of smoke alarms might  this unit at the circuit breaker or fuse box 
+not provide reliable early warning protection for  before beginning installation. Failure to turn 
+those areas separated by a door from the areas  off the power before installation may result in 
+protected by the required smoke alarms. For  serious electrical shock, injury or death.
+this reason, the use of additional smoke alarms  • Do not restore power until all alarms are 
+for those areas is recommended for increased  completely installed. Restoring power before 
+protection. The additional areas include the  installation is complete may result in serious 
+dining room and hallways not protected by the  electrical shock, injury or death.
+required smoke alarms. The installation of  • Turn off the power to the area where the 
+smoke alarms in kitchens, attics (finished or  alarm is installed before removing it from 
+unfinished), or garages is not normally  the mounting bracket. Failure to turn off the 
+recommended, because these locations  power first may result in serious electrical 
+occasionally experience conditions that can  shock, injury or death.
+result in improper operation. As Nest Protect is  • If any unit in the series does not alarm, 
+also a carbon monoxide alarm, it is not  TURN OFF POWER and recheck connections. 
+recommended to install it in a furnace room or   If it does not alarm when you restore power, 
+a utility room if it contains a water heater or   replace it immediately.
+a boiler. It should be 5–6 m (15–20 ft) from these  • Attempting to disconnect the power 
+appliances to avoid transient conditions and/or  connector from the unit when the power is 
+perceived nuisance alarms. on may result in electrical shock, serious 
+injury or death.
+• Failure to meet any of the above requirements 
+could damage the units and cause them to 
+malfunction, removing your protection.
+• Improper wiring of the power connector or 
+the wiring leading to the power connector 
+will cause damage to the alarm and may lead 
+to a non-functioning alarm.
+• This unit must be powered by a 24-hour, 
+230V AC pure sine wave, 50Hz circuit. Be 
+sure the circuit cannot be turned off by 
+a switch, dimmer, or ground fault circuit 
+interrupter. Failure to connect this unit to a 
+24-hour circuit may prevent it from providing 
+constant protection.
+25 • The alarm cannot be operated from power  not possible – in mobile or smaller homes, for 
+derived from a square wave, modified square  example – it is recommended a smoke alarm be 
+wave or modified sine wave inverter. These  placed as far from these fuel-burning sources 
+types of inverters are sometimes used to  as possible. The placement recommendations 
+supply power to the structure in off-grid  are intended to keep a smoke detector at a 
+installations, such as solar or wind derived  reasonable distance from a fuel-burning 
+power sources. These power sources produce  source, reducing “unwanted” alarms. 
+high peak voltages that will damage the alarm. Unwanted alarms can occur if a smoke alarm is 
+• Never disconnect the power from an AC  placed directly next to a fuel-burning source. 
+powered unit to stop an unwanted alarm.  Ventilate these areas as much as possible.
+Doing so will disable the unit and remove  • In air streams near kitchens. Air currents 
+your protection. In the case of a true  can draw cooking smoke into the sensor of a 
+unwanted alarm open a window or fan  smoke alarm near the kitchen.
+the smoke away from the unit. The alarm  • In very damp, humid or steamy areas, or 
+will reset automatically when it returns  directly near bathrooms with showers. Keep 
+to normal operation. a smoke alarm at least 3 metres (10 feet) away 
+• Improper wiring of the power connector or  from showers, saunas, dishwashers, etc.
+the wiring leading to the power connector  • Where temperatures are regularly below 
+will cause damage to the alarm and may lead  4 °C (40 °F) or above 38 °C (100 °F) including 
+to a non-functioning alarm. You must test to  unheated buildings, outdoor rooms, porches, 
+ensure proper installation. or unfinished attics or cellars.
+• There is a risk of electrical shock, if the smoke  • In very dusty, dirty, or greasy areas. Do not 
+alarm is tampered in any ways. install a smoke alarm directly over the stove 
+or range. Clean a laundry room unit frequently 
+WHERE NOT TO INSTALL YOUR SMOKE ALARMS to keep it free of dust or lint.
+For best performance, AVOID installing a smoke  • Near fresh air vents, ceiling fans, or in very 
+alarm in these areas: drafty areas. Drafts can blow smoke away 
+• Where combustion particles are produced.  from a smoke alarm, preventing it from 
+Burning material creates combustion particles  reaching the sensor.
+which could cause your smoke alarm to go  • In insect infested areas. Insects can 
+off unnecessarily. Areas to avoid include  clog openings to the sensor and cause 
+poorly ventilated kitchens, garages, boats,  unwanted alarms.
+recreational vehicles and boiler rooms. Keep a  • Less than 30.5 cm (12 in) away from 
+smoke alarm at least 6 metres (20 feet) from  fluorescent lights. Electrical “noise” can 
+from the source of combustion particles (stove,  interfere with the sensor.
+furnace, water heater, space heater) if possible.  • In “dead air” spaces. “Dead air” spaces may 
+In areas where a 6-metre (20-foot) distance is  prevent smoke from reaching a smoke alarm.
+26 INSTALLATION IN IRELAND
+WHERE NOT TO INSTALL YOUR CARBON  REGULATORY REQUIREMENTS
+MONOXIDE ALARMS Nest Protect provides both smoke alarm 
+• Keep carbon monoxide alarm at least 1.5 m  and carbon monoxide alarm functionality. 
+(5 ft) away from any cooking appliance  When appropriately installed, Nest Protect 
+including stovetop, oven, microwave, etc. will enable you to comply with Irish 
+• This alarm should not be installed in locations  regulatory requirements.
+where the temperature is below 4 °C (40 °F) 
+or above 38 °C (100 °F). This document does not purport to provide 
+• In a enclosed space (for example in a cupboard  guidance on legal requirements – reference 
+or behind a curtain). should be made to the relevant legislation, 
+• Where it can be obstructed (for example  the current edition of the National Rules for 
+by furniture). Electrical Installations (Wiring Rules), relevant 
+• Directly above a sink. standards and guidance documents.
+• Next to a door or window.
+• Next to an extractor fan. Smoke alarm requirements
+• Next to an air vent or other similar  Nest Protect 230V is suitable for installation 
+ventilation openings. in both new and existing buildings. However, 
+• Where dirt and dust may block the sensor. battery powered Nest Protects are not 
+• In a damp or humid location. suitable in new buildings or where there is 
+significant construction or change of use 
+EXAMPLES OF WHEN YOUR SMOKE ALARM  taking place. If in doubt, consult a registered 
+MAY NOT BE EFFECTIVE electrical contractor.
+Your alarm may not be effective in protecting 
+You should install Nest Protect 230V to comply 
+against fire in certain cases:
+with Part B of the Building Regulations and the 
+• Smoking in bed.
+Technical Guidance document published under 
+• Leaving children unsupervised.
+Part B. The Part B Technical Guidance requires 
+• Cleaning with flammable liquids, like gasoline.
+the provision of a system complying with 
+• When someone’s clothes have caught on fire.
+Part 6 of BS 5839 of 2004 and meeting at least 
+• Fires where the smoke is prevented from 
+the requirements of a Grade D system, as set 
+reaching the alarm due to a closed door or 
+out in BS 5839 Part 6. When properly installed, 
+other obstruction. 
+a system comprised of Nest Protect 230V units 
+will meet this standard.
+27 Carbon monoxide alarm requirements In existing installations, power supply to each 
+If you are installing a new heat-producing  interconnected mains powered smoke alarm 
+appliance (fire, boiler, etc.) after 1 September  may be derived from a local frequently used 
+2014, Part J of the Building Regulations will  lighting circuit. Accordingly, multiple circuits 
+require the installation of carbon monoxide  may supply power to the smoke alarms in 
+alarms. While most building regulations  a single installation. Ensure that the power 
+apply only where there is new construction,  supply is disconnected at each such smoke 
+an extension, or a significant change of use  alarm before starting work.
+and only apply to the parts of the building 
+affected, Part J applies whenever a heat  All circuits altered during Nest Protect 
+producing appliance is installed or replaced.  installation should be tested following wiring 
+Carbon Monoxide alarms should be installed  of the Nest Protect units, in accordance 
+in accordance with the technical guidance  with the Wiring Rules. Nest Protects may be 
+document for Part J: www.environ.ie/en/ damaged by the high voltages applied while 
+Publications/Developmentandhousing/ testing wiring insulation resistance. Therefore, 
+Buildingstandards/fileDownload,37240,en.pdf all Nest Protects should be removed from 
+their backplates and disconnected from 
+INFORMATION FOR PRO INSTALLERS wiring before testing.
+Information in this section is intended for 
+registered electrical contractors. It assumes 
+that the reader is familiar with the Wiring Rules 
+and is an Authorised Person, as defined in the 
+Wiring Rules.
+Chapter 56 of the Wiring Rules does not apply to 
+domestic and similar premises (see rule 560.2). 
+Accordingly, it is not necessary, amongst other 
+things, that fire resistant supply cables be used 
+in installing Nest Protect units.
+Nest Protect 230V units incorporate battery 
+backup. Accordingly, supply does not need to be 
+derived from a dedicated circuit to comply with 
+BS 5839 Part 6.
+28 CARBON MONOXIDE (CO) PRECAUTIONS
+WHAT IS CARBON MONOXIDE?
+Carbon Monoxide (CO) is an invisible, odourless,  • Many cases of reported CO POISONING 
+tasteless gas produced when fuels do not burn  indicate that while victims are aware they are 
+completely, or are exposed to heat (usually fire).  not well, they become so disoriented they are 
+These fuels include: wood, coal, charcoal, oil,  unable to save themselves by either exiting 
+natural gas, gasoline, kerosene and propane. the building or calling for assistance. Young 
+children and household pets are typically the 
+Common appliances that are often sources  first affected.
+of CO include oil or gas burning boilers, gas 
+ovens, wood-burning fireplaces, and charcoal   WARNING
+grills. If they are not properly maintained, are 
+This carbon monoxide alarm is 
+improperly ventilated or malfunction, CO levels 
+designed to detect carbon monoxide 
+can rise quickly. Additional sources include 
+from any source of combustion. It is 
+space and water heating, cooking, uncontrolled 
+NOT designed to detect any other gas.
+burning, tobacco smoking and internal 
+combustion engines. CO is a real danger now  Individuals with certain medical 
+that homes are more energy efficient. “Air- problems should consider using 
+tight” homes with added insulation, sealed  detection devices with lower COHb 
+windows, and other weatherproofing can “trap”  alarming capabilities and consider 
+CO inside. warning devices which provide audible 
+and visual signals for carbon monoxide 
+Electrical appliances typically do not produce CO. concentrations under 30 ppm.
+Installation of the apparatus should 
+SYMPTOMS OF CO POISONING not be used as a substitute for proper 
+The following symptoms are related to CARBON  installation, use and maintenance 
+MONOXIDE POISONING and are to be discussed  of fuel burning appliances including 
+with ALL members of the household: appropriate ventilation and 
+• Mild Exposure: Slight headache, nausea,  exhaust systems.
+vomiting, fatigue (often described as  
+This apparatus is designed to protect 
+‘Flu-like’ symptoms).
+individuals from the acute effects of 
+• Medium Exposure: Severe throbbing headache, 
+carbon monoxide exposure. It will not 
+drowsiness, confusion, fast heart rate.
+fully safeguard individuals with specific 
+• Extreme Exposure: Unconsciousness, 
+medical conditions. If in doubt consult 
+convulsions, cardiorespiratory failure, death.
+a medical practitioner.
+29 WHAT TO DO IN CASE OF A CARBON 
+MONOXIDE ALARM
+  III) Simultaneous operation of several fuel 
+ WARNING burning appliances competing for limited 
+Actuation of your CO alarm indicates the  internal air.
+presence o vf carbon monoxide (CO) which    IV) Vent pipe connection vibrating loose from 
+can KILL YOU. clothes dryers, boilers, or water heaters.
+  V) Obstructions in or unconventional vent pipe 
+1. Keep calm and open all doors and windows to  designs which amplify the above situations.
+increase the rate of ventilation. 2. Extended operation of unvented fuel burning 
+2. Stop using all fuel-burning appliances and  devices (range, oven, fireplace, etc.). 
+ensure if possible that they are turned off. 3. Temperature inversions which can trap 
+3. Evacuate the premises if the carbon  exhaust gases near the ground.
+monoxide alarm continues to sound.  4. Car idling in an open or closed attached 
+4. Contact your emergency services. garage, or near a home.
+5. NEVER bring a charcoal grill inside and 
+PHONE NUMBER: ALWAYS operate a portable generator outside, 
+a safe distance from the house, and well away 
+5. Get medical help for anyone suffering the 
+from windows.
+effects of carbon monoxide poisoning.
+6. Call the appropriate appliance servicing 
+and/or maintenance agency so that the 
+source of the CO emissions can be identified 
+and corrected. Do not use the fuel-burning 
+ WARNING
+appliances again, until they have been 
+The following substances in high 
+checked and cleared for use by a competent 
+concentration can affect the carbon 
+person according to national regulations.
+monoxide sensor and may affect the 
+reliability of the alarm or cause false 
+THE FOLLOWING CONDITIONS CAN RESULT IN 
+alarms: paints, thinners, solvents, 
+TRANSIENT CO SITUATIONS
+adhesives, hair-sprays, some cleaning 
+1. Excessive spillage or reverse venting of fuel  agents, ammonia, acetone, hydrogen 
+burning appliances caused by: methane, iso-butane, iso-propanol, 
+  I) Outdoor ambient conditions such as wind  ethylene, benzene, toluene, ethyl acetate, 
+direction and/or velocity, including high  alcohol based products, volatile oils, 
+gusts of wind; heavy air in the vent pipes  silicone vapours, hydrogen sulphide, 
+(cold/humid air with extended periods  sulfuric acid, hair grooming products, 
+between cycles). high concentrations of dust and oil mist, 
+  II) Negative pressure differential resulting  soaking or splashing with water.
+from the use of exhaust fans.
+30 FIRE SAFETY PRECAUTIONS
+CREATE AN ESCAPE PLAN TO PRACTICE WHAT TO DO IN CASE OF FIRE
+Be prepared when your smoke/CO alarm sounds its  • Get out now.
+alarm. Develop a family escape plan, discuss it with  • Don’t panic; stay calm.
+all household members, and practice it regularly. • Operate your safety plan as previously planned.
+• Make sure everyone is familiar with the sound  • Alert small children in the home and those who 
+of your smoke/CO alarm and explain what the  may need extra assistance.
+sound means. • Leave the building as quickly as possible. Touch 
+• Determine TWO exits from each room and have  doors with the back of your hand and make 
+an escape route to the outside from each exit. sure they are not hot before opening them. 
+• Teach all the members in your household to  Use an alternate exit, if necessary. In case of 
+check doors for heat with the back of your hand  smoke, crawl along the floor, and DO NOT stop 
+before opening them, and to use the alternate  to collect anything. Close the doors behind you.
+exit if the door is hot. Make sure they do not  • Assemble at a pre-arranged place outside 
+open the door if it is hot. the building.
+• Teach household members to crawl along the  • Once outside, do a head count and call the 
+floor to avoid dangerous smoke, fumes and gases. fire brigade.
+• Determine a safe meeting place for all household  • DO NOT re-enter the house, unless a fire officer 
+members to regroup at outside the building. says it’s safe to re-enter.
+PRACTICE FIRE SAFETY MOBILE NOTIFICATIONS
+Practice your escape plan at least twice a year, 
+making sure that everyone is involved – from kids 
+ WARNING
+to grandparents. Practice the escape plan with 
+Nest Protect smartphone and tablet 
+children, including holding one at night when they 
+notifications require a functional Wi-Fi 
+are sleeping. If children or others do not wake up to 
+connection. They’re only as reliable as 
+the sound of the smoke alarm, or if there are infants 
+your home’s Wi-Fi network and aren’t a 
+or family members with mobility limitations, make 
+substitute for a third party emergency 
+sure that someone is assigned to help them for the 
+monitoring service.
+fire drill and in the event of an emergency.
+This user’s guide and the products described herein are 
+Current studies have shown smoke alarms may  copyrighted, with all rights reserved. Under these copyright 
+not awaken all sleeping individuals, and that it is  laws, no part of this installation guide may be copied for use 
+the responsibility of individuals in the household  without the written consent of Nest.
+that are capable of assisting others to provide 
+Nest Labs (Europe) Ltd. is a subsidiary of Nest Labs, 
+assistance to those who may not be awakened by 
+Inc., a US entity.
+the alarm sound, or to those who may be incapable 
+of safely evacuating the area unassisted.
+31 EU DECLARATION OF CONFORMITY
+We, Nest Labs Inc. declare under our sole 
+responsibility that this product complies 
+with the essential requirements of the R&TTE 
+Directive 1999/5/EC, the European Directives 
+2006/95/EC, 2004/108/EC, and 1999/5/EC.
+This device meets the following conformance 
+standards: EN 300 328, EN 301 489-1, 
+EN 301 489-17, EN 55022, EN 55024, EN62311, 
+EN61000-3-2, and EN61000-3-3.
+Nest Labs Inc. declares that this 
+smoke/CO alarm is in compliance with the 
+essential requirements and other relevant 
+provisions of Directive 1999/5/EC.
+A copy of the EU Declaration of Conformity 
+is available at: nest.com/eu/legal/eudoc.
+0086
+Nest Labs (Europe) Limited
+Gordon House, Barrow Street
+Dublin 4, Ireland
+13
+0086-CPR-599229
+EN 14604:2005
+Smoke Alarm Devices
+Model number: 05C-E
+Technical data : see User’s Guide 
+(64-10-0030-GB)
+32 Nest Labs  THIS LIMITED WARRANTY CONTAINS IMPORTANT 
+INFORMATION ABOUT YOUR RIGHTS AND OBLIGATIONS, AS 
+(Europe) Ltd.  WELL AS LIMITATIONS AND EXCLUSIONS THAT MAY APPLY 
+TO YOU AS PART OF THE TERMS AND CONDITIONS OF SALE IN 
+Limited Warranty  EFFECT AT THE TIME YOU PURCHASE A NEST PRODUCT.
+Nest Protect™  YOUR RIGHTS AND THIS LIMITED WARRANTY
+This Limited Warranty gives you specific legal rights. You may 
+Smoke and  also have other legal rights that vary by state, province or 
+jurisdiction. For example, these rights may include your rights 
+Carbon Monoxide  under the EC (Certain Aspects of Sale of Consumer Goods 
+and Associated Guarantees) Regulations 2003 and other 
+Alarm enactments governing the sale of goods. The disclaimers, 
+exclusions, and limitations of liability under this Limited 
+Warranty will not apply to the extent prohibited by applicable 
+law. For a full description of your legal rights you should refer 
+to the laws applicable in your jurisdiction and you may wish 
+to contact a relevant consumer advisory service. This Limited 
+Warranty is in addition to your legal rights in relation to the 
+Products. This Limited Warranty only applies to Products 
+purchased and used in the European Union. 
+1. WHAT THIS LIMITED WARRANTY COVERS; PERIOD 
+OF COVERAGE 
+Nest Labs (Europe) Ltd. (“Nest Labs”) warrants to the owner 
+of the enclosed product that the product contained in this 
+box (“Product”) will be free from defects in materials and 
+workmanship for a period of two (2) years (or one (1) year for 
+Factory Refurbished Products) from the date of delivery 
+following the original retail purchase (the “Warranty Period”). 
+If the Product fails to conform to this Limited Warranty 
+during the Warranty Period, Nest Labs will, at its sole 
+discretion, either (a) repair or replace any defective Product 
+or component; or (b) accept the return of the Product and 
+refund the money actually paid by the original purchaser for 
+the Product. Repair or replacement may be made with a new 
+or refurbished product or components, at Nest Labs’ sole 
+discretion, to the extent this is permitted by local laws in your 
+jurisdiction. If the Product or a component incorporated within 
+it is no longer available, Nest Labs may replace the Product 
+with a similar product of similar function, at Nest Labs’ sole 
+discretion. This is your sole and exclusive remedy for breach 
+of this Limited Warranty. Any Product that has either been 
+repaired or replaced under this Limited Warranty will be 
+covered by the terms of this Limited Warranty for the longer of 
+ninety (90) days from the date of delivery or the remaining 
+Warranty Period. This Limited Warranty is transferable from 
+the original purchaser to subsequent owners, but the Warranty 
+Period will not be extended in duration or expanded in coverage 
+for any such transfer. 
+33 2. TOTAL SATISFACTION RETURN POLICY APPLICABLE LAW, NEST LABS ALSO LIMITS THE DURATION OF 
+If you are the original purchaser of the Product and you are not  ANY IMPLIED WARRANTIES OR CONDITIONS TO THE DURATION 
+satisfied with this Product for any reason, you may return it at  OF THIS LIMITED WARRANTY.
+your cost in its original condition within thirty (30) days of the 
+original purchase and receive a full refund. 6. LIMITATION OF DAMAGES
+IN ADDITION TO THE ABOVE WARRANTY DISCLAIMERS, IN 
+3. WARRANTY CONDITIONS; HOW TO GET SERVICE IF YOU  NO EVENT WILL NEST LABS BE LIABLE FOR ANY INDIRECT, 
+WANT TO CLAIM UNDER THIS LIMITED WARRANTY  CONSEQUENTIAL, INCIDENTAL, EXEMPLARY, OR SPECIAL 
+Before being able to claim under this Limited Warranty, the  DAMAGES, INCLUDING ANY DAMAGES FOR LOST DATA OR 
+owner of the Product must (a) notify Nest Labs of the intention  LOST PROFITS, ARISING FROM OR RELATING TO THIS LIMITED 
+to claim by visiting nest.com/support/eu during the Warranty  WARRANTY OR THE PRODUCT, AND NEST LABS’ TOTAL 
+Period and providing a description of the alleged failure,  CUMULATIVE LIABILITY ARISING FROM OR RELATED TO THIS 
+and (b) comply with Nest Labs’ return shipping instructions.  LIMITED WARRANTY OR THE PRODUCT WILL NOT EXCEED 
+Nest Labs will have no warranty obligations with respect to  THE AMOUNT ACTUALLY PAID FOR THE PRODUCT BY THE 
+a returned Product if it determines, in its reasonable discretion  ORIGINAL PURCHASER.
+after examination of the returned Product, that the Product 
+is an Ineligible Product (defined below). Nest Labs will bear  7. LIMITATION OF LIABILITY
+all costs of return shipping to the owner and will reimburse  IF YOU CHOOSE TO USE THEM, ONLINE SERVICES OFFERED 
+standard shipping costs incurred by the owner, except with  BY NEST LABS, INC., A US AFFILIATE OF NEST LABS 
+respect to any Ineligible Product, for which owner will bear  (“SERVICES”) PROVIDE YOU INFORMATION (“PRODUCT 
+all shipping costs.  INFORMATION”) REGARDING YOUR NEST PRODUCTS OR 
+OTHER PERIPHERALS CONNECTED TO YOUR PRODUCTS 
+4. WHAT THIS LIMITED WARRANTY DOES NOT COVER (“PRODUCT PERIPHERALS”). THE TYPE OF PRODUCT 
+This warranty does not cover the following (collectively  PERIPHERALS THAT MAY BE CONNECTED TO YOUR PRODUCT 
+“Ineligible Products”): Products marked as “sample”  MAY CHANGE FROM TIME TO TIME. WITHOUT LIMITING THE 
+or sold “AS IS”; or Products that have been subject to:  GENERALITY OF THE DISCLAIMERS ABOVE, ALL PRODUCT 
+(a) modifications, alterations, tampering, or improper  INFORMATION IS PROVIDED FOR YOUR CONVENIENCE,“AS 
+maintenance or repairs; (b) handling, storage, installation,  IS”, AND “AS AVAILABLE”. NEST LABS OR ITS AFFILIATE 
+testing, or use not in accordance with the User’s Guide or  DOES NOT REPRESENT, WARRANT, OR GUARANTEE THAT 
+other instructions provided by Nest Labs; (c) abuse or misuse  PRODUCT INFORMATION WILL BE AVAILABLE, ACCURATE, 
+of the Product; (d) breakdowns, fluctuations, or interruptions  OR RELIABLE OR THAT PRODUCT INFORMATION OR USE OF 
+in electric power or the telecommunications network; or (e)  THE SERVICES OR PRODUCT WILL PROVIDE SAFETY IN YOUR 
+Acts of God, including lightning, flood, tornado, earthquake,  HOME. YOU USE ALL PRODUCT INFORMATION, THE SERVICES, 
+or hurricane. This warranty does not cover consumable  AND THE PRODUCT AT YOUR OWN DISCRETION AND RISK. 
+parts, including batteries, unless damage is due to defects in  YOU WILL BE SOLELY RESPONSIBLE FOR (AND NEST LABS 
+materials or workmanship of the Product, or software (even if  AND ITS AFFILIATE DISCLAIM) ANY AND ALL LOSS, LIABILITY, 
+packaged or sold with the product). Nest Labs recommends  OR DAMAGES, INCLUDING TO YOUR WIRING, FIXTURES, 
+that you use only authorised service providers for maintenance  ELECTRICITY, HOME, PRODUCT, PRODUCT PERIPHERALS, 
+or repair. Unauthorised use of the Product or software can  COMPUTER, MOBILE DEVICE, AND ALL OTHER ITEMS AND 
+impair the Product‘s performance and may invalidate this  PETS IN YOUR HOME, RESULTING FROM YOUR USE OF THE 
+Limited Warranty. PRODUCT INFORMATION, SERVICES, OR PRODUCT. PRODUCT 
+INFORMATION PROVIDED BY THE SERVICES IS NOT INTENDED 
+5. DISCLAIMER OF WARRANTIES AS A SUBSTITUTE FOR DIRECT MEANS OF OBTAINING 
+EXCEPT AS STATED ABOVE IN THIS LIMITED WARRANTY,  THE INFORMATION. 
+AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE 
+LAW, NEST LABS DISCLAIMS ALL EXPRESS, IMPLIED, AND  8. VARIATIONS THAT MIGHT APPLY TO THIS LIMITED WARRANTY
+STATUTORY WARRANTIES AND CONDITIONS WITH RESPECT  Some jurisdictions do not allow limitations on how long an 
+TO THE PRODUCT, INCLUDING THE IMPLIED WARRANTIES  implied warranty lasts or specific exclusions, so some of the 
+OF MERCHANTABILITY, AND FITNESS FOR A PARTICULAR  limitations set out above may not apply to you.
+PURPOSE. TO THE MAXIMUM EXTENT PERMITTED BY 
+34 9. CONTACT INFORMATION
+Please direct any questions about this Limited Warranty 
+to Nest Labs (Europe) Ltd. at the address located at: 
+nest.com/eu/contact. 
+64-30-0030-GB 05C-E     64-10-0030-GB-A

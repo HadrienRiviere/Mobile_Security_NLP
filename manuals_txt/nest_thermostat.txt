@@ -1,0 +1,993 @@
+p
+e
+st
+y-
+b
+p-
+e
+st
+n 
+Nest Learning Thermostat o
+™ ati
+Installation Guide all
+st
+n
+I Contents
+Compatibility 3
+                                                                                                                                                                                                       
+In the box 4
+                                                                                                                                                                                                                 
+Before you start 5
+                                                                                                                                                                                               
+Choose an installation method 6
+                                                                                                                                                       
+Replacing an existing wired thermostat 8
+                                                                                                                       
+Installing the Nest Thermostat in a new spot 20
+                                                                                                      
+Cable diagrams 32
+                                                                                                                                                                                              
+Nest Labs (Europe) Ltd  Limited Warranty Nest Learning Thermostat™ 38
+                                          
+WARNING: High voltage  Nest should be installed by a professional 
+WE TAKE YOUR PRIVACY SERIOUSLY 
+We’re committed to being open and honest about how we use data  We will always ask 
+for permission before sharing your personally identifiable information such as your 
+email address  We also keep your data safe with industry-standard security tools  To 
+learn more about our Privacy Policy, please go to nest com/eu/privacy 
+2 Compatibility
+The Nest Learning Thermostat is 
+compatible with almost all central  You don’t need Wi-Fi to use the 
+heating systems, including: Nest Thermostat, but Wi-Fi is 
+required to control Nest from 
+• Combi and condensing boilers 
+the Nest app  
+• System and heat-only boilers
+• Hydronic underfloor systems
+• Air source and ground source heat 
+pumps (heating only)
+• Zoned systems (one Nest Thermostat 
+per zone)
+• Switched live systems
+• Low-voltage (dry contact) systems
+p
+e
+st
+y-
+b
+-
+p
+e
+st
+n 
+o
+ati
+all
+st
+n
+I
+3 In the box
+NL 123 T1T2
+Display Base Heat Link
+Trim plate Screws Welcome Guide, Installation 
+Guide and Warranty
+For installations in a new spot only
+Power plug Power cord Clips
+4 Before you start
+Do I need to install the Nest  The Nest Thermostat 
+Thermostat somewhere new? should be:
+• Installed so that it can communicate 
+Many existing wired thermostats 
+wirelessly with Heat Link (up to a 
+are in rooms that are rarely used  
+maximum distance of 30m)  The home’s 
+The temperature they sense is warmer 
+construction and arrangement will 
+or cooler than homeowners feel    affect the communication range
+• In a room that’s used often, so Nest 
+So if the old thermostat isn’t in a good 
+can read the right temperature and 
+spot, install Nest somewhere new 
+the homeowner can easily reach it 
+using the included power plug and cord, 
+or using the Stand for Nest Learning  • On an interior wall
+Thermostat (sold separately) 
+• Away from drafts
+• 1 2 – 1 5m from the floor
+• Not behind doors, bookcases 
+or other objects
+• If in a zoned system, near the radiator 
+that it’s controlling
+p
+e
+st
+y-
+b
+-
+p
+e
+st
+n 
+o
+ati
+all
+st
+→ On the next page, you’ll see options for switching out an  n
+I
+existing thermostat or installing in a new spot  
+5 Replacing an existing wired thermostat
+Choose this installation method if the current thermostat 
+connects to heating cables in the wall and it doesn’t need to 
+move to a better spot  
+→ Jump to page 8
+Existing  
+thermostat 
+cables
+to
+Heat
+Link
+6 Installing the Nest Thermostat in a new spot
+Choose this installation if there’s a wireless thermostat,  
+no thermostat at all or a thermostat that needs to be moved 
+to a better spot  
+→ Jump to page 20
+Install over a  Connect to the Stand 
+socket and power  for the Nest Learning 
+with the provided  Thermostat and place 
+cord and plug   on a desk, shelf or 
+other flat surface  
+NOTE: 
+The stand is sold 
+p
+separately and  e
+coowmn eInss wtaitlhla ittiso n  by-st
+-
+Guide  More info at  p
+e
+nest.com/eu  st
+n 
+o
+ati
+all
+st
+n
+I
+7 Replacing an existing wired thermostat
+To replace an existing wired thermostat, you’ll need to:
+1  Install the Heat Link first
+2  Remove or configure the 
+programmer
+3  Install the Nest Thermostat
+to 
+Heat 
+Link
+8 T
+A
+Install Heat Link T
+S
+O
+M
+R
+E
+1. Switch off mains power H
+T
+A 
+E 
+You’ll be working with high voltage  C
+A
+cables, so protect yourself and the  CAUTION: High voltage cables PL
+thermostat by turning off the power  E
+before you start   R
+or
+p
+e
+st
+Fuse box Switch y-
+b
+-
+p
+e
+st
+n 
+o
+ati
+all
+st
+n
+I
+9 Install Heat Link
+2. Understand the cables
+Find the call-for-heat circuit in the 
+heating system 
+The circuit may run directly from 
+the thermostat to the boiler or pass 
+through a junction box 
+If there’s a combi boiler with no 
+junction box, the Heat Link will be 
+connected directly to the boiler’s 
+control circuit  
+You may need to test each cable 
+to understand its function 
+Make sure you connect the 
+correct cables to the Heat Link 
+to avoid blowing a fuse 
+10 T
+A
+Install Heat Link T
+S
+O
+M
+R
+E
+3. Choose where you’ll install  H
+T
+the Heat Link A 
+E 
+C
+A
+The Heat Link and Nest Thermostat  PL
+communicate wirelessly, even if  E
+R
+they are also connected by cables  
+Position the Heat Link such that large 
+metal objects—like the boiler or hot 
+water tank—don’t come between it and 
+the thermostat  Metal objects can block 
+the wireless signal 
+Boiler
+Heat Link Thermostat
+p
+e
+30cm 30m  y-st
+min  max  -b
+p
+e
+st
+n 
+o
+ati
+all
+st
+n
+I
+11 Install Heat Link
+4. Run power to the Heat Link
+WARNING:
+DO NOT SKIP
+Use a cable to connect the L (live) and  It’s important to install the Heat 
+N (neutral) connectors on the Heat Link  Link before the Nest Thermostat  
+to the L and N connectors on the boiler  Otherwise, high voltage current  
+or junction box  This will power the  will irreparably damage the  
+Heat Link  Nest Thermostat  
+If existing controls operate at mains 
+voltage, you can add a jumper cable 
+between live and common  The jumper 
+cable should be 0 75mm2 and 55mm 
+long (with 8mm of exposed cable at 
+each end) 
+Boiler
+Heat Link
+Junction box
+12 T
+A
+Install Heat Link T
+S
+O
+M
+R
+E
+5. Connect the control circuit  6. Connect the thermostat  H
+T
+to the Heat Link cables to the Heat Link A 
+E 
+C
+A
+Connect the common and call-for-heat  Take two cables from the cable bundle  L
+P
+connectors on the boiler or junction box  that goes to the thermostat and attach  E
+R
+to the 2 (common) and 3 (call-for-heat)  them to the T1 and T2 connectors on 
+connectors on the Heat Link  These  the Heat Link 
+cables will control the heating system 
+See installation diagrams 
+on page 32 
+Thermostat
+12V power to thermostat  p
+e
+Call-for-heat y-st
+b
+-
+Common  p
+e
+st
+Satisfied (optional) n 
+o
+230V AC live and neutral input power allati
+st
+n
+I
+13 For zoned homes only
+Install Heat Link with a 
+zoned system
+If this home has multiple heating  First, disconnect the thermostat 
+zones, each zone valve will need  cables from the zone valve  
+its own Nest Thermostat and 
+Heat Link  Use a cable to connect the L (live) 
+and N (neutral) connectors on 
+the Heat Link to the L and N 
+connectors on the zone valve  
+Connect the common and call-for-
+heat cables to the 2 (common) and 
+3 (call-for-heat) connectors on the 
+Heat Link  If necessary, connect 
+the 1 (satisfied) cable from the 
+zone valve to the Heat Link 
+Zone valve Junction box Heat Link Thermostat
+Satisfied cable optional
+14 T
+A
+Install Heat Link T
+S
+O
+M
+R
+E
+7. Attach the Heat Link 8  . Configure the programmer H
+T
+A 
+E 
+Use the included screws to attach the  If there’s a programmer that controls  C
+A
+Heat Link to a wall near the boiler or  hot water and heating, set the  L
+P
+junction box, making sure to leave  heating controls to ALWAYS ON  If the  E
+30cm of space on all sides  When you’re  programmer only controls heating,  R
+done, put the Heat Link cover back on   then remove it  The Heat Link will 
+control heating in its place  
+Check page 11 for placement info 
+TIP: Put this sticker on the 
+programmer to remind 
+homeowners not to adjust it  
+p
+e
+st
+y-
+b
+-
+p
+e
+st
+attach sticker on 
+ati
+all
+st
+n
+I
+15 Install thermostat
+9. Install the base
+Remove the old thermostat and attach 
+Remember, if the old thermostat 
+the base  You can either attach the 
+isn’t in a good place, you should  
+base directly to the wall or use the 
+install the Nest Thermostat in a 
+included trim plate to cover up marks 
+new spot  Check the placement 
+or route cables that are outside the 
+guidelines on page 5 
+wall  The trim plate and base snap 
+together and should be screwed to 
+the wall as one piece  
+16 T
+A
+Install thermostat T
+S
+O
+M
+R
+E
+10. Connect cables 11. Attach the display H
+T
+A 
+E 
+Connect the existing cables to Nest’s  Press the display onto the base until it  C
+A
+T1 and T2 connectors  It doesn’t matter  clicks into place  L
+P
+which cable goes into which connector  E
+Switch on mains power and the Nest  R
+Thermostat will begin setup 
+p
+e
+st
+y-
+b
+-
+p
+e
+st
+n 
+o
+ati
+all
+st
+n
+I
+17 Install thermostat
+12. Set up the Nest Thermostat
+Just turn the ring and press to select 
+During setup, you will:
+• Choose a language
+• Connect to the home’s Wi-Fi network
+• Confirm that Heat Link is connected
+• If the homeowner used to have 
+a programmer, enter that schedule
+• Enter the post code
+• Choose an Away temperature
+TIP: Double check that the 
+programmer has been removed 
+or that its heating channel 
+has been set to ALWAYS ON  
+18 T
+A
+Install thermostat T
+S
+O
+M
+R
+E
+13. Create a Nest Account H
+T
+A 
+E 
+Before the homeowner can control the  C
+A
+Nest Thermostat from their mobile,  L
+P
+tablet or laptop, they need a  E
+Nest Account  Tell them to create one  R
+at nest com/eu/account or just 
+download the Nest app  
+Once the thermostat is connected to 
+Wi-Fi, the Nest app will automatically 
+add it to a Nest Account  
+Questions about connecting to a Nest 
+Account?  Visit nest com/eu/pairing  
+p
+e
+st
+y-
+b
+-
+p
+e
+st
+n 
+o
+ati
+all
+st
+n
+I
+19 Installing the Nest Thermostat in a new spot
+If you’re installing the Nest Thermostat and aren’t connecting 
+it to any cables within the wall, then you’ll need to:
+1  Install the Heat Link first
+2  Remove or configure the 
+programmer
+3  Attach the Nest Thermostat 
+to the wall
+4  Plug the thermostat in with 
+the power plug and cord
+NOTE: The Stand for the 
+Nest Learning Thermostat is 
+sold separately 
+20 Install Heat Link
+1. Switch off mains power
+You’ll be working with high voltage 
+cables, so protect yourself and the 
+CAUTION: High voltage cables
+thermostat by turning off the power 
+before you start  
+T
+O
+P
+S
+W 
+E
+N
+A 
+N 
+L I
+or AL
+T
+S
+N
+I
+p
+Fuse box Switch ste
+y-
+b
+-
+p
+e
+st
+n 
+o
+ati
+all
+st
+n
+I
+21 Install Heat Link
+2. Understand the cables
+Find the call-for-heat circuit in the 
+heating system 
+The circuit may run directly from 
+the thermostat to the boiler or pass 
+through a junction box 
+If there’s a combi boiler with no 
+junction box, the Heat Link will be 
+connected directly to the boiler’s 
+control circuit  
+You may need to test each cable 
+to understand its function 
+Make sure you connect the 
+correct cables to the Heat Link 
+to avoid blowing a fuse 
+22 Install Heat Link
+3. Choose where you’ll install 
+the Heat Link
+The Heat Link and Nest Thermostat 
+communicate wirelessly  Position 
+the Heat Link such that large metal 
+objects—like the boiler or hot water 
+tank—don’t come between it and 
+the thermostat  This can block the 
+wireless signal  T
+O
+P
+S
+W 
+E
+Boiler N
+A 
+N 
+L I
+L
+A
+T
+S
+N
+I
+Heat Link Thermostat
+p
+e
+30cm 30m y-st
+min  max  -b
+p
+e
+st
+n 
+o
+ati
+all
+st
+n
+I
+23 Install Heat Link
+4. Run power to the Heat Link
+Use a cable to connect the L (live) and 
+N (neutral) connectors on the Heat Link 
+to the L and N connectors on the boiler 
+or junction box  This will power the 
+Heat Link 
+Boiler
+Heat Link
+Junction box
+24 Install Heat Link
+5. Connect the control circuit 
+to the Heat Link
+Connect the common and call-for-heat 
+connectors on the boiler or junction box 
+to the 2 (common) and 3 (call-for-heat) 
+connectors on the Heat Link  These 
+cables will control the heating system 
+T
+O
+See installation diagrams  P
+S
+on page 32  W 
+E
+N
+A 
+N 
+Thermostat L I
+L
+A
+T
+S
+N
+I
+12V power to thermostat 
+p
+Call-for-heat e
+st
+Common  by-
+-
+p
+Satisfied (optional) e
+st
+n 
+230V AC live and neutral input power o
+ati
+all
+st
+n
+I
+25 For zoned homes only
+Install Heat Link with a 
+zoned system
+If this home has multiple heating  First, disconnect the thermostat 
+zones, each zone valve will need  cables from the zone valve  
+its own Nest Thermostat and 
+Heat Link  Use a cable to connect the L (live) 
+and N (neutral) connectors on 
+the Heat Link to the L and N 
+connectors on the zone valve  
+Connect the common and call-for-
+heat cables to the 2 (common) and 
+3 (call-for-heat) connectors on the 
+Heat Link  If necessary, connect 
+the 1 (satisfied) cable from the 
+zone valve to the Heat Link 
+Zone valve Junction box Heat Link Thermostat
+Satisfied cable optional
+26 Install Heat Link
+6. Attach the Heat Link 7. Configure the programmer
+Use the included screws to attach the  If there’s a programmer that controls 
+Heat Link to a wall near the boiler or  hot water and heating, set the 
+junction box, making sure to leave  heating controls to ALWAYS ON  If the 
+30cm space on all sides  When you’re  programmer only controls heating, 
+done, put the Heat Link cover back on   then remove it  The Heat Link will 
+control heating in its place  
+Check page 23 for placement info 
+Lastly, turn the power to the heat back on  T
+O
+P
+S
+W 
+E
+N
+A 
+N 
+L I
+L
+A
+T
+S
+TIP: Put this sticker on the  N
+programmer to remind  I
+homeowners not to adjust it  
+p
+e
+st
+y-
+b
+-
+p
+e
+st
+n 
+o
+See page 15 for sticker  ati
+all
+st
+n
+I
+27 Install thermostat
+8. Install the Nest Thermostat
+If you’re getting rid of an old 
+thermostat, cap its cables after 
+Install it on a wall using the included 
+you remove it, then cover up the 
+power cord, plug and clips  Instructions 
+hole in the wall 
+for installing the Stand for Nest 
+Learning Thermostat (sold separately) 
+come with the stand 
+Before attaching the base to the wall, 
+check to make sure the thermostat is 
+within range of the Heat Link 
+28 Install thermostat
+9. Install the base 10. Attach the display
+Make sure you install the base above a  Press the display onto the base until it 
+socket  You can either attach the base  clicks into place 
+directly to the wall or use the trim plate 
+to cover up marks or holes 
+The trim plate and base snap together 
+and should be screwed to the wall in 
+one piece  T
+O
+P
+S
+W 
+Check the placement guidelines  E
+on page 5 before you install  N
+A 
+N 
+L I
+L
+A
+T
+S
+N
+I
+p
+e
+st
+y-
+b
+-
+p
+e
+st
+n 
+o
+ati
+all
+st
+n
+I
+29 Install thermostat
+11. Set up the Nest Thermostat
+Just turn the ring and press to select  
+During setup, you will:
+• Choose a language
+• Connect to the home’s Wi-Fi network
+• Confirm that Heat Link is connected
+• If the homeowner used to have 
+a programmer, enter that schedule
+• Enter the post code
+• Choose an Away temperature
+TIP: Double check that the 
+programmer has been removed 
+or that its heating channel 
+has been set to ALWAYS ON  
+30 Install thermostat
+12. Create a Nest Account
+Before the homeowner can control 
+Nest from their mobile, tablet or laptop, 
+they need a Nest Account  Tell them to 
+create one at nest com/eu/account or 
+just download the Nest app 
+Once the thermostat is connected to 
+Wi-Fi, the Nest app will automatically  T
+O
+add it to a Nest Account   P
+S
+W 
+Questions about connecting to a Nest  E
+Account?  Visit nest com/eu/pairing   N
+A 
+N 
+L I
+L
+A
+T
+S
+N
+I
+p
+e
+st
+y-
+b
+-
+p
+e
+st
+n 
+o
+ati
+all
+st
+n
+I
+31 Cable diagrams
+The following diagrams show you how to install the 
+Nest Thermostat on:
+• Switched live systems
+• Low voltage (dry contact) systems
+• Zone valve systems
+• MOMO zone valve systems
+Power supply  Power supply 
+SPDT relay
+for Heat Link for thermostat
+Neutral Live Satisfied  Common Call-for- 12V power to Nest Thermostat 
+(optional) heat (only required if you have 
+existing thermostat cables)
+TIP: If the call-for-heat circuit is at mains 
+voltage, you can jumper the L (live) and 
+2 (common) connectors with a 0 75mm2, 
+55mm long jumper cable 
+32 General specs
+Connection Specification Notes
+L 230V AC / 50Hz mains voltage Required
+N 230V AC / 50Hz mains voltage Required
+1 Relay normally closed 3A max 
+2 Relay common 3A max 
+3 Relay normally open 3A max 
+T1 12V DC power output to Nest Ground
+T2 12V DC power output to Nest Positive
+Note: T1 and T2 have no polarity at the thermostat 
+Maximum cable thickness =  2mm²
+s
+c
+e
+p
+s
+g 
+n
+Wiri
+33 Switched Live
+Power supply
+for Heat Link
+Only required if you have 
+existing thermostat cables
+230V / 50Hz
+mains 3A fuse 12V power
+to Nest 
+L Thermostat 
+N
+Boiler with “switched live” activation
+3344 Low voltage (dry contact)
+Power supply
+for Heat Link
+Only required if you have 
+existing thermostat cables
+230V / 50Hz
+mains 3A fuse 12V power
+to Nest 
+L
+Thermostat
+N
+Boiler with low voltage / dry contact activation
+s
+c
+e
+p
+s
+g 
+n
+Wiri
+35 Boiler with zone valves
+Power supply
+for Heat Link
+Only required if you have 
+existing thermostat cables
+230V / 50Hz
+mains 3A fuse 12V power
+to Nest 
+L Thermostat 
+N
+Boiler Zone valve
+(Zone valve cable colours may vary)
+3366 Boiler with MOMO zone valves
+Power supply
+for Heat Link
+Only required if you have 
+existing thermostat cables
+230V / 50Hz
+mains 3A fuse 12V power
+to Nest 
+L
+Thermostat 
+N
+Boiler Zone valve (MOMO)
+s
+c
+e
+p
+s
+g 
+n
+Wiri
+37 Nest Labs (Europe) Ltd.  THIS LIMITED WARRANTY CONTAINS IMPORTANT INFORMATION 
+ABOUT YOUR RIGHTS AND OBLIGATIONS, AS WELL AS LIMITATIONS 
+Limited Warranty  AND EXCLUSIONS THAT MAY APPLY TO YOU AS PART OF THE TERMS 
+AND CONDITIONS OF SALE IN EFFECT AT THE TIME YOU PURCHASE 
+Nest Learning Thermostat™ A NEST PRODUCT.
+YOUR RIGHTS AND THIS LIMITED WARRANTY
+This Limited Warranty gives you specific legal rights  You may also 
+have other legal rights that vary by state, province or jurisdiction  For 
+example, these rights may include your rights under the EC (Certain 
+Aspects of Sale of Consumer Goods and Associated Guarantees) 
+Regulations 2003 and other enactments governing the sale of goods  
+The disclaimers, exclusions, and limitations of liability under this 
+Limited Warranty will not apply to the extent prohibited by applicable 
+law  For a full description of your legal rights you should refer to 
+For online or phone support, visit nest com/eu/support  the laws applicable in your jurisdiction and you may wish to contact 
+a relevant consumer advisory service  This Limited Warranty is in 
+You can also find answers in the Nest Community at  addition to your legal rights in relation to the Products  This Limited 
+nest com/community  Warranty only applies to Products purchased and used in the 
+European Union  
+1. WHAT THIS LIMITED WARRANTY COVERS; PERIOD OF COVERAGE  
+Nest Labs (Europe) Ltd  (“Nest Labs”) warrants to the owner of the 
+enclosed product that the product contained in this box (“Product”) 
+will be free from defects in materials and workmanship for a period 
+Recycling and disposal: visit nest com/eu/recycle  of two (2) years (or one (1) year for Factory Refurbished Products) 
+from the date of delivery following the original retail purchase 
+Dispose in accordance with applicable legislation  (the “Warranty Period”)  If the Product fails to conform to this 
+The WEEE symbol means that your Nest Thermostat  Limited Warranty during the Warranty Period, Nest Labs will, at its 
+must be disposed of separately from general  sole discretion, either (a) repair or replace any defective Product 
+or component; or (b) accept the return of the Product and refund 
+household waste  When Nest Thermostat reaches 
+the money actually paid by the original purchaser for the Product  
+its end of life, take it to a designated waste collection 
+Repair or replacement may be made with a new or refurbished 
+point in your area for safe disposal or recycling   product or components, at Nest Labs’ sole discretion, to the extent 
+By doing this, you’ll conserve natural resources,  this is permitted by local laws in your jurisdiction  If the Product or a 
+protect human health and help the environment  component incorporated within it is no longer available, Nest Labs 
+may replace the Product with a similar product of similar function, 
+at Nest Labs’ sole discretion  This is your sole and exclusive remedy 
+for breach of this Limited Warranty  Any Product that has either been 
+repaired or replaced under this Limited Warranty will be covered 
+by the terms of this Limited Warranty for the longer of ninety (90) 
+EU Declaration of Conformity days from the date of delivery or the remaining Warranty Period  
+Nest Labs (Europe) Limited hereby declares that this  This Limited Warranty is transferable from the original purchaser to 
+Nest Learning Thermostat is in compliance with the  subsequent owners, but the Warranty Period will not be extended in 
+duration or expanded in coverage for any such transfer  
+essential requirements and other relevant provisions 
+of Directives 1999/5/EC, 2006/95/EC, 2004/108/EC   2. TOTAL SATISFACTION RETURN POLICY
+A copy of the EU Declaration of Conformity is available  If you are the original purchaser of the Product and you are not 
+at: nest com/eu/legal/eudoc  satisfied with this Product for any reason, you may return it at your 
+38 cost in its original condition within thirty (30) days of the original  WILL NEST LABS BE LIABLE FOR ANY INDIRECT, CONSEQUENTIAL, 
+purchase and receive a full refund  INCIDENTAL, EXEMPLARY, OR SPECIAL DAMAGES, INCLUDING ANY 
+DAMAGES FOR LOST DATA OR LOST PROFITS, ARISING FROM OR 
+3. WARRANTY CONDITIONS; HOW TO GET SERVICE IF YOU WANT TO  RELATING TO THIS LIMITED WARRANTY OR THE PRODUCT, AND 
+CLAIM UNDER THIS LIMITED WARRANTY NEST LABS’ TOTAL CUMULATIVE LIABILITY ARISING FROM OR 
+Before being able to claim under this Limited Warranty, the owner  RELATED TO THIS LIMITED WARRANTY OR THE PRODUCT WILL 
+of the Product must (a) notify Nest Labs of the intention to claim  NOT EXCEED THE AMOUNT ACTUALLY PAID FOR THE PRODUCT 
+by visiting nest com/support/eu during the Warranty Period and  BY THE ORIGINAL PURCHASER 
+providing a description of the alleged failure, and (b) comply 
+with Nest Labs’ return shipping instructions  Nest Labs will have  7. LIMITATION OF LIABILITY
+no warranty obligations with respect to a returned Product if it  IF YOU CHOOSE TO USE THEM, ONLINE SERVICES OFFERED BY NEST 
+determines, in its reasonable discretion after examination of the  LABS, INC , A US AFFILIATE OF NEST LABS  (“SERVICES”) PROVIDE 
+returned Product, that the Product is an Ineligible Product (defined  YOU INFORMATION (“PRODUCT INFORMATION”) REGARDING YOUR 
+below)  Nest Labs will bear all costs of return shipping to the owner  NEST PRODUCTS OR OTHER PERIPHERALS CONNECTED TO YOUR 
+and will reimburse standard shipping costs incurred by the owner,  PRODUCTS (“PRODUCT PERIPHERALS”)  THE TYPE OF PRODUCT 
+except with respect to any Ineligible Product, for which owner will  PERIPHERALS THAT MAY BE CONNECTED TO YOUR PRODUCT MAY 
+bear all shipping costs   CHANGE FROM TIME TO TIME  WITHOUT LIMITING THE GENERALITY 
+OF THE DISCLAIMERS ABOVE, ALL PRODUCT INFORMATION IS 
+4. WHAT THIS LIMITED WARRANTY DOES NOT COVER PROVIDED FOR YOUR CONVENIENCE,“AS IS”, AND “AS AVAILABLE”   
+This warranty does not cover the following (collectively “Ineligible  NEST LABS OR ITS AFFILIATE DOES NOT REPRESENT, WARRANT, 
+Products”): Products marked as “sample” or sold “AS IS”; or  OR GUARANTEE THAT PRODUCT INFORMATION WILL BE AVAILABLE, 
+Products that have been subject to: (a) modifications, alterations,  ACCURATE, OR RELIABLE OR THAT PRODUCT INFORMATION OR 
+tampering, or improper maintenance or repairs; (b) handling,  USE OF THE SERVICES OR PRODUCT WILL PROVIDE SAFETY IN YOUR 
+storage, installation, testing, or use not in accordance with  HOME  YOU USE ALL PRODUCT INFORMATION, THE SERVICES, AND 
+the User’s Guide or other instructions provided by Nest Labs;  THE PRODUCT AT YOUR OWN DISCRETION AND RISK  YOU WILL BE 
+(c) abuse or misuse of the Product; (d) breakdowns, fluctuations,  SOLELY RESPONSIBLE FOR (AND NEST LABS AND ITS AFFILIATE 
+or interruptions in electric power or the telecommunications  DISCLAIM) ANY AND ALL LOSS, LIABILITY, OR DAMAGES, INCLUDING 
+network; or (e) Acts of God, including lightning, flood, tornado,  TO YOUR WIRING, FIXTURES, ELECTRICITY, HOME, PRODUCT, 
+earthquake, or hurricane  This warranty does not cover consumable  PRODUCT PERIPHERALS, COMPUTER, MOBILE DEVICE, AND ALL 
+parts, including batteries, unless damage is due to defects in  OTHER ITEMS AND PETS IN YOUR HOME, RESULTING FROM YOUR 
+materials or workmanship of the Product, or software (even if  USE OF THE PRODUCT INFORMATION, SERVICES, OR PRODUCT   
+packaged or sold with the product)  Nest Labs recommends that  PRODUCT INFORMATION PROVIDED BY THE SERVICES IS NOT 
+you use only authorized service providers for maintenance or  INTENDED AS A SUBSTITUTE FOR DIRECT MEANS OF OBTAINING 
+repair  Unauthorized use of the Product or software can impair the  THE INFORMATION   
+Product‘s performance and may invalidate this Limited Warranty 
+8. VARIATIONS THAT MIGHT APPLY TO THIS LIMITED WARRANTY
+5. DISCLAIMER OF WARRANTIES Some jurisdictions do not allow limitations on how long an implied 
+EXCEPT AS STATED ABOVE IN THIS LIMITED WARRANTY, AND TO THE  warranty lasts or specific exclusions, so some of the limitations 
+MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, NEST LABS  set out above may not apply to you 
+DISCLAIMS ALL EXPRESS, IMPLIED, AND STATUTORY WARRANTIES 
+AND CONDITIONS WITH RESPECT TO THE PRODUCT, INCLUDING  9.  CONTACT INFORMATION
+THE IMPLIED WARRANTIES OF MERCHANTABILITY, AND FITNESS FOR  Please direct any questions about this Limited Warranty to Nest 
+A PARTICULAR PURPOSE  TO THE MAXIMUM EXTENT PERMITTED  Labs (Europe) Ltd  at the address located at: nest com/eu/contact  
+BY APPLICABLE LAW, NEST LABS ALSO LIMITS THE DURATION OF ANY 
+IMPLIED WARRANTIES OR CONDITIONS TO THE DURATION OF THIS 
+LIMITED WARRANTY  64-30-0030-GB
+6. LIMITATION OF DAMAGES
+IN ADDITION TO THE ABOVE WARRANTY DISCLAIMERS, IN NO EVENT  
+39 64-10-0035-GB-A

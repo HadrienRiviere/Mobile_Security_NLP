@@ -1,0 +1,121 @@
+3
+SMART SPRINKLER CONTROLLER
+Let’s get started. What’s in the box.
+Magnetic Faceplate Smart Sprinkler Controller
+3 Screws with Anchors Power Adapter What you’ll need. Need some help?
+Wi-Fi Access Smartphone
+(2.4 or 5 GHz) or Tablet
+Phillips Hammer Drill and Drill Bit
+Screwdriver (Drywall Installs) (Drywall Installs)
+The Rachio 3 Sprinkler Controller is designed for indoor 
+installation. If outdoor installation is required, you’ll need our 
+weather-resistant enclosure. Learn more at rachio.com/outdoors. Need some help?
+Check out our Help Center Give us a call.
+support.rachio.com 1 (833) 722 4463
+Not sure what to do with your old controller? 
+We’ll recycle it for free! Visit rachio.com/recycle. STEP 1
+Need some help?
+Out with the old!
+Test your old system to ensure everything works 
+properly. Photograph the wiring inside your existing 
+controller to reference during installation. Remove 
+your old controller from the wall.
+Test Photograph Remove 
+Sprinklers Wiring Controller STEP 2
+Mark screw locations.
+Use the Mounting Template at the end of this guide 
+to mark where you want to install your Rachio 3.
+For Drywall Installation:
+Drill holes at marked locations for the anchors. Use 
+a 3/16 inch bit to drill through the drywall, then use 
+a hammer to gently tap each anchor into place. STEP 3
+In with the new!
+Remove the Rachio 3’s magnetic faceplate. Mount 
+your new controller by screwing it onto the wall 
+using the provided screws. Mounting Template
+Ensure the lower holes are level, and use a 
+pencil to mark the center of each hole. 
+Make sure your wires have enough
+slack to reach the drill icon above!  T
+e
+a
+r
+ h
+e
+r
+e
+ t
+o
+ d
+e
+t
+a
+c
+h
+ t
+h
+e
+ m
+o
+u
+n
+t
+in
+g
+ t
+e
+m
+p
+la
+t
+e
+. STEP 4
+Connect your wires.
+While referencing the photo of your previous 
+wiring, insert the wires into the appropriate 
+terminals. Things not matching up? Visit 
+rachio.com/wiring for tips on advanced wiring.
+C 1-16
+Common Wires Zone Wires
+Common wires are often  Zone wires correspond to your 
+labeled “C” or “Com.” You can  landscape’s zones. Insert them 
+insert them into any of the  into the blue, numbered terminals.
+white “C” terminals.  M S1-2 24 VAC
+Master Valve  Sensor Wires (Optional)
+Not all systems have a master  You are able to connect up to two 
+valve. Master valve wires are often  rain or ﬂow sensors to your 
+labeled “M,” “MV,” or “Pump.” If you  controller using the “S1,” “S2,” and 
+have a master valve, wire it into the  24VAC sensor power terminals. 
+dark gray “M” terminal. For more information, visit 
+rachio.com/sensors.
+Insert the power connector upward into the power jack 
+located at the bottom right of the wiring bay. Then, plug 
+the power adapter into the outlet. STEP 5
+Create an account.
+Find the Rachio app on the Apple App Store, on 
+Google Play or by visiting rachio.com/download. 
+Once the app is installed, create your account. STEP 6
+Connect to Wi-Fi.
+Open the Rachio app and 
+select “Add Controller.” The 
+app will guide you through this 
+process.
+Once your controller is online, 
+the light bar will pulse blue. 
+You can now replace the 
+magnetic faceplate. STEP 7
+Complete setup on the app.
+Now that the controller is online, use the Rachio 
+app to customize your zones and create a schedule. Congrats, you did it!
+Want to learn more about what you can do with 
+your new Rachio 3? 
+Control your  Integrate your  Optimize your 
+system remotely. smart home. waterings.
+Visit rachio.com/more. Manual Controls
+Zones can be run directly from the controller, if 
+needed. Use the forward and back buttons to select 
+a zone on the light bar, then select play.
+Stop Watering
+Prev Zone Next Zone
+Start or Pause
+Watering

@@ -1,0 +1,829 @@
+USER MANUAL
+5 SERIES
+Thank you for purchasing this Samsung product.
+To receive more complete service, please register your product at www.samsung.com/register
+Model                                                Serial No.                                                Before Reading This User Manual
+This TV comes with this user manual and an embedded e-Manual.
+Before reading this user manual, review the following:
+User  Read this provided user manual to see information 
+Manual about product safety, installation, accessories, initial 
+configuration, and product specifications.
+e-Manual For more information about this TV, read the 
+e-Manual embedded in the product.
+• To open the e-Manual,
+ >   Settings > Support > Open e-Manual
+On the website, you can download the user manual and see its contents on your PC or mobile device.
+Learning the e-Manual's assistance functions
+• Some menu screens cannot be accessed from the e-Manual.
+(Search) Select an item from the search results to load the corresponding page.
+(Index) Select a keyword to navigate to the relevant page.
+(Recent pages) Select a topic from the list of recently viewed topics.
+Learning the functions of the buttons that appear on e-Manual 
+topic pages
+(Try Now) Access the associated menu item and try out the feature directly.
+(Link) Access a topic referred to on an e-Manual topic page.
+English - 2 Features of your new TV
+Home Screen
+In Home Screen, you can easily run the apps that have been used previously or frequently. The apps 
+can also be moved or deleted in the screen.
+e-Manual
+Get help from a detailed, on-screen user's manual built into your TV.
+Voice Interaction
+Access and control menu options and functions using voice commands.
+"SMART HUB" "Volume Up" "Help"
+English - 3 Warning! Important Safety Instructions
+Please read the Safety Instructions before using your TV.
+CAUTION Class II product: This symbol indicates 
+that a safety connection to electrical 
+RISK OF ELECTRIC SHOCK. DO NOT OPEN. earth (ground) is not required.
+CAUTION: TO REDUCE THE RISK OF ELECTRIC 
+SHOCK, DO NOT REMOVE COVER (OR BACK). THERE  AC voltage: Rated voltage marked with 
+ARE NO USER SERVICEABLE PARTS INSIDE. REFER  this symbol is AC voltage.
+ALL SERVICING TO QUALIFIED PERSONNEL.
+This symbol indicates that high voltage 
+is present inside. It is dangerous to make  DC voltage: Rated voltage marked with 
+any kind of contact with any internal part  this symbol is DC voltage.
+of this product.
+Caution. Consult instructions for use: This 
+This symbol indicates that this product 
+symbol instructs the user to consult the 
+has included important literature 
+user manual for further safety related 
+concerning operation and maintenance.
+information.
+• The slots and openings in the cabinet and in the back or bottom are provided for necessary ventilation. To ensure 
+reliable operation of this apparatus and to protect it from overheating, these slots and openings must never be 
+blocked or covered.
+–  Do not place this apparatus in a confined space, such as a bookcase or built-in cabinet, unless proper 
+ventilation is provided.
+–  Do not place this apparatus near or over a radiator or heat register, or where it is exposed to direct sunlight.
+–  Do not place vessels (vases etc.) containing water on this apparatus, as this can result in a fire or electric 
+shock.
+• Do not expose this apparatus to rain or place it near water (near a bathtub, washbowl, kitchen sink, or laundry 
+tub, in a wet basement, or near a swimming pool, etc.). If this apparatus accidentally gets wet, unplug it and 
+contact an authorised dealer immediately.
+• This apparatus uses batteries. In your community, there might be environmental regulations that require you to 
+dispose of these batteries properly. Please contact your local authorities for disposal or recycling information.
+• Do not overload wall outlets, extension cords, or adaptors beyond their capacity, since this can result in fire or 
+electric shock.
+• Power-supply cords should be placed so that they are not likely to be walked on or pinched by items placed upon 
+or against them. Pay particular attention to cords at the plug end, at wall outlets, and at the point where they 
+exit from the appliance.
+• To protect this apparatus from a lightning storm, or when left unattended and unused for long periods of time, 
+unplug it from the wall outlet and disconnect the antenna or cable system. This will prevent damage to the set 
+due to lightning and power line surges.
+• Before connecting the AC power cord to the DC adaptor outlet, make sure that the voltage designation of the DC 
+adaptor corresponds to the local electrical supply.
+• Never insert anything metallic into the open parts of this apparatus. This may cause a danger of electric shock.
+English - 4 • To avoid electric shock, never touch the inside of this apparatus. Only a qualified technician should open this 
+apparatus.
+• Be sure to plug in the power cord until it is firmly seated. When unplugging the power cord from a wall outlet, 
+always pull on the power cord's plug. Never unplug it by pulling on the power cord. Do not touch the power cord 
+with wet hands.
+• If this apparatus does not operate normally - in particular, if there are any unusual sounds or smells coming from 
+it - unplug it immediately and contact an authorised dealer or service centre.
+• Be sure to pull the power plug out of the outlet if the TV is to remain unused or if you are to leave the house for 
+an extended period of time (especially when children, elderly, or disabled people will be left alone in the house).
+–  Accumulated dust can cause an electric shock, an electric leakage, or a fire by causing the power cord to 
+generate sparks and heat or by causing the insulation to deteriorate.
+• Be sure to contact an authorised Samsung service centre for information if you intend to install your TV in a 
+location with heavy dust, high or low temperatures, high humidity, chemical substances, or where it will operate 
+24 hours a day such as in an airport, a train station, etc. Failure to do so may lead to serious damage to your TV.
+• Use only a properly grounded plug and wall outlet.
+–  An improper ground may cause electric shock or equipment damage. (Class l Equipment only.)
+• To turn off this apparatus completely, disconnect it from the wall outlet. To ensure you can unplug this apparatus 
+quickly if necessary, make sure that the wall outlet and power plug are readily accessible.
+• Store the accessories (batteries, etc.) in a location safely out of the reach of children.
+• Do not drop or strike the product. If the product is damaged, disconnect the power cord and contact a Samsung 
+service centre.
+• To clean this apparatus, unplug the power cord from the wall outlet and wipe the product with a soft, dry cloth. 
+Do not use any chemicals such as wax, benzene, alcohol, thinners, insecticide, aerial fresheners, lubricants, or 
+detergents. These chemicals can damage the appearance of the TV or erase the printing on the product.
+• Do not expose this apparatus to dripping or splashing.
+• Do not dispose of batteries in a fire.
+• Do not short-circuit, disassemble, or overheat the batteries.
+• There is danger of an explosion if you replace the batteries used in the remote with the wrong type of battery. 
+Replace only with the same or equivalent type.
+* The figures and illustrations in this User Manual are provided for reference only and may differ from the actual 
+product appearance. The product design and specifications may change without notice. CIS languages (Russian, 
+Ukrainian, Kazakhs) are not available for this product, since this is manufactured for customers in the EU region.
+English - 5 Contents
+Before Reading This User Manual   ----------------------------------------------------------------  2
+Features of your new TV   ----------------------------------------------------------------  3
+Warning! Important Safety Instructions   ----------------------------------------------------------------  4
+01  What's in the Box?
+02  Assembling the TV
+Attaching the TV to the Stand   ---------------------------------------------------------------- 10
+Mounting the TV on a wall   ---------------------------------------------------------------- 10
+Providing proper ventilation for your TV   ---------------------------------------------------------------- 12
+Safety Precaution: Securing the TV  
+to the wall to prevent falling   ---------------------------------------------------------------- 13
+Arranging the cables with the cable guide   ---------------------------------------------------------------- 14
+03  The TV Controller
+Using the TV Controller   ---------------------------------------------------------------- 15
+The Standard Remote Control   ---------------------------------------------------------------- 16
+The Samsung Smart Remote   ---------------------------------------------------------------- 17
+Installing batteries into the  
+Samsung Smart Remote   ---------------------------------------------------------------- 19
+About the Samsung Smart Remote   ---------------------------------------------------------------- 19
+Controlling External Devices with the TV Remote  
+- Using the Universal Remote   ---------------------------------------------------------------- 21
+04  Performing the initial setup
+Initial setup   ---------------------------------------------------------------- 22
+05  Connections
+Connecting devices to your TV   ---------------------------------------------------------------- 23
+Connecting to the Internet   ---------------------------------------------------------------- 24
+Connecting to a COMMON INTERFACE slot  
+(Your TV viewing Card Slot)   ---------------------------------------------------------------- 25
+English - 6 06  Selecting Connected Devices
+Changing the input signal   ---------------------------------------------------------------- 26
+Editing external devices   ---------------------------------------------------------------- 26
+Using additional functions   ---------------------------------------------------------------- 26
+07  Troubleshooting and Maintenance
+Troubleshooting   ---------------------------------------------------------------- 27
+What is Remote Support?   ---------------------------------------------------------------- 29
+Eco Sensor and screen brightness   ---------------------------------------------------------------- 30
+Caring for the TV   ---------------------------------------------------------------- 30
+08  Specifications and Other Information
+Specifications   ---------------------------------------------------------------- 31
+Environmental Considerations   ---------------------------------------------------------------- 32
+Decreasing power consumption   ---------------------------------------------------------------- 32
+Licences   ---------------------------------------------------------------- 32
+Still image warning   ---------------------------------------------------------------- 33
+Warranty Card   ---------------------------------------------------------------- 36
+WARRANTY CONDITIONS   ---------------------------------------------------------------- 36
+English - 7 01  What's in the Box?
+Make sure the following items are included with your TV. If any items are missing, contact your 
+dealer.
+Samsung Smart Remote & Batteries (AA x 2) Remote Control & Batteries (AAA x 2)
+4EA
+Warranty Card / 
+User Manual TV Power Cable Wall Mount Adapter
+Regulatory Guide
+COMPONENT IN / AV 
+CI Card Adapter Cable Guide
+IN Adapter
+• The items’ colours and shapes may vary depending on the models.
+• Cables not included can be purchased separately.
+• Check for any accessories hidden behind or in the packing materials when opening the box.
+English - 8 An administration fee may be charged in the following situations:
+(a) An engineer is called out at your request, but there will be no defect with the product (i.e., 
+where the user manual has not been read).
+(b) You bring the unit to a repair centre, but there will be no defect identified the product (i.e., 
+where the user manual has not been read).
+You will be informed of the administration fee amount before a technician visits.
+Warning: Screens can be damaged from direct 
+Do Not Touch 
+pressure when handled incorrectly. We recommend 
+This Screen!
+lifting the TV at the edges, as shown.
+English - 9 02  Assembling the TV
+Attaching the TV to the Stand
+4EA
+Make sure you have all the accessories shown, and that you assemble the stand following the
+provided assembly instructions.
+Mounting the TV on a wall
+If you mount this TV on a wall, follow the instructions exactly as set out by the 
+manufacturer. Unless it is correctly mounted, the TV may slide or fall and cause serious 
+injury to a child or adult and serious damage to the TV.
+For models providing wall mount adapters, install them as shown in the figure below before 
+installing the wall mount kit.
+• Refer to the installation manual included with the Samsung wall mount kit.
+Wall mount Adapter
+Wall 
+TV
+mount 
+bracket
+C
+Wall mount Adapter
+Wall  TV
+mount 
+bracket
+C
+English - 10 • Samsung Electronics is not responsible for any damage to the product or injury to yourself or 
+others if you choose to install the wall mount on your own.
+• You can install your wall mount on a solid wall perpendicular to the floor. Before attaching the 
+wall mount to surfaces other than plaster board, contact your nearest dealer for additional 
+information. If you install the TV on a ceiling or slanted wall, it may fall and result in severe 
+personal injury.
+• Standard dimensions for wall mount kits are shown in the table below.
+• If you are installing a third-party wall mount, note that the length of the screws you can use to 
+attach the TV to the wall mount is shown in column C in the table below.
+• When installing a wall mount kit, we recommend you fasten all four VESA screws.
+• If you want to install a wall mount kit that attaches to the wall using two top screws only, be sure 
+to use a Samsung wall mount kit that supports this type of installation. (You may not be able to 
+purchase this type of wall mount kit, depending on the geographical region.)
+VESA screw hole 
+TV size in 
+specs (A * B) in  C (mm) Standard Screw Quantity
+inches
+millimetres
+32 100 x 100 M4
+43
+200 x 200 43 ~ 45 4
+49 M8
+55 400 x 400
+Do not install your wall mount kit while your TV is turned on. This may result in personal 
+injury from electric shock.
+• Do not use screws that are longer than the standard dimension or do not comply with the VESA 
+standard screw specifications. Screws that are too long may cause damage to the inside of the 
+TV set.
+• For wall mounts that do not comply with the VESA standard screw specifications, the length of 
+the screws may differ depending on the wall mount specifications.
+• Do not fasten the screws too firmly. This may damage the product or cause the product to fall, 
+leading to personal injury. Samsung is not liable for these kinds of accidents.
+• Samsung is not liable for product damage or personal injury when a non-VESA or non-specified 
+wall mount is used or when the consumer fails to follow the product installation instructions.
+• Do not mount the TV at more than a 15 degree tilt.
+• Always have two people mount the TV onto a wall.
+English - 11 Providing proper ventilation for your TV
+When you install your TV, maintain a distance of at least 10 cm between the TV and other objects 
+(walls, cabinet sides, etc.) to ensure proper ventilation. Failing to maintain proper ventilation may 
+result in a fire or a problem with the product caused by an increase in its internal temperature.
+When you install your TV with a stand or a wall mount, we strongly recommend you use parts 
+provided by Samsung Electronics only. Using parts provided by another manufacturer may cause 
+difficulties with the product or result in injury caused by the product falling.
+Installation with a stand Installation with a wall mount
+10 cm 10 cm
+10 cm 10 cm 10 cm 10 cm
+10 cm
+Other Cautions
+• The actual appearance of the TV may differ from the images in this manual, depending on the 
+model.
+• Be careful when you touch the TV. Some parts can be somewhat hot.
+English - 12 Safety Precaution: Securing the TV to the wall to prevent falling
+Caution: Pulling, pushing, or climbing on the TV may cause the TV to fall. In 
+particular, ensure your children do not hang on or destabilise the TV. This action 
+may cause the TV to tip over, causing serious injuries or death. Follow all safety 
+precautions provided in the Safety Flyer included with your TV. For added 
+stability and safety, you can purchase and install the anti-fall device as described 
+below.
+WARNING: Never place a television set in an unstable location. The television set may fall, 
+causing serious personal injury or death. Many injuries, particularly to children, can be 
+avoided by taking simple precautions such as
+• Using cabinets or stands recommended by the manufacturer of the television set.
+• Only using furniture that can safely support the television set.
+• Ensuring the television set is not overhanging the edge of the supporting furniture.
+• Not placing the television set on tall furniture (for example, cupboards or bookcases) 
+without anchoring both the furniture and the television set to a suitable support.
+• Not placing the television set on cloth or other materials that may be located between 
+the television set and supporting furniture.
+• Educating children about the dangers of climbing on furniture to reach the television 
+set or its controls.
+If you are retaining and relocating the television set that you are replacing with this new 
+set, you should apply the same precautions to the old set.
+English - 13 Preventing the TV from falling
+1. Using the appropriate screws, firmly fasten a set of brackets 
+to the wall. Confirm that the screws are firmly attached to the 
+wall.
+–  You may need additional material such as wall anchors 
+depending on the type of wall.
+2. Using the appropriately sized screws, firmly fasten a set of 
+brackets to the TV.
+–  For the screw specifications, refer to the standard screw 
+part in the table under "Mounting the TV on a wall".
+3. Connect the brackets fixed to the TV and the brackets fixed 
+to the wall with a durable, heavy-duty string, and then tie the 
+string tightly.
+–  Install the TV near the wall so that it does not fall 
+backwards.
+–  Connect the string so that the brackets fixed to the wall 
+are at the same height as or lower than the brackets fixed 
+to the TV.
+Arranging the cables with the cable guide
+English - 14 03  The TV Controller
+Using the TV Controller
+You can turn on the TV with the TV Controller button at the bottom of the TV, and then use the 
+Control Menu. The Control menu appears when the TV Controller is pressed while the TV is On. For 
+more information about its usage, refer to the figure below.
+Control menu
+: Power off : Volume Up
+: Channel Up : Volume Down
+: Channel Down : Source
+TV Controller / Remote control 
+sensor
+Press: Move
+Press & Hold: Select
+The TV Controller is placed at the 
+bottom of the TV.
+English - 15 The Standard Remote Control
+Learn where the function buttons are on your remote, such as: SOURCE, TTX/MIX, PRE-CH, 
+z, CH LIST, SETTINGS, REC, INFO, RETURN and EXIT.
+• This remote control has Braille points on the Power, Channel, Volume, and Enter buttons and can 
+be used by visually impaired persons.
+• Your TV also comes with a Samsung Smart Remote. For more information about the Samsung 
+Smart Remote, refer to page 17.
+P (Power) Number
+Turns the TV on and off. Gives direct access to channels.
+SOURCE TTX/MIX
+Displays and selects available video  Alternately selects Teletext ON, 
+sources. Double, Mix or OFF.
+y
+PRE-CH
+Adjusts the volume.
+Returns to the previous channel.
+MUTE REC
+Turns the sound on/off. Records whatever you are currently 
+watching.
+z
+• This function is not available in 
+Changes the current channel.
+specific geographical areas.
+CH LIST
+INFO
+Launches the Channel List.
+Displays information about the 
+SETTINGS current programme or content.
+Sets the Quick Settings the menu on 
+ (Enter)
+the Settings of the home screen.
+Selects or runs a focused item.
+ (Smart Hub)
+u d l r
+Launches Home Screen.
+Moves the cursor, selects the on-
+GUIDE screen menu items, and changes the 
+Displays the Electronic Programme  values seen on the TV's menu.
+Guide (EPG).
+RETURN
+PIC SIZE
+Returns to the previous menu or 
+Changes the picture size.
+channel.
+PICTURE
+EXIT
+Changes the picture mode.
+Exits the menu.
+AD/SUBT. A, B, C, D
+Displays the Accessibility Shortcuts. Use these buttons according to the 
+directions on the TV screen.
+´
+π ∆ ³ µ
+Stops playing content.
+Use these buttons with specific 
+features. Use these buttons 
+according to the directions on the TV 
+screen.
+• The button names above may be differ from the actual names.
+English - 16 The Samsung Smart Remote
+• Colours and shape may vary depending on the model.
+• For more information about Samsung Smart Remote, see the e-Manual chapter, "Remote 
+Control and Peripherals > About the Samsung Smart Remote."
+ (Power)
+ (Voice Interaction)
+Press to turn the TV on or off.
+Runs Voice Interaction. 
+Press the button, say a 
+voice command, and then 
+release the button to run 
+ (Number pad)
+Voice Interaction. When 
+When pressed, a number strip 
+pressed once, the guide to 
+appears on the bottom of the 
+Voice Interaction appears.
+screen. Select numbers and 
+then select Done to enter a   4 Colour buttons
+numeric value. Use to change  Use these coloured buttons 
+the channel, enter a PIN, enter  to access additional options 
+a ZIP code, etc. specific to the feature in use.
+• When pressed for 1 second 
+Select
+or more, the TTX menu 
+Selects or runs a focused 
+appears.
+item. When pressed while 
+Directional pad (up/down/ you are watching content, 
+left/ right) detailed programme 
+Moves the focus and changes  information appears. When 
+the values seen on the TV's  pressed again, you can select 
+menu. or run any of the functions 
+displayed.
+ (Return)
+VOL (Volume)
+Returns to the previous menu. 
+Move the button up or 
+When pressed for 1 second or 
+down to adjust the volume. 
+more, the running function 
+To mute the sound, press 
+is terminated. When pressed 
+the button. When pressed 
+while you are watching a 
+for 1 second or more, the 
+programme, the previous 
+Accessibility Shortcuts menu 
+channel appears.
+appears.
+ (Play/pause)
+CH (Channel)
+When pressed, the playback 
+Move the button up or down 
+controls appear. Using these 
+to change the channel. To see 
+controls, you can control the 
+the Guide screen, press the 
+media content that is playing.
+button.
+ (Smart Hub) • When pressed for 1 second 
+Returns to the Home Screen. or more, the Channel List 
+screen appears.
+English - 17 Installing batteries into the remote control (Battery size: AAA)
+Match the polarities of the batteries to the symbols on the battery compartment.
+1
+2
+3
+• The colour and shape of the remote may vary depending on the model.
+• Use the remote control within 7 m of the TV.
+• Bright lights may affect the performance of the remote control. Avoid using the remote control 
+near special fluorescent lights or neon signs.
+1. Gently pull on the battery cover's notch and then remove the cover completely once it comes 
+loose.
+2. Insert 2 AAA alkaline batteries, making sure to align the positive and negative polarities 
+correctly.
+3. Place the battery cover on the remote control and insert the cover into the remote control.
+4. Slide the battery cover in the order shown so that the cover is completely attached to the 
+remote control.
+English - 18 Installing batteries into the Samsung Smart Remote
+To install the batteries, push the rear cover open in the direction of the arrow, and then insert the 
+batteries as shown in the figure. Make sure that the positive and negative ends are facing in the 
+correct direction.
+• Alkaline batteries are recommended for longer battery life.
+About the Samsung Smart Remote
+When you start the TV for the first time by pressing the P (Power) button on the Samsung Smart 
+Remote, the TV automatically pairs with the Samsung Smart Remote. Once the TV and Samsung 
+Smart Remote have paired, you can use the Samsung Smart Remote to operate the TV.
+We recommend using Samsung Smart Remote at a distance of less than 6m. A usable distance may 
+differ depending on the wireless environmental conditions.
+English - 19 Pairing the TV to the Samsung Smart Remote
+When you turn on the TV for the first time, the Samsung Smart Remote pairs to the TV 
+automatically. If the Samsung Smart Remote does not pair to the TV automatically, point it at the 
+remote control sensor of the TV, and then press and hold the buttons labelled   and   as shown 
+in the figure on the left simultaneously for 3 seconds or more.
+• The Samsung Smart Remote can only be paired to one TV at a time.
+English - 20 Controlling External Devices with the TV Remote - Using the 
+Universal Remote
+ > s Source > Universal Remote
+You can control external devices connected to the TV by using the remote control. For this purpose, 
+register external devices by following the instructions on the screen.
+• You can also use the Anynet+ (HDMI-CEC) function to operate external Samsung devices with 
+your TV's remote control without any additional setup. For more information about Anynet+ 
+(HDMI-CEC), see the e-Manual.
+• Certain external devices connected to the TV may not support the universal remote feature.
+• If the external device does not respond after being registered, register it again using its model 
+number.
+• The TV memorises both the external device and its connection port (HDMI 1, HDMI 2, etc.).
+English - 21 04  Performing the initial setup
+• The initial setup differs from model to model.
+• Turn on the TV using the P button on the remote control or TV controller.
+Initial setup
+The initial setup dialogue box appears when the TV is first activated. Follow the on-screen 
+instructions to finish the initial setup process such as selecting the menu language, scanning 
+channels, connecting to the network, and more. During each step, either make a choice or skip 
+the step. You can manually perform this process at a later time in the   >   Settings > General > 
+Start Setup menu.
+• If you connect any external device to HDMI IN (STB) before starting initial setup, the source of 
+your live TV signal is set to STB. After finishing with this process, you will not be able to scan all 
+channels and stores them in the TV’s memory.
+• If you want to connect aerial cable to your TV, select Aerial. In this case, you will be able to scan 
+all channels and stores them in the TV’s memory.
+English - 22 05  Connections
+Connecting devices to your TV
+You can connect various external devices using the connectors located at the back of the product. 
+Check the connectors and then refer to the Quick Guide for more instructions on supported external 
+devices.
+For more information about connections, see the e-Manual chapter "Connections."
+Make sure you have the correct cable before plugging it in. Illustrations of common plugs and ports 
+are shown below.
+Cable Plugs Ports
+HDMI
+USB
+Do not plug cables in upside down.
+Optical Be sure to check the orientation of 
+Warning
+the plug before plugging it in.
+English - 23 Connecting to the Internet
+Connecting the TV to a network gives you access to online services such as the Smart Hub, as well as 
+software updates.
+• For more information about Smart Hub, see the e-Manual chapter, "Smart Features > Smart 
+Hub."
+• The shape of the rear panel differs among the models.
+Network Connection - Wireless
+Connect the TV to the Internet using a standard router or modem.
+Wireless IP Router or 
+Modem with a DHCP Server
+The LAN Port on the Wall
+LAN Cable (Not Supplied)
+Network Connection - Wired
+There are three main ways to connect your TV to your network using cable, depending on your 
+network setup. They are illustrated starting below:
+The LAN Port on the Wall
+LAN Cable (Not Supplied)
+• The TV does not support network speeds less than or equal to 10Mbps. 
+• Use Cat7 (*STP Type) cable for the connection.
+* Shielded Twist Pair
+English - 24 Connecting to a COMMON INTERFACE slot (Your TV viewing Card 
+Slot)
+• Turn the TV off to connect or disconnect a CI card.
+Attaching the CI Card Adapter
+• A CI Card Adapter that lets the TV use two different CI Cards is available, depending on the 
+model.
+Attach the adapter as shown.
+• To install the CI CARD Adapter, please remove the sticker attached to the TV.
+To connect the CI CARD Adapter, follow these steps.
+• We recommend attaching the adapter before installing the wall mount, or inserting the “CI or CI+ 
+CARD”.
+1. Insert the CI CARD Adapter into the two holes on the product 1.
+• Please locate the two holes at the back of the TV next to the COMMON INTERFACE port.
+2. Connect the CI CARD Adapter to the COMMON INTERFACE port on the product 2.
+3. Insert the “CI or CI+ CARD”.
+We recommend that you attach the CI Card adapter and insert the CI card (viewing card) 
+before you mount the TV on the wall because it may be difficult and dangerous to do this 
+when it is on the wall.
+English - 25 06  Selecting Connected Devices
+Changing the input signal
+ > s Source
+When you select a connected external device on the Source screen, the output of the selected 
+device is displayed on the TV's screen.
+• For more information about selecting connected devices, see the e-Manual chapter "Switching 
+between external devices connected to the TV"
+Editing external devices
+You can change the port name for a connected external device or add it to Home Screen.
+1. Move the focus to a connected external device.
+2. Press the up directional button. Then the following functions can be used. Note that available 
+functions may differ with the port type.
+• Edit: You can change the port name of an external device for easy identification.
+• Add to Home: You can add the port of an external device to the Home Screen for quick 
+switching.
+• Information: You can view the detailed information about the external devices connected to 
+the TV.
+Using additional functions
+You can use the following features on the Source screen.
+• Connection Guide: The guide to device connections
+• Universal Remote: The function that lets you register external devices to your Samsung Smart 
+Remote and control them using the standard remote control.
+English - 26 07  Troubleshooting and Maintenance
+Troubleshooting
+If the TV seems to have a problem, first review this list of possible problems and solutions. 
+Alternatively, review the Troubleshooting Section in the e-Manual. If none of these troubleshooting 
+tips apply, please visit “www.samsung.com” and click on Support, or contact the call centre listed on 
+the back cover of this manual.
+• This TFT LED panel is made up of sub pixels which require sophisticated technology to produce. 
+There may be, however, a few bright or dark pixels on the screen. These pixels will have no 
+impact on the performance of the product.
+• To keep your TV in optimum condition, upgrade to the latest software. Use the Update Now 
+or Auto update functions on the TV's menu (  >   Settings > Support > Software Update > 
+Update Now or Auto update).
+The TV won’t turn on.
+• Make sure that the AC power cord is securely plugged in to the TV and the wall outlet.
+• Make sure that the wall outlet is working and the power indicator on the TV is lit and glowing a 
+solid red.
+• Try pressing the Power button on the TV to make sure that the problem is not with the remote 
+control. If the TV turns on, refer to “Remote control does not work” below.
+There is no picture/video/sound, or a distorted picture/video/sound from an 
+external device, or “Weak or No Signal” is displayed on the TV, or you cannot 
+find a channel.
+• Make sure the connection to the device is correct and that all cables are fully inserted.
+• Remove and reconnect all cables connected to the TV and the external devices. Try new cables if 
+possible.
+• Confirm that the correct input source has been selected (  > Source).
+• Perform a TV self diagnosis to determine if the problem is caused by the TV or the device (  > 
+ Settings > Support > Self Diagnosis > Start Picture Test or Start Sound Test).
+• If the test results are normal, reboot the connected devices by unplugging each device's power 
+cord and then plugging it in again. If the issue persists, refer to the connection guide in the user 
+manual of the connected device.
+• If the TV is not connected to a cable or satellite box, run Auto Tuning to search for channels (  > 
+ Settings > Broadcasting > Auto Tuning Settings > Auto Tuning).
+–  This function is only available on certain models in specific geographical areas.
+English - 27 The remote control does not work.
+• Check if the power indicator on the TV blinks when you press the remote's Power button. If it 
+does not, replace the remote control's batteries.
+• Make sure that the batteries are installed with their poles (+/–) in the correct direction.
+• Try pointing the remote directly at the TV from 1.5 ~ 1.8 m away.
+• If your TV came with a Samsung Smart Remote (Bluetooth Remote), make sure to pair the 
+remote to the TV.
+The cable or satellite box remote control doesn’t turn the TV on or off or 
+adjust the volume.
+• Programme the cable or satellite box remote control to operate the TV. Refer to the cable or 
+satellite box user manual for the SAMSUNG TV code.
+The TV settings are lost after 5 minutes.
+• The TV is in the Retail Mode. Change the Usage Mode in the General Menu to Home Mode (  > 
+ Settings > General > System Manager > Usage Mode > Home Mode).
+Intermittent Wi-Fi
+• Make sure the TV has a network connection (  >   Settings > General > Network > 
+Network Status).
+• Make sure the Wi-Fi password is entered correctly.
+• Check the distance between the TV and the Modem/Router. The distance should not exceed 15.2 
+m.
+• Reduce interference by not using or turning off wireless devices. Also, verify that there are no 
+obstacles between the TV and the Modem/Router. (The Wi-Fi strength can be decreased by 
+appliances, cordless phones, stone walls/fireplaces, etc.)
+Single story Multi story
+Wireless router
+Wireless repeater
+• Contact your ISP and ask them to reset your network circuit to re-register the Mac addresses of 
+your new Modem/Router and the TV.
+English - 28 Video App problems (Youtube etc)
+• Change the DNS to 8.8.8.8. Select   >   Settings > General > Network > Network Status > 
+IP Settings > DNS setting > Enter manually > DNS Server > enter 8.8.8.8 > OK.
+• Reset by selecting   >   Settings > Support > Self Diagnosis > Reset Smart Hub.
+What is Remote Support?
+Samsung Remote Support service offers you one-on-one support with a Samsung Technician who 
+can remotely:
+• Diagnose your TV
+• Adjust the TV settings for you
+• Perform a factory reset on your TV
+• Install recommended firmware updates
+How does Remote Support work?
+You can easily have a Samsung Tech service your TV remotely:
+1. Call the Samsung Contact Centre and ask for remote support.
+2. Open the menu on your TV and go to the Support section.
+3. Select Remote Management, then read and agree to the service agreements. When the PIN 
+screen appears, provide the PIN number to the agent.
+4. The agent will then access your TV.
+English - 29 Eco Sensor and screen brightness
+Eco Sensor adjusts the brightness of the TV automatically. This feature measures the light in your 
+room and optimises the brightness of the TV automatically to reduce power consumption. If you 
+want to turn this off, go to   >   Settings > General > Eco Solution > Ambient Light Detection.
+• If the screen is too dark while you are watching TV in a dark environment, it may be due to the 
+Ambient Light Detection function.
+• Do not block the sensor with any object. This can decrease picture brightness.
+Caring for the TV
+• If a sticker was attached to the TV screen, some debris 
+can remain after you remove the sticker. Please clean the 
+debris off before watching TV.
+• The exterior and screen of the TV can get scratched during 
+cleaning. Be sure to wipe the exterior and screen carefully 
+using a soft cloth to prevent scratches.
+• Do not spray water or any liquid directly onto the TV. Any 
+liquid that goes into the product may cause a failure, fire, 
+or electric shock.
+• To clean the screen, turn off the TV, then gently wipe away 
+smudges and fingerprints on the panel with a micro-fiber 
+cloth. Clean the body or panel of the TV with a micro-fiber 
+cloth dampened with a small amount of water. After that, 
+remove the moisture with a dry cloth. While cleaning, do 
+not apply strong force to the surface of the panel because 
+it can damage the panel. Never use flammable liquids 
+(benzene, thinner, etc.) or a cleaning agent. For stubborn 
+smudges, spray a small amount of screen cleaner on a 
+micro-fiber cloth, and then use the cloth to wipe away the 
+smudges.
+English - 30 08  Specifications and Other Information
+Specifications
+Model Name UE32M5500 / UE32M5600 UE43M5500 / UE43M5510 / 
+UE43M5600
+Display Resolution 1920 x 1080 1920 x 1080
+Screen Size
+32 inches (80 cm) 43 inches (108 cm)
+(Diagonal)
+Sound (Output) 20 W 20 W
+Stand Swivel (Left / Right) 0˚ 0˚
+Dimensions (W x H x D)
+Body 730.4 x 433.7 x 55.1 mm 972.9 x 570.0 x 55.1 mm
+With stand 730.4 x 487.7 x 207.5 mm 972.9 x 635.0 x 250.7 mm
+Weight
+Without Stand 5.5 kg 9.5 kg
+With Stand 6.2 kg 10.5 kg
+Model Name UE49M5500 / UE49M5510 /  UE55M5500 / UE55M5510 / 
+UE49M5600 UE55M5600
+Display Resolution 1920 x 1080 1920 x 1080
+Screen Size
+49 inches (123 cm) 55 inches (138 cm)
+(Diagonal)
+Sound (Output) 20 W 20 W
+Stand Swivel (Left / Right) 0˚ 0˚
+Dimensions (W x H x D)
+Body 1105.8 x 645.0 x 55.1 mm 1241.6 x 721.4 x 55.1 mm
+With stand 1105.8 x 710.2 x 293.8 mm 1241.6 x 786.4 x 293.8 mm
+Weight
+Without Stand 13.0 kg 16.0 kg
+With Stand 14.6 kg 17.6 kg
+English - 31 Environmental Considerations
+Operating Temperature 10°C to 40°C (50°F to 104°F)
+Operating Humidity 10% to 80%, non-condensing
+Storage Temperature -20°C to 45°C (-4°F to 113°F)
+Storage Humidity 5% to 95%, non-condensing
+• The design and specifications are subject to change without prior notice.
+• For information about the power supply, and more information about power consumption, refer 
+to the label-rating attached to the product.
+• Typical power consumption is measured according to IEC 62087.
+• You can see the label-rating inside of the cover terminal.
+Decreasing power consumption
+When you shut the TV off, it enters Standby mode. In Standby mode, it continues to draw a small 
+amount of power. To decrease power consumption, unplug the power cord when you don't intend to 
+use the TV for a long time.
+Licences
+The terms HDMI and HDMI High-Definition Multimedia Interface, and the HDMI Logo are 
+trademarks or registered trademarks of HDMI Licensing LLC in the United States and other 
+countries.
+English - 32 Still image warning
+Avoid displaying still images (such as jpeg picture files), still image elements (such as TV channel 
+logos, stock or news crawls at the screen bottom etc.), or programmes in panorama or 4:3 image 
+format on the screen. If you constantly display still pictures, it can cause image burn-in on the 
+LED screen and affect image quality. To reduce the risk of this adverse effect, please follow the 
+recommendations below:
+• Avoid displaying the same TV channel for long periods.
+• Always try to display any image in full screen. Use the picture format menu of the TV for the best 
+possible match.
+• Reduce brightness and contrast to avoid the appearance of after-images.
+• Use all TV features designed to reduce image retention and screen burn. Refer to the e-Manual 
+for details.
+Recommendation - EU Only
+Hereby, Samsung Electronics, declares that this TV is in compliance with the essential 
+requirements and other relevant provisions of Directive 1999/5/EC.
+The official Declaration of Conformity may be found at http://www.samsung.com, go to Support 
+> Search Product Support and enter the model name.
+This equipment may only be used indoors.
+This equipment may be operated in all EU countries.
+English - 33 Correct Disposal of This Product (Waste Electrical & Electronic Equipment)
+(Applicable in countries with separate collection systems)
+This marking on the product, accessories or literature indicates that the product and 
+its electronic accessories (e.g. charger, headset, USB cable) should not be disposed of 
+with other household waste at the end of their working life. To prevent possible harm 
+to the environment or human health from uncontrolled waste disposal, please separate 
+these items from other types of waste and recycle them responsibly to promote the 
+sustainable reuse of material resources.
+Household users should contact either the retailer where they purchased this product, or 
+their local government office, for details of where and how they can take these items for 
+environmentally safe recycling.
+Business users should contact their supplier and check the terms and conditions of the 
+purchase contract. This product and its electronic accessories should not be mixed with 
+other commercial wastes for disposal.
+Correct disposal of the batteries in this product
+(Applicable in countries with separate collection systems)
+This marking on battery, manual or packaging indicates that the batteries in this product 
+should not be disposed of with other household waste at the end of their working life. 
+Where marked, the chemical symbols Hg, Cd or Pb indicate that the battery contains 
+mercury, cadmium or lead above the reference levels in EC Directive 2006/66. If batteries 
+are not properly disposed of, these substances can cause harm to human health or the 
+environment.
+To protect natural resources and to promote material reuse, please separate batteries 
+from other types of waste and recycle them through your local, free battery return 
+system.
+For information on Samsung’s environmental commitments and product-specific regulatory 
+obligations, e.g. REACH, WEEE, Batteries, visit http://www.samsung.com/uk/aboutsamsung/
+samsungelectronics/corporatecitizenship/data_corner.html
+WARNING - TO PREVENT THE SPREAD OF FIRE, KEEP CANDLES OR OTHER ITEMS WITH 
+OPEN FLAMES AWAY FROM THIS PRODUCT AT ALL TIMES.
+English - 34 • WARNINGS: Image retention, commonly known as screen burn-in, can occur on most types 
+of television if the same image is displayed continuously. The most common causes of image 
+retention are logos that remain stationary on the TV screen. These logos are common on many 
+programmes received via a satellite box. To reduce this risk, avoid displaying still images for 
+long durations and lower the brightness or contrast settings to decrease the intensity of the 
+picture. Extended viewing of movies and programmes in aspect ratios that are different from the 
+aspect ratio of the TV may cause image retention. Always try to avoid black borders at the top or 
+bottom by using the zoom function. This will help eliminate the black borders and fit the picture 
+to the entire area of the screen. Using a video game console may cause image retention and is 
+not recommended. When using a PC input, avoid displaying still images for long durations and 
+reduce the brightness or contrast settings to decrease the intensity of the picture.
+• IMPORTANT: Image retention issues are not covered by your Samsung® warranty.
+English - 35 Warranty Card
+United Kingdom Republic of Ireland (EIRE)
+This Samsung product is warranted for a period of twelve (12) months from the original date of purchase, against defective materials and 
+workmanship. In the event that warranty service is required, you should return the product to the retailer from whom it was purchased. 
+However, Samsung Authorised Dealers and Authorised Service Centres in other EC Countries will comply with the warranty on the terms 
+issued to purchasers in the country concerned. In case of difficulty, details of our Authorised Service Centres are available from:
+Samsung Electronics U.K. Ltd
+Samsung Customer Support Centre
+Selectapost 38, Sheffield, S97 3FJ
+United Kingdom
+United Kingdom
+Tel : 0330 SAMSUNG (7267864)
+www.samsung.com/uk/support
+EIRE
+Tel : 0818 717100
+www.samsung.com/ie/support
+WARRANTY CONDITIONS
+1.  The warranty is only valid if, when warranty service is required, the warranty card is fully and properly completed and is presented 
+with the original invoice or sales slip or confirmation, and the serial number on the product has not been defaced.
+2.  Samsung’s obligations are limited to the repair or, at its discretion, replacement of the product or the defective part.
+3.  Warranty repairs must be carried out by Authorised Samsung Dealers or Authorised Service Centres. No re-imbursement will be 
+made for repairs carried out by non Samsung Dealers and, any such repair work and damage to the products caused by such repair 
+work will not be covered by this warranty.
+4.  This product is not considered to be defective in materials nor workmanship by reason that it requires adaptation in order to conform 
+to national or local technical or safety standards in force in any country other than the one for which the product was originally 
+designed and manufactured.
+5.  This warranty covers none of the following:
+a)  Periodic check ups, maintenance and repair or replacement of parts due to normal wear and tear.
+b)  Cost relating to transport, removal or installation of the product.
+c)  Misuse, including the failure to use this product for its normal purposes or incorrect installation.
+d)  Damage caused by Lightning, Water, Fire, Acts of God, War, Public Disturbances, incorrect mains voltage, improper ventilation 
+or any other cause beyond the control of Samsung.
+e)  Spillage of food or liquid or use of any other hazardous substances, which may effect the product.
+f)  Performance due to differences in broadcasting method between countries
+6.  This warranty is valid for any person who legally acquired possession of the product during the warranty period.
+7.  The consumers statutory rights in any applicable national legislation whether against the retailer arising from the purchase contract 
+or otherwise are not affected by this warranty. Unless there is national legislation to the contrary, the rights under this warranty are 
+the consumers sole rights and Samsung, its subsidiaries and distributors shall not be liable for indirect or consequential loss or any 
+damage to records, compact discs, videos or audio taper or any other related equipment or material.
+8.  Some products may differ from these guidelines. Please check with your dealer or the local Samsung web-site. This page is intentionally 
+left blank. This page is intentionally 
+left blank. This page is intentionally 
+left blank. -01
+Contact SAMSUNG WORLD WIDE
+If you have any questions or comments relating to Samsung products, please contact the SAMSUNG customer care centre.
+Country Customer Care Centre  Web Site
+EIRE 0818 717100 www.samsung.com/ie/support
+UK 0330 SAMSUNG (7267864) www.samsung.com/uk/support
+© 2017 Samsung Electronics Co., Ltd. All rights reserved.

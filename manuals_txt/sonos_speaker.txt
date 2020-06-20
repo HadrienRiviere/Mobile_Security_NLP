@@ -1,0 +1,478 @@
+THIS DOCUMENT CONTAINS INFORMATION THAT IS SUBJECT TO CHANGE WITHOUT NOTICE. 
+No part of this publication may be reproduced or transmitted in any form or by any means, electronic or mechanical, including but not 
+limited to photocopying, recording, information retrieval systems, or computer network without the written permission of Sonos, Inc. 
+Sonos and all other Sonos product names and slogans are trademarks or registered trademarks of Sonos, Inc. Sonos Reg. U.S. Pat. & 
+Tm. Off. 
+Sonos products may be protected by one or more patents. Our patent-to-product information can be found here: 
+sonos.com/legal/patents
+iPhone®, iPod®, iPad®, Airplay®, iTunes®, OS X® and Apple Music™ are trademarks of Apple Inc., registered in the U.S. and other 
+countries.
+Windows® is a registered trademark of Microsoft Corporation in the United States and other countries.
+Android™ is a trademark of Google, Inc. 
+Amazon, Kindle, Kindle Fire, the Amazon Kindle logo and the Kindle Fire logo are trademarks of Amazon.com, Inc. or its affiliates.
+Sonos uses MSNTP software, which was developed by N.M. Maclaren at the University of Cambridge. 
+© Copyright, N.M. Maclaren, 1996, 1997, 2000; © Copyright, University of Cambridge, 1996, 1997, 2000.
+All other products and services mentioned may be trademarks or service marks of their respective owners.
+May 2016
+©2004-2016 by Sonos, Inc. All rights reserved. Sonos PLAY:1
+The PLAY:1® is the newest, most compact Sonos wireless speaker that lets you use any Sonos controller to 
+control and enjoy all the music you want all over your home (see The Sonos App for more information). 
+• Two custom-designed drivers, 3.5 in / 9 cm mid-woofer and tweeter, each with a dedicated amplifier.
+• Play/Pause functionality remembers the last thing you were listening to. You can even skip to the next 
+track with a double press.
+• Pair two PLAY:1s for amazing stereo sound or use two PLAY:1s as rear speakers for your Sonos 
+PLAYBAR® home theater system.
+• Works seamlessly with the complete range of Sonos products.
+New to Sonos?
+It takes just a few steps to get your Sonos system up and running—simply follow the setup instructions 
+packaged with your PLAY:1. Once you’ve got it set up, you can add additional Sonos products any time.
+Adding to an existing Sonos system?
+Sonos can be easily expanded room by room. If you are adding a PLAY:1 to an existing Sonos system, see 
+Adding to an Existing Sonos System for more information. 
+Your Home Network
+To access Internet music services, Internet radio, and any digital music stored on your computer or Network-
+Attached Storage (NAS) device, your home network must meet the following requirements: 2 Product Guide
+Home network requirements
+Note: Your network must have a high-speed Internet connection, as the Sonos 
+system is designed to provide you with free, online software updates. Your Sonos 
+system must be registered to receive these updates so be sure to register during 
+the setup process. We do not share your e-mail address with other companies.
+• High-speed DSL/Cable modem, or fiber-to-the-home broadband connection for proper playback of 
+Internet-based music services. (If your Internet service provider only offers Satellite Internet access, you 
+may experience playback issues due to fluctuating download rates.)
+• If your modem is not a modem/router combination and you want to take advantage of Sonos' automatic 
+online updates, or stream music from an Internet-based music service, you must install a router in your 
+home network. If you do not have a router, purchase and install one before proceeding. If you are going 
+to use the Sonos app on an Android™ or iOS device, or you are setting up Sonos wirelessly, you will need 
+a wireless router. 
+Note: Sonos communicates over a 2.4GHz home network supporting 802.11  
+b/g/n wireless technology. 5GHz networks are not supported in a completely 
+wireless Sonos setup.
+• Connect a Sonos BRIDGE, BOOST™ or player to your router if: 
+• You have a larger home where the WiFi performance isn’t reliable and you want to strengthen the 
+wireless performance of your Sonos system.
+• Your WiFi network is already in high demand with streaming video and web surfing and you want to 
+create a separate wireless network exclusively for your Sonos speakers.
+• Your home network is 5GHz only (not switchable to 2.4GHz).
+• For best results, you should connect the computer or NAS drive that contains your personal music library 
+collection to your home network router using an Ethernet cable. 
+The Sonos App
+You can use the free Sonos app with any compatible device, including:
+• Sonos app (Android)—Android 2.2 and higher; certain features require later versions. (Standard wireless 
+ 
+setup is only supported on Android 2.3 or 4.0 and higher.)
+Touch the Play Store or Market button on your Android device to download the free Sonos app from 
+Google Play.
+• Sonos app (iOS)—iPhone, iPad and iPod touch running iOS 7.0 or later; certain features may require 
+ 
+later versions.
+Touch the App Store button on your iPhone, iPod touch or iPad to download the free Sonos app, or 
+download the application from iTunes®. (If you download from iTunes, you will need to sync before you 
+see the Sonos logo display on your device.)
+• Sonos app (PC)—Windows® XP SP3 and higher; certain features require later versions. (Standard 
+ 
+wireless setup is only supported on Windows 7 and higher.) 
+Download from our website at www.sonos.com/support/downloads.  Sonos PLAY:1 3
+ 
+• Sonos app (Mac)—Macintosh® OS X 10.7 or later
+Download from our website at www.sonos.com/support/downloads. 
+Note: Sonos CONTROL has been discontinued, but it’s compatible with your new 
+Sonos product.
+PLAY:1 Top / Back
+On/Off Your Sonos system is designed to be always on; the system uses 
+minimal electricity whenever it is not playing music. To quickly stop 
+streaming audio in all rooms, select Pause All from the Rooms menu. 
+To stop streaming audio in one room, press the Play/Pause button on 
+the player.
+Play/Pause button Toggles between playing and pausing the audio in this room (defaults to 
+restarting the same music source when pressed unless a different 
+source is selected).
+• Press once to start or stop streaming audio
+• Press twice to skip to the next track (if applicable to the selected 
+music source)
+Status indicator  Indicates the current status. During normal operation the white light is 
+dimly lit. If desired, you can turn off the white light from Room Settings. 
+See Player Status Indicators for a complete list of status indications. 4 Product Guide
+Volume up (+)   Press these buttons to adjust the volume up and down. 
+Volume down (-)
+Threaded mounting hole The PLAY:1 has an integrated mounting hole on the back of the unit so 
+1/4 inch /  it can be wall-mounted if desired (mounting bracket not included.) See 
+20-thread Wall Mounting for more information. 
+Ethernet port You can use an Ethernet cable (supplied) to connect the PLAY:1 to a 
+router, computer, or additional network device such as a network-
+attached storage (NAS) device.
+AC power (mains) input   Use only the supplied power cord to connect to a power outlet (using a 
+(100 - 240 VAC, 50/60 Hz) third-party power cord will void your warranty).  
+Insert the power cord firmly into the PLAY:1 until it is flush with the 
+bottom of the unit. 
+Selecting a Location
+You can locate a Sonos PLAY:1 just about anywhere. For maximum enjoyment, we have a few guidelines:
+• The PLAY:1 is designed to work well even when placed next to a wall or other surface. For optimum 
+performance, maintaining more than 1 inch (2.5 cm) clearance around the back of the unit is 
+recommended.
+• Care should be taken if placing the PLAY:1 close to an older CRT (cathode ray tube) television. If you 
+notice any discoloration or distortion of your picture quality, simply move the PLAY:1 further from the 
+television.
+• The PLAY:1 is humidity-resistant so you can use it in the bathroom; however it is not water-resistant so 
+don’t position it near water or leave it outside during a rain storm.
+Wall Mounting
+The Sonos PLAY:1 has a standard 1/4”-20 threaded mounting socket. If desired, you can easily wall mount 
+your PLAY:1 using a suitable mounting bracket (not included). Simply choose a location that’s close to an 
+electrical outlet (power cord length is 2m), taking care to avoid heat, steam, dripping water or hidden wiring, 
+and follow the instructions included with the wall mount kit. You can hang it right side up (control buttons on 
+top) or upside down (control buttons on the bottom).
+Note: Be sure the wall mount bracket you purchase will support at least 8lbs. (3.6 
+kgs) and has a 1/4”-20 threaded post.
+Adding to an Existing Sonos System
+Once you’ve got your Sonos music system set up, you can easily add more Sonos products any time (up to 
+32). 
+1. Select a location for your PLAY:1 (see Selecting a Location above for optimal placement guidelines.) Sonos PLAY:1 5
+2. Attach the power cord to the PLAY:1 and apply power. Be sure to push the power cord firmly into the 
+bottom of the PLAY:1 until it is flush with the bottom of the unit.
+Note: If you want to make a wired connection, connect a standard Ethernet cable 
+from your router or another Sonos product (or a live network wall plate if you have 
+built-in wiring) to an Ethernet port on the back of the PLAY:1.
+3. Choose one of the following options:
+• Using a handheld Sonos controller: Select Add a Player or SUB from the Settings menu and follow the 
+on-screen prompts to add this product to your Sonos system.
+• Using the Sonos app for Mac or PC: Select Add a Player or SUB from the Manage menu and follow the 
+prompts to add this product to your Sonos system.
+Thick walls, 2.4 GHz cordless telephones, or the presence of other wireless devices can interfere with or block 
+the wireless network signals from your Sonos system. If you experience difficulty after positioning a Sonos 
+product, try one or more of the following resolutions—relocate the Sonos product; change the wireless 
+channel your music system is operating on; connect a Sonos product to your router if your setup is currently 
+wireless. 
+Tune Your Room with Trueplay
+™
+While you can locate Sonos speakers just about anywhere, the size and shape of your room and the objects in 
+it can distort your speaker’s sound. To ensure a speaker sounds right no matter where you place it, Sonos 
+speakers include Trueplay. If you have an iPhone (4S or later), iPad, or iPod Touch running iOS7 or later, you 
+can use Trueplay tuning to make every Sonos speaker sound right for the room and true to the music.
+Sonos uses your iOS device’s microphone to measure acoustic distortion in the room and then Trueplay 
+adapts your Sonos speaker's sound for its position in the room.
+1. Select Settings -> Room Settings.
+2. Select the room your speaker is located in.
+3. Select Trueplay Tuning and follow the on-screen prompts.
+Note: Trueplay tuning is not available if VoiceOver is enabled on your iOS device. If 
+you want to tune your speakers, first turn VoiceOver off on your device and then 
+select Settings -> Room Settings from the Sonos app.
+Creating a Stereo Pair
+The stereo pair setting allows you to group two PLAY:1s, PLAY:3s or PLAY:5®s in the same room to create a 
+wider stereo experience. In this configuration, one unit serves as the left channel and the other serves as the 
+right channel. You cannot create a mixed stereo pair—the Sonos products in the stereo pair must be the 
+same. 6 Product Guide
+Optimum placement information
+• When creating a stereo pair, it is best to place the two Sonos products 8 to 10 feet away from each other.
+• Your favorite listening position should be 8 to 12 feet from the paired Sonos products. Less distance will 
+increase bass, more distance will improve stereo imaging.
+Note: The stereo pair setting is for use with PLAY:1, PLAY:3 and PLAY:5 units 
+only. You cannot create a mixed stereo pair—both Sonos products in the stereo 
+pair must be the same. 
+Using the Sonos app on a mobile device
+1. Select Settings -> Room Settings.
+2. Select a PLAY:1 to pair.
+3. Select Create Stereo Pair, and follow the prompts to set up the stereo pair.
+To separate a stereo pair:
+1. Select Settings -> Room Settings.
+2. Select the stereo pair you wish to separate (the stereo pair appears with L + R in the room name.)
+3. Select Separate Stereo Pair.
+Using the Sonos app on a Mac or PC
+1. Choose one of the following:
+• Using your PC, select Settings from the Manage menu.
+• Using your Mac, select Preferences -> Room Settings from the Sonos menu. 
+2. Select a PLAY:1 you want to pair from the Room Settings for drop-down list. 
+3. Click Create Stereo Pair and follow the prompts to set up the stereo pair. Sonos PLAY:1 7
+To separate a stereo pair:
+1. Choose one of the following:
+• Using your PC, select Settings from the Manage menu.
+• Using your Mac, select Preferences -> Room Settings from the Sonos menu. 
+2. Select the Sonos stereo pair you wish to separate from the Room Settings for drop-down (the stereo pair 
+will appear with L + R in the room name). 
+3. On the Basic tab, click Separate Stereo Pair.
+Adding Surround Speakers 
+You can easily pair two PLAY:1, PLAY:3 or PLAY:5 (gen2) speakers with a PLAYBAR to function as left and 
+right surround channels in your Sonos surround sound experience. You can either configure surround 
+speakers during the setup process, or follow the steps below to add them.
+• Make sure the Sonos products are the same—you cannot combine a PLAY:1 and a PLAY:3 to function 
+as surround speakers.
+• Be sure to follow these instructions to set up your surround speakers. Do not create a room group or 
+stereo pair as these will not achieve the left and right surround channel functionality. 
+Using the Sonos app on a mobile device
+1. From the Settings menu, select Room Settings.
+2. Select the room the PLAYBAR is located in. 
+3. Select Add Surround Speakers.
+4. Follow the prompts to add first a left and then a right surround speaker.
+Removing surround speakers
+1. From the Settings menu, select Room Settings.
+2. Select the room the surround speakers are associated with. The room name appears as Room (+LS+RS) 
+on the Room Settings menu.  8 Product Guide
+3. Select Remove Surround Speakers.
+4. Select Next to drop the surround sound speakers from your surround system. If these were newly 
+purchased PLAY:1s they will appear as Unused on the Rooms menu. If these PLAY:1s existed in your 
+household previously, they revert back to their previous state. 
+You can now move them to another room for individual use.
+Changing the surround settings
+The default setting is determined by the calibration process. If you wish to make a change, you can follow the 
+steps below.
+1. From the Settings menu, select Room Settings.
+2. Select the room the PLAYBAR and surround speakers are located in. It appears as Room (+LS+RS) on the 
+Room Settings menu. 
+3. Select Advanced Audio -> Surround Settings. 
+4. Choose one of the following:
+• Surrounds: Choose On or Off to turn the sound from the surround speakers on and off.
+• TV Level: Drag your finger across the slider to increase or decrease the volume of the surround speakers 
+for playing TV audio.
+• Music Level: Drag your finger across the slider to increase or decrease the volume of the surround 
+speakers for playing music.
+• Music Playback: Choose Ambient (default; subtle, ambient sound) or Full (enables louder, full range 
+sound). This setting applies only to music playback, not TV audio.
+Using the Sonos app on a Mac or PC
+1. Select Manage -> Settings (PC) or Sonos -> Preferences (Mac).
+2. Select Room Settings if it is not already highlighted on the left.
+3. From the Basic tab, select Add Surround Speakers.
+4. Follow the prompts to add first a left and then a right surround speaker.
+Removing surround speakers
+1. Select Manage -> Settings (PC) or Sonos -> Preferences (Mac).
+2. Select Room Settings if it is not already highlighted on the left.
+3. Choose the room the PLAYBAR is located in from the Room Settings for drop-down list. The room name 
+appears as Room (+LS+RS). 
+4. From the Basic tab, click Remove Surround Speakers. If these were newly purchased PLAY:1s, they will 
+appear as Unused in the Rooms pane. If these PLAY:1s existed in your household previously, they revert 
+back to their previous state. 
+Changing the surround settings
+The default setting is determined by the calibration process. If you wish to make a change, you can follow the 
+steps below.
+1. Select Manage -> Settings (PC) or Sonos -> Preferences (Mac).
+2. Select Room Settings if it is not already highlighted on the left.
+3. Choose the room the PLAYBAR and surround speakers are located in from the Room Settings for drop-
+down. Sonos PLAY:1 9
+4. Select the Surrounds tab.
+5. Choose one of the following:
+• Surrounds: Check to turn the sound from the surround speakers on; uncheck to turn it off.
+• TV Level Adjustment: Click and drag the slider to increase or decrease the volume of the surround 
+speakers for playing TV audio.
+• Music Level Adjustment: Click and drag the slider to increase or decrease the volume of the surround 
+speakers for playing music.
+• Music Playback: Choose Ambient (default; subtle, ambient sound) or Full (enables louder, full range 
+sound). This setting applies only to music playback, not TV audio.
+Playing Music
+Make a selection from the Sonos music menu on your mobile device or from the MUSIC pane on a Mac or 
+PC.
+Radio
+Sonos includes a radio guide that provides immediate access to thousands of free Internet radio stations and 
+broadcast programs. You can easily find radio stations from all over the world—music, news, and variety 
+programming, including archived shows and podcasts. 
+To select a radio station, simply select Radio and choose a station.
+Music services
+A music service is an online music store or online service that sells audio on a per-song, per audiobook, or 
+subscription basis. Sonos is compatible with several music services - you can visit our website at 
+www.sonos.com/music for the latest list. (Some music services may not be available in your country. Please 
+check the individual music service’s website for more information.) 
+If you are currently subscribed to a music service that’s compatible with Sonos, simply add your music service 
+user name and password information to Sonos as needed and you’ll have instant access to the music service 
+from your Sonos system. 
+1. To add a music service, touch Add Music Services from the Sonos music menu.
+2. Select the Sonos-compatible music service you would like to add. 
+3. Select Add Account, and then follow the on-screen prompts. Your login and password will be verified 
+with the music service. As soon as your credentials have been verified, the music service displays on the 
+Sonos music menu.
+Free music service trials are available in some countries. (Please check the individual music service’s website 
+for more information.) If there is a music service trial visible on the Music Services menu, simply touch it to 
+select. Touch Add Account -> I’m new to [music service], and then follow the prompts to activate the music 
+trial. After the trial period is up, you will need to subscribe to the music service to keep the music playing. 10 Product Guide
+Local music library
+The Sonos system can play music from any computer or network-attached storage (NAS) device on your 
+home network where you have shared music folders. During the setup process, you are guided through the 
+process of accessing your local music library (such as your iTunes library). Over time, you may wish to add or 
+remove folders from this list.
+Note: We recommend using the Sonos app for Mac or PC to add shared folders. 
+For more information, please visit our website at http://faq.sonos.com/manage.
+To make changes to your local music library, select the Settings menu from a handheld Sonos controller and 
+then choose one of the following options:
+• To add a new music folder, select Manage Music Library-> Music Library Setup -> Add New Share.
+• To remove a music folders, select Manage Music Library -> Music Library Setup. Touch the share you 
+wish to remove and then select Remove. 
+The Sonos system indexes your local music so you can view your music collection by categories (such as 
+artists, albums, composers, genres, or tracks.) If you add new music, simply update your music index to add 
+this music to your Sonos music library.
+• To update your music library, select Manage Music Library -> Update Music Index Now. If you’d like 
+your music library to update automatically each day, select Schedule Music Index Updates and then 
+select an update time.
+Wireless iTunes playback
+You can select and play music and podcasts stored on any iOS device that’s on the same wireless network as 
+your Sonos products. Playback is perfectly synchronized, in any or every room of your home. Simply choose 
+On this iPad, On this iPhone, or On this iPod touch from the Sonos app on your iOS device to make audio 
+selections.
+Wireless playback from Android devices
+You can select and play music stored on any Android device that’s on the same wireless network as your 
+Sonos products. Playback is perfectly synchronized, in any or every room of your home. Simply choose On 
+this Mobile Device from the Sonos app on your Android smartphone or tablet to make audio selections.
+Google Play Music (Android devices)
+You can play music to your Sonos system directly from the Google Play Music app on any Android device. 
+This feature is available for both Standard and All Access Google Play Music customers. 
+To play music directly from the Google Play Music app to your Sonos system, you must have both the Google 
+Play Music app and the Sonos app installed on your mobile device. 
+Simply open the Google Play Music app and connect to a Sonos room or room group to start the music.  Sonos PLAY:1 11
+Equalization Settings
+The Sonos PLAY:1 ships with the equalization settings preset to provide the optimal playback experience. If 
+desired, you can change the sound settings (bass, treble, balance, or loudness) to suit your personal 
+preferences.
+Note: Balance is only adjustable when the PLAY:1 is used in a stereo pair.
+1. Using a handheld controller, select Settings -> Room Settings.
+2. Touch to select a room.
+3. Select Music Equalization, and then drag your finger across the sliders to make adjustments.
+4. To change the Loudness setting, touch On or Off. (The loudness setting boosts certain frequencies, 
+including bass, to improve the sound at low volume.)
+Player Status Indicators
+Indicator Lights Player State Sonos Product Additional Information
+Flashing white Powering up BRIDGE, BOOST, 
+CONNECT, SUB, 
+CONNECT:AMP, 
+DOCK, PLAY:1, 
+PLAY:3, PLAY:5, 
+PLAYBAR
+Solid white Powered up and associated  BRIDGE, BOOST,  If desired, when the product is in normal 
+(dimly lit) with a Sonos system (normal  CONNECT, SUB,  operation, you can turn the white status 
+operation) CONNECT:AMP,  indicator light on or off from Room 
+DOCK, PLAY:1,  Settings. (The SUB and any players set to 
+PLAY:3, PLAY:5,  surround reflect the same setting as the 
+PLAYBAR player they are paired with.)
+Solid white Touch control(s) active PLAY:5 (gen2)  Brightens when touch controls are 
+(brightly lit) activated and remains at full brightness for 
+the duration of contact.
+Flashing green Powered up, not yet  BRIDGE, BOOST,  For a SUB, this may indicate the SUB is 
+associated with a Sonos  CONNECT, SUB,  not yet paired with a player.
+system CONNECT:AMP, 
+Or, DOCK, PLAY:1, 
+WAC (wireless access  PLAY:3, PLAY:5, 
+configuration) join ready PLAYBAR
+ 
+Slowly flashing  Surround audio is off or  PLAY:1, PLAY:3,  Applicable for player configured as a 
+green SUB audio is off PLAY:5 (gen2),  PLAYBAR surround speaker, or for a SUB 
+SUB paired with a PLAYBAR 12 Product Guide
+Indicator Lights Player State Sonos Product Additional Information
+Solid green Volume set to zero or muted CONNECT, 
+CONNECT:AMP, 
+PLAY:1, PLAY:3, 
+PLAY:5, 
+PLAYBAR
+Flashing orange During SonosNet setup, this  BRIDGE, BOOST, 
+occurs after a button press  CONNECT, SUB, 
+while the product is  CONNECT:AMP, 
+searching for a household to  DOCK, PLAY:1, 
+join. PLAY:3, PLAY:5, 
+PLAYBAR
+Rapidly flashing  Playback / Next Track failed CONNECT, Indicates either playback or next track 
+orange CONNECT:AMP,  was not possible
+PLAY:1, PLAY:3, 
+PLAY:5, 
+PLAYBAR
+Solid orange During wireless setup, this  CONNECT, SUB,  If the orange light is on AND the player’s 
+occurs while the Sonos open  CONNECT:AMP,  volume level automatically reduces, this 
+access point is temporarily  PLAY:1, PLAY:3,  indicates the player is in warning mode.
+active.   PLAY:5,  • Press the Pause button to stop the 
+If you are not setting up your  PLAYBAR audio
+Sonos system, this may  • For Sonos products with a vent 
+indicate warning mode. opening (SUB, CONNECT:AMP), 
+check to make sure it’s not blocked
+• Check the room temperature to make 
+sure it’s less than 104°F/ 40° C
+• If the player is in direct sunlight, 
+provide shade
+• Allow the player to cool for several 
+minutes and then press Play to restart 
+the audio
+• If the problem does not resolve, 
+please contact Customer Support
+Important Safety Information
+Warning: Do not open Sonos products as there is a risk of electric shock. Under 
+no circumstances should Sonos products be repaired by anyone other than an 
+authorized Sonos repair center, as this will invalidate the warranty. Please contact 
+Sonos Customer Support for more information. 
+1. Read these instructions.
+2. Keep these instructions. Sonos PLAY:1 13
+3. Heed all warnings.
+4. Follow all instructions.
+5. Do not use this apparatus near water. 
+6. Clean only with dry soft cloth. Household cleaners or solvents can damage the finish on your Sonos 
+products. 
+7. Do not install near any heat sources such as radiators, heat registers, stoves, or other apparatus that 
+produce heat.
+8. Protect the power cable from being walked on or pinched, particularly at plugs, convenience receptacles, 
+and the point where they exit from the apparatus. 
+9. Only use attachments/accessories specified by the manufacturer.
+10. Unplug this apparatus during lightning storms or when unused for long periods of time.
+11. Refer all servicing to Sonos qualified service personnel. Servicing is required when the apparatus has been 
+damaged in any way, such as power-supply cable or plug is damaged, liquid has been spilled or objects 
+have fallen into the apparatus, the apparatus has been exposed to rain or moisture, does not operate 
+normally, or has been dropped. 
+12. The AC Mains plug should be readily available to disconnect the equipment.
+13. Warning: To reduce the risk of fire or electric shock, do not expose this apparatus to rain or moisture. 
+14. Do not expose apparatus to dripping or splashing and do not place objects filled with liquids, such as 
+vases, on the apparatus.
+15. If wall mounting your Sonos products, make sure to use proper third-party wall mounting hardware and 
+follow all their instructions.
+Specifications
+ 
+Feature Description
+Audio
+Amplifier Two Class-D digital amplifiers
+Tweeter One tweeter creates a crisp and accurate high frequency response
+Mid-Woofer One mid-woofer ensures the faithful reproduction of mid-range frequencies 
+crucial for accurate playback of vocals and instruments, as well as delivery 
+of deep, rich bass 
+Stereo Pair setting Turns two PLAY:1s into separate left and right channel speakers
+5.1 Home Theater Add two PLAY:1 speakers to PLAYBAR and SUB for a true surround sound 
+experience 
+Music 14 Product Guide
+Feature Description
+Audio Formats Supported   Support for compressed MP3, AAC (without DRM), WMA without DRM 
+(including purchased Windows Media downloads), AAC (MPEG4), AAC+, 
+Ogg Vorbis, Apple Lossless, Flac (lossless) music files, as well as 
+uncompressed WAV and AIFF files.
+Native support for 44.1kHz sample rates. Additional support for 48kHz, 
+32kHz, 24kHz, 22kHz, 16kHz, 11kHz, and 8kHz sample rates. MP3 supports 
+all rates except 11kHz and 8kHz.
+Note: Apple “Fairplay”, WMA DRM and WMA Lossless formats not currently 
+supported. Previously purchased Apple “Fairplay” DRM-protected songs 
+may be upgraded. 
+Music Services Supported Sonos works seamlessly with most music services, including Apple 
+Music™, Deezer, Google Play Music, Pandora, Spotify and Radio by TuneIn, 
+as well as downloads from any service offering DRM-free tracks. Service 
+ 
+availability varies by region. For a complete list, see 
+http://www.sonos.com/music. 
+Operating Systems (for stored files) Windows® XP SP3 and higher; Macintosh OS X 10.6 or later; NAS 
+(network-attached storage) devices supporting CIFS
+Internet Radio Supported Streaming MP3, HLS/AAC, WMA
+Album Art Supported JPEG, PNG, BMP, GIF
+Playlists Supported Rhapsody, iTunes, WinAmp, and Windows Media Player (.m3u, .pls, .wpl)
+Networking*
+Wireless Connectivity Connects to your home WiFi network with any 802.11 b/g/n, 3x3 MIMO, 
+dual-band (2.4GHz/5GHz) router. 
+SonosNet™ Extender Functions to extend and enhance the power of SonosNet, a secure AES 
+encrypted, peer-to-peer wireless mesh network dedicated exclusively for 
+your Sonos system to reduce WiFi interference.
+Ethernet Port One 10/100Mbps Ethernet port
+SonosNet Extender Functions to extend and enhance the power of SonosNet 2.0
+General
+Power Supply 100 - 240 VAC, 50/60 Hz, auto-switchable
+Top Panel Buttons Volume and Play/Pause.  
+Press Play/Pause button once to start or stop the music; twice to skip to the 
+next track
+Top Panel LED Indicates PLAY:1 status
+Dimensions (H x W x D) 6.36 x 4.69 x 4.69 (in) / 161.45 x 119.7 X 119.7 (mm)
+Threaded mount  Standard 1/4”-20 threaded mounting socket
+Weight 4.08 lb (1.85 kg) Sonos PLAY:1 15
+Feature Description
+Operating Temperature 32º to 104º F (0º to 40º C)
+Storage Temperature 4º to 158º F (-20º to 70º C)
+Humidity Resistant Designed to withstand high-humidity, such as in a bathroom with a running 
+shower. (The PLAY:1 is not waterproof or water-resistant.) 
+Product Finish White with light metallic grille; black with graphite grille
+* Specifications subject to change without notice.
+Need More Help?
+• Visit our Frequently Asked Questions (FAQ) pages at www.sonos.com/support.
+• Ask us a question at http://www.sonos.com/emailsupport.
+Submit Feedback
+We’d love to hear from you! Send us feedback on our guides at: docfeedback@sonos.com

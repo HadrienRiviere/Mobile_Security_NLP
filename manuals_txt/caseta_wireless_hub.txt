@@ -1,0 +1,3527 @@
+0301710j   03/2020
+Wireless
+AAddvvaanncceedd  IInnssttaallllaattiioonn  GGuuiiddee
+In-wall dimmer &   ELV+ Dimmer  Plug-in   In-wall switch  Fan Control Motion Sensor
+PRO dimmer PD-5NE lamp dimmer  PD-5WS-DV /   PD-FSQN PD-OSENS / 
+PD-6WCL/PD-10NXD PD-3PCL PD-5ANS / PD-6ANS PD-VSENS
+Thank you for purchasing Caséta Wireless from Lutron. This document will guide you through several additional 
+installation topics beyond those covered in the quick-start guide included with your product.
+Table of Contents
+3-Way Installation - If you have two switches controlling your lights, follow this procedure to install your in-wall dimmer or switch
+With a Pico Remote Control
+  In-Wall Dimmer with Pico Remote Control (PD-6WCL): ...............................................................................................Page 3 - 6
+  In-Wall Switch with Pico Remote Control (PD-5WS-DV):  ............................................................................................Page 7 - 10
+  In-Wall PRO Dimmer with Pico Remote Control (PD-10NXD):  ....................................................................................Page 11 - 14
+  In-Wall Neutral Switch with Pico Remote Control (PD-5ANS / PD-6ANS):  .................................................................Page 15 - 18
+  In-Wall ELV+ Dimmer with Pico Remote Control (PD-5NE):  ........................................................................................Page 19 - 22
+  In-Wall Fan Control with Pico Remote Control (PD-FSQN):  ........................................................................................Page 23 - 26
+With a Mechanical Toggle Switch
+  In-Wall Switch with Mechanical Toggle Switch (PD-5WS-DV):  ...................................................................................Page 27 - 29
+  In-Wall PRO Dimmer with Mechanical Toggle Switch (PD-10NXD):  ...........................................................................Page 30 - 32
+  In-Wall Neutral Switch with Mechanical Toggle Switch (PD-5ANS / PD-6ANS):  ........................................................Page 33 - 35
+Multi-Location Installation - I f you have three or more switches controlling your lights, follow this procedure to  
+install your in-wall dimmer or switch
+  In-Wall Dimmer with Pico Remote Controls (PD-6WCL):  .............................................................................................Page 36 - 40
+  In-Wall PRO Dimmer with Pico Remote Controls (PD-10NXD):  ..................................................................................Page 41 - 45
+  In-Wall Switch with Pico Remote Controls (PD-5WS-DV):  ...........................................................................................Page 46 - 50
+  In-Wall Neutral Switch with Pico Remote Controls (PD-5ANS / PD-6ANS):  ...............................................................Page 51 - 55
+  In-Wall ELV+ Dimmer with Pico Remote Controls (PD-5NE):  ......................................................................................Page 56 - 60
+  In-Wall Fan Control with Pico Remote Controls (PD-FSQN):  ......................................................................................Page 61 - 65
+Adjusting the Low-End Trim -  F ollow this procedure if you experience performance issues such as flickering,  
+flashing or other abnormal light behavior when your dimmer is at a low light level
+  On an In-Wall Dimmer (PD-6WCL):  .......................................................................................................................................Page 66
+  On an In-Wall PRO Dimmer (PD-10NXD):  ............................................................................................................................Page 68
+  On an In-Wall ELV+ Dimmer (PD-5NE):  ................................................................................................................................Page 70
+  On a Plug-In Lamp Dimmer (PD-3PCL):  .........................................................................................................................Page 72
+Adjusting the High-End Trim -  Follow this procedure to adjust the maximum light output allowed by your  
+in-wall dimmer
+  On an In-Wall Dimmer (PD-6WCL):  .................................................................................................................................Page 67
+  On an In-Wall PRO Dimmer (PD-10NXD):  ......................................................................................................................Page 69
+  On an In-Wall ELV+ Dimmer (PD-5NE):  ..........................................................................................................................Page 71
+  On a Plug-In Lamp Dimmer (PD-3PCL):  .........................................................................................................................Page 73
+Converting a Plug-In Lamp Dimmer to a Switch to Control Non-Dim Loads (Lights Only) (PD-3PCL) 
+Follow this procedure if you would like your plug-in lamp dimmer to act as a switch for non-dimmable lighting loads ......Page 74
+Setting Dimmer Phase on a Caséta Wireless In-Wall ELV+ Dimmer (PD-5NE) ........................................Page 75
+Removing Paired Pico Remote Controls -  Follow this procedure if you need to remove paired Pico remote  
+controls or reset your dimmer or switch to its factory default settings
+  From a Dimmer (PD-6WCL/PD-10NXD/PD-5NE/PD-3PCL):  ........................................................................................Page 76
+  From an In-Wall Switch (PD-5WS-DV/PD-5ANS/PD-6ANS):  ........................................................................................Page 77
+  From a Fan Control (PD-FSQN):  .....................................................................................................................................Page 78
+  From a Lutron Shade:  ......................................................................................................................................................Page 79-80
+   (continued on next page)
+1 Wireless
+Table of Contents (continued)
+Changing the Favorite Light Level on a Pico Remote Control - Follow this procedure to change the  
+light level your in-wall dimmer recalls when you press the "Favorite" button on your Pico remote control ...........................Page 81
+Changing the Favorite Light Level on an ELV+ Dimmer (PD-5NE) - Follow this procedure to change the  
+light level your in-wall dimmer recalls when you press the "Favorite" button on your Phase Selectable Dimmer .................Page 82
+Changing the Favorite Fan Speed Setting on a Fan Control (PD-FSQN) - Follow this procedure to  
+change the fan speed your control recalls when you press the "Favorite" button on your Fan Control .................................Page 83
+Installing a LUT-MLC Load Adapter with an In-Wall Switch (PD-5WS-DV) - The LUT-MLC is provided  
+to help ensure proper operation of the Caséta Wireless in-wall switch with LED, fluorescent, and ELV lighting loads .........Page 84
+Motion Sensor Placement and Coverage (PD-OSENS / PD-VSENS) -  .................................................Page 85-90
+Motion Sensor Advanced Features (PD-OSENS / PD-VSENS) -  ...........................................................Page 91
+Troubleshooting -  ............................................................................................................................................................Page 92-93
+2 Wireless
+3-Way Installation - Caséta Wireless In-Wall Dimmer with Pico Remote Control (PD-6WCL)
+     
+1 4
+Identify existing wiring Turn power off at circuit breaker
+Location 1 Location 2
+WARNING! Shock Hazard. May result in serious 
+injury or death. Turn off power at circuit breaker 
+before installing the unit.
+Two switches control the lights (3-way installation)
+   
+5
+Remove existing switch from wall
+Important note:
+-  If one switch controls the lights (single-pole installation)  Location 1
+See quick-start guide that came with your in-wall dimmer
+-  If three or more switches control the lights  
+(multi-location installation) See page 36 for details
+  
+2
+What you need for a 3-way installation
++ +
+In-wall dimmer Claro Wallplate     
+6
+PD-6WCL CW-1 Tag and disconnect wires from the existing switch
+Location 1
+Place tag - to identify wire on 
+different color screw
+Pico remote control 
+with wall-mounting kit
+PJ2-WALL
+  
+3
+Choose a location for your Caséta Wireless in-wall dimmer
+Ground Different 
+Choose which location you want the Caséta Wireless in-wall dimmer installed  (Green /   Color  
+in. This will be Location 1. Bare Copper) Screw
+3 Wireless
+3-Way Installation - Caséta Wireless In-Wall Dimmer with Pico Remote Control (PD-6WCL)
+     
+7 9
+Remove side sections (if necessary) Mount the Caséta Wireless in-wall dimmer
+  When installing more than one Caséta Wireless in-wall dimmer in the same 
+Location 1
+wallbox, it is necessary to remove inner side sections prior to wiring. See 
+image and chart below for more information.
+Do not remove outside side sections 
+on dimmers at the end of gang.
+  
+10
+Attach the wallplate
+Location 1
+‘snap’
+Each in-wall dimmer  Dimmer in the middle 
+has inside side sections  has all side sections 
+removed. removed.
+Important note:
+Wallplate 
+Removing side sections reduces the in-wall dimmer’s maximum  Adapter Wallplate
+wattage rating. See the chart below for maximum wattage information.    
+11
+Remove existing switch from wall at Location 2
+Location 2
+A B B B C B
+Total Dimmable LED Wattage Incandescent/Halogen Total Wattage
+A B C
+0 W + 600 W 500 W 400 W
+1 W – 25 W + 500 W 400 W 300 W
+26 W – 50 W + 400 W 300 W 200 W
+51 W – 75 W + 300 W 200 W 100 W
+76 W – 100 W + 200 W 100 W 50 W
+101 W – 125 W + 100 W 50 W 0 W
+126 W – 150 W + 0 W 0 W 0 W
+  
+8
+Connect the Caséta Wireless in-wall dimmer
+  
+Location 1 Tagged Wire 12
+Tag and disconnect wires from the switch
+Location 2
+Place tag - to identify wire on 
+different color screw
+Different 
+Ground Color   Ground (Green / Bare Copper)
+(Green Wire) Screw
+4 Wireless
+3-Way Installation - Caséta Wireless In-Wall Dimmer with Pico Remote Control (PD-6WCL)
+13  
+Connect the wires Pairing the in-wall dimmer and Pico remote control
+Location 2
+  
+17
+Press and hold "Off" button on in-wall dimmer
+Location 1
+0 5 UNTIL
+10
+15
+6 
+sec.
+Tagged Wire
+Ground Status LEDs flash
+14  
+Attach the wallplate bracket and Pico remote control
+HOLD
+Location 2
+  
+18
+Press and hold "Off" button on remote control
+Location 2
+3x
+0 5 UNTIL
+10
+15  
+Attach the wallplate 15
+6 
+sec.
+Location 2
+Lights flash 
+‘snap’
+three times
+HOLD
+  
+19
+Pair additional remote controls
+Wallplate  Repeat steps 17 and 18 to pair additional 
+Adapter Wallplate
+remote controls.
+16  
+Turn power on at circuit breaker
+5 Wireless
+3-Way Installation - Caséta Wireless In-Wall Dimmer with Pico Remote Control (PD-6WCL)
+Schematic Diagram
+Traveler
+Pico  Caséta 
+Remote  Wireless   Load
+Line / Hot Control Traveler Dimmer *
+INC / 
+HAL
+CFL
+LED
+Ground LFCA
+DEL
+AFC
+Neutral
+Tagged Wire Tagged Wire
+* Dimmer may be installed in either location.
+6 Wireless
+3-Way Installation - Caséta Wireless In-Wall Switch with Pico Remote Control (PD-5WS-DV)
+     
+1 4
+Identify existing wiring Turn power off at circuit breaker
+Location 1 Location 2
+WARNING! Shock Hazard. May result in serious 
+injury or death. Turn off power at circuit breaker 
+before installing the unit.
+Two switches control the lights (3-way installation)
+  
+5
+Remove existing switch from wall
+Important note:
+-  If one switch controls the lights (single-pole installation)  Location 1
+See quick-start guide that came with your switch
+-  If three or more switches control the lights  
+(multi-location installation) See page 46 for details
+  
+2
+What you need for a 3-way installation
++ +
+Pico remote control  
+In-wall switch PJ2-2B
+PD-5WS-DV   
+6
+Tag and disconnect wires from the existing switch
+Location 1
+Place tag - to identify wire on 
++ different color screw
+Wallplate Bracket Two Claro Wallplates 
+PICO-WBX-ADAPT CW-1
+  
+3
+Choose a location for your Caséta Wireless in-wall switch
+Ground Different 
+Choose which location you want the Caséta Wireless in-wall switch installed in.   (Green /   Color  
+Bare Copper) Screw
+This will be Location 1.
+7 Wireless
+3-Way Installation - Caséta Wireless In-Wall Switch with Pico Remote Control (PD-5WS-DV)
+     
+7 10
+Ganging and De-rating Attach the wallplate
+Location 1
+‘snap’
+A B B B C B
+PD-5WS-DV (120 V~) A B C
+LED 5 A 4 A 3 A
+Halogen / incandescent 600 W 450 W 350 W
+Electronic Low-Voltage 600 W 450 W 350 W
+Magnetic Low-Voltage 1 600 VA / 475 W 450 VA / 350 W 350 VA / 275 W
+Fluorescent 2 5 A 4 A 3 A
+General Purpose Fan 3 A 3 A 3 A
+Wallplate 
+PD-5WS-DV ( 277 V~) A B C Adapter Wallplate
+LED  5 A 4 A 3 A
+Halogen / incandescent 1350 W 1100 W 800 W
+Electronic Low-Voltage 1350 W 1100 W 800 W
+MFluaogrneestcice nLto2w-Voltage 1 153 A50 VA / 1075 W 141 A00 VA / 875 W 830 A0 VA / 625 W 11   Remove existing switch from wall at Location 2
+1 T he maximum lamp wattage is determined by the efficiency of the transformer, with  
+70% – 85% as typical. For actual transformer efficiency, contact either the fixture or  Location 2
+transformer manufacturer. The total VA rating of the transformer(s) shall not exceed the VA 
+rating of the in-wall switch.
+2 T he in-wall switch is ULR Listed for use with all magnetic and electronic fluorescent ballasts.
+  
+8
+Connect the new Caséta Wireless In-Wall switch
+Tagged Wire
+Location 1
+Black
+Blue
+  
+12
+Black Tag and disconnect wires from the existing switch
+Location 2
+Place tag - to identify wire on 
+Ground
+different color screw
+(Green Wire)
+  
+9
+Mount the Caséta Wireless In-Wall switch
+Location 1
+Different 
+Color   Ground (Green / Bare Copper)
+Screw
+8 Wireless
+3-Way Installation - Caséta Wireless In-Wall Switch with Pico Remote Control (PD-5WS-DV)
+13  
+Connect the wires Pairing the in-wall switch and Pico remote control
+Location 2
+  
+17
+Press and hold "Off" button on in-wall switch
+Location 1
+0 5 UNTIL
+10
+15
+6 
+sec.
+Tagged Wire
+Ground Status LED flashes
+14  
+Attach the wallplate bracket and Pico remote control
+HOLD
+Location 2
+  
+18
+Press and hold "Off" button on remote control
+Location 2
+3x
+0 5 UNTIL
+10
+15  
+Attach the wallplate 15
+6 
+sec.
+Location 2
+Lights flash 
+‘snap’ three times
+HOLD
+  
+19
+Pair additional remote controls
+Wallplate  Repeat steps 17 and 18 to pair additional 
+Adapter Wallplate
+remote controls.
+16  
+Turn power on at circuit breaker
+9 Wireless
+3-Way Installation - Caséta Wireless In-Wall Switch with Pico Remote Control (PD-5WS-DV)
+Schematic Diagram
+Traveler Black
+Blue
+Pico  Caséta 
+Remote  Wireless Black Load
+Line / Hot Control Traveler Switch *
+INC / 
+Ground 
+HAL
+(Green) CFL
+LED
+LFCA
+DEL
+AFC
+Neutral
+Tagged Wire Tagged Wire
+* Switch may be installed in either location.
+10 Wireless
+3-Way Installation - Caséta Wireless In-Wall PRO Dimmer with Pico Remote Control (PD-10NXD)
+     
+1 4
+Identify existing wiring Turn power off at circuit breaker
+Location 1 Location 2
+WARNING! Shock Hazard. May result in serious 
+injury or death. Turn off power at circuit breaker 
+before installing the unit.
+Two switches control the lights (3-way installation)
+   
+5
+Remove existing switch from wall
+Important note:
+-  If one switch controls the lights (single-pole installation)  Location 1
+See quick-start guide that came with your in-wall dimmer
+-  If three or more switches control the lights  
+(multi-location installation) See page 41 for details
+  
+2
+What you need for a 3-way installation
++ +
+In-wall PRO dimmer Claro Wallplate     
+6
+PD-10NXD CW-1 Tag and disconnect wires from the existing switch
+Location 1
+Place tag - to identify wire on 
+different color screw
+Pico remote control 
+with wall-mounting kit
+PJ2-WALL
+  
+3
+Choose a location for your Caséta Wireless in-wall dimmer
+Ground Different 
+Choose which location you want the Caséta Wireless in-wall dimmer installed  (Green /   Color  
+in. This will be Location 1. Bare Copper) Screw
+11 Wireless
+3-Way Installation - Caséta Wireless In-Wall PRO Dimmer with Pico Remote Control (PD-10NXD)
+     
+7 9
+Remove side sections (if necessary) Mount the Caséta Wireless in-wall dimmer
+  When installing more than one Caséta Wireless in-wall dimmer in the same 
+Location 1
+wallbox, it is necessary to remove inner side sections prior to wiring. See 
+image and chart below for more information.
+Do not remove outside side sections 
+on dimmers at the end of gang.
+  
+10
+Attach the wallplate
+Location 1
+‘snap’
+Each in-wall dimmer  Dimmer in the middle has all 
+has inside side sections  side sections removed.
+removed.
+Important note:
+Removing side sections reduces the in-wall dimmer’s maximum 
+wattage rating. See the chart below for maximum wattage information.
+Wallplate 
+Adapter Wallplate
+A B B B C B
+   
+11
+Remove existing switch from wall at Location 2
+Total Dimmable LED Wattage Incandescent/Halogen Total Wattage
+A B C
+Location 2
+0 W + 1000 W 800 W 600 W
+1 W – 25 W + 900 W 750 W 550 W
+26 W – 50 W + 800 W 700 W 500 W
+51 W – 75 W + 700 W 600 W 450 W
+76 W – 100 W + 600 W 500 W 400 W
+101 W – 125 W + 500 W 400 W 300 W
+126 W – 150 W + 400 W 300 W 200 W
+151 W – 175 W + 300 W 200 W 100 W
+176 W – 200 W + 200 W 100 W 50 W
+201 W – 225 W + 100 W 50 W 0 W
+226 W – 250 W + 0 W 0 W 0 W
+  
+8
+Connect the Caséta Wireless in-wall dimmer
+Location 1 Tagged Wire
+  
+Blue 12
+Tag and disconnect wires from the switch
+*   If available, 
+connect the  Location 2
+neutral wire from 
+Black the wallbox to the  Place tag - to identify wire on 
+white wire on the  different color screw
+in-wall dimmer. 
+If neutral is not 
+available, cap the 
+Red
+white wire with a 
+wire connector.
+   Neutral required 
+for: MLV loads, 
+Different 
+Ground LED drivers,   Color   Ground (Green / Bare Copper)
+(Green Wire) PHPM-PA,   Screw
+White * PHPM-3F,  
+GRX-TVI.
+12 Wireless
+3-Way Installation - Caséta Wireless In-Wall PRO Dimmer with Pico Remote Control (PD-10NXD)
+13  
+Connect the wires Pairing the in-wall dimmer and Pico remote control
+Location 2
+  
+17
+Press and hold "Off" button on in-wall dimmer
+Location 1
+0 5 UNTIL
+10
+15
+6 
+sec.
+Tagged Wire
+Ground Status LEDs flash
+14  
+Attach the wallplate bracket and Pico remote control
+HOLD
+Location 2
+  
+18
+Press and hold "Off" button on remote control
+Location 2
+3x
+0 5 UNTIL
+10
+15  
+Attach the wallplate 15
+6 
+sec.
+Location 2
+Lights flash 
+‘snap’
+three times
+HOLD
+  
+19
+Pair additional remote controls
+Wallplate  Repeat steps 17 and 18 to pair additional 
+Adapter Wallplate
+remote controls.
+16  
+Turn power on at circuit breaker
+13 Wireless
+3-Way Installation - Caséta Wireless In-Wall PRO Dimmer with Pico Remote Control (PD-10NXD)
+Schematic Diagram
+Traveler Black White 
+(optional)
+Pico  Caséta 
+Remote  Wireless   Load
+Line / Hot Control Traveler Dimmer *
+Red
+Blue
+INC / 
+Ground HAL
+CFL
+LED
+LFCA
+DEL
+AFC
+Neutral
+Tagged Wire Tagged Wire
+* Dimmer may be installed in either location.
+  If available, connect the neutral wire from 
+the wallbox to the white wire on the in-wall 
+dimmer. If neutral is not available, cap the 
+white wire with a wire connector.
+  Neutral required for: MLV loads, LED 
+drivers, PHPM-PA, PHPM-3F, GRX-TVI.
+14 Wireless
+3-Way Installation - Caséta Wireless In-Wall Neutral Switch with Pico Remote Control (PD-5ANS/PD-6ANS)
+     
+1 4
+Identify existing wiring Turn power off at circuit breaker
+Location 1 Location 2
+WARNING! Shock Hazard. May result in serious 
+injury or death. Turn off power at circuit breaker 
+before installing the unit.
+Two switches control the lights (3-way installation)
+  
+5
+Remove existing switch from wall
+Important note:
+-  If one switch controls the lights (single-pole installation)  Location 1
+See quick-start guide that came with your switch
+-  If three or more switches control the lights  
+(multi-location installation) See page 51 for details
+  
+2
+What you need for a 3-way installation
++ +
+Pico remote control  
+In-wall switch PJ2-2B
+PD-5ANS/PD-6ANS   
+6
+Tag and disconnect wires from the existing switch
+Location 1
+Place tag - to identify wire on 
++ different color screw
+Neutral 
+Wallplate Bracket Two Claro Wallplates  connection 
+required
+PICO-WBX-ADAPT CW-1
+  
+3
+Choose a location for your Caséta Wireless in-wall switch
+Ground Different 
+Choose which location you want the Caséta Wireless in-wall switch installed in.   (Green /   Color  
+This will be Location 1. Bare Copper) Screw
+15 Wireless
+3-Way Installation - Caséta Wireless In-Wall Neutral Switch with Pico Remote Control (PD-5ANS/PD-6ANS)
+     
+7 9
+Remove side sections (if necessary) Mount the Caséta Wireless in-wall neutral switch
+  When installing more than one Caséta Wireless in-wall switch in the same 
+Location 1
+wallbox, it is necessary to remove inner side sections prior to wiring. See 
+image and chart below for more information.
+Do not remove outside side sections 
+on switches at the end of gang.
+  
+10
+Attach the wallplate
+Location 1
+‘snap’
+Each in-wall switch has  Switch in the middle has 
+inside side sections removed. all side sections removed.
+Important note:
+Removing side sections reduces the in-wall switch’s maximum wattage 
+rating. See the chart below for maximum wattage information.
+Wallplate 
+A B B B C B Adapter Wallplate
+  
+PD-5ANS/PD-6ANS (120 V~) 1 A B C 11  Remove existing switch from wall at Location 2
+LED 6 A 6 A 5 A
+Halogen / incandescent 720 W 720 W 600 W
+Electronic Low-Voltage 720 VA 720 VA 600 VA Location 2
+Magnetic Low-Voltage 2 720 VA 720 VA 600 VA
+Fluorescent 3 6 A 6 A 5 A
+General Purpose Fan 3.6 A 3.6 A 3.6 A
+1  Neutral required. 
+2 T he maximum lamp wattage is determined by the efficiency of the transformer, with  
+70% – 85% as typical. For actual transformer efficiency, contact either the fixture or 
+transformer manufacturer. The total VA rating of the transformer(s) shall not exceed the VA 
+rating of the in-wall switch.
+3 T he in-wall switch is ULR Listed for use with all magnetic and electronic fluorescent ballasts.
+  
+8
+Connect the new Caséta Wireless neutral in-wall switch
+Location 1 Tagged Wire
+  
+12
+Tag and disconnect wires from the existing switch
+Red
+Location 2
+Blue Place tag - to identify wire on 
+different color screw
+Black
+Neutral 
+connection 
+required
+Different 
+Ground
+(Green Wire) White Color   Ground (Green / Bare Copper)
+Screw
+16 Wireless
+3-Way Installation - Caséta Wireless In-Wall Neutral Switch with Pico Remote Control (PD-5ANS/PD-6ANS)
+13  
+Connect the wires Pairing the in-wall switch and Pico remote control
+Location 2
+  
+17
+Press and hold "Off" button on in-wall switch
+Location 1
+0 5 UNTIL
+10
+15
+6 
+sec.
+Tagged Wire
+Ground Status LED flashes
+14  
+Attach the wallplate bracket and Pico remote control
+HOLD
+Location 2
+  
+18
+Press and hold "Off" button on remote control
+Location 2
+3x
+0 5 UNTIL
+10
+15  
+Attach the wallplate 15
+6 
+sec.
+Location 2
+Lights flash 
+‘snap’ three times
+HOLD
+  
+19
+Pair additional remote controls
+Wallplate  Repeat steps 17 and 18 to pair additional 
+Adapter Wallplate
+remote controls.
+16  
+Turn power on at circuit breaker
+17 Wireless
+3-Way Installation - Caséta Wireless In-Wall Neutral Switch with Pico Remote Control (PD-5ANS/PD-6ANS)
+Schematic Diagram
+Traveler Black
+Blue
+Pico  Caséta 
+Remote  Wireless  Red Load
+Line / Hot Control Traveler Switch *
+INC / 
+White Ground 
+HAL
+(Green)
+LED
+DEL
+Neutral
+Tagged Wire Tagged Wire
+* Switch may be installed in either location.
+ 
+   Note:  The red wire must be connected to the load and the black wire must be connected to Line/Hot. The product will not work if the wires  
+are reversed.
+18 Wireless
+3-Way Installation - Caséta Wireless In-Wall ELV+ Dimmer with Pico Remote Control (PD-5NE)
+     
+1 4
+Identify existing wiring Turn power off at circuit breaker
+Location 1 Location 2
+WARNING! Shock Hazard. May result in serious 
+injury or death. Turn off power at circuit breaker 
+before installing the unit.
+Two switches control the lights (3-way installation)
+   
+5
+Remove existing switch from wall
+Important note:
+-  If one switch controls the lights (single-pole installation)  Location 1
+See quick-start guide that came with your in-wall dimmer
+-  If three or more switches control the lights  
+(multi-location installation) See page 56 for details
+  
+2
+What you need for a 3-way installation
++ +
+ELV+ in-wall dimmer Claro Wallplate     
+6
+PD-5NE CW-1 Tag and disconnect wires from the existing switch
+Location 1
+Place tag - to identify wire on 
+different color screw
+Pico remote control 
+with wall-mounting kit Access to 
+PJ2-WALL Neutral is 
+required
+  
+3
+Choose a location for your Caséta Wireless in-wall dimmer
+Ground Different 
+Choose which location you want the Caséta Wireless in-wall dimmer installed  (Green /   Color  
+in. This will be Location 1. Bare Copper) Screw
+19 Wireless
+3-Way Installation - Caséta Wireless In-Wall ELV+ Dimmer with Pico Remote Control (PD-5NE)
+     
+7 9
+Remove side sections (if necessary) Mount the Caséta Wireless in-wall dimmer
+  When installing more than one Caséta Wireless in-wall dimmer in the same 
+Location 1
+wallbox, it is necessary to remove inner side sections prior to wiring. See 
+image and chart below for more information.
+Do not remove outside side sections 
+on dimmers at the end of gang.
+  
+10
+Attach the wallplate
+Location 1
+‘snap’
+Each in-wall dimmer  Dimmer in the middle 
+has inside side sections  has all side sections 
+removed. removed.
+Important note:
+Wallplate 
+Removing side sections reduces the in-wall dimmer’s maximum  Adapter Wallplate
+wattage rating. See the chart below for maximum wattage information.    
+11
+Remove existing switch from wall at Location 2
+Location 2
+A B B B C B
+Incandescent/Halogen Total Wattage
+PD-5NE (120 V~)1 A B C
+LED 250 W 250 W 250 W
+Halogen / Incandescent 500 W 400 W 300 W
+Electronics Low-Voltage 500 W 400 W 300 W
+Magnetic Low Voltage 400 VA 400 VA 400 VA
+  
+8
+Connect the Caséta Wireless in-wall dimmer
+  
+Location 1 Tagged Wire 12
+Tag and disconnect wires from the switch
+Location 2
+Place tag - to identify wire on 
+different color screw
+Black Wire
+Red Wire
+White Wire 
+(Neutral Required)
+Different 
+Color   Ground (Green / Bare Copper)
+Ground Screw
+(Green Wire)
+20 Wireless
+3-Way Installation - Caséta Wireless In-Wall ELV+ Dimmer with Pico Remote Control (PD-5NE)
+13  
+Connect the wires Pairing the in-wall dimmer and Pico remote control
+Location 2
+  
+17
+Press and hold "Off" button on in-wall dimmer
+Location 1
+0 5 UNTIL
+10
+15
+6 
+sec.
+Tagged Wire
+Ground Status LEDs flash
+14  
+Attach the wallplate bracket and Pico remote control
+HOLD
+Location 2
+  
+18
+Press and hold "Off" button on remote control
+Location 2
+3x
+0 5 UNTIL
+10
+15  
+Attach the wallplate 15
+6 
+sec.
+Location 2
+Lights flash 
+‘snap’
+three times
+HOLD
+  
+19
+Pair additional remote controls
+Wallplate  Repeat steps 17 and 18 to pair additional 
+Adapter Wallplate
+remote controls.
+16  
+Turn power on at circuit breaker
+21 Wireless
+3-Way Installation - Caséta Wireless In-Wall ELV+ Dimmer with Pico Remote Control (PD-5NE)
+Schematic Diagram
+Tagged Wire
+Location 1 Location 2
+Line / Hot Traveler
+Black
+Caséta Traveler
+Wireless    Pico 
+White Dimmer  Remote 
+Control
+INC / 
+HAL
+CFL
+LED
+Ground DEL LFCA
+AFC
+Neutral
+Tagged Wire
+Location 1 Location 2
+Traveler Black
+Pico  Caséta 
+Remote  Wireless   Red Load
+Line / Hot Control Traveler Dimmer 
+White
+INC / 
+Ground HAL
+CFL
+LED LFCA
+DEL AFC
+Neutral
+Tagged Wire Tagged Wire
+22 Wireless
+3-Way Installation - Caséta Wireless In-Wall Fan Control with Pico Remote Control (PD-FSQN)
+     
+1 4
+Identify existing wiring Turn power off at circuit breaker
+Location 1 Location 2
+To Fan
+WARNING! Shock Hazard. May result in serious 
+injury or death. Turn off power at circuit breaker 
+before installing the unit.
+Two switches control the fan (3-way installation)
+   
+5
+Remove existing switch from wall
+Important note:
+-  If one switch controls the fan (single-pole installation)  Location 1
+See quick-start guide that came with your control
+-  If three or more switches control the fan  
+(multi-location installation) See page 61 for details
+  
+2
+What you need for a 3-way installation
++ +
+Fan Control Two Claro Wallplates 
+  
+PD-FSQN CW-1 6
+Tag and disconnect wires from the existing switch
+Location 1
+Place tag - to identify wire on 
+different color screw
++
+Pico Wallbox Adapter Pico Remote Control  
+PICO-WBX-ADAPT for Fans Access to 
+Neutral is 
+PJ2-3BRL-XXX-F01
+required
+  
+3
+Choose a location for your Caséta Wireless fan control
+Ground Different 
+Choose which location you want the Caséta Wireless fan control installed in.  (Green /   Color  
+This will be Location 1. Bare Copper) Screw
+23 Wireless
+3-Way Installation - Caséta Wireless In-Wall Fan Control with Pico Remote Control (PD-FSQN)
+     
+7 10
+Remove side sections (if necessary) Attach the wallplate
+  When installing more than one Caséta Wireless fan control in the same 
+Location 1
+wallbox, it is necessary to remove inner side sections prior to wiring. See  ‘snap’
+image and chart below for more information.
+Do not remove outside side sections 
+on fan controls at the end of gang.
+Wallplate 
+Adapter Wallplate
+   
+11
+Remove existing switch from wall at Location 2
+Location 2
+Each fan control has  Fan control in the middle 
+inside side sections  has all side sections 
+removed. removed.
+  
+8
+Connect the Caséta Wireless fan control
+Location 1
+Yellow  Red 
+Wire Wire
+  
+12
+Tag and disconnect wires from the switch
+Location 2
+White  Black Wire
+Wire
+Place tag - to identify wire on 
+different color screw
+White Wire 
+(Neutral Required)
+Black Wire
+Tag
+Ground
+(Green Wire)
+Different 
+Color   Ground (Green / Bare Copper)
+   Screw
+9
+Mount the Caséta Wireless fan control
+Location 1
+24 Wireless
+3-Way Installation - Caséta Wireless In-Wall Fan Control with Pico Remote Control (PD-FSQN)
+13   Pairing the fan control and Pico remote 
+Connect the wires
+control
+Location 2
+  
+17
+Press and hold "Off" button on fan control
+Location 1
+0 5 UNTIL
+10
+15
+6 
+sec.
+Tagged Wire
+Ground Status LEDs flash
+14  
+Attach the wallplate bracket and Pico remote control
+HOLD
+Location 2
+  
+18
+Press and hold "Off" button on remote control
+Location 2
+0 5 UNTIL
+10
+15  
+Attach the wallplate 15
+6 
+sec.
+Location 2
+‘snap’ Status LEDs flash
+HOLD
+  
+19
+Pair additional remote controls
+Wallplate  Repeat steps 17 and 18 to pair additional 
+Adapter Wallplate
+remote controls.
+16  
+Turn power on at circuit breaker
+25 Wireless
+3-Way Installation - Caséta Wireless In-Wall Fan Control with Pico Remote Control (PD-FSQN)
+Schematic Diagram
+Location 1 Location 2
+Yellow Black
+Tag
+Travelers
+Pico Remote 
+Control and 
+Line/Hot PD-FSQN* Wallbox Mounting 
+Tag Black
+Adapter 
+&
+Fan
+120 V~  50/60 Hz White Green
+Neutral Ground
+*  Control can be installed in either location.
+    NOTE: The yellow wire must be connected to the load and the black wire must be connected to line/hot. The product will not work if the 
+wires are reversed. 
+26 Wireless
+3-Way Installation - Caséta Wireless In-Wall Switch with Mechanical Toggle Switch (PD-5WS-DV)
+     
+1 4
+Identify existing wiring Turn power off at circuit breaker
+Location 1 Location 2
+WARNING! Shock Hazard. May result in serious 
+injury or death. Turn off power at circuit breaker 
+before installing the unit.
+Two switches control the lights (3-way installation)    
+5
+Remove existing switch from wall
+Important note: Location 1
+-  If one switch controls the lights (single-pole installation) 
+See quick-start guide that came with your switch
+-  If three or more switches control the lights  
+(multi-location installation) See page 46 for details
+  
+2
+What you need for a 3-way installation
++ +
+In-wall switch Claro Wallplate  
+  
+PD-5WS-DV CW-1 6 Tag and disconnect wires from the existing switch
+Location 1
+Place tag - to identify wire on 
+different color screw
+Existing mechanical 
+toggle switch
+  
+3
+Choose a location for your Caséta Wireless in-wall switch
+Ground Different 
+Choose which location you want the Caséta Wireless in-wall switch installed in.   (Green /   Color  
+This will be Location 1. Bare Copper) Screw
+27 Wireless
+3-Way Installation - Caséta Wireless In-Wall Switch with Mechanical Toggle Switch (PD-5WS-DV)
+     
+7 10
+Ganging and De-rating Attach the wallplate
+Location 1
+A B B B C B ‘snap’
+PD-5WS-DV (120 V~) A B C
+LED 5 A 4 A 3 A
+Halogen/incandescent 600 W 450 W 350 W
+Electronic Low-Voltage 600 W 450 W 350 W
+Magnetic Low-Voltage 1 600 VA / 475 W 450 VA / 350 W 350 VA / 275 W
+Fluorescent 2 5 A 4 A 3 A
+General Purpose Fan 3 A 3 A 3 A
+PD-5WS-DV (277 V~) A B C Wallplate 
+LED  5 A 4 A 3 A Adapter Wallplate
+Halogen/incandescent 1350 W 1100 W 800 W
+Electronic Low-Voltage 1350 W 1100 W 800 W
+Magnetic Low-Voltage 1 1350 VA / 1075 W 1100 VA / 875 W 800 VA / 625 W
+Fluorescent2 5 A 4 A 3 A
+1 T he maximum lamp wattage is determined by the efficiency of the transformer, with  
+70% – 85% as typical. For actual transformer efficiency, contact either the fixture or 
+transformer manufacturer. The total VA rating of the transformer(s) shall not exceed the VA 
+rating of the in-wall switch.
+2 T he in-wall switch is ULR Listed for use with all magnetic and electronic fluorescent ballasts.
+   
+11
+   Remove existing toggle switch from wall at Location 2
+8
+Connect the new Caséta Wireless in-wall switch
+Location 2
+Location 1
+Black
+Blue
+Tagged Wire
+Non-Black 
+Black Wire
+Ground
+(Green Wire)
+  
+12
+Modify wiring for existing toggle switch
+   Add jumper wire as shown
+9
+Mount the Caséta Wireless in-wall switch Location 2
+Location 1
+Non-Black 
+Wire
+Different  Different 
+Color   Color  
+Screw Ground (Green / Bare Copper) Screw
+28 Wireless
+3-Way Installation - Caséta Wireless In-Wall Switch with Mechanical Toggle Switch (PD-5WS-DV)
+13   14  
+Remount existing switch Turn power on at circuit breaker
+Location 2
+Important note: Pico remote control 
+(optional)
+If you would like to pair a Pico remote control to the Caséta Wireless  
+in-wall switch, please follow the procedure described in the quick-start 
+guide that came with your in-wall switch.
+Schematic Diagram
+Traveler Black
+Caséta
+Toggle   
+Line / Hot Switch Traveler Blue Wireless Black Load
+Switch*
+INC / 
+Ground  HAL
+(Green) LED CFL
+LFCA
+DEL
+Neutral AFC
+* Switch may be installed in either location. Tagged Wire
+29 Wireless
+3-Way Installation - Caséta Wireless In-Wall PRO Dimmer with Mechanical Toggle Switch (PD-10NXD)
+     
+1 4
+Identify existing wiring Turn power off at circuit breaker
+Location 1 Location 2
+WARNING! Shock Hazard. May result in serious 
+injury or death. Turn off power at circuit breaker 
+before installing the unit.
+Two switches control the lights (3-way installation)    
+5
+Remove existing switch from wall
+Important note: Location 1
+-  If one switch controls the lights (single-pole installation) 
+See quick-start guide that came with your switch
+-  If three or more switches control the lights  
+(multi-location installation) See page 41 for details
+  
+2
+What you need for a 3-way installation
++ +
+In-wall PRO dimmer  Claro Wallplate  
+  
+PD-10NXD CW-1 6 Tag and disconnect wires from the existing switch
+Location 1
+Place tag - to identify wire on 
+different color screw
+Existing mechanical 
+toggle switch
+  
+3
+Choose a location for your Caséta Wireless in-wall dimmer
+Ground Different 
+Choose which location you want the Caséta Wireless in-wall dimmer installed  (Green /   Color  
+in. This will be Location 1. Bare Copper) Screw
+30 Wireless
+3-Way Installation - Caséta Wireless In-Wall PRO Dimmer with Mechanical Toggle Switch (PD-10NXD)
+     
+7 9
+Remove side sections (if necessary) Mount the Caséta Wireless in-wall dimmer
+  When installing more than one Caséta Wireless in-wall dimmer in the same 
+Location 1
+wallbox, it is necessary to remove inner side sections prior to wiring. See 
+image and chart below for more information.
+Do not remove outside side sections 
+on switches at the end of gang.
+  
+10
+Attach the wallplate
+Location 1
+‘snap’
+Each in-wall dimmer  Dimmer in the middle has 
+has inside side sections  all side sections removed.
+removed.
+Important note:
+Removing side sections reduces the in-wall dimmer’s maximum 
+wattage rating. See the chart below for maximum wattage information.
+Wallplate 
+Adapter Wallplate
+A B B B C B 11   
+Remove existing toggle switch from wall at Location 2
+Total Dimmable LED Wattage Incandescent/Halogen Total Wattage
+A B C Location 2
+0 W + 1000 W 800 W 600 W
+1 W – 25 W + 900 W 750 W 550 W
+26 W – 50 W + 800 W 700 W 500 W
+51 W – 75 W + 700 W 600 W 450 W
+76 W – 100 W + 600 W 500 W 400 W
+101 W – 125 W + 500 W 400 W 300 W
+126 W – 150 W + 400 W 300 W 200 W
+151 W – 175 W + 300 W 200 W 100 W
+176 W – 200 W + 200 W 100 W 50 W
+201 W – 225 W + 100 W 50 W 0 W
+226 W – 250 W + 0 W 0 W 0 W
+  
+8
+Connect the new Caséta Wireless in-wall dimmer
+Note wire color 
+Location 1 tied to blue wire Tagged Wire   
+12a
+Modify wiring for existing toggle switch
+*   If available, 
+Red
+connect the  Remaining Wire 
+neutral wire from  Location 2 (disconnect from switch)
+the wallbox to the 
+Blue
+white wire on the 
+in-wall dimmer.  Noted wire color  
+from Step 8  
+If neutral is not 
+(keep connected to switch)
+Black available, cap the 
+white wire with a 
+wire connector.
+   Neutral required 
+for: MLV loads, 
+Ground
+(Green Wire) LED drivers,   Different Color   Ground - Green / Bare Copper
+PHPM-PA,   Screw / Tagged Wire  (keep connected to switch)
+(disconnect from switch)
+PHPM-3F,  
+White * GRX-TVI.
+31 Wireless
+3-Way Installation - Caséta Wireless In-Wall PRO Dimmer with Mechanical Toggle Switch (PD-10NXD)
+  
+12b 14  
+Modify wiring for existing toggle switch Turn power on at circuit breaker
+Location 2
+Noted wire color  
+from Step 8
+Remaining wire
+Important note: Pico remote control 
+(optional)
+Ground  If you would like to pair a Pico remote control to the Caséta Wireless  
+(Green / Bare 
+Copper) Jumper wire   Different Color Screw /   in-wall dimmer, please follow the procedure described in the quick-start 
+(included in box) Tagged Wire guide that came with your in-wall dimmer.
+13  
+Remount existing switch
+Location 2
+Schematic Diagram
+Traveler Black
+Tagged Wire
+Caséta
+Toggle   
+Line / Hot Switch Traveler Blue Wireless Red Load
+Dimmer*
+White
+INC / 
+Ground  HAL
+(Green) LED CFL
+LFCA
+DEL
+Neutral AFC
+  If available, connect the neutral wire from 
+* Dimmer may be installed in either location.
+the wallbox to the white wire on the in-wall 
+dimmer. If neutral is not available, cap the 
+white wire with a wire connector.
+  Neutral required for: MLV loads, LED 
+drivers, PHPM-PA, PHPM-3F, GRX-TVI.
+32 Wireless
+3-Way Installation - Caséta Wireless In-Wall Neutral Switch with Mechanical Toggle Switch (PD-5ANS/PD-6ANS)
+     
+1 4
+Identify existing wiring Turn power off at circuit breaker
+Location 1 Location 2
+WARNING! Shock Hazard. May result in serious 
+injury or death. Turn off power at circuit breaker 
+before installing the unit.
+Two switches control the lights (3-way installation)    
+5
+Remove existing switch from wall
+Important note: Location 1
+-  If one switch controls the lights (single-pole installation) 
+See quick-start guide that came with your switch
+-  If three or more switches control the lights  
+(multi-location installation) See page 51 for details
+  
+2
+What you need for a 3-way installation
++ +
+In-wall switch Claro Wallplate  
+  
+PD-5ANS/PD-6ANS CW-1 6 Tag and disconnect wires from the existing switch
+Location 1
+Place tag - to identify wire on 
+different color screw
+Neutral 
+connection 
+Existing mechanical  required
+toggle switch
+  
+3
+Choose a location for your Caséta Wireless in-wall switch
+Ground Different 
+Choose which location you want the Caséta Wireless in-wall switch installed  (Green /   Color  
+Bare Copper) Screw
+in. This will be Location 1.
+33 Wireless
+3-Way Installation - Caséta Wireless In-Wall Neutral Switch with Mechanical Toggle Switch (PD-5ANS/PD-6ANS)
+     
+7 9
+Remove side sections (if necessary) Mount the Caséta Wireless in-wall switch
+  When installing more than one Caséta Wireless in-wall switch in the same 
+Location 1
+wallbox, it is necessary to remove inner side sections prior to wiring. See 
+image and chart below for more information.
+Do not remove outside side sections 
+on switches at the end of gang.
+  
+10
+Attach the wallplate
+Location 1
+‘snap’
+Each in-wall switch has  Switch in the middle has 
+inside side sections  all side sections removed.
+removed.
+Important note:
+Removing side sections reduces the in-wall switch’s maximum wattage 
+rating. See the chart below for maximum wattage information.
+Wallplate 
+Adapter Wallplate
+A B B B C B
+   
+11
+Remove existing toggle switch from wall at Location 2
+PD-5ANS/PD-6ANS (120 V~) 1 A B C
+LED 6 A 6 A 5 A
+Location 2
+Halogen / incandescent 720 W 720 W 600 W
+Electronic Low-Voltage 720 VA 720 VA 600 VA
+Magnetic Low-Voltage 2 720 VA 720 VA 600 VA
+Fluorescent 3 6 A 6 A 5 A
+General Purpose Fan 3.6 A 3.6 A 3.6 A
+1  Neutral required. 
+2 T he maximum lamp wattage is determined by the efficiency of the transformer, with  
+70% – 85% as typical. For actual transformer efficiency, contact either the fixture or 
+transformer manufacturer. The total VA rating of the transformer(s) shall not exceed the VA 
+rating of the in-wall switch.
+3 T he in-wall switch is ULR Listed for use with all magnetic and electronic fluorescent ballasts.
+  
+8
+Connect the new Caséta Wireless neutral in-wall switch
+Note wire color 
+Location 1 tied to blue wire Tagged Wire   
+12a
+Modify wiring for existing toggle switch
+Red
+Remaining Wire 
+Location 2 (disconnect from switch)
+Blue
+Noted wire color  
+from Step 8  
+(keep connected to switch)
+Black
+Neutral 
+connection 
+required
+Ground Different Color  
+Ground - Green / Bare Copper
+(Green Wire) White Screw / Tagged Wire  (keep connected to switch)
+(disconnect from switch)
+34 Wireless
+3-Way Installation - Caséta Wireless In-Wall Neutral Switch with Mechanical Toggle Switch (PD-5ANS/PD-6ANS)
+  
+12b 14  
+Modify wiring for existing toggle switch Turn power on at circuit breaker
+Location 2
+Noted wire color  
+from Step 8
+Remaining wire
+Important note: Pico remote control 
+(optional)
+Ground 
+If you would like to pair  a Pico remote control to the Caséta Wireless  
+(Green / Bare 
+Copper) Jumper wire   Different Color Screw /   in-wall switch, please follow the procedure described in the quick-start 
+(included in box) Tagged Wire guide that came with your in-wall switch.
+13  
+Remount existing switch
+Location 2
+Schematic Diagram
+Traveler Black
+Tagged Wire
+Caséta
+Toggle   
+Line / Hot Switch Traveler Blue Wireless Red Load
+Switch*
+White
+INC / 
+Ground  HAL
+(Green) LED
+DEL
+Neutral
+* Switch may be installed in either location.
+ 
+   Note:  The red wire must be connected to the load and the black wire must be connected to Line/Hot. The product will not work if the wires  
+are reversed.
+35 Wireless
+Multi-Location Installation - Caséta Wireless In-Wall Dimmer with Pico Remote Controls (PD-6WCL)
+     
+1 3
+Identify existing wiring Choose a location for your Caséta Wireless in-wall dimmer
+Location 1 Location 2 Location 3 NOTE: There will be two different types of existing switches in this 
+application. Locations 1 and 3 will use 3-way switches (three screws  
+which control the lights, plus one ground screw) and Location 2 will use 
+a 4-way switch (four screws which control the lights, plus one ground 
+screw). For easiest installation, we recommend replacing one of the 3-way 
+switches with your in-wall dimmer (Locations 1 or 3). In this example, we 
+will use Location 1.
+Three or more switches control the lights  
+(multi-location installation)
+Important note:
+-  If one switch controls the lights (single-pole installation)  3-Way Switch  4-Way Switch 
+See quick-start guide that came with your in-wall dimmer Locations 1 and 3 Location 2
+-  If two switches control the lights (3-way installation) 
+See page 3 for details 4  
+Turn power off at circuit breaker
+  
+2
+What you need for a multi-location installation
++
++
+WARNING! Shock Hazard. May result in serious 
+injury or death. Turn off power at circuit breaker 
+before installing the unit.
+In-wall dimmer Claro Wallplate   5  
+Remove existing switch from wall at Location 1
+PD-6WCL or P-PKG1W CW-1
+Location 1
+Two Pico remote controls with wall-mounting kits
+PJ2-WALL
+36 Wireless
+Multi-Location Installation - Caséta Wireless In-Wall Dimmer with Pico Remote Controls (PD-6WCL) Multi-Location Installation - Caséta Wireless In-Wall Dimmer with Pico Remote Controls (PD-6WCL)
+     
+6 8
+Tag and disconnect wires from the existing switch Connect the new Caséta Wireless in-wall dimmer 
+Location 1 Location 1 Tagged wire
+Place tag - to identify wire on 
+different color screw
+Ground Different 
+Ground
+(Green / Bare Copper) Color Screw
+(Green / Bare Copper)
+  
+7
+Remove side sections (if necessary)
+When installing more than one Caséta Wireless in-wall dimmer in the same 
+wallbox, it is necessary to remove inner side sections prior to wiring. See 
+  
+image and chart below for more information. 9
+Mount the Caséta Wireless in-wall dimmer
+Location 1
+Do not remove outside side sections 
+on dimmers at the end of gang.
+Each in-wall dimmer  Dimmer in the middle has 
+has inside side sections  all side sections removed.
+removed.
+  
+Important note: 10 Attach the wallplate
+Removing side sections reduces the in-wall dimmer’s maximum 
+Location 1
+wattage rating. See the chart below for maximum wattage information.
+‘snap’
+A B B B C B
+Total Dimmable LED Wattage Incandescent/Halogen Total Wattage
+A B C
+0 W + 600 W 500 W 400 W
+1 W – 25 W + 500 W 400 W 300 W
+26 W – 50 W + 400 W 300 W 200 W
+51 W – 75 W + 300 W 200 W 100 W Wallplate 
+76 W – 100 W + 200 W 100 W 50 W Adapter Wallplate
+101 W – 125 W + 100 W 50 W 0 W
+126 W – 150 W + 0 W 0 W 0 W
+37 Wireless
+Multi-Location Installation - Caséta Wireless In-Wall Dimmer with Pico Remote Controls (PD-6WCL)
+11   14  
+Remove existing switch from wall at Location 2 Attach the wallplate bracket and Pico remote control 
+Location 2 Location 2
+15  
+Attach the wallplate 
+  
+12
+Tag and disconnect wires from the existing switch
+Location 2
+‘snap’
+Location 2
+Place tags - to identify wires 
+on different color screws
+Wallplate 
+Adapter Wallplate
+16  
+Remove existing switch from wall at Location 3
+Different Color Screws Ground (Green / Bare Copper)
+Location 3
+13  
+Connect the wires
+Location 2
+Tagged Wires
+Ground
+(Green / Bare Copper)
+38 Wireless
+Multi-Location Installation - Caséta Wireless In-Wall Dimmer with Pico Remote Controls (PD-6WCL) Multi-Location Installation - Caséta Wireless In-Wall Dimmer with Pico Remote Controls (PD-6WCL)
+  
+17 21  
+Tag and disconnect wires from the existing switch Turn power on at circuit breaker
+Location 3
+Place tag - to 
+identify wire on 
+different color screw
+Pairing the in-wall dimmer and Pico remote controls
+Ground (Green / Bare Copper) Different Color Screw   
+22
+Press and hold "Off" button on in-wall dimmer
+18  
+Connect the wires
+Location 1
+Location 3
+Tagged Wire
+0 5 UNTIL
+10
+15
+6 
+sec.
+Status LEDs flash
+HOLD
+Ground (Green / Bare Copper)
+19  
+Attach the wallplate bracket and Pico remote control 
+23  
+Press and hold "Off" button on remote control
+Location 3
+Location 2 
+3x
+0 5 UNTIL
+10
+15
+6 
+sec.
+20   Lights flash 
+Attach the wallplate three times
+Location 3 HOLD
+‘snap’
+24  Repeat for remote control at Location 3
+Repeat steps 22 and 23 to pair remote control 
+at Location 3.
+Wallplate 
+Adapter Wallplate
+39 Wireless
+Multi-Location Installation - Caséta Wireless In-Wall Dimmer with Pico Remote Controls (PD-6WCL)
+Schematic Diagram
+Location 1 Location 2 Location 3
+Traveler Traveler
+Pico 
+Caséta  Remote  Pico 
+Line / Hot Wireless  Control Remote  Load
+Dimmer * Traveler Traveler Control
+INC / 
+Ground
+HAL
+CFL
+LED
+LFCA
+DEL
+AFC
+Neutral
+Tagged Wire Tagged Wires
+* It is recommended to install in-wall dimmer in either Location 1 or 3.
+40 Wireless
+Multi-Location Installation - Caséta Wireless In-Wall Dimmer with Pico Remote Controls (PD-6WCL) Multi-Location Installation - Caséta Wireless In-Wall PRO Dimmer with Pico Remote Controls (PD-10NXD)
+     
+1 3
+Identify existing wiring Choose a location for your Caséta Wireless in-wall dimmer
+Location 1 Location 2 Location 3 NOTE: There will be two different types of existing switches in this 
+application. Locations 1 and 3 will use 3-way switches (three screws  
+which control the lights, plus one ground screw) and Location 2 will use 
+a 4-way switch (four screws which control the lights, plus one ground 
+screw). For easiest installation, we recommend replacing one of the 3-way 
+switches with your in-wall dimmer (Locations 1 or 3). In this example, we 
+will use Location 1.
+Three or more switches control the lights  
+(multi-location installation)
+Important note:
+-  If one switch controls the lights (single-pole installation)  3-Way Switch  4-Way Switch 
+See quick-start guide that came with your in-wall dimmer Locations 1 and 3 Location 2
+-  If two switches control the lights (3-way installation) 
+See page 11 or page 30 for details 4  
+Turn power off at circuit breaker
+  
+2
+What you need for a multi-location installation
++
++
+WARNING! Shock Hazard. May result in serious 
+injury or death. Turn off power at circuit breaker 
+before installing the unit.
+In-wall PRO dimmer Claro Wallplate   5  
+Remove existing switch from wall at Location 1
+PD-10NXD CW-1
+Location 1
+Two Pico remote controls with wall-mounting kits
+PJ2-WALL
+41 Wireless
+Multi-Location Installation - Caséta Wireless In-Wall PRO Dimmer with Pico Remote Controls (PD-10NXD)
+     
+6 8
+Tag and disconnect wires from the existing switch Connect the new Caséta Wireless in-wall dimmer 
+Location 1 Location 1
+Tagged Wire
+Place tag - to identify wire on 
+different color screw Blue
+*   If available, 
+connect the 
+neutral wire from 
+Black the wallbox to the 
+white wire on the 
+in-wall dimmer. 
+If neutral is not 
+available, cap the 
+Red
+white wire with a 
+wire connector.
+   Neutral required 
+for: MLV loads, 
+Ground Different 
+(Green / Bare Copper) Color Screw Ground LED drivers,  
+PHPM-PA,  
+7   (Green Wire) White * PHPM-3F,  
+Remove side sections (if necessary)
+GRX-TVI.
+When installing more than one Caséta Wireless in-wall dimmer in the same 
+wallbox, it is necessary to remove inner side sections prior to wiring. See 
+image and chart below for more information.   
+9
+Mount the Caséta Wireless in-wall dimmer
+Location 1
+Do not remove outside side sections 
+on dimmers at the end of gang.
+Each in-wall dimmer  Dimmer in the middle has 
+has inside side sections  all side sections removed.
+removed.
+Important note:
+Removing side sections reduces the in-wall dimmer’s maximum  10  
+Attach the wallplate
+wattage rating. See the chart below for maximum wattage information.
+Location 1
+A B B B C B
+‘snap’
+Total Dimmable LED Wattage Incandescent/Halogen Total Wattage
+A B C
+0 W + 1000 W 800 W 600 W
+1 W – 25 W + 900 W 750 W 550 W
+26 W – 50 W + 800 W 700 W 500 W
+51 W – 75 W + 700 W 600 W 450 W
+76 W – 100 W + 600 W 500 W 400 W
+101 W – 125 W + 500 W 400 W 300 W
+126 W – 150 W + 400 W 300 W 200 W
+151 W – 175 W + 300 W 200 W 100 W
+Wallplate 
+176 W – 200 W + 200 W 100 W 50 W
+Adapter Wallplate
+201 W – 225 W + 100 W 50 W 0 W
+226 W – 250 W + 0 W 0 W 0 W
+42 Wireless
+Multi-Location Installation - Caséta Wireless In-Wall PRO Dimmer with Pico Remote Controls (PD-10NXD)
+11   14  
+Remove existing switch from wall at Location 2 Attach the wallplate bracket and Pico remote control 
+Location 2 Location 2
+15  
+Attach the wallplate 
+  
+12
+Tag and disconnect wires from the existing switch
+Location 2
+‘snap’
+Location 2
+Place tags - to identify wires 
+on different color screws
+Wallplate 
+Adapter Wallplate
+16  
+Remove existing switch from wall at Location 3
+Different Color Screws Ground (Green / Bare Copper)
+Location 3
+13  
+Connect the wires
+Location 2
+Tagged Wires
+Ground
+(Green / Bare Copper)
+43 Wireless
+Multi-Location Installation - Caséta Wireless In-Wall PRO Dimmer with Pico Remote Controls (PD-10NXD)
+  
+17 21  
+Tag and disconnect wires from the existing switch Turn power on at circuit breaker
+Location 3
+Place tag - to 
+identify wire on 
+different color screw
+Pairing the in-wall dimmer and Pico remote controls
+Ground (Green / Bare Copper) Different Color Screw   
+22
+Press and hold "Off" button on in-wall dimmer
+18  
+Connect the wires
+Location 1
+Location 3
+Tagged Wire
+0 5 UNTIL
+10
+15
+6 
+sec.
+Status LEDs flash
+HOLD
+Ground (Green / Bare Copper)
+19  
+Attach the wallplate bracket and Pico remote control 
+23  
+Press and hold "Off" button on remote control
+Location 3
+Location 2 
+3x
+0 5 UNTIL
+10
+15
+6 
+sec.
+20   Lights flash 
+Attach the wallplate three times
+Location 3 HOLD
+‘snap’
+24  Repeat for remote control at Location 3
+Repeat steps 22 and 23 to pair remote control 
+at Location 3.
+Wallplate 
+Adapter Wallplate
+44 Wireless
+Multi-Location Installation - Caséta Wireless In-Wall PRO Dimmer with Pico Remote Controls (PD-10NXD)
+Schematic Diagram
+Location 1 Location 2 Location 3
+Traveler Traveler
+Blue
+Caséta  Pico  Pico 
+Line / Hot Wireless  Remote  Remote  Load
+Dimmer * Traveler Control Traveler Control
+White
+INC / 
+Ground
+HAL
+CFL
+LED
+LFCA
+DEL
+AFC
+Neutral
+Tagged Wire Tagged Wires
+*  It is recommended to install   If available, connect the neutral wire from the 
+in-wall dimmer in either Location  wallbox to the white wire on the in-wall dimmer. If 
+1 or 3.
+neutral is not available, cap the white wire with a 
+wire connector.
+ Neutral required for: MLV loads, LED drivers, 
+PHPM-PA, PHPM-3F, GRX-TVI.
+45 Wireless
+Multi-Location Installation - Caséta Wireless In-Wall Switch with Pico Remote Controls (PD-5WS-DV)
+     
+1 3
+Identify existing wiring Choose a location for your Caséta Wireless in-wall switch
+Location 1 Location 2 Location 3 NOTE: There will be two different types of existing switches in this 
+application. Locations 1 and 3 will use 3-way switches (three screws  
+which control the lights, plus one ground screw) and Location 2 will use 
+a 4-way switch (four screws which control the lights, plus one ground 
+screw). For easiest installation, we recommend replacing one of the 3-way 
+switches with your Caséta Wireless in-wall switch (Locations 1 or 3). In this 
+example, we will use Location 1.
+Three or more switches control the lights  
+(multi-location installation)
+Important note:
+-  If one switch controls the lights (single-pole installation)  3-Way Switch  4-Way Switch 
+See quick-start guide that came with your switch Locations 1 and 3 Location 2
+-  If two switches control the lights (3-way installation) 
+See page 7 or page 27 for details 4  
+Turn power off at circuit breaker
+  
+2
+What you need for a multi-location installation
++ +
+WARNING! Shock Hazard. May result in serious 
+injury or death. Turn off power at circuit breaker 
+before installing the unit.
+In-wall switch Two Pico     
+PD-5WS-DV remote controls   5 Remove existing switch from wall at Location 1
+PJ2-2B
+Location 1
++
+Two Wallplate Brackets  Three Claro Wallplates 
+PICO-WBX-ADAPT CW-1
+46 Wireless
+Multi-Location Installation - Caséta Wireless In-Wall Switch with Pico Remote Controls (PD-5WS-DV) Multi-Location Installation - Caséta Wireless In-Wall Switch with Pico Remote Controls (PD-5WS-DV)
+     
+6 Tag and disconnect wires from the existing switch 9 Mount the Caséta Wireless in-wall switch
+Location 1 Location 1
+Place tag - to identify wire on 
+different color screw
+Ground Different 
+(Green / Bare Copper) Color Screw
+  
+7
+Ganging and De-rating
+  
+10
+Attach the wallplate
+A B B B C B
+Location 1
+PD-5WS-DV (120 V~) A B C
+LED 5 A 4 A 3 A ‘snap’
+Halogen/incandescent 600 W 450 W 350 W
+Electronic Low-Voltage 600 W 450 W 350 W
+Magnetic Low-Voltage 1 600 VA / 475 W 450 VA / 350 W 350 VA / 275 W
+Fluorescent 2 5 A 4 A 3 A
+General Purpose Fan 3 A 3 A 3 A
+PD-5WS-DV (277 V~) A B C
+LED  5 A 4 A 3 A
+Halogen/incandescent 1350 W 1100 W 800 W
+Electronic Low-Voltage 1350 W 1100 W 800 W
+Magnetic Low-Voltage 1 1350 VA / 1075 W 1100 VA / 875 W 800 VA / 625 W
+Fluorescent2 5 A 4 A 3 A
+1  T he maximum lamp wattage is determined by the efficiency of the transformer, with   Wallplate 
+70% – 85% as typical. For actual transformer efficiency, contact either the fixture or  Adapter Wallplate
+transformer manufacturer. The total VA rating of the transformer(s) shall not exceed the VA 
+rating of the in-wall switch.
+2 T he in-wall switch is ULR Listed for use with all magnetic and electronic fluorescent ballasts.
+  
+8
+Connect the new Caséta Wireless in-wall switch 
+Location 1 Tagged wire
+Black
+Blue
+Black
+Ground
+(Green Wire)
+47 Wireless
+Multi-Location Installation - Caséta Wireless In-Wall Switch with Pico Remote Controls (PD-5WS-DV)
+11   14  
+Remove existing switch from wall at Location 2 Attach the wallplate bracket and Pico remote control 
+Location 2 Location 2
+15  
+Attach the wallplate 
+  
+12
+Tag and disconnect wires from the existing switch
+Location 2
+‘snap’
+Location 2
+Place tags - to identify wires 
+on different color screws
+Wallplate 
+Adapter Wallplate
+16  
+Remove existing switch from wall at Location 3
+Different Color Screws Ground (Green / Bare Copper)
+Location 3
+13  
+Connect the wires
+Location 2
+Tagged Wires
+Ground
+(Green / Bare Copper)
+48 Wireless
+Multi-Location Installation - Caséta Wireless In-Wall Switch with Pico Remote Controls (PD-5WS-DV) Multi-Location Installation - Caséta Wireless In-Wall Switch with Pico Remote Controls (PD-5WS-DV)
+  
+17 21  
+Tag and disconnect wires from the existing switch Turn power on at circuit breaker
+Location 3
+Place tag - to 
+identify wire on 
+different color screw
+Pairing the in-wall switch and Pico remote controls
+Ground (Green / Bare Copper) Different Color Screw
+  
+22
+Press and hold "Off" button on in-wall switch
+18  
+Connect the wires
+Location 1
+Location 3
+Tagged Wire
+0 5 UNTIL
+10
+15
+6 
+sec.
+Status LED flashes  
+HOLD
+Ground (Green / Bare Copper)
+19  
+Attach the wallplate bracket and Pico remote control 
+23  
+Press and hold "Off" button on remote control
+Location 3
+Location 2 
+3x
+0 5 UNTIL
+10
+15
+6 
+sec.
+20   Lights flash 
+Attach the wallplate three times
+Location 3 HOLD
+‘snap’
+  
+24
+Repeat for remote control at Location 3
+Repeat steps 22 and 23 to pair remote control 
+at Location 3.
+Wallplate 
+Adapter Wallplate
+49 Wireless
+Multi-Location Installation - Caséta Wireless In-Wall Switch with Pico Remote Controls (PD-5WS-DV)
+Schematic Diagram
+Location 1 Location 2 Location 3
+Black Traveler Traveler
+Blue
+Caséta Pico  Pico 
+Line / Hot Black Wireless   Remote  Remote  Load
+Switch * Traveler Control Traveler Control
+INC / 
+Ground 
+HAL
+(Green) CFL
+LED
+LFCA
+DEL
+AFC
+Neutral
+Tagged Wire Tagged Wires
+* It is recommended to install in-wall switch in either Location 1 or 3.
+50 Wireless
+Multi-Location Installation - Caséta Wireless In-Wall Switch with Pico Remote Controls (PD-5WS-DV) Multi-Location Installation - Caséta Wireless In-Wall Neutral Switch with Pico Remote Controls (PD-5ANS/PD-6ANS)
+     
+1 3
+Identify existing wiring Choose a location for your Caséta Wireless in-wall switch
+Location 1 Location 2 Location 3 NOTE: There will be two different types of existing switches in this 
+application. Locations 1 and 3 will use 3-way switches (three screws  
+which control the lights, plus one ground screw) and Location 2 will use 
+a 4-way switch (four screws which control the lights, plus one ground 
+screw). For easiest installation, we recommend replacing one of the 3-way 
+switches with your Caséta Wireless in-wall switch (Locations 1 or 3). In this 
+example, we will use Location 1.
+Three or more switches control the lights  
+(multi-location installation)
+Important note:
+-  If one switch controls the lights (single-pole installation)  3-Way Switch  4-Way Switch 
+See quick-start guide that came with your switch Locations 1 and 3 Location 2
+-  If two switches control the lights (3-way installation) 
+See page 15 or page 33 for details 4  
+Turn power off at circuit breaker
+  
+2
+What you need for a multi-location installation
++ +
+WARNING! Shock Hazard. May result in serious 
+injury or death. Turn off power at circuit breaker 
+before installing the unit.
+In-wall switch Two Pico     
+PD-5ANS/PD-6ANS remote controls   5 Remove existing switch from wall at Location 1
+PJ2-2B
+Location 1
++
+Two Wallplate Brackets  Three Claro Wallplates 
+PICO-WBX-ADAPT CW-1
+51 Wireless
+Multi-Location Installation - Caséta Wireless In-Wall Neutral Switch with Pico Remote Controls (PD-5ANS/PD-6ANS)
+     
+6 8
+Tag and disconnect wires from the existing switch Connect the new Caséta Wireless in-wall neutral switch 
+Location 1 Location 1 Tagged wire
+Place tag - to identify wire on 
+different color screw
+Black
+Blue
+Neutral 
+connection 
+required
+Red
+Neutral 
+connection 
+Ground Different  required
+(Green / Bare Copper) Color Screw
+  
+7
+Remove side sections (if necessary)
+Ground
+White
+(Green Wire)
+  When installing more than one Caséta Wireless in-wall switch in the same 
+wallbox, it is necessary to remove inner side sections prior to wiring. See 
+image and chart below for more information.
+  
+9
+Mount the Caséta Wireless neutral in-wall switch
+Location 1
+Do not remove outside side sections 
+on switches at the end of gang.
+Each in-wall switch has  Switch in the middle has 
+inside side sections  all side sections removed.
+removed.
+Important note:
+Removing side sections reduces the in-wall switch’s maximum wattage 
+rating. See the chart below for maximum wattage information.
+  
+10
+Attach the wallplate
+A B B B C B
+Location 1
+PD-5ANS/PD-6ANS (120 V~) 1 A B C
+LED 6 A 6 A 5 A ‘snap’
+Halogen / incandescent 720 W 720 W 600 W
+Electronic Low-Voltage 720 VA 720 VA 600 VA
+Magnetic Low-Voltage 2 720 VA 720 VA 600 VA
+Fluorescent 3 6 A 6 A 5 A
+General Purpose Fan 3.6 A 3.6 A 3.6 A
+1  Neutral required. 
+2 T he maximum lamp wattage is determined by the efficiency of the transformer, with  
+70% – 85% as typical. For actual transformer efficiency, contact either the fixture or 
+transformer manufacturer. The total VA rating of the transformer(s) shall not exceed the VA 
+rating of the in-wall switch.
+Wallplate 
+3 T he in-wall switch is ULR Listed for use with all magnetic and electronic fluorescent ballasts.
+Adapter Wallplate
+52 Wireless
+Multi-Location Installation - Caséta Wireless In-Wall Neutral Switch with Pico Remote Controls (PD-5ANS/PD-6ANS)
+11   14  
+Remove existing switch from wall at Location 2 Attach the wallplate bracket and Pico remote control 
+Location 2 Location 2
+15  
+Attach the wallplate 
+  
+12
+Tag and disconnect wires from the existing switch
+Location 2
+‘snap’
+Location 2
+Place tags - to identify wires 
+on different color screws
+Wallplate 
+Adapter Wallplate
+16  
+Remove existing switch from wall at Location 3
+Different Color Screws Ground (Green / Bare Copper)
+Location 3
+13  
+Connect the wires
+Location 2
+Tagged Wires
+Ground
+(Green / Bare Copper)
+53 Wireless
+Multi-Location Installation - Caséta Wireless In-Wall Neutral Switch with Pico Remote Controls (PD-5ANS/PD-6ANS)
+  
+17 21  
+Tag and disconnect wires from the existing switch Turn power on at circuit breaker
+Location 3
+Place tag - to 
+identify wire on 
+different color screw
+Pairing the in-wall switch and Pico remote controls
+Ground (Green / Bare Copper) Different Color Screw
+  
+22
+Press and hold "Off" button on in-wall switch
+18  
+Connect the wires
+Location 1
+Location 3
+Tagged Wire
+0 5 UNTIL
+10
+15
+6 
+sec.
+Status LED flashes  
+HOLD
+Ground (Green / Bare Copper)
+19  
+Attach the wallplate bracket and Pico remote control 
+23  
+Press and hold "Off" button on remote control
+Location 3
+Location 2 
+3x
+0 5 UNTIL
+10
+15
+6 
+sec.
+20   Lights flash 
+Attach the wallplate three times
+Location 3 HOLD
+‘snap’
+  
+24
+Repeat for remote control at Location 3
+Repeat steps 22 and 23 to pair remote control 
+at Location 3.
+Wallplate 
+Adapter Wallplate
+54 Wireless
+Multi-Location Installation - Caséta Wireless In-Wall Neutral Switch with Pico Remote Controls (PD-5ANS/PD-6ANS)
+Schematic Diagram
+Location 1 Location 2 Location 3
+Red Traveler Traveler
+Blue
+Caséta  Pico  Pico 
+Line / Hot Black WSwireitlcehs s*  Traveler RCeomntorotel  Traveler RCeomntorotel  Load
+INC / 
+Ground 
+HAL
+(Green)
+White LED
+DEL
+Neutral
+Tagged Wire Tagged Wires
+* It is recommended to install in-wall switch in either Location 1 or 3.
+ 
+   Note:  The red wire must be connected to the load and the black wire must be connected to Line/Hot. The product will not work if the wires  
+are reversed.
+55 Wireless
+Multi-Location Installation - Caséta Wireless In-Wall ELV+ Dimmer with Pico Remote Controls (PD-5NE)
+     
+1 3
+Identify existing wiring Choose a location for your Caséta Wireless in-wall dimmer
+Location 1 Location 2 Location 3 NOTE: There will be two different types of existing switches in this 
+application. Locations 1 and 3 will use 3-way switches (three screws  
+which control the lights, plus one ground screw) and Location 2 will use 
+a 4-way switch (four screws which control the lights, plus one ground 
+screw). For easiest installation, we recommend replacing one of the 3-way 
+switches with your in-wall dimmer (Locations 1 or 3). In this example, we 
+will use Location 1.
+Three or more switches control the lights  
+(multi-location installation)
+Important note:
+-  If one switch controls the lights (single-pole installation)  3-Way Switch  4-Way Switch 
+See quick-start guide that came with your in-wall dimmer Locations 1 and 3 Location 2
+-  If two switches control the lights (3-way installation) 
+See page 19 for details 4  
+Turn power off at circuit breaker
+  
+2
+What you need for a multi-location installation
++
++
+WARNING! Shock Hazard. May result in serious 
+injury or death. Turn off power at circuit breaker 
+before installing the unit.
+ELV+ in-wall dimmer Claro Wallplate   5  
+Remove existing switch from wall at Location 1
+PD-5NE CW-1
+Location 1
+Two Pico remote controls with wall-mounting kits
+PJ2-WALL
+56 Wireless
+Multi-Location Installation - Caséta Wireless In-Wall ELV+ Dimmer with Pico Remote Controls (PD-5NE) Multi-Location Installation - Caséta Wireless In-Wall ELV+ Dimmer with Pico Remote Controls (PD-5NE)
+     
+6 8
+Tag and disconnect wires from the existing switch Connect the new Caséta Wireless in-wall dimmer 
+Location 1 Location 1 Tagged wire
+Place tag - to identify wire on 
+different color screw
+Red
+Black
+White 
+Neutral  Neutral Required
+Required
+Ground Different 
+Ground
+(Green / Bare Copper) Color Screw
+(Green / Bare Copper)
+  
+7
+Remove side sections (if necessary)
+When installing more than one Caséta Wireless in-wall dimmer in the same 
+wallbox, it is necessary to remove inner side sections prior to wiring. See 
+  
+image and chart below for more information. 9
+Mount the Caséta Wireless in-wall dimmer
+Location 1
+Do not remove outside side sections 
+on dimmers at the end of gang.
+Each in-wall dimmer  Dimmer in the middle has 
+has inside side sections  all side sections removed.
+removed.
+  
+Important note: 10 Attach the wallplate
+Removing side sections reduces the in-wall dimmer’s maximum 
+Location 1
+wattage rating. See the chart below for maximum wattage information.
+‘snap’
+A B B B C B
+Incandescent/Halogen Total Wattage
+PD-5NE (120 V~)1 A B C
+LED 250 W 250 W 250 W
+Halogen / Incandescent 500 W 400 W 300 W
+Electronics Low-Voltage 500 W 400 W 300 W
+Magnetic Low Voltage 400 VA 400 VA 400 VA Wallplate 
+Adapter Wallplate
+57 Wireless
+Multi-Location Installation - Caséta Wireless In-Wall ELV+ Dimmer with Pico Remote Controls (PD-5NE)
+11   14  
+Remove existing switch from wall at Location 2 Attach the wallplate bracket and Pico remote control 
+Location 2 Location 2
+15  
+Attach the wallplate 
+  
+12
+Tag and disconnect wires from the existing switch
+Location 2
+‘snap’
+Location 2
+Place tags - to identify wires 
+on different color screws
+Wallplate 
+Adapter Wallplate
+16  
+Remove existing switch from wall at Location 3
+Different Color Screws Ground (Green / Bare Copper)
+Location 3
+13  
+Connect the wires
+Location 2
+Tagged Wires
+Ground
+(Green / Bare Copper)
+58 Wireless
+Multi-Location Installation - Caséta Wireless In-Wall ELV+ Dimmer with Pico Remote Controls (PD-5NE) Multi-Location Installation - Caséta Wireless In-Wall ELV+ Dimmer with Pico Remote Controls (PD-5NE)
+  
+17 21  
+Tag and disconnect wires from the existing switch Turn power on at circuit breaker
+Location 3
+Place tag - to 
+identify wire on 
+different color screw
+Pairing the in-wall dimmer and Pico remote controls
+Ground (Green / Bare Copper) Different Color Screw   
+22
+Press and hold "Off" button on in-wall dimmer
+18  
+Connect the wires
+Location 1
+Location 3
+Tagged Wire
+0 5 UNTIL
+10
+15
+6 
+sec.
+Status LEDs flash
+HOLD
+Ground (Green / Bare Copper)
+19  
+Attach the wallplate bracket and Pico remote control 
+23  
+Press and hold "Off" button on remote control
+Location 3
+Location 2 
+3x
+0 5 UNTIL
+10
+15
+6 
+sec.
+20   Lights flash 
+Attach the wallplate three times
+Location 3 HOLD
+‘snap’
+24  Repeat for remote control at Location 3
+Repeat steps 22 and 23 to pair remote control 
+at Location 3.
+Wallplate 
+Adapter Wallplate
+59 Wireless
+Multi-Location Installation - Caséta Wireless In-Wall ELV+ Dimmer with Pico Remote Controls (PD-5NE)
+Schematic Diagram
+Location 1 Location 2 Location 3
+Red Traveler Traveler
+Caséta  Pico  Pico 
+Line / Hot Wireless  Remote  Remote  Load
+Dimmer Traveler Control Traveler Control
+Black
+INC / 
+Ground HAL
+CFL
+LED
+LFCA
+DEL
+White AFC
+Neutral
+Tagged Wire Tagged Wires
+* Neutral Required
+Black
+Line / Hot
+Traveler Traveler Red
+Traveler Traveler
+Caséta
+ 
+Wireless 
+Dimmer
+Pico  Pico 
+Remote  Remote 
+Control Control
+White
+Ground
+Neutral
+INC / 
+HAL Load
+CFL
+LED
+LFCA
+DEL
+AFC
+60 Wireless
+Multi-Location Installation - Caséta Wireless In-Wall ELV+ Dimmer with Pico Remote Controls (PD-5NE) Multi-Location Installation - Caséta Wireless In-Wall Fan Control with Pico Remote Controls (PD-FSQN)
+     
+1 3
+Identify existing wiring Choose a location for your Caséta Wireless fan control
+Location 1 Location 2 To Fan Location 3 NOTE: There will be two different types of existing switches in this 
+application. Locations 1 and 3 will use 3-way switches (three screws  
+which control the fan, plus one ground screw) and Location 2 will use a 
+4-way switch (four screws which control the fan, plus one ground screw). 
+For easiest installation, we recommend replacing one of the 3-way 
+switches with your fan control (Locations 1 or 3). In this example, we will 
+use Location 1.
+Three or more switches control the fan  
+(multi-location installation)
+Important note:
+-  If one switch controls the fan (single-pole installation)  3-Way Switch  4-Way Switch 
+See quick-start guide that came with your fan control Locations 1 and 3 Location 2
+-  If two switches control the fan (3-way installation) 
+See page 23 for details 4  
+Turn power off at circuit breaker
+  
+2
+What you need for a multi-location installation
++ +
+WARNING! Shock Hazard. May result in serious 
+injury or death. Turn off power at circuit breaker 
+before installing the unit.
+  
+Fan Control Three Claro Wallplates  5 Remove existing switch from wall at Location 1
+PD-FSQN CW-1
+Location 1
++
+Two Pico Wallbox  Two Pico Remote Controls 
+Adapters for Fans
+PICO-WBX-ADAPT PJ2-3BRL-XXX-F01
+61 Wireless
+Multi-Location Installation - Caséta Wireless In-Wall Fan Control with Pico Remote Controls (PD-FSQN)
+     
+6 8
+Tag and disconnect wires from the existing switch Connect the new Caséta Wireless fan control
+Location 1 Location 1 Tagged wire
+Place tag - to identify wire on 
+different color screw
+Yellow
+Red
+Black
+White 
+Neutral  (Neutral Required)
+Required
+Ground Different 
+Ground
+(Green / Bare Copper) Color Screw
+(Green / Bare Copper)
+  
+7
+Remove side sections (if necessary)
+When installing more than one Caséta Wireless control in the same wallbox, 
+it is necessary to remove inner side sections prior to wiring. See image below 
+  
+for more information. 9
+Mount the Caséta Wireless fan control
+Location 1
+Do not remove outside side sections 
+on the controls at the end of gang.
+Each control has inside  The control in the middle 
+side sections removed. has all side sections 
+removed.
+  
+10
+Attach the wallplate
+Location 1
+‘snap’
+Wallplate 
+Adapter Wallplate
+62 Wireless
+Multi-Location Installation - Caséta Wireless In-Wall Fan Control with Pico Remote Controls (PD-FSQN)
+11   14  
+Remove existing switch from wall at Location 2 Attach the wallplate bracket and Pico remote control 
+Location 2 Location 2
+15  
+Attach the wallplate 
+  
+12
+Tag and disconnect wires from the existing switch
+Location 2
+‘snap’
+Location 2
+Place tags - to identify wires 
+on different color screws
+Wallplate 
+Adapter Wallplate
+16  
+Remove existing switch from wall at Location 3
+Different Color Screws Ground (Green / Bare Copper)
+Location 3
+13  
+Connect the wires
+Location 2
+Tagged Wires
+Ground
+(Green / Bare Copper)
+63 Wireless
+Multi-Location Installation - Caséta Wireless In-Wall Fan Control with Pico Remote Controls (PD-FSQN)
+  
+17 21  
+Tag and disconnect wires from the existing switch Turn power on at circuit breaker
+Location 3
+Place tag - to 
+identify wire on 
+different color screw
+Pairing the fan control and Pico remote 
+controls
+Ground (Green / Bare Copper) Different Color Screw   
+22
+Press and hold "Off" button on the fan control
+18  
+Connect the wires
+Location 1
+Location 3
+Tagged Wire
+0 5 UNTIL
+10
+15
+6 
+sec.
+Status LEDs flash
+HOLD
+Ground (Green / Bare Copper)
+19  
+Attach the wallplate bracket and Pico remote control 
+23  
+Press and hold "Off" button on remote control
+Location 3
+Location 2 
+0 5 UNTIL
+10
+15
+6 
+sec.
+Status LEDs flash
+20  
+Attach the wallplate
+Location 3 HOLD
+‘snap’
+24  Repeat for remote control at Location 3
+Repeat steps 22 and 23 to pair remote control 
+at Location 3.
+Wallplate 
+Adapter Wallplate
+64 Wireless
+Multi-Location Installation - Caséta Wireless In-Wall Fan Control with Pico Remote Controls (PD-FSQN)
+Schematic Diagram
+Location 1 Location 2 Location 3
+Yellow Traveler Traveler
+Line / Hot PD-FSQN RePmicoot e  RePmicoot e  Load
+Traveler Control Traveler Control
+Black
+Ground &
+Fan
+White
+Neutral
+Tagged Wire Tagged Wires
+* Neutral Required
+Black
+Line / Hot
+Traveler Traveler Yellow
+Traveler Traveler
+PD-FSQN
+Pico  Pico 
+Remote  Remote 
+Control Control
+White
+Ground
+Neutral
+& Load
+Fan
+65 Wireless
+Adjusting Low-End Trim on a Caséta Wireless In-Wall Dimmer (PD-6WCL)
+2  
+Adjust (continued)
+b.  
+On
+Brighter 
+UNTIL
+Darker
+Off
+Light stops flickering 
+and is stable
+TAP
+In-wall dimmer
+3  
+Save
+Adjusting Low-End Trim -  
+To optimize performance of dimmable LED lamps UNTIL
+1  
+Enter
+Status LED stops flashing
+0 5 UNTIL
+10 HOLD
+15
+6 
+sec.
+4  
+Verify
+A status LED starts 
+flashing
+a. a.  Tap "Off" one time. Light will 
+turn off. 
+HOLD
+b.  Tap "Brighter" one time. Light 
+2   will turn on.
+Adjust
+c.  If light is still off or is flickering, 
+repeat steps 1-4.
+a.  
+Hold UNTIL
+b.
+Light stops dimming 
+or turns off
+b.
+HOLD
+66 Wireless
+Adjusting Low-End Trim on a Caséta Wireless In-Wall Dimmer (PD-6WCL) Adjusting High-End Trim on a Caséta Wireless In-Wall Dimmer (PD-6WCL)
+2  
+Adjust (continued)
+b.  
+On
+Brighter 
+UNTIL
+Darker
+Off
+Desired light 
+TAP level is achieved
+In-wall dimmer
+3  
+Save
+Adjusting High-End Trim -  
+To optimize performance of dimmable LED lamps
+1   UNTIL
+Enter
+Status LED stops flashing
+0 5 UNTIL
+10
+15
+6 
+sec.
+HOLD
+A status LED starts 
+flashing
+HOLD
+2  
+Adjust
+a.  
+Hold UNTIL
+Light is at full 
+brightness
+HOLD
+67 Wireless
+Adjusting Low-End Trim on a Caséta Wireless In-Wall PRO Dimmer (PD-10NXD)
+2  
+Adjust (continued)
+b.  
+On
+Brighter 
+UNTIL
+Darker
+Off
+Light stops flickering 
+and is stable
+TAP
+In-wall PRO dimmer
+3  
+Save
+Adjusting Low-End Trim -  
+To optimize performance of dimmable LED lamps UNTIL
+1  
+Enter
+Status LED stops flashing
+0 5 UNTIL
+10 HOLD
+15
+6 
+sec.
+4  
+Verify
+A status LED starts 
+flashing
+a. a.  Tap "Off" one time. Light will 
+turn off. 
+HOLD
+b.  Tap "Brighter" one time. Light 
+2   will turn on.
+Adjust
+c.  If light is still off or is flickering, 
+repeat steps 1-4.
+a.  
+Hold UNTIL
+b.
+Light stops dimming 
+or turns off
+b.
+HOLD
+68 Wireless
+Adjusting Low-End Trim on a Caséta Wireless In-Wall PRO Dimmer (PD-10NXD) Adjusting High-End Trim on a Caséta Wireless In-Wall PRO Dimmer (PD-10NXD)
+2  
+Adjust (continued)
+b.  
+On
+Brighter 
+UNTIL
+Darker
+Off
+Desired light 
+TAP level is achieved
+In-wall PRO dimmer
+3  
+Save
+Adjusting High-End Trim -  
+To optimize performance of dimmable LED lamps
+1   UNTIL
+Enter
+Status LED stops flashing
+0 5 UNTIL
+10
+15
+6 
+sec.
+HOLD
+A status LED starts 
+flashing
+HOLD
+2  
+Adjust
+a.  
+Hold UNTIL
+Light is at full 
+brightness
+HOLD
+69 Wireless
+Adjusting Low-End Trim on a Caséta Wireless In-Wall ELV+ Dimmer (PD-5NE)
+2  
+Adjust (continued)
+b.  
+On
+Brighter 
+Favorite 
+UNTIL
+Darker
+Off
+Light stops flickering 
+and is stable
+TAP
+In-wall dimmer
+3  
+Save
+Adjusting Low-End Trim -  
+To optimize performance of dimmable LED lamps UNTIL
+1  
+Enter
+Status LED stops flashing
+0 5 UNTIL
+10 HOLD
+15
+6 
+sec.
+4  
+Verify
+A status LED starts 
+flashing
+a. a.  Tap "Off" one time. Light will 
+turn off. 
+HOLD 
+(ON AND DARKER) b.  Tap "Brighter" one time. Light 
+2   will turn on.
+Adjust
+c.  If light is still off or is flickering, 
+repeat steps 1-4.
+a.  
+Hold UNTIL
+b.
+Light stops dimming 
+or turns off
+b.
+HOLD
+70 Wireless
+Adjusting Low-End Trim on a Caséta Wireless In-Wall ELV+ Dimmer (PD-5NE) Adjusting High-End Trim on a Caséta Wireless In-Wall ELV+ Dimmer (PD-5NE)
+2  
+Adjust (continued)
+b.  
+On
+Brighter 
+Favorite  UNTIL
+Darker
+Off
+Desired light 
+TAP level is achieved
+In-wall dimmer
+3  
+Save
+Adjusting High-End Trim -  
+To optimize performance of dimmable LED lamps
+1   UNTIL
+Enter
+Status LED stops flashing
+0 5 UNTIL
+10
+15
+6 
+sec.
+HOLD
+A status LED starts 
+flashing
+HOLD (ON AND 
+BRIGHTER)
+2  
+Adjust
+a.  
+Hold UNTIL
+Light is at 
+desired high-end
+HOLD
+71 Wireless
+Adjusting Low-End Trim on a Caséta Wireless Plug-In Lamp Dimmer (PD-3PCL)
+2  
+Adjust (continued)
+On
+b.  
+Brighter 
+Darker
+UNTIL
+Off
+Light stops flickering 
+Plug-in lamp dimmer and is stable
+TAP
+Adjusting Low-End Trim -  
+3  
+Save
+To optimize performance of dimmable LED lamps
+1  
+Enter
+UNTIL
+UNTIL
+0 5 The status LED stops flashing
+10
+15
+6 
+sec.
+HOLD
+The Status LED 
+starts flashing
+4  
+HOLD Verify
+a. a.  Tap "Off" one time. Light will 
+turn off. 
+b.  Tap "Brighter" one time. Light 
+2   will turn on.
+Adjust
+c.  If light is still off or is flickering, 
+repeat steps 1-4.
+a.   UNTIL
+Hold
+b.
+Light stops dimming 
+or turns off
+HOLD
+72 Wireless
+A  djusting High-End Trim on a Caséta Wireless Plug-In Lamp Dimmer (PD-3PCL)
+2  
+Adjust (continued)
+On
+b.  
+Brighter 
+Darker
+UNTIL
+Off
+Desired light 
+Plug-in lamp dimmer TAP level is achieved
+Adjusting High-End Trim -  
+To optimize performance of dimmable LED lamps
+3  
+Save
+1  
+Enter
+UNTIL
+0 5 UNTIL
+10
+15
+6 
+sec.
+The status LED stops flashing
+The status LED 
+starts flashing
+HOLD
+HOLD
+2  
+Adjust
+a.   UNTIL
+Hold
+Light is at full 
+brightness
+HOLD
+73 Wireless
+Converting a Caséta Wireless Plug-In Lamp Dimmer to a Switch to Control Non-Dim Loads (PD-3PCL)
+2  
+Verify
+On
+a. a.  Tap "Off" one time. Light will 
+turn off. 
+Brighter 
+b.  Tap "On" one time. Light will 
+turn on.
+Darker
+    –  The "Brighter" and 
+"Darker" buttons will be 
+disabled and do nothing.
+Off
+Plug-in lamp dimmer
+b. NOTE: O  nly use lighting loads 
+on your plug-in lamp 
+1   dimmer, even when 
+Press and Hold "On" and "Off" buttons
+operating in switch mode.
+UNTIL
+0 5
+10
+15
+6 
+sec.
+The indicator light  3  
+flashes To change back to dimmer mode repeat step 1
+HOLD
+74 NOTE:  Top LED Blinking - Forward Phase (MLV) 
+Bottom LED Blinking - Reverse Phase (ELV)
+Wireless
+Setting Dimmer Phase on a Caséta Wireless In-Wall ELV+ Dimmer (PD-5NE)
+3  
+Select
+a.  
+On Hold
+Brighter 
+Favorite  + = Forward-Phase 
+(MLV) selected
+Darker
+Off
+TOP status LED 
+starts flashing
+TAP
+OR
+In-wall ELV+ dimmer
+b.  
+Hold
+Adjusting for Load Types -   + = Reverse-Phase  
+(ELV) selected
+Configurable between ELV and MLV load types
+1  
+Pull out the FASS Switch and then push back in BOTTOM status 
+LED starts flashing
+TAP
+4  
+Save
+UNTIL
+Status LED stops flashing
+2  
+Enter
+NOTE:  Changes will not be saved if in-wall 
+dimmer times out (no button press for  
+HOLD 1 minute) or if power is turned off.
+0 5 UNTIL
+10
+15
+6 
+sec.
+A status LED starts 
+flashing
+HOLD
+75 Wireless
+Removing Paired Pico Remote Controls from a Caséta Wireless Dimmer (PD-6WCL / PD-10NXD / PD-5NE/PD-3PCL)
+     
+1  Tap the "On" button quickly three times, holding on  3  Release the button, then immediately tap the button 
+the last press three more times
+OR OR
+TAP 3x TAP 3x
+TAP 3x TAP 3x
+  
+2  Continue to hold the "On" button until the light  3x
+begins to flash quickly
+Light will flash slowly 
+three times, then turn off
+   
+4 All paired Pico remote controls are removed and all 
+settings are returned to factory default
+0 5
+HOLD 10 – After the dimmer resets, the light will turn on to the full on state.
+15
+3 
+OR sec. NOTE: T his procedure also resets the high-end and low-end trim 
+settings.
+UNTIL
+Light starts 
+flashing quickly
+HOLD
+76 Wireless
+Removing Paired Pico Remote Controls from a Caséta Wireless In-Wall Switch (PD-5WS-DV/PD-6ANS/PD-5ANS)
+     
+1  Tap the "On" button quickly three times, holding on  3  Release the button, then immediately tap the button 
+the last press three more times
+Status LED flashes 
+quickly 
+TAP 3x TAP 3x AND
+  
+2  Continue to hold the "On" button until the Status LED  2x
+begins to flash slowly
+0 5
+10
+15 Light will flash slowly  
+3  two times
+sec.
+UNTIL    
+4 All paired Pico remote controls are removed and all 
+Status LED flashes 
+settings are returned to factory default
+slowly 
+HOLD – A  fter the in-wall switch resets, the light will turn on to the full  
+on state.
+77 Wireless
+Removing Paired Pico Remote Controls from a Caséta Wireless Fan Control (PD-FSQN)
+     
+1  Tap the "On" button quickly three times, holding on  3  Release the button, then immediately tap the button 
+the last press three more times
+Status LED flashes 
+quickly 
+TAP 3x TAP 3x
+   
+4 All paired Pico remote controls are removed and all 
+  
+settings are returned to factory defaults
+2  Continue to hold the "On" button until the Status LED 
+begins to flash slowly
+– After the in-wall switch resets, the fan will turn on to high.
+0 5
+10
+15
+3 
+sec.
+UNTIL
+Status LED flashes 
+slowly 
+HOLD
+78 Wireless
+Removing Paired Pico Remote Controls from a Lutron Honeycomb Shade
+NOTE: This procedure will remove all paired Pico remote controls and favorite button programming. Upper and lower limits are retained.
+1
+ Tap the "Shade" button quickly three times, holding on the last press.
+TAP 3x
+2
+ Continue to hold the "Shade" button until the button LED flashes green.
+HOLD
+3
+ Release the "Shade" button, then immediately tap the button three more times.
+TAP 3x
+NOTE: The "Shade" button LED will flash GREEN-then-RED three times, signaling the successful completion of the procedure.
+3x
+79 Wireless
+Removing Paired Pico Remote Controls from a Lutron Roller Shade
+Roller Shades with a Single-Button (Battery-Powered and Plug-In)
+NOTE: This procedure will remove all paired Pico remote controls and favorite button programming. Upper and lower limits are retained.
+1
+ Tap the "Shade" button quickly three times, holding on the last press.
+3x
+TAP
+2
+ Continue to hold the "Shade" button until the button LED flashes green.
+HOLD
+3
+ Release the "Shade" button, then immediately tap the button three more times.
+3x
+TAP
+NOTE: The "Shade" button LED will flash GREEN-then-RED three times, signaling the successful completion of the procedure.
+3x
+80 Wireless
+Changing the Favorite Light Level on a Pico Remote Control
+  
+3
+Verify
+Favorite a. a.  Tap "Off" button one time 
+on remote control. Light will 
+turn off. 
+b.  Tap "Favorite" button one 
+time on remote control.  
+Light will turn on to the 
+You can use the round “Favorite” button  newly saved level.
+on a Pico remote control to recall a favorite 
+light level. We’ve set it to 50%, but you can 
+change it to any level you like.
+   
+1 Set desired light level on a dimmer that has already  b.
+been paired with a remote control
+or
+  
+2
+Save favorite light level
+0 5 UNTIL
+10
+2x
+15
+6 
+sec.
+HOLD
+or
+2x
+Dimmer LED(s) 
+flash(es) two times
+81 Wireless
+Changing the Favorite Light Level on a Caséta Wireless In-wall ELV+ Dimmer (PD-5NE)
+  
+3
+Verify
+a. a.  Tap "Off" button one time on 
+in-wall dimmer control. Light 
+Favorite will turn off. 
+b.  Tap "Favorite" button one 
+time on in-wall dimmer 
+control.  
+Light will turn on to the 
+newly saved level.
+You can use the round “Favorite” button 
+on the in-wall dimmer to recall a favorite 
+light level. We’ve set it to 50%, but you can 
+change it to any level you like.
+  
+1
+Set the desired light level on the in-wall dimmer
+b.
+Use the "Brighter" or "Darker" buttons to 
+adjust lights to your favorite level.
+  
+2
+Save favorite light level
+0 5 UNTIL
+10
+2x
+15
+6 
+sec.
+Hold the round "Favorite" button.
+82 Wireless
+Changing the Favorite Fan Speed on a Caséta Wireless In-wall Fan Control (PD-FSQN)
+  
+3
+Verify
+a. a.  Tap "Off" button one time on 
+fan control. Fan will turn off. 
+Favorite b.  Tap "Favorite" button one 
+time on fan control.  
+Fan will turn on to the newly 
+saved setting.
+You can use the round “Favorite” button on the 
+fan control to recall a favorite fan speed setting. 
+We’ve set it to the medium fan speed, but you 
+can change it to any level you like.
+  
+1
+Set the desired fan speed on the fan control
+b.
+Use the "Faster" or "Slower" buttons to 
+adjust lights to your favorite level.
+  
+2
+Save favorite fan speed
+0 5 UNTIL
+10
+2x
+15
+6 
+sec.
+Hold the round "Favorite" button.
+83 Wireless
+Installing a LUT-MLC Load Adapter with a Caséta Wireless In-Wall Switch (PD-5WS-DV)
+1   5  
+Identify load type Turn power on at circuit breaker
+LED Fluorescent ELV
+The LUT-MLC load adapter is provided to help ensure proper  6  
+operation of the in-wall switch with LED, fluorescent, and ELV  Verify performance
+lighting loads. When controlling one of these load types, a LUT-
+Verify that the LED on the in-wall switch is not flashing or solid 
+MLC may be required, especially at lower wattages. If the status 
+red color and that the load stays off when the in-wall switch 
+LED on the in-wall switch is flashing or a solid red color, a LUT-
+is turned off. In rare instances, some loads may still flicker or 
+MLC must be installed. It is recommended to install a LUT-MLC 
+glow in the off state with the LUT-MLC installed. If this occurs, 
+with these load types regardless of wattage to guarantee best 
+a different load may be required or additional LUT-MLC load 
+performance.
+adapters may need to installed.
+  
+2
+Turn power off at circuit breaker
+WARNING! Shock Hazard. May result in serious 
+injury or death. Turn off power at circuit breaker 
+before installing the unit.
+3  
+Choose installation location
+The LUT-MLC must be connected to the neutral and switched hot 
+feed to the load. Install the LUT-MLC inside a load fixture or in a 
+separate junction box within the circuit.
+  
+4  Installing the LUT-MLC in a load fixture  
+or junction box
+1. Connect one lead of the LUT-MLC to the neutral (white) wire.
+2. C  onnect the other lead of the LUT-MLC to the switched hot 
+(black) wire.
+Junction Box
+2 LUT-MLC
+Load
+1
+84 Wireless
+Motion Sensor Placement and Coverage
+1   Temporary Mounting
+To test sensor coverage, a 3MT CommandT adhesive strip is 
+provided for temporarily mounting the sensor. The strip is not 
+reusable and should not be used for permanently mounting the 
+sensor.
+Before mounting the sensor, please note the following:
+– If you cannot see the sensor, it cannot see you. 
+–  The sensor should be mounted at eye level. Recommended 
+placement height 6 ft to 8 ft (1.8 m to 2.4 m).
+–  DO NOT place the sensor within 4 ft (1.2 m) of moving air  
+currents (e.g., HVAC vents), heat sources (e.g., light bulbs, or  Flat Wall-Mount Corner-Mount
+microwave / standard ovens), or within 6 in (15 cm) of other     
+2
+RF devices. Enter test mode
+–  The sensor must have an unobstructed view of the room. 
+DO NOT place behind or near tall cabinets, shelves, hanging  Press and release the "Test" button on the top of the sensor. The 
+fixtures, or anything that may obstruct sensor’s view. The  lens will glow briefly, indicating the test mode has been entered. 
+sensor cannot detect occupants through glass objects such as  There is a 90 second warm-up period after the battery is installed 
+before test mode can activated. If the "Test" button is pressed 
+patio or shower doors. 
+within 90 seconds of installing the battery the lens will flash 
+–  If there is line of sight from the sensor to the associated devices 
+rapidly until the warm-up is complete.
+(no obstructions), sensor can be located within 60 ft (18.3 m) 
+otherwise sensor must be within 30 ft (9.1 m).
+–  Whenever possible, avoid placing the sensor in a location  
+where it has a broad view outside the intended space.
+Test
+Testing Sensor Coverage
+Test the sensor coverage using the temporary mounting 3M  
+TM
+Command  adhesive strip and test procedure below to ensure the 
+TM
+sensor will perform as desired prior to permanent mounting.   
+3
+Walk around the space
+  Sensor Coverage
+Walk around the space while observing the lens. If the lens glows, 
+Minor Motion Coverage- (small movement, i.e., turning a page)  motion is detected. If you are not satisfied with the sensor's 
+15 X 2 X 35= 1050 ft2 (97.5 m2) performance, relocate the sensor and repeat the test.
+Major Motion Coverage- (large movement, i.e., walking) 
+20 X 2 X 45= 1800 ft2 (167.2 m2)
+  
+4
+Exit test mode
+Sensor
+Press and release the "Test" button again to exit test mode. The 
+sensor will automatically exit test mode after 15 minutes, or after 
+5 minutes if no motion is detected.
+15 ft 
+(4.6 m)
+20 ft 
+(6.1 m)
+35 ft 
+(10.7 m)
+45 ft 
+(15.2 m)
+85 Wireless
+Motion Sensor Placement and Coverage
+Motion Sensor Placement Examples
+Below and on the next few pages are examples of different spaces to place your motion sensor. Every home layout is different and these 
+examples should only be used as a guideline.
+1  
+Powder Room
+A Caséta Wireless motion sensor is mounted in the corner at the height of 6 ft (1.8 m) where it can "see" the whole room. The placement of 
+the sensor ensures that it won’t see any movement outside of the powder room. The sensor is paired to a Caséta Wireless in-wall switch. 
+The Auto-On setting is set to "Enabled", allowing for the sensor to automatically turn the light On / Off when a person enters / exits the 
+powder room.
+Entry
+Caséta Wireless 
+In-Wall Switch
+Corner-Mount 
+Caséta Wireless 
+Motion Sensor
+2  
+Laundry Room
+A Caséta Wireless motion sensor is mounted flat on the wall at the height of 6 ft (1.8 m) where it can "see" the whole room. The placement 
+of the sensor ensures that it won’t see any movement outside of the laundry room. The sensor is paired to a Caséta Wireless in-wall switch. 
+The Auto-On setting is set to "Enabled", allowing for the sensor to automatically turn the light On / Off when a person enters / exits the 
+laundry room.
+Entry
+Caséta Wireless 
+In-Wall Switch
+Flat Wall-Mount 
+Caséta Wireless 
+Motion Sensor
+86 Wireless
+Motion Sensor Placement and Coverage
+Motion Sensor Placement Examples 
+(continued)
+3  
+Kitchen
+A Caséta Wireless motion sensor is mounted flat on the wall at the height of 6 ft (1.8 m) where it can "see" the whole room *. The placement 
+of the sensor ensures that it won’t see any movement outside of the kitchen, nor can the sensor see movement through the glass window. 
+The sensor is paired to a Caséta Wireless in-wall dimmer allowing the user to adjust the brightness of the light. The Auto-On setting is set to 
+"Enabled", allowing for the sensor to automatically turn the light On / Off when a person enters / exits the kitchen.
+Window
+Caséta  
+Wireless  
+In-Wall Dimmer
+Entry
+*  DO NOT place sensor within 4 ft (1.2 
+m) of moving air currents (e.g., HVAC 
+vents), heat source (e.g., light bulbs 
+or microwave / standard ovens). Heat 
+from an oven may cause sensor to 
+Flat Wall- see movement. Changing the activity 
+setting to medium- or high-activity may 
+Mount Caséta 
+be necessary. Refer to the back of the 
+Wireless  sensor or visit:  
+Motion Sensor www.casetawireless.com/sensorfeatures
+4  
+Foyer
+A Caséta Wireless motion sensor is mounted flat on the wall at the height of 6 ft (1.8 m) where it can "see" the whole room. The placement 
+of the sensor ensures that it won’t see any movement outside of the room, nor can the sensor see movement through the glass window. 
+The sensor and Pico wireless control are paired to a Caséta Wireless in-wall dimmer allowing the user to adjust the brightness of the light in 
+the foyer. The Auto-On setting is set to "Enabled", allowing for the sensor to automatically turn the light On / Off when a person enters / exits 
+the foyer.
+Flat Wall-Mount 
+Caséta Wireless 
+Window
+Motion Sensor
+Adjacent 
+Room Entry
+Caséta Wireless 
+In-Wall Dimmer
+Pico Wireless 
+Control
+Front Door 
+Entry
+87 Wireless
+Motion Sensor Placement and Coverage
+Motion Sensor Placement Examples 
+(continued)
+5  
+Bedroom
+A Caséta Wireless motion sensor is mounted flat on the wall near the Caséta Wireless in-wall dimmer at the height of 6 ft (1.8 m) where 
+it can "see" the whole room. The placement of the sensor ensures that it won’t see any movement outside of the bedroom. The sensor 
+is paired to a Caséta Wireless in-wall dimmer allowing the user to adjust the brightness of the bedroom light. The Auto-On setting is set 
+to "Disabled", requiring the light to be turned on manually, but allowing for the sensor to automatically turn the light Off. This setting is 
+recommended for bedrooms so the sensor won’t turn on the lights when it sees movement while a person is sleeping.
+Flat Wall-Mount Caséta  Caséta Wireless  Entry
+Wireless Motion Sensor In-Wall Switch
+6  
+Closet
+A Caséta Wireless motion sensor is mounted flat on the wall at the height of 6 ft (1.8 m) where it can "see" the walking path of the closet. * The 
+placement of the sensor ensures that it won’t see any movement outside of the closet. The sensor is paired to a Caséta Wireless in-wall switch. 
+The Auto-On setting is set to "Enabled", allowing for the sensor to automatically turn the light On / Off when a person enters / exits the closet.
+Flat Wall-Mount 
+Caséta Wireless 
+Motion Sensor
+Entry
+*  DO NOT place sensor within 4 ft (1.2 m) 
+of moving air currents (ie: HVAC vents), 
+heat source (ie: light bulbs). Changing the 
+activity setting to medium or high activity 
+may be necessary. Refer to the back of 
+Caséta Wireless  the sensor or visit:  
+In-Wall Switch www.casetawireless.com/sensorfeatures
+88 Wireless
+Motion Sensor Placement and Coverage
+Motion Sensor Placement Examples 
+(continued)
+7  
+Garage
+A Caséta Wireless motion sensor is mounted in the corner at the height of 6 ft (1.8 m) and a second Caséta Wireless motion sensor is mounted 
+offset to the wall. This allows for full coverage of the garage. While the corner sensor may be enough to cover the whole garage, if there are objects 
+on the wall blocking the line of sight of the sensor, the placement of the second sensor will ensure full coverage. Both sensors are paired to one 
+Caséta Wireless in-wall switch. The Auto-On setting is set to "Enabled", allowing for the sensor to automatically turn the light On / Off when a person 
+enters / exits the garage.
+Caséta Wireless  Entry
+In-Wall Dimmer
+Corner-Mount 
+Caséta Wireless 
+Motion Sensor
+Garage Door
+Corner-Mount Caséta 
+Wireless Motion Sensor, 
+offset on the wall
+8  
+Basement / Stairway
+A Caséta Wireless motion sensor is mounted in the corner of the stairs ensuring it will see movement at the top of the stairs as well as at 
+the bottom. The sensor and a Pico wireless control are paired to a Caséta Wireless in-wall switch that controls the light in the stairwell. 
+The second motion sensor is placed to ensure coverage of the whole basement. The second sensor is paired to a Caséta Wireless in-wall 
+dimmer allowing you to adjust the brightness of the basement light. The Auto-On setting is set to "Enabled", allowing for the sensor to 
+automatically turn the light On / Off when a person enters / exits the basement.
+Entry
+Caséta Wireless  
+In-Wall Switch for Stairs
+Flat Wall-Mount Caséta  Caséta Wireless  Pico 
+Wireless Motion Sensor  In-Wall Dimmer  Wireless 
+paired to the Dimmer in   for Room Control Corner-Mount Caséta Wireless 
+the Room
+Motion Sensor paired to the 
+Switch on the Stairs
+89 Wireless
+Motion Sensor Placement and Coverage
+Motion Sensor Placement Examples 
+(continued)
+9  
+Hallway
+A Caséta Wireless motion sensor is mounted flat on the wall near the Caséta Wireless in-wall switch at the height of 6 ft (1.8 m) where it can 
+"see" the whole hallway. The sensor may see movement in the rooms if the doors are open. Adjusting sensor location may be necessary 
+based on layout. The sensor is paired to Caséta Wireless in-wall switch. The Auto-On setting is set to "Enabled", allowing for the sensor to 
+automatically turn the light On / Off when a person enters / exits the hallway.
+Room   Room  
+Entry Entry
+Room  
+Entry
+Room  
+Entry
+Caséta Wireless  Flat Wall-Mount Caséta 
+In-Wall Switch Wireless Motion Sensor
+10  
+Staircase
+A Caséta Wireless motion sensor is mounted flat on the ceiling, perpendicular to the staircase. If there is a railing present (or one side of 
+staircase is open to an adjacent area as shown below), align the top of the sensor with the railing (or edge of adjacent area), and the bottom 
+of the sensor facing the wall, so the sensor only "sees" the staircase and not the adjacent area. The sensor and Pico wireless control with 
+wallplate are paired to a Caséta Wireless in-wall switch that controls the light in the staircase. The Auto-On setting is set to "Enabled", 
+allowing for the sensor to automatically turn the light On / Off when a person enters / exits the staircase.
+Side View Top of Flat Wall-Mount  Top View Back of Flat Wall-Mount  Pico Wireless 
+Caséta Wireless Motion  Caséta Wireless Motion  Control
+Sensor Sensor
+Pico 
+Wireless 
+Control
+Caséta Wireless  Hand Rail
+In-Wall Switch
+Hand Rail
+Adjacent 
+Room Adjacent 
+Room
+Caséta Wireless 
+In-Wall Switch
+90 Wireless
+Motion Sensor Advanced Features
+  
+4
+Off While Occupied
+When the load control is manually turned OFF, the sensor will not 
+turn the lights back ON automatically while the room is occupied. 
+Once the room is vacated, the Auto-On feature returns to normal 
+operation after the timeout period has expired. (Feature only 
+available when Auto-On is enabled). 
+The motion sensor has several advanced set-up features. For the 
+majority of installations, the default settings will provide the best 
+performance and you will not need to utilize the advanced set-up.
+The motion sensor has three adjustable advanced set-up modes: 
+Timeout, Activity, and Auto-On.
+     
+1 5
+Timeout Advanced Feature Set-Up (optional)
+The sensor will turn the lights off if no motion occurs for the duration of  The Advanced Feature set-up is accessed by using the buttons 
+the timeout period. The available timeout settings are: 1, 5, 15, and  on the back of the sensor. The procedure for selecting a 1-minute 
+30 minutes. (Default: 15 minutes)  timeout is different and described below.
+Check Setting: Press and release the button beneath the 
+   desired mode. An LED will illuminate briefly to indicate the 
+2
+Activity current setting.
+Change Setting: The setting for Timeout, Activity, and  
+The sensitivity of the sensor can be adjusted based on the expected 
+Auto-On can be changed using the standard procedure below. 
+level of activity within the room. There are three available activity 
+settings: Low Activity, Medium Activity, and High Activity.   Standard Mode
+(Default: Low Activity)
+1.  Press and hold the desired button until the LED corresponding 
+Low Activity: This is the most sensitive setting and is  to the current setting begins flashing rapidly.
+recommended for most applications.
+2.  Press and release the button to increment the mode to the next 
+Medium Activity *: This setting is slightly less sensitive than 
+available setting.
+the Low Activity setting and can be used for spaces that 
+experience normal activity. 3.  To save the selected setting, press and hold the button until the 
+LED turns on solid.
+High Activity *: This is the least sensitive setting and can 
+be used for spaces that will generally only experience large  1-Minute Timeout (For use in areas that experience brief activity; 
+motions, such as foot traffic. hallways, laundry rooms, etc.)
+*  If the sensor is placed near external noise sources such as HVAC vents, it  1.  Press and hold the timeout button for 10 seconds until all  
+might turn the lights on without occupancy or keep lights on too long after  3 LEDs begin flashing rapidly.
+vacancy. If this occurs, change the sensitivity to Medium or High Activity.
+2.  Press and hold the timeout button until all 3 LEDs turn on solid, 
+  
+3 indicating the 1-minute timeout has been saved.
+Auto-On (PD-OSENS model only) 
+The automatic-on functionality of the sensor can be adjusted to 
+control how the lights respond upon initial occupancy. There are two 
+available settings: Enabled and Disabled. (Default: Enabled)
+Enabled:   The lights will always turn on automatically on 
+occupancy and automatically turn off after vacancy. 
+Also known as occupancy mode.
+Disabled:   The lights will not turn on automatically on 
+occupancy, but will still turn off automatically after 
+vacancy. After the lights turn off, a 15 second grace 
+period allows for lights to turn back on if motion is 
+detected. This is also known as vacancy mode.
+Recommendations: For applications in bedrooms or when pets 
+are in the space, it’s suggested to change Auto-on setting to 
+Disabled.
+91 Wireless
+Dimmer and Switch Troubleshooting
+Symptoms Probable cause and action
+Light does not turn on or LEDs on the devices do not •  Light bulb(s) burned out.
+illuminate.
+•  Breaker is OFF or tripped.
+•  Light not properly installed.
+•  Wiring error.
+In-wall dimmer or switch:
+•   FASS on the in-wall dimmer or switch 
+is in the off position.
+Plug-in lamp dimmer:
+• Outlet is switched off.
+• Lamp is turned off.
+• Lamp is not plugged in.
+Light does not respond to Pico remote control. •  The in-wall dimmer or switch failed to pair with Pico remote 
+control. 
+•  The in-wall dimmer or switch is already at the light level the Pico 
+remote control is sending.
+•  The Pico remote control is outside the 30 ft (9 m)  
+operating range.
+•  The Pico remote control battery is low.
+•  The Pico remote control battery is installed incorrectly.
+•  Bulbs turn off while being dimmed. In-wall or plug-in lamp dimmer only:
+Verify bulbs are marked dimmable and visit  
+•  Bulbs turn on at high light level but do not turn on at a low  
+www.casetawireless.com/lowend for information on adjusting 
+light level.
+the dimmer for best bulb performance.
+•  Bulbs flicker or flash when dimmed to a low light level.
+•  LED on in-wall switch is flashing or solid red color. In-wall switch only:
+Proper bulb operation requires LUT-MLC installation. See Page 59.
+•  Light stays on when the in-wall switch is turned off.
+Top and middle LEDs are blinking rapidly. Product detected an MLV fault (PRO Dimmer only)
+• Connect Neutral to the dimmer (required for MLV load)
+Top and second from bottom LEDs are blinking rapidly. No Load (PRO Dimmer only)
+• Apply or replace the load
+Top three LEDs flashing Over voltage detected, verify unit does not have MLV load and is in 
+reverse phase
+Middle three LEDs flashing Over temperature event, verify unit is not overloaded
+Bottom three LEDs flashing Over current detected, verify unit does not have ELV load while in 
+forward phase
+Go to www.casetawireless.com/support for additional troubleshooting suggestions.
+92 Wireless
+Fan Troubleshooting
+Symptoms Probable cause and action
+Fan does not turn ON and no indicator lights turn ON. •  Front Accessible Service Switch (FASS) is pulled out to the OFF 
+position. Push FASS in fully to the ON position.
+•  Fan pull chain is in the OFF position. Set pull chain speed to high.
+•  Neutral wire is not connected. Check wiring.
+•  Breaker is OFF or tripped (or fuse blown). Reset breaker or replace 
+fuse. If condition persists, contact Lutron Customer Assistance or 
+a licensed electrician.
+•  Load and Line wires may be reversed. Check wiring.
+Fan does not turn ON and indicator lights are ON. Fan direction switch is between forward and reverse. Set in-wall 
+switch to desired position.
+Fan vibrates or wobbles. •  Fan direction switch is between forward and reverse. Set in-wall 
+switch to desired position.
+•  Fan blades must be balanced. See fan manufacturers installation 
+guide to balance fan.
+Fan speed is too slow. Set fan pull chain speed to high.
+Fan does not respond to Pico remote control. •  The fan control failed to pair with Pico remote control. 
+•  The fan control is already at the fan speed level that the Pico 
+remote control is sending.
+•  The Pico remote control is outside the 30 ft (9 m)  
+operating range.
+•  The Pico remote control battery is low.
+•  The Pico remote control battery is installed incorrectly.
+Go to www.casetawireless.com/support for additional troubleshooting suggestions.
+)Lutron, Lutron, Caséta, Claro, Pico, and FASS are trademarks or registered trademarks of Lutron Electronics Co., Inc. in the US and/or 
+other countries.
+All product names, logos, and brands are property of their respective owners.
+© 2014 – 2020 Lutron Electronics Co., Inc.
+Lutron Contact Numbers
+WORLD HEADQUARTERS 
+USA
+Lutron Electronics Co., Inc. 
+7200 Suter Road 
+Coopersburg, PA 18036-1299 
+TEL: +1.610.282.3800 
+FAX: +1.610.282.1243 
+Customer Assistance: 1.844.LUTRON1
+Mexico: 
++1.888.235.2910 
+Central/South America: 
++1.610.282.6701
+support@lutron.com
+www.lutron.com/support
+Lutron Electronics Co., Inc.
+7200 Suter Road
+Coopersburg, PA 18036-1299 U.S.A.
+93 P/N 0301710  Rev. J   03/2020

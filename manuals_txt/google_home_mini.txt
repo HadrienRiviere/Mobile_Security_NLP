@@ -1,0 +1,104 @@
+Set up Google Home and Google Home Mini 
+The initial steps are for first-time Google Home app users. If you’re already set up a Google Home device 
+and are setting up another device, you can skip to step 7.  
+1.  Plug in Google Home.  
+2.  Install the Google Home app   by navigating to g.co/home/setup on your Google 
+Home supported Android device. 
+1.  Or click to download the Google Home app for Android. 
+3.  Make sure to connect your mobile device/tablet to the same Wi-Fi network that you intend to use 
+to set up your Google Home device. 
+4.   Open the Google Home app by tapping the app icon on your Android device. 
+5.  Tap Get Started. 
+6.  Confirm Google Account: Choose which Google Account you want to link to Google Home. You 
+can also add a different account if you don’t see the account you want to use listed. Tap Ok.  
+7.  Permissions:  
+1.  Location services - If you don’t have Location services on, tap Go to settings   find 
+the Google Home app   turn on Location services   go back to the Google Home app.  
+2.  Location access - Location access is needed to find nearby devices that need setup. 
+Tap OK.  
+8.  Scanning for Google Home devices: The Google Home app scans for nearby devices that are 
+plugged in and ready to set up. 
+1.  If no devices are found, and you’re setting up a device, tap Yes. Make sure you’re near 
+the Google Home device that you are setting up and it’s plugged into a wall outlet. Tap Next. 
+2.  If no devices are found, and you’re not setting up a device, tap No. 
+9.  Found devices:  
+1.  If one device is found, tap Next.  
+2.  If multiple devices are found, choose the device you want to set up   Next.  
+3.  If you don’t see your device, tap Don’t see your device.  
+10.  Connecting to your new device: The app will now connect your phone to your new Google 
+Home so that you can configure it. 
+11.   Making a connection:  We’ll play a sound on the device  to make sure you’re setting up the 
+right device. 
+1.  If you hear the sound, tap Yes. 
+2.  If you didn’t hear a sound, move closer to the Google Home device and tap Try 
+again    Scan for devices. 
+3.  Privacy settings: Send usage data to Google to improve the product and set up Guest 
+mode. Toggle the slider off to adjust these settings.  
+12.  Region selection: You may need to set your region. Tap the region list   select your 
+region   Continue. If you don’t see this screen, move to step 13.  
+13.  Assistant language: If your phone language isn’t set to a language that’s supported by the 
+Google Assistant, you’ll need to choose a supported language. Tap Next. 
+•  Note: The language you select will be applied to all of your Google Home devices.  
+•  If you don’t see this screen, move to step 14.   14.  Room selection: Choose the room where your device  is located. This helps you identify the 
+device when you want to cast to it. Tap Next. 
+•  You can create a custom room room by tapping Add custom room  type in Room 
+name   Next.  
+15.  Wi-Fi connection: Choose the Wi-Fi network you want to connect to your device. Tap Next. If 
+you don’t see your Wi-fi network, tap Other Wi-Fi Network...   
+0.  Password: 
+1.  To automatically fetch the password for this network on this device, tap Get 
+Password. The password will populate in the password field. Note: Android L and above is 
+required to auto fetch the password. The Google Home app will remember this network when 
+you set up more devices. If you don’t want the Google Home app to remember this network, 
+uncheck Use this Wi-Fi network to set up future devices.If you selected a Wi-Fi network from 
+the list, you’ll be prompted to enter your Wi-Fi password. Then tap Connect. The Google Home 
+app will remember this network when you set up more devices. If you don’t want the Google 
+Home app to remember this network, uncheck Use this Wi-Fi network to set up future 
+devices. 
+2.  To manually enter the password, tap Enter manually   type in 
+password   Connect. The Google Home app will remember this network when you set up 
+more devices. If you don’t want the Google Home app to remember this network, uncheck Use 
+this Wi-Fi network to set up future devices. 
+1.  If you selected Other Wi-Fi network, you will need to manually enter the Network Name, 
+Password, and select the Security Mode you use with your network. 
+16.  Google Assistant setup:  Set up your Assistant for a personalized experience. Tap Next   read 
+permissions   Yes I’m in.  
+•  If you don’t accept the permissions, tap Cancel. Note: Remember you won’t be able to 
+use your Google Assistant or use voice commands. The device can only be used as a speaker. 
+Tap I’m sure.  
+17.  Teach your Assistant your voice: You can teach your Assistant to recognize your voice.  This 
+allows the Assistant to provide personal results when it recognizes your voice. Follow the prompts. 
+•  Note: Now that you’ve trained your voice, other people in your home can still use Google 
+Home but they won’t get personalized answers until they teach their Assistant to recognize their 
+voice.  
+•  If you don’t teach the Assistant your voice, you’ll be asked if you want the Assistant to be 
+able to provide personal results. This means that anyone who talks to the device will be able to access 
+your personal results, since the Assistant won’t be able to recognize your voice and differentiate 
+between the people in your home. 
+18.  Address: The Google Home app will ask for access to use your location to pre-fill your address. 
+If you allow access, your address will be pre-filled. Otherwise you will need to enter it manually. This is 
+the address where your device is located. Enter your address   Next.  
+•  Note: You can Skip entering your address, but the Assistant won’t be able to answer 
+questions about local weather, traffic, or businesses. 
+19.  Email subscription: Discover tips and new features with email updates for your device and the 
+Google Assistant. Tap Subscribe.  
+20.  Media services:  Access your music and movie services.  
+0.  Music services: Tap + and follow the account linking steps. Tap Next.  
+1.  Default music service: If you have more than one music service linked, you will be 
+asked to select a Default music service: Tap the service you want to use as default    Next. If you 
+haven’t linked the account, follow the steps.  2.  Video services: Tap + and follow the account linking steps. Tap Next.  
+21.  Link TVs and speakers:  To control your Chromecast devices with your voice, you must link 
+them to Google Home. Supported devices on the same Wi-Fi network are automatically selected. 
+0.  To de-select a device, tap the device. 
+1.  Tap Next.  
+22.  Name your linked devices:  If your linked devices have a name with special characters, you’ll be 
+asked to rename them so that they are easy to speak and the Assistant can recognize them. Type in a 
+name for your devices  Next.  
+23.  Video services:  Access your favorite video services.  
+0.  Link services: Tap + and follow the account linking steps. Tap Next.  
+24.  Summary screen: Here’s a review of what you set up. You can choose to set up other 
+functionality. Tap Continue   Finish setup.  
+25.  Set up is successful. You're all done!  
+26.  Learn more about Google Assistant: Read how to use your device and suggested voice 
+commands. Tap Finish Setup.  
+ 

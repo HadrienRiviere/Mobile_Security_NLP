@@ -1,0 +1,608 @@
+Owner’s Guide
+Brugervejledning
+Bedienungsanleitung
+Gebruikershandleiding
+Guía del usuario
+Käyttöohje
+Notice d’utilisation
+Manuale di istruzioni
+Kezelési útmutató
+Brukerveiledning
+Podręcznik użytkownika
+Manual do Proprietário
+Bruksanvisning
+SOUNDTOUCH® 10
+WIRELESS SPEAKER IMPORTANT SAFETY INSTRUCTIONS
+Please read and keep all safety, security, and use instructions.
+WARNINGS/CAUTIONS
+Do not ingest battery, chemical burn hazard. The remote control supplied with this product contains a coin/
+button cell battery. If the coin/button cell battery is swallowed, it can cause severe internal burns in just in just 2 
+hours and can lead to death. Keep new and used batteries away from children. If the battery compartment does 
+not close securely, stop using the remote control and keep it away from children. If you think batteries might 
+have been swallowed or placed inside any part of the body, seek immediate medical attention. To avoid risk of 
+explosion, fire or chemical burn, use caution in replacing the battery and replace only with an agency approved 
+(e.g., UL) CR2032 or DL2032 3-volt lithium battery. Properly and promptly dispose of used batteries. Do not 
+recharge, disassemble, heat above 212°F (100°C) or incinerate.
+1.  Read these instructions.
+2. Keep these instructions. 
+3. Heed all warnings.
+4. Follow all instructions.
+5. Do not use this apparatus near water or moisture.
+6. Clean only with a dry cloth.
+7.  Do not block any ventilation openings. Install in accordance with the manufacturer’s instructions.
+8.  Do not install near any heat sources, such as radiators, heat registers, stoves, or other apparatus (including 
+amplifiers) that produce heat.
+9.  Protect the power cord from being walked on or pinched, particularly at plugs, convenience receptacles, and the 
+point where they exit from the apparatus.
+10. Only use attachments/accessories specified by the manufacturer.
+11. Unplug this apparatus during lightning storms or when unused for long periods of time.
+12.  Refer all servicing to qualified service personnel. Servicing is required when the apparatus has been damaged in any 
+way: such as power supply cord or plug is damaged; liquid has been spilled or objects have fallen into the apparatus; 
+the apparatus has been exposed to rain or moisture, does not operate normally, or has been dropped.
+The lightning flash with arrowhead symbol within an equilateral triangle alerts the user to the presence of 
+uninsulated, dangerous voltage within the system enclosure that may be of sufficient magnitude to constitute a 
+risk of electric shock.
+The exclamation point within an equilateral triangle alerts the user to the presence of important operating and 
+maintenance instructions in the owner’s guide.
+• To reduce the risk of fire or electrical shock, do NOT expose this product to rain, liquids or moisture.
+• Do not expose this apparatus to dripping or splashing, and do not place objects filled with liquids, such as vases, on or 
+near the apparatus. As with any electronic products, use care not to spill liquids into any part of the product. Liquids 
+can cause a failure and/or a fire hazard.
+• Do not place naked flame sources, such as lighted candles, on or near the apparatus.
+• Make no modifications to the system or accessories. Unauthorized alterations may compromise safety, regulatory 
+ compliance, and system performance.
+This product contains magnetic material. Consult your physician on whether this might affect your implantable 
+medical device.
+2 - ENGLISH IMPORTANT SAFETY INSTRUCTIONS
+NOTES: 
+• Where the mains plug or appliance coupler is used as the disconnect device, such disconnect device shall remain 
+readily operable.
+• This product must be used indoors. It is neither designed nor tested for use outdoors, in recreation vehicles, or on 
+boats.
+• The product label can be located on the back or bottom of the system.
+Contains small parts which may be a choking hazard. Not suitable for children under age 3.
+Please dispose of used batteries properly, following local regulations. Do not incinerate.
+This symbol means the product must not be discarded as household waste, and should be delivered to an 
+appropriate collection facility for recycling. Proper disposal and recycling helps protect natural resources, human 
+health and the environment. For more information on disposal and recycling of this product, contact your local 
+municipality, disposal service, or the shop where you bought this product.
+Information about products that generate electrical noise
+This equipment has been tested and found to comply with the limits for a Class B digital device, pursuant to Part 15 of 
+the FCC rules. These limits are designed to provide reasonable protection against harmful interference in a residential 
+installation. This equipment generates, uses, and can radiate radio frequency energy and, if not installed and used 
+in  accordance with the instructions, may cause harmful interference to radio communications. However, there is no 
+ guarantee that interference will not occur in a particular installation. If this equipment does cause harmful interference 
+to radio or television reception, which can be determined by turning the equipment off and on, the user is encouraged 
+to try to correct the interference by one or more of the following measures:
+• Reorient or relocate the receiving antenna.
+• Increase the separation between the equipment and receiver.
+• Connect the equipment to an outlet on a different circuit than the one to which the receiver is connected.
+• Consult the dealer or an experienced radio/TV technician for help.
+FCC WARNING
+Changes or modifications not expressly approved by Bose Corporation could void the user’s authority to operate this 
+equipment.
+Important USA and Canada compliance Information
+This device complies with part 15 of the FCC rules and ISED Canada license-exempt RSS standard(s). Operation is subject 
+to the following two conditions: (1) this device may not cause harmful interference, and (2) this device must accept any 
+interference received, including interference that may cause undesired operation.
+This equipment complies with FCC and ISED Canada radiation exposure limits set forth for an uncontrolled e nvironment. 
+This equipment should be installed and operated with a minimum distance of 20 cm between radiator and your body.
+This equipment must not be co-located or be operating in conjunction with any other antennas or transmitters.
+This device complies with ISED Canada license-exempt RSS standards(s). 
+This Class B digital apparatus complies with Canadian ICES-003.
+CAN ICES-3 (B)/NMB-3(B)
+ ENGLISH - 3 REGULATORY INFORMATION
+Bose Corporation hereby declares that this product is in compliance with the essential requirements and other 
+relevant provisions of Directive 2014/53/EU and all other applicable EU directive requirements.  
+The complete declaration of conformity can be found at: www.Bose.com/compliance
+The product, in accordance with the Ecodesign Requirements for Energy Related Products Directive 2009/125/EC, is in 
+compliance with the following norm(s) or document(s): Regulation (EC) No. 1275/2008, as amended by Regulation (EU) 
+No. 801/2013.
+Power Modes
+Required Power State Information
+Standby Networked Standby
+Power consumption in specified power mode, at  < 0.5 W Wi-Fi®: ≤ 2.0 W
+230V/50Hz input Bluetooth®: ≤ 2.0 W
+Time after which equipment is automatically  < 2.5 hours ≤ 20 minutes
+switched into mode
+Power consumption in networked standby if all wired  N/A ≤ 2.0 W
+network ports are connected and all wireless network 
+ports are activated, at 230V/50Hz input
+Wi-Fi: Deactivate by pressing and holding C and z on the unit until the 
+Wi-Fi indicator turns off. Activate by pressing and holding C and z on 
+Network port deactivation/activation procedures.  the unit until the Wi-Fi indicator turns on.
+Deactivating all networks will enable standby mode.  Bluetooth: Deactivate by clearing the pairing list by pressing and holding 
+the Bluetooth/Auxiliary button   on the unit until the Bluetooth 
+indicator blinks white. Reactivate by pairing with a Bluetooth source.
+For Europe:
+Frequency band of operation 2400 to 2483.5 MHz:
+• Bluetooth/Wi-Fi: Maximum transmit power less than 20 dBm EIRP.
+• Bluetooth Low Energy: Maximum power spectral density less than 10 dBm/MHz EIRP.
+Frequency bands of operation 5150 to 5350 MHz and 5470 to 5725 MHz:
+• Wi-Fi: Maximum transmit power less than 20dBm EIRP.
+• This device is restricted to indoor use when operating in the 5150 to 5350 MHz frequency range in all EU Member 
+States listed in the table.
+BE DK IE UK FR CY SK HU
+AT SE BG DE PT EL HR LV
+LT MT PL CZ EE FI ES IT
+RO LU NL SI
+4 - ENGLISH REGULATORY INFORMATION
+China Restriction of Hazardous Substances Table 
+Names and Contents of Toxic or Hazardous Substances or Elements
+Toxic or Hazardous Substances and Elements
+Polybrominated  Polybrominated 
+Lead  Mercury  Cadmium  Hexavalent 
+Part Name Biphenyl  diphenylether 
+(Pb) (Hg) (Cd) (CR(VI))
+(PBB) (PBDE)
+PCBs X O O O O O
+Metal Parts X O O O O O
+Plastic Parts O O O O O O
+Speakers X O O O O O
+Cables X O O O O O
+This table is prepared in accordance with the provisions of SJ/T 11364.
+O:  Indicates that this toxic or hazardous substance contained in all of the homogeneous materials for this part is below the limit 
+requirement of GB/T 26572.
+X:  Indicates that this toxic or hazardous substance contained in at least one of the homogeneous materials used for this part is above 
+the limit requirement of GB/T 26572.
+Taiwan Restriction of Hazardous Substances Table
+Equipment name: Powered Speaker, Type designation: 416776
+Restricted substances and its chemical symbols
+Lead  Hexavalent  Polybrominated  Polybrominated 
+Unit Mercury (Hg) Cadmium (Cd)
+(Pb)  chromium (Cr+6) biphenyls (PBB)  diphenyl ethers (PBDE)
+PCBs - ○ ○ ○ ○ ○
+Metal Parts - ○ ○ ○ ○ ○
+Plastic Parts ○ ○ ○ ○ ○ ○
+Speakers - ○ ○ ○ ○ ○
+Cables - ○ ○ ○ ○ ○
+Note 1:  “○” indicates that the percentage content of the restricted substance does not exceed the percentage of reference value  
+of presence.
+Note 2: The “−” indicates that the restricted substance corresponds to the exemption.
+Please complete and retain for your records
+The serial and model numbers are located on the back or bottom of the product.
+Serial number:  ______________________________________________________________________
+Model number:  ______________________________________________________________________
+Please keep your receipt with your owner’s guide. Now is a good time to register your Bose product.  
+You can easily do this by going to http://global.Bose.com/register
+Date of Manufacture: The eighth digit in the serial number indicates the year of manufacture; “8” is 2008 or 2018.
+China Importer: Bose Electronics (Shanghai) Company Limited, Part C, Plant 9, No. 353 North  Riying Road, China 
+(Shanghai) Pilot Free Trade Zone
+EU Importer: Bose Products B.V., Gorslaan 60, 1441 RG Purmerend, The Netherlands
+Taiwan Importer: Bose Taiwan Branch, 9F-A1, No.10, Section 3, Minsheng East Road, Taipei City 104, Taiwan 
+Phone Number: +886-2-2514 7676
+Mexico Importer: Bose de México, S. de R.L. de C.V. , Paseo de las Palmas 405-204, Lomas de Chapultepec, 11000 
+México, D.F. Phone Number: +5255 (5202) 3545
+ ENGLISH - 5  LEGAL INFORMATION
+Security Information
+This product is capable of receiving automatic security updates from Bose. To receive automatic security 
+updates, you must complete the product setup process in the SoundTouch® App and connect the product to 
+the Internet. If you do not complete the setup process, you will be responsible for installing security 
+updates that Bose makes available.
+License Disclosures
+You can view the license disclosures that apply to the third-party software packages included with your speaker through 
+the SoundTouch® app or by using your product’s IP address.
+SoundTouch® app
+1.  From within the app, select Y > Settings > About > Legal.
+2. Select the applicable license type.
+IP address
+1.  Obtain your product’s IP address using one of the following methods:
+• SoundTouch® app: From within the app, select Y > Settings > About.  
+Select your speaker to view the IP address.
+• Wireless router: Refer to your router owner’s guide for more information.
+2. On a device connected to your wireless network, open a browser window.
+3. Go to <IP address>/licenses.pdf to view the applicable license disclosures and EULA.
+Amazon, Kindle, Fire and all related logos are trademarks of Amazon, Inc. or its affiliates.
+Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service 
+mark of Apple Inc.
+Android, Google Play, and the Google Play logo are trademarks of Google LLC.
+The Bluetooth® word mark and logos are registered trademarks owned by Bluetooth SIG, Inc. and any use of such marks 
+by Bose Corporation is under license.
+This product contains the iHeartRadio service. iHeartRadio is a registered trademark of iHeartMedia, Inc.
+SoundTouch and the wireless note design are registered trademarks of Bose Corporation in the U.S. and other countries.
+This product incorporates Spotify software which is subject to third-party licenses found here: 
+www.spotify.com/connect/third-party-licenses
+Spotify is a registered trademark of Spotify AB.
+Wi-Fi is a registered trademark of Wi-Fi Alliance®.
+Bose Corporation Headquarters: 1-877-230-5639
+©2019 Bose Corporation. No part of this work may be reproduced, modified, distributed or  otherwise used without prior 
+written permission.
+6 - ENGLISH CONTENTS
+Carton Contents 
+What’s in the carton..........................................................................................................  9
+Initial Setup
+Placement guidelines ....................................................................................................... 10
+Connect the speaker to power .....................................................................................  11
+Speaker Controls
+Power on the speaker ...................................................................................................... 12
+Control buttons .................................................................................................................. 12
+SoundTouch® App Setup 
+Download and install the SoundTouch® app ........................................................... 13
+SoundTouch® Owner’s Center ....................................................................................... 13
+Existing SoundTouch Users 
+Add the speaker to an existing account ................................................................... 14
+Connect the speaker to a new network .................................................................... 14
+Preset Personalization 
+Set a preset .......................................................................................................................... 15
+Play a preset ........................................................................................................................ 16
+Bluetooth® Technology
+Connect your mobile device.......................................................................................... 17
+Disconnect a mobile device ........................................................................................... 18
+Reconnect a mobile device ............................................................................................ 19
+Connect using the Bluetooth feature on your mobile  device .................. 19
+Clear the speaker’s Bluetooth pairing list ................................................................ 19
+Use the SoundTouch® app ...................................................................................... 19
+Cabled Device Connections
+Connect to the AUX connector .................................................................................... 20
+ ENGLISH - 7 CONTENTS
+Status Indicators
+Wi-Fi® indicator  ................................................................................................................. 22
+Bluetooth indicator ........................................................................................................... 22
+AUX indicator ...................................................................................................................... 23
+SoundTouch® indicator .................................................................................................... 23
+Advanced Features
+Update software ................................................................................................................. 24
+Disable Wi-Fi capability .................................................................................................. 24
+Re-enable Wi-Fi capability ............................................................................................. 24
+Care and Maintenance
+Clean the speaker .............................................................................................................. 25
+Customer service ............................................................................................................... 25
+Limited warranty ................................................................................................................ 25
+Technical information ....................................................................................................... 25
+Replace the remote control battery ........................................................................... 26
+Troubleshooting
+Common solutions ............................................................................................................ 27
+Reset your speaker ............................................................................................................ 29
+Appendix: Computer Setup
+Set up your speaker using a computer ..................................................................... 30
+Before you begin ....................................................................................................... 30
+Computer setup ......................................................................................................... 30
+8 - ENGLISH CARTON CONTENTS 
+What’s in the carton
+Carefully unpack the carton and confirm that the following parts are included. 
+SoundTouch® 10 wireless speaker Remote control
+Power cord*
+*May ship with multiple power cords. Use the power cord for your region.
+Note:  If part of the speaker is damaged, do not use it. Contact your authorized Bose® 
+dealer or Bose customer service. Visit: global.Bose.com/Support/ST10 for 
+ contact information.
+ ENGLISH - 9 INITIAL SETUP
+Placement guidelines
+To avoid interference, keep other wireless equipment 1 – 3 ft. (0.3 – 0.9 m) away from 
+your speaker. Place your speaker outside and away from metal cabinets and direct  
+heat sources.
+•  Place your speaker on its rubber base on a stable and level surface. 
+•  Do NOT place your speaker on top of audio/video equipment (receivers, TVs, etc.), or 
+any other object that may generate heat. Heat generated by these items may result in 
+poor speaker performance.
+•  Do NOT place any objects on top of your speaker.
+•  Make sure there is an AC (mains) outlet nearby.
+10 - ENGLISH INITIAL SETUP
+Connect the speaker to power
+Before you set up the speaker on your network, connect the speaker to power.
+1.  Plug the power cord into the power connector on the speaker.
+2.  Plug the other end of the power cord into an AC (mains) power outlet. 
+ ENGLISH - 11 SPEAKER CONTROLS
+Power on the speaker
+On the button pad or the remote control, press  . 
+Tip:  You can also press a preset or   to power on the speaker. 
+Control buttons
+The speaker controls are on the button pad and on the remote control. 
+Tip:  You can also control the speaker using the SoundTouch® app.
+•  Button pad: Power on the speaker, set and play your presets, adjust the volume, and 
+activate the Bluetooth and auxiliary sources.
+•  Remote control: Provides the same functionality as the button pad, as well as:  
+Skip Backward/Skip Forward, Play/Pause, and Thumbs Up/Thumbs Down.
+Button Description
+Six preset buttons: 
+•  Press and hold to set a preset
+•  Press a preset to play
+Bluetooth/Auxiliary button: 
+•  Press to toggle between the Bluetooth and auxiliary source
+•  Indicator on the front of the speaker indicates source  
+(see page 23)
++  –
+Volume Up/Volume Down: Press to increase/decrease volume
+ 
+Skip Backward/Skip Forward through tracks (remote control only)
+•  Play/Pause audio
+•  Mute/Unmute audio on AUX-connected device (remote control 
+only)
+Like/Dislike content playing (remote control only)
+12 - ENGLISH SOUNDTOUCH® APP SETUP 
+The SoundTouch® app lets you set up and control SoundTouch® from your  smartphone, 
+tablet or computer. Using the app, your smart device acts as a remote for your  speaker.
+From the app, you can manage your SoundTouch® settings, add music services, explore 
+local and global Internet radio stations, set and change presets, and stream music. New 
+features are added periodically. 
+Note:  If you have already set up SoundTouch® for another speaker, see  
+“Existing SoundTouch Users” on page 14.
+Download and install the SoundTouch® app
+On your smartphone or tablet, download the Bose® SoundTouch® app.
+•  Apple users: download from the App Store
+•  Android™ users: download on the Google Play™ store
+•  Amazon Kindle Fire users: download from the Amazon Appstore for Android
+Follow the instructions in the app to complete setup, including adding the speaker to 
+your Wi-Fi network, creating a  S oundTouch® account, adding a music library and using 
+music services.
+Once you set up the speaker on your home Wi-Fi network, you can control it from any 
+smartphone or tablet on the same network.
+Note:  For instructions on using a computer for setup, see page 30.
+Tip:  Once you set up the speaker on your home Wi-Fi network, you can control it from 
+any smartphone or tablet on the same network. Download the SoundTouch® app 
+on the smart device. You must use the same SoundTouch account for all devices 
+connected to your speaker.
+SoundTouch® Owner’s Center
+global.Bose.com/Support/ST10 
+This website provides access to the owner support center, which includes: owner’s 
+ manuals, articles, tips, tutorials, a video library, and the owner community where you 
+can post questions and answers.
+ ENGLISH - 13 EXISTING SOUNDTOUCH USERS 
+Add the speaker to an existing account
+If you have already set up SoundTouch® on another speaker, you do not need to 
+ download the SoundTouch® app again.
+From within the app, select   > Settings > Add or Reconnect Speaker.
+The app guides you through setup.
+Connect the speaker to a new network
+If your network information changes, add your speaker to your new network. You can do 
+this by putting your speaker into setup mode.
+1.  From within the app, select   > Settings > Speaker Settings and select your 
+ speaker.
+2.  Select CONNECT SPEAKER.
+The app guides you through setup. 
+14 - ENGLISH PRESET PERSONALIZATION 
+You can personalize six presets to your favorite streaming music services, stations, 
+ playlists, artists, albums or songs from your music library. You can access your music, at 
+any time, with a simple touch of a button using the SoundTouch® app.
+Before using presets, note the following:
+•  You can set presets from the app and the remote control.
+•  If the preset source is your  music library, make sure the computer storing your music 
+library is on and connected to the same network as the SoundTouch® speaker.
+•  You cannot set presets in Bluetooth mode or AUX mode.
+Set a preset
+1.  Stream music using the app.
+2.  While the music is playing, press and hold a preset on the button pad or remote 
+control until you hear a tone.
+ ENGLISH - 15 PRESET PERSONALIZATION  
+Play a preset
+Once you personalize your presets, press a preset on the button pad or on the remote 
+control to play music. 
+Note:  For information on using the SoundTouch® app to play your  presets, visit  
+global.Bose.com/Support/ST10 
+16 - ENGLISH BLUETOOTH® TECHNOLOGY
+Bluetooth wireless technology lets you stream music from Bluetooth smartphones, 
+tablets, computers or other devices to your speaker. Before you can stream music from 
+a mobile device, you must connect the mobile device with your  speaker.
+Connect your mobile device
+1.   On the speaker’s button pad or remote control, press and release   until the 
+Bluetooth indicator blinks blue. 
+Tip:  You can also press and hold   for two seconds to connect a device.
+Make sure the Bluetooth indicator is blinking blue before you connect your  
+mobile device.
+ ENGLISH - 17 BLUETOOTH® TECHNOLOGY
+2.  On your mobile device, turn on the Bluetooth feature.
+Tip:  The Bluetooth menu is usually found in the Settings menu.
+3.  Select your SoundTouch® speaker from the mobile device list.
+Note:  Look for the name you entered for your speaker in the  SoundTouch® app.  
+If you didn’t name your speaker, the default name appears.
+Once connected, your SoundTouch® speaker’s name appears in the device list.
+Disconnect a mobile device
+Turn off the B  luetooth feature on your mobile device.
+18 - ENGLISH BLUETOOTH® TECHNOLOGY
+Reconnect a mobile device
+ On the speaker’s button pad or remote control, press and release   until the 
+Bluetooth indicator blinks blue.
+Your speaker tries to reconnect with the most  recently connected mobile device. 
+Note:  The mobile device must be within 30 ft. (9 m) and powered on.
+Connect using the Bluetooth feature on your mobile 
+ device
+1.  On your mobile device, turn on the Bluetooth feature.
+Tip:  The Bluetooth menu is usually found in the Settings menu.
+2.  Select your speaker from the mobile device list.
+Your speaker powers on and emits a tone.
+Clear the speaker’s Bluetooth  
+pairing list
+On the button pad or remote control, press and hold   (10 seconds) until the 
+Bluetooth indicator double-blinks white. 
+The speaker is ready to connect to a device (see page 17).
+Use the SoundTouch® app
+You can also clear the pairing list using the app.
+1.  From within the app, select   > Settings > Speaker Settings and select  
+your  speaker.
+2.  Open the Bluetooth menu item and clear the pairing list.
+ ENGLISH - 19 CABLED DEVICE CONNECTIONS
+Connect to the AUX connector
+You can connect the audio output of a smartphone, tablet, computer or other type of 
+audio device to your speaker’s AUX connector. The AUX connector accepts a 3.5 mm 
+stereo cable plug (not provided).
+1.  Using a stereo cable, connect your audio device to the AUX connector on  
+the  speaker.
+2.  On the speaker’s button pad or remote control, press and release    
+until the AUX indicator glows white.
+3.  Start playing music on the mobile device.
+20 - ENGLISH STATUS INDICATORS
+The front of the speaker has a series of indicators that show speaker status. Lights under 
+the indicators glow according to speaker state (see page 22).
+Bluetooth indicator SoundTouch® indicator
+Wi-Fi indicator AUX indicator
+ ENGLISH - 21 STATUS INDICATORS
+Wi-Fi® indicator 
+Indicator activity State
+Blinking white Searching for Wi-Fi network
+Solid white (dim) Power-saving mode and connected to Wi-Fi network
+Solid white (bright) Speaker is on and connected to Wi-Fi network
+Solid amber Speaker is in setup mode
+Blinking amber Disconnected from Wi-Fi network
+Off Networking disabled
+Bluetooth indicator
+Indicator activity State
+Blinking blue Ready to connect
+Blinking white Connecting 
+Solid white Connected
+22 - ENGLISH STATUS INDICATORS
+AUX indicator
+Indicator activity State
+Solid white Speaker is ready to play content from a mobile device
+SoundTouch® indicator
+Indicator activity State
+Blinking white Connecting to the SoundTouch® app
+Solid white Playing audio from the SoundTouch® app
+•  Speaker, source, or station unavailable
+Solid amber
+•  Preset empty or invalid
+ ENGLISH - 23 ADVANCED FEATURES
+Update software
+The SoundTouch® app alerts you when a software update is available, at which time  
+you can update the software using the app. You can also update software using the 
+button pad.
+1.  Power on the speaker.
+2.  On the button pad, press and hold   and   – (five seconds). 
+Disable Wi-Fi capability
+1.  Power on the speaker.
+2.  On the button pad, press and hold   and   – (five seconds). 
+The Wi-Fi indicator turns off when Wi-Fi is disabled.
+Re-enable Wi-Fi capability
+While the speaker is on, press and hold   and   – (five seconds).
+The Wi-Fi indicator glows when Wi-Fi is enabled.
+24 - ENGLISH CARE AND MAINTENANCE
+Clean the speaker
+•  Clean the surface of your speaker with a soft, dry cloth.
+•  Do not use any sprays near your speaker. Do not use any solvents, chemicals, or 
+ cleaning solutions containing alcohol, ammonia or abrasives.
+•  Do not allow liquids to spill into any openings.
+Customer service
+For additional help using your speaker, visit:
+global.Bose.com/Support/ST10
+Limited warranty
+Your speaker is covered by a limited warranty. Visit our website at  
+global.Bose.com/warranty for details of the limited warranty.
+To register your product, visit global.Bose.com/register for instructions. Failure to 
+ register will not affect your limited warranty rights.
+Technical information
+Power supply rating
+Input: 100-240V   50/60 Hz, 30W
+ ENGLISH - 25 CARE AND MAINTENANCE
+Replace the remote control battery
+WARNING: Do not ingest battery, chemical burn hazard. The remote control supplied 
+with this product contains a coin/button cell battery. If the coin/button cell 
+battery is swallowed, it can cause severe internal burns in just 2 hours and 
+can lead to death. Keep new and used batteries away from children.  
+If the battery compartment does not close securely, stop using the remote 
+ control and keep it away from children. If you think batteries might have 
+been swallowed or placed inside any part of the body, seek  immediate 
+medical attention. To avoid risk of explosion, fire or chemical burn, use 
+caution in replacing the battery and replace only with an agency approved 
+(e.g., UL) CR2032 or DL2032 3-volt lithium battery. Properly and promptly 
+dispose of used batteries. Do not recharge, disassemble, heat above 212°F 
+(100°C) or incinerate.
+1.  Using a coin, turn the battery cover slightly left.
+2.  Remove the cover. Insert the new battery flat side up, with the + symbol  
+in view.
+3.  Reseat the cover and turn it right to lock into place.
+26 - ENGLISH TROUBLESHOOTING
+If you experience problems with your speaker:
+•  Connect your speaker to AC (mains) power.
+•  Secure all cables.
+•  Verify the state of the status indicators (see page 21).
+•  Move your speaker and mobile device away from possible interference (wireless 
+ routers, cordless phones, televisions, microwaves, etc.).
+•  Move your speaker within the recommended range of your  wireless router or mobile 
+device for proper operation.
+If you could not resolve your issue, see the table below to identify symptoms and 
+solutions to common problems. If you are unable to resolve your issue, contact Bose 
+customer service.
+Common solutions
+The following table lists symptoms and possible solutions to common problems.
+Symptom Solution
+Speaker is  If the status indicators are off:
+ unresponsive during 
+•  On the speaker’s button pad, press and hold   for two seconds, then 
+setup
+release.
+•  When the speaker powers on, resume setup.
+Pressing the power  Your speaker may be in standby mode. To wake the speaker, on the 
+button does not  speaker’s button pad, press and hold   for two seconds, then release.
+power on the 
+speaker
+Cannot   •  Select correct network name and enter password.
+complete 
+•   Connect the device and speaker to the same Wi-Fi network.
+network setup
+•  Place your speaker within range of the router.
+•   Enable Wi-Fi on the device (mobile or computer) you are using 
+for setup .
+•  Close other open applications.
+•   If using a computer for setup, check firewall settings to make sure 
+that the SoundTouch® app and SoundTouch® Music Server are allowed 
+programs.
+•  Restart your mobile device or computer and your router.
+•  Reset your speaker (see page 29).
+•  If your router supports both 2.4GHz and 5GHz bands, make sure both 
+the device (mobile or computer) and speaker are  connecting to the 
+same band.
+•   Uninstall the app, reset your speaker (see page 29), and restart 
+setup.
+ ENGLISH - 27 TROUBLESHOOTING
+Symptom Solution
+Cannot connect to  If your network information has changed or to connect your speaker to 
+network  another network, see page 14.
+Intermittent or no  •  Stop other audio or video streaming applications.
+audio
+•  Unmute or increase the volume on your speaker and mobile device.
+•  Unplug the power cord; reconnect after one minute.
+•  Restart your mobile device or computer and your router.
+Cannot play  •  Set up the SoundTouch® app first and perform all updates. 
+ Bluetooth audio
+•  Connect a mobile device (see page 17).
+•  Clear your speaker pairing list (see page 19).
+•  Try pairing a different mobile device.
+On your mobile device:
+•  Disable and re-enable the Bluetooth feature. 
+•  Remove your speaker from the Bluetooth menu. Connect again.
+•  Refer to your mobile device’s documentation.
+•  See “Intermittent or no audio.”
+Bass is too heavy  Adjust the bass level of your speaker in the app:
+or low
+1.  From within the app, select   > Settings > Speaker Settings and 
+select your  speaker.
+2. Adjust the bass level of your speaker. 
+28 - ENGLISH TROUBLESHOOTING
+Reset your speaker
+Factory reset clears all source, volume, and network settings and returns the speaker to 
+original factory settings. 
+1.  Power on the speaker.
+2.  On the button pad, press and hold   and   – (about 10 seconds).
+The speaker restarts, and the Wi-Fi indicator glows amber (setup mode).
+3.  Open the SoundTouch® app on your smartphone or tablet and add the speaker to 
+your network (see page 14).
+ ENGLISH - 29 APPENDIX: COMPUTER SETUP
+Set up your speaker using a computer
+You can set up your speaker using a computer rather than a  smartphone or tablet.
+Before you begin
+•  Position your speaker next to your computer.
+•  Make sure your computer is on your Wi-Fi network.
+•  Obtain a USB A to USB Micro B cable (not provided).
+Notes: 
+•  A USB A to USB Micro B cable is commonly used for charging mobile devices. You 
+can also purchase this at your local electronics store. If you don’t have this c able, 
+contact Bose customer service.
+•  The USB connector on the back of your speaker is for  computer setup only. The 
+USB connector is not designed to charge  smartphones, tablets, similar devices or 
+the speaker itself.
+Computer setup
+During setup, the app prompts you to temporarily connect the USB cable from the 
+ computer to your speaker. Do not connect the USB cable until the app instructs you to 
+do so.
+1.  Plug the power cord into an AC (mains) power outlet.
+2.  On your computer, open a browser and go to:
+global.Bose.com/Support/ST10
+Tip:  Use the computer where your music library is stored.
+3.  Download and run the SoundTouch® app.
+The app guides you through setup.
+4.  After setup is complete, disconnect the USB cable from your computer and from 
+your speaker. Move your speaker to its  permanent location.
+30 - ENGLISH  
+ ENGLISH - 31 ©2019 Bose Corporation
+100 The Mountain Road
+Framingham, MA 01701-9168 USA 
+AM785169 Rev. 03

@@ -1,0 +1,1715 @@
+Arlo 
+HD Security Camera System
+User Manual
+Arlo Technologies, Inc.
+2200 Faraday Ave. Suite 150 May 2018
+Carlsbad, CA 92008 USA
+202-11380-14 Support
+For product updates and web support, visit http://www.arlo.com/en-us/support/.
+Trademarks
+© Arlo Technologies, Inc. Arlo, Arlo logo, and Every Angle Covered are trademarks of Arlo Technologies, Inc. App Store is a service 
+mark of Apple Inc., registered in the U.S. and other countries. Google Play and the Google Play logo are trademarks of Google 
+Inc. Amazon, Alexa and all related logos are trademarks of Amazon.com, Inc. or its affiliates. Other trademarks are for reference 
+purposes only.
+Compliance
+For the current EU Declaration of Conformity, visit  
+http://support.netgear.com/app/answers/detail/a_id/11621/. 
+For regulatory compliance information, visit 
+http://www.netgear.com/about/regulatory/.
+See the regulatory compliance document before connecting the power supply.
+2 Contents
+1.  Set Up Your System 6
+ 
+How Arlo Works .......................................................................................................................................................................................6
+Get the Arlo App ....................................................................................................................................................................................6
+Connect Your Base Station to the Internet .......................................................................................7
+Arlo Base Station LEDs ..............................................................................................................................................................8
+Get an Account ........................................................................................................................................................................................8
+Insert Batteries Into Your Cameras ...................................................................................................................9
+Sync Your Cameras With the Base Station .......................................................................................10
+Arlo Camera LED ................................................................................................................................................................................11
+Firmware Updates .........................................................................................................................................................................12
+Add a Camera From Another Arlo Account .......................................................................................12
+Place or Mount Your Cameras ..................................................................................................................................13
+Choose a Good Spot for Your Camera .......................................................................................................13
+Position Your Camera to Optimize Its Field of View  14
+Position Mode .........................................................................................................................................................................................16
+2.  View Your Content 17
+ 
+View the Devices Page ...........................................................................................................................................................17
+View Camera Feeds ......................................................................................................................................................................18
+Pan and Zoom Video ....................................................................................................................................................................18
+Record Clips From Live Video .....................................................................................................................................19
+Take a Snapshot From Live Video .......................................................................................................................19
+Control the Camera Feed Image ..........................................................................................................................20
+Cloud Recording .................................................................................................................................................................................22
+View Recordings and Snapshots ..........................................................................................................................22
+Share and Manage Library Recordings ....................................................................................................24
+Optimize Video Quality ............................................................................................................................................................26
+3 3.  Personalize Your System 28
+ 
+Name Your Cameras ....................................................................................................................................................................28
+Profile Settings .....................................................................................................................................................................................28
+Grant Access to Friends ......................................................................................................................................................30
+4.  Modes, Rules, and Smart Alerts 33
+ 
+Modes ....................................................................................................................................................................................................................33
+Rules ........................................................................................................................................................................................................................34
+Select a Mode .........................................................................................................................................................................................34
+Change Motion Sensitivity ...............................................................................................................................................35
+Manage Alerts ........................................................................................................................................................................................36
+Set Up Geofencing .........................................................................................................................................................................37
+Geofencing With Multiple Mobile Devices ...........................................................................................39
+Geofencing Accuracy ...............................................................................................................................................................40
+Geofencing First In, Last Out ......................................................................................................................................40
+Schedule Your Camera Rules ......................................................................................................................................41
+Add a Mode ..................................................................................................................................................................................................42
+5.  Settings 44
+ 
+Turn the Arlo App Fingerprint ID Login On and Off  44
+Change the Time Zone ............................................................................................................................................................44
+Video Settings ........................................................................................................................................................................................45
+Base Station Settings ..............................................................................................................................................................46
+View Device Information .....................................................................................................................................................49
+Turn an Arlo Camera On and Off ...........................................................................................................................49
+Remove a Camera From Your Account ......................................................................................................50
+6.  Manage Your Subscription Plan 51
+ 
+Subscription Plans .........................................................................................................................................................................51
+Upgrade to a Paid Subscription Plan ............................................................................................................51
+4 7.  Arlo Connect 52
+ 
+Use Arlo With IFTTT ......................................................................................................................................................................52
+Use Arlo Cameras With SmartThings ............................................................................................................52
+8.  Use SmartThings With Arlo Cameras 53
+ 
+Prepare Arlo to Work With SmartThings ................................................................................................53
+Integrate Your Arlo Cameras With the SmartThings App  54
+Adjust the Motion Sensitivity Level ................................................................................................................55
+Adjust Push Notifications ..................................................................................................................................................56
+9.  FAQs and Troubleshooting 57
+ 
+Battery FAQs ............................................................................................................................................................................................57
+Manage Bandwidth for Streaming ...................................................................................................................58
+Reduce the Number of Notifications ...........................................................................................................58
+Can’t See Video Streams in a Browser ......................................................................................................59
+Not Receiving Push Notifications .......................................................................................................................60
+Verify That the Arlo Base Station Is Online ......................................................................................62
+Base Station Is Offline .............................................................................................................................................................63
+Signal Strength ....................................................................................................................................................................................64
+Reset the Arlo Base Station to Factory Settings  65
+10.  Battery Warnings and Safety 67
+ 
+Counterfeit and Inferior-Quality Battery Warning  67
+Rechargeable Battery Warning .............................................................................................................................67
+Safe Battery Handling and Usage .....................................................................................................................68
+5 1.  Set Up Your System
+How Arlo Works
+Your camera works wire-free, powered by the battery. When your Arlo camera 
+detects motion, it uses a WiFi link to the Arlo base station to stream video to your 
+Arlo account in the cloud. 
+The appearance of the Arlo base station varies, as shown in the following 
+illustrations.
+Get the Arlo App
+For the best experience, download the Arlo app by scanning this QR code or 
+searching for Arlo in the app store.
+Note:  If you already use the Arlo app, make 
+sure that you are using the latest version. 
+To find out if an update is available, go to 
+the app store and search for Arlo.
+ 6 Set Up Your System 
+Connect Your Base Station to the Internet
+The base station connects to your home network and allows you to view your 
+camera streams from anywhere.
+¾  To connect your base station to the Internet:
+1.  Connect the base station to your router using an Ethernet cable.
+Reset
+SYNC
+Ethernet DC
+2.  Connect the AC adapter to the base station.
+SYNC
+Ethernet DC
+Reset
+SYNC
+Ethernet DC
+3.  Plug the AC adapter into an electrical outlet.
+4.  If your base station includes an  On-Off button on the back, press the button.
+7 Set Up Your System 
+The Power LED and Internet LED light green in about two minutes. 
+SRYeNseCt Ethernet DC
+Your base station is set up.
+Arlo Base Station LEDs
+See the following list of explanations for green, amber, and blinking LEDs:
+Power Internet Camera
+Green Green Green
+The base station  The base station  Cameras are 
+is powered on. is connected to  connected to the 
+the Internet. base station.
+Blinking green  Blinking green  Blinking green 
+A firmware update  The base station is  The base station 
+is in progress. DO  sending data over  is attempting 
+NOT TURN OFF THE  the Internet. to sync with a 
+BASE STATION OR  camera.
+CAMERAS.
+Amber Amber Blinking amber
+The base station  The base station is  A camera is too 
+is booting. connected to the  far from the base 
+router but did not  station. Signal 
+get an Internet  strength is weak.
+connection.
+Off Off Off
+The base station  The base station is  No cameras are 
+is powered off. not connected to  detected.
+your router.
+Get an Account
+¾  To set up an Arlo account:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+If you are using a mobile device that supports a Touch ID®  fingerprint identity 
+sensor, you are prompted to enable Touch ID or skip.
+2.  To use Touch ID, tap Enable Touch ID.
+8 Set Up Your System 
+If you tap Skip, you can turn on the Arlo app fingerprint ID login later. See Turn 
+the Arlo App Fingerprint ID Login On and Off on page 44.
+3.  Tap or click New to Arlo?.
+4.  Select Arlo (Wire-Free).
+The app discovers your device. 
+5.  Select your base station’s serial number from the menu.
+6.  Complete the required fields for account setup.
+7.  Tap or click Continue.
+8.  Select a subscription plan.
+Note: For more information, see Subscription Plans on page 51.
+Insert Batteries Into Your Cameras
+We recommend that you use the batteries supplied by NETGEAR, or high-quality 
+batteries from other established, well-known manufacturers such as Panasonic®, 
+Energizer®, or Duracell®, with your Arlo cameras.
+¾  To insert batteries into your cameras:
+1.  Slide and hold the latch on the bottom of the camera.
+2.  Slide the battery door back and lift it to open the battery compartment.
+3.  Insert two batteries near the back of the camera. Pay careful attention to the 
+orientation of the batteries when you insert them.
+9 Set Up Your System 
+4.  Insert two batteries near the compartment hinge. Pay careful attention to the 
+orientation of the batteries when you insert them.
+5.  Close the battery door.
+For more information, see Safe Battery Handling and Usage on page 68.
+Sync Your Cameras With the Base Station
+¾  To sync your cameras:
+1.  Bring the camera within 1 to 3 feet (30 to 100 centimeters) of the base station.
+2.  Press the Sync button on the base station for about two seconds and then 
+release the button. 
+SRYeNseCt Ethernet DC
+Reset
+SYNC Ethernet
+3.  Wait for the sync status LED on the base station to light green.
+10 Set Up Your System 
+4.  Press the Sync button on top of the camera for about two seconds and then 
+release the button.
+A blue LED on the camera blinks slowly when the sync process starts. The blue 
+LED blinks rapidly to confirm sync.
+After the camera syncs, the Power LED on the base station might start blinking. 
+This indicates that the camera’s firmware is updating. For information about 
+firmware updates, see Arlo Camera Firmware Updates on page 12.
+5.  Repeat for each camera.
+Arlo Camera LED
+The LED on the camera lights when the camera is 
+powered on. The LED changes color and blinks depending 
+on the battery charge and to indicate the status of 
+activities such as syncing the camera and updating the 
+camera firmware. 
+See the following table for explanations for the LED. 
+Camera  Color and Action Meaning
+LED
+   Solid blue The camera is powered on.
+Fast blinking blue for 10  The camera synced to the base station.
+seconds
+   Solid amber  The camera is booting.
+Blinking amber once per  The battery charge is low (15% or less).
+ 
+minute
+Fast blinking amber The camera failed to sync to the base station.
+Blinking blue and amber A firmware update is in progress. DO NOT TURN OFF THE 
+ 
+CAMERA.
+11 Set Up Your System 
+Firmware Updates
+A firmware update might start after you sync a camera to the base station. If a 
+firmware update is in progress, the LED on the camera blinks alternating blue and 
+amber. After this, the LED is off for one to two minutes while the camera installs 
+the firmware. This update happens automatically.
+Important: Do not open the battery door while an Arlo camera is updating and 
+installing firmware.
+After the camera firmware update completes, the camera syncs to the base 
+station again and the LED blinks blue rapidly.
+Add a Camera From Another Arlo Account
+¾  To add a camera from another Arlo account:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays.
+2.  Log in to the old Arlo account.
+3.  Tap or click Settings > My Devices.
+A list of devices including the base station and cameras displays.
+4.  Tap or click the camera.
+The settings for the camera display.
+5.  Scroll down and tap or click Remove Device.
+The camera is removed from your account.
+6.  Log out of the Arlo app.
+7.  Sync the camera to the base station.
+12 Set Up Your System 
+Place or Mount Your Cameras
+You can place your camera on a shelf or other 
+flat surface, or you can mount it on the wall.
+Note:  Use the Arlo app in Position mode to help aim 
+the camera. See Position Mode on page 16. 
+¾  To mount your camera on the wall:
+1.  Fasten the mounting screw into the 
+wall,  and hang the magnetic mount from the 
+screw.  
+2.  If you’re mounting the camera on drywall, be 
+sure to use the plastic drywall anchors that 
+are provided.
+Note:  You can also use double-sided tape instead 
+of screws.
+Choose a Good Spot for Your Camera
+Place your Arlo camera in a location with a clear, unblocked field of view and with a 
+good WiFi signal to the base station.
+It’s important to keep distance in mind when placing your Arlo cameras:
+•  Maximum. Place your camera a maximum of 300 feet (90 meters) from the base 
+station. The maximum line-of-sight range of 300 feet is reduced by each wall, 
+ceiling, or other major obstruction between the camera and base station. The 
+following materials reduce signal strength the most:
+•  Unusually thick walls and ceilings
+•  Brick
+•  Concrete
+•  Stone
+•  Ceramic
+•  Glass, especially mirrors
+•  Metal
+•  Large quantities of water, such as the water in a fish tank or water heater
+13 Set Up Your System 
+Note:  Check the Camera LED on the base station. If it’s blinking amber, the base station 
+detects a low data rate, a sign that a camera is too far from the base station.
+•  Minimum. Place your Arlo cameras at 10 feet (300 centimeters) away from the 
+base station, and allow at least 6½ feet (2 meters) between cameras. Follow 
+these guidelines to prevent WiFi signals between the devices from interfering 
+with each other.
+Position Your Camera to Optimize Its Field of View
+Your Arlo camera has a 110-degree field of view. In the following images, the green 
+areas show your camera’s field of view, both horizontally and vertically.
+When positioning your Arlo camera, keep these tips in mind: 
+•  Keep active locations in the camera’s field of view. Your Arlo camera 
+provides a 110-degree viewing angle. Position your camera so that the space 
+that you want to monitor is within the camera’s field of view. 
+14 Set Up Your System 
+•  Aim with the cloud. Use Arlo’s Position mode to send video to the cloud as 
+quickly as possible. This allows you to aim the camera while watching the video 
+feed on your Arlo smartphone app to make near-real-time adjustments to the 
+camera’s position. Go to your camera’s Settings page to turn on Position mode. 
+After the camera is in place, you can turn off Position mode, or wait for it to 
+automatically turn off after five minutes. For more information, see Position 
+Mode on page 16.
+•  Elevate your camera. Mount your Arlo motion detection camera at least 7 
+feet (2 meters) above the floor or the ground and aim it slightly downward for 
+the best sensor performance.
+•  Make sure that side-to-side traffic crosses Arlo’s field of view. Arlo’s 
+motion sensor is much more sensitive to side-to-side movement across its field 
+of view than to movement directly toward or away from the camera. The best 
+area for motion detection is 5 to 20 feet (1.5 to 6 meters) from the camera 
+position. 
+You can use the Motion Detection Test to verify if motion can be detected in 
+a camera’s current placement. The camera’s LED blinks amber when motion is 
+detected. Go to your camera’s Settings page to turn on the Motion Detection 
+Test.
+15 Set Up Your System 
+Position Mode
+Position mode is available only when the camera is not streaming, recording motion, 
+or in a motion detection mode.
+¾  To place your camera in Position mode:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+If you are using a mobile device that supports a Touch ID fingerprint identity 
+sensor, you are prompted to enable Touch ID or skip.
+2.  Tap the gear icon for the camera feed on your mobile device.
+The Settings page displays.
+3.  Tap or click Position Mode. 
+Note:  If Position Mode is grayed out and you cannot tap it, the camera might be in 
+Armed mode or another motion detection mode. To stop motion detection, tap Mode, 
+and then select Disarmed for the camera.
+The camera starts streaming video. 
+In Position mode, the camera streams video as fast as possible, without 
+buffering, so that you can aim the camera while watching on a smartphone and 
+make near-real-time adjustments. This means that you might see lower-quality 
+video while the camera is in Position mode.
+4.  Adjust the camera position as needed.
+5.  If you selected the Disarmed mode for the camera and now you want the 
+camera to detect motion again, tap Mode and select the desired mode.
+16 2.  View Your Content
+Videos recorded by your camera are stored in a library. You can view your recordings, 
+mark them as favorites, and search using the filter.
+View the Devices Page
+When you launch the Arlo app, the Devices page displays.
+Camera name
+Camera icons
+Camera feed
+New recordings
+Select devices Settings
+Snapshot and  Detection 
+video library modes
+Live Feed  Tap or click Live to display Camera Icon Display is based on the mode and 
+Icon camera setup
+Pause. Motion detection is on.
+Record video manually. WiFi signal.
+Snapshot. Battery.
+Brightness.
+Full screen.
+17 View Your Content 
+View Camera Feeds
+You can view your camera feeds at any time.
+¾  To view camera feeds:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. The icons above each camera feed depend on the 
+rules in the currently selected mode and how the camera is connected. For 
+information about these icons, see View the Devices Page on page 17.
+2.  To view a live feed, tap or click Live on the camera feed image.
+A row of live feed icons displays below the live stream image for the camera.
+3.  To stop viewing the live feed, tap or click the Pause icon.
+Pan and Zoom Video
+You can pan and zoom to focus in on the high-def details of any live or recorded 
+video. Just pinch and drag any image as you do with photos on your smartphone.
+¾  To pan and zoom video:
+1.   Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+2.  Tap or click Library.
+The calendar displays on the top of the page.
+3.  Tap or click any live video or prerecorded video from your Arlo library.
+4.  To pan and zoom using a mobile device, do the following:
+•  To zoom in and out of the video, use the pinch gesture. 
+•  To move around the zoomed-in frame, touch and drag. 
+5.  To pan and zoom using a computer, do the following:
+•  To zoom in and out, click the Zoom icon.
+•  To  move around in the frame, use your mouse button.
+18 View Your Content 
+Record Clips From Live Video
+¾  To record clips from live video:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+2.  Tap or click Live in the camera feed image.
+The camera feed icons display at the bottom of the camera feed image.
+3.  Tap or click Record Video   .
+This icon turns red to indicate that you are recording the live feed.
+4.  To stop recording, tap or click Record Video  .
+The recording is saved in your library.
+Take a Snapshot From Live Video
+¾  To take a snapshot from live video:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+2.  Tap or click Live in the camera feed image.
+The camera feed icons display at the bottom of the camera feed image.
+3.  Tap or click Snapshot  .
+The snapshot is saved in your library.
+19 View Your Content 
+Control the Camera Feed Image
+If you use more than one camera, you can change the order in which the camera feeds 
+are displayed on the Devices page. You can also zoom, invert, or rotate the camera 
+feed image.
+Change the Camera Order
+¾  To change the camera order on the Devices page:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+2.  Tap or click Settings.
+The Settings page displays.
+3.  Under SYSTEM, tap or click Device Order.
+A list of devices displays in the order that they display on the Devices page.
+4.  If you are using a smartphone or tablet, tap Edit at the top of the page.
+A list of devices displays.
+5.  Tap and hold or right-click a camera and drag it to the correct position on the 
+list.
+6.  Tap or click Done.
+Your settings are saved.
+Zoom a Camera Image
+¾  To zoom a camera image:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+20 View Your Content 
+2.  Tap the gear icon for the camera feed on your mobile device, and then tap 
+Video Settings.
+If you are using a computer, select Settings > My Devices, and then click the 
+camera.
+The video settings display.
+3.  Tap or click Zoom  .
+4.  Resize and position the image box as necessary.
+5.  Tap or click Zoom  .
+Your settings are saved.
+Invert a Camera Feed
+You can invert the video feed image.
+¾  To rotate the video display:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+2.  Tap the gear icon for the camera feed on your mobile device, and then tap 
+Video Settings.
+If you are using a computer, select Settings > My Devices, and then click the 
+camera.
+The camera video settings display.
+3.  Tap or click Rotate Image.
+The camera feed image is inverted.
+21 View Your Content 
+Cloud Recording
+With cloud recording, everything that the Arlo cameras record is sent to the cloud 
+for secure storage in your library. Cloud recording is included in free and paid plans. 
+Arlo cameras record when they detect motion or sound.  Recordings are encrypted 
+with the user name and password that you create. No one else can access your 
+recordings. 
+You can access your recordings from your mobile device or from a Windows-based 
+or Mac computer. You can download recordings from the cloud and save them to 
+your mobile device or computer for long-term storage.
+View Recordings and Snapshots
+Your camera stores recordings and snapshots in the library. You can use the filter 
+and the calender to find and view specific recordings. 
+Use the Library
+You can use the library to find and view recordings based on the date.
+¾  To use the library:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+2.  Tap or click Library.
+3.  If it is more than one month since you started recording, use the arrows on 
+either side of the month to select a month to view.
+A green circle indicates the selected day. A green dot indicates each day on 
+which a video clip was recorded.
+4.  Tap or click a highlighted date. 
+Recordings from that date display below the calendar.
+Use the Filter
+You can use the filter to find and view recordings based on criteria that you select. 
+22 View Your Content 
+¾  To use the filter to view your library:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+2.  Tap or click Library.
+The Library page displays.
+3.  Tap or click the Filter icon in the upper left corner of the page.
+The Filter page displays.
+4.  Tap or click the filtering criteria that you want to use. 
+5.  To remove filtering, tap or click Reset.
+6.  Tap or click Done.
+The Filter icon   becomes solid green to show that you are using filtering.
+Recordings that match your filter selections display. Dates with recordings are 
+highlighted in dark green.
+Turn Off the Filter
+The Filter icon   on the Library page is solid green when you are using filtering. 
+When filtering is used, only the recordings in your library that match your filter 
+criteria display.  You can turn off filtering. 
+¾  To turn off filtering for your library:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+2.  Tap or click Library.
+The Library page displays.
+3.  Tap or click the Filter icon   in the upper left corner of the page.
+23 View Your Content 
+The Filter page displays.
+4.  Tap or click Reset at the bottom of the page.
+Filtering is turned off. The Filter icon   becomes an outline to show that 
+filtering is not in use.
+Share and Manage Library Recordings
+Download Recordings
+¾  To download clips from the library:
+1.  Tap the Arlo icon   on your mobile device.
+You can also enter arlo.netgear.com in the address bar of a browser.
+The Devices page displays. 
+2.  Tap or click Library.
+The Library page displays.
+3.  Tap or click a snapshot or video.
+4.  Tap or click   .
+5.  Tap or click OK to confirm.
+The file you selected is downloaded.
+Make a Recording a Favorite
+¾  To make a recording a favorite:
+1.  Tap the Arlo icon   on your mobile device.
+You can also enter arlo.netgear.com in the address bar of a browser.
+The Devices page displays. 
+2.  Tap or click Library.
+The Library page displays.
+3.  Tap or click a snapshot or video.
+4.  Tap or click   .
+24 View Your Content 
+The recording is a favorite.
+Share Recordings
+¾  To share recordings:
+1.  Tap the Arlo icon   on your mobile device.
+You can also enter arlo.netgear.com in the address bar of a browser.
+The Devices page displays. 
+2.  Tap or click Library.
+The Library page displays.
+3.  Tap or click a snapshot or video.
+4.  Tap or click   .
+5.  Share the file.
+Donate Recordings for Research
+You can donate video or snapshot files to NETGEAR Arlo to use for research and 
+development of Arlo products.
+¾  To donate recordings:
+1.  Tap the Arlo icon   on your mobile device.
+You can also enter arlo.netgear.com in the address bar of a browser.
+The Devices page displays. 
+2.  Tap or click Library.
+The Library page displays.
+3.  Tap or click a snapshot or video.
+4.  Tap or click   .
+5.  Tap or click OK to confirm.
+The file is sent to NETGEAR Arlo.
+25 View Your Content 
+Delete Recordings
+¾  To delete recordings:
+1.  Tap the Arlo icon   on your mobile device.
+You can also enter arlo.netgear.com in the address bar of a browser.
+The Devices page displays. 
+2.  Tap or click Library.
+The Library page displays.
+3.  Tap or click a snapshot or video.
+4.  Tap or click   .
+5.  Tap or click OK to confirm.
+The file is deleted.
+Optimize Video Quality
+¾  To improve picture quality for all Arlo cameras:
+1.  Make sure that your cameras are within range of the base station. 
+The maximum possible range is 300 feet, but obstructions such as thick walls 
+decrease the range. For best results, make sure that your cameras show three 
+or four bars of signal strength in the area where you intend to install them. 
+When signal strength is at one or two bars, cameras might go out of range 
+intermittently due to fluctuations in the environment, and video quality suffers.
+2.  Minimize the number of networks, WiFi devices, and transmitted frequencies 
+near your base station and cameras. 
+To prevent signal interference, place your cameras at least 10 feet (3 meters) 
+from the base station, and allow at least 6½ feet (2 meters) between 
+cameras. Do not place your base station or cameras near cordless telephones, 
+microwaves, or WiFi-enabled devices. 
+3.  Change the Power Management setting to Best Video. 
+For more information about video settings, see Video Settings on page 46.
+26 View Your Content 
+Note:  If bandwidth is limited on your WiFi network, selecting Best Video does not 
+necessarily improve video quality. Selecting Best Video also reduces battery life for 
+wire-free cameras. 
+4.  Make sure that your Internet connection has an upload speed of at least 
+1 Mbps.
+To test your upload speed, visit this Google search link on a computer that is 
+connected to your WiFi network and select RUN SPEED TEST: 
+https://www.google.com/?gws_rd=ssl#q=upload+speed+test. 
+Even if your upload speed is at least 1 Mpbs, simultaneous uploads might 
+degrade the quality of your Arlo video stream. To improve your connection, avoid 
+uploading other data while you are streaming video. This includes uploading 
+torrent files as well as uploading videos or pictures to remote web sites such as 
+Flickr or YouTube or remote backup sites and cloud drives such as Dropbox or 
+iCloud. 
+5.  If your router supports Quality of Service (QoS) or traffic shaping, make sure 
+that your router settings are optimized for streaming video. 
+27 3.  Personalize Your System
+You can customize settings such as the camera name to make your Arlo Wire-Free 
+system easier to manage. You can grant access to friends and set up cloud recording.
+Name Your Cameras
+You can easily customize your cameras by renaming them.
+¾  To rename your camera: 
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+2.  Tap the gear icon for the camera feed on your mobile device.
+If you are using a computer, select Settings > My Devices.
+A list of devices including the base station and cameras displays.
+3.  Tap or click the camera.
+The camera settings display.
+4.  In the Name field, delete the current name and enter a new name that reminds 
+you of the camera’s location, such as Garage or Front Door.
+Camera names are limited to 32 characters.
+5.  Tap or click Save.
+Your settings are saved.
+Profile Settings
+When you use New Setup, the email address and password that you enter are 
+saved as your profile. You can change the password and the user name. When you 
+launch the Arlo app, you are automatically logged in, but you can turn Auto Login 
+off and on.
+28 Personalize Your System 
+Change Your Password and User Name
+¾  To change your password and user name:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+2.  Tap or click Settings.
+The Settings page displays.
+3.  Under Account, tap or click Profile.
+The Profile page displays. 
+4.  If you are using a smartphone, tap Edit at the top of the page.
+The Profile page displays.
+5.  Type the new entries in the password and name fields.
+6.  Tap or click Done. 
+Your settings are saved. 
+Turn Auto Login On or Off for a Smartphone
+When Auto Login is turned on, launching the Arlo app on your smartphone 
+automatically logs you in with the email address and password that you used the 
+last time you logged in.
+¾  To turn Auto Login on your smartphone on or off:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+2.  Tap or click Settings.
+The Settings page displays.
+29 Personalize Your System 
+3.  Under Account, tap or click Profile. 
+The Profile page displays.
+4.  Tap Auto Login. 
+Auto Login toggles on and off.
+Grant Access to Friends
+You can add friends to your Arlo account. Friends can view live streams from your 
+cameras; record video clips; view, share, mark as favorite, and delete clips from 
+your library; and take snapshots. Friends are granted limited access to some of the 
+settings and features of your Arlo account. You can select which cameras friends 
+can see and what administrative rights are available to them.
+Friends who are granted access rights can do the following:
+•  Play and pause video footage
+•  Record video footage
+•  Mute the speaker
+•  Enter full-screen view
+•  View live footage
+•  Zoom and drag video footage
+•  Control brightness
+•  Access and change modes
+•  View motion detection statuses
+•  Manually record
+•  Take snapshots
+•  Mark as a favorite, share, download, and delete video footage
+•  Use a camera’s microphone
+Friends without access rights can do the following:
+•  Play and view library content
+•  View live footage
+•  Zoom and drag video footage
+•  Control brightness
+•  Enter full-screen view
+30 Personalize Your System 
+Add a Friend
+¾  To add a friend to your Arlo account:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+2.  Tap or click Settings.
+The Settings page displays.
+3.  Under Account, tap or click Grant Access.
+The Friends page displays.
+4.  Tap or click Add or the + symbol.
+5.  Enter the first name, last name, and email address of the person that you want 
+to add as a friend.
+6.  Tap or click the cameras that you want the friend to be able to access.
+7.  Tap or click Send Invite.
+An email is sent inviting the friend to create an Arlo account. This friend’s name 
+is displayed with the status Pending. When a friend accepts your invitation,  the 
+status changes to Accepted.
+Edit a Friend’s Access Privileges
+¾  To edit a friend’s access privileges:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+2.  Tap or click Settings.
+The Settings page displays.
+3.  Under Account, tap or click Grant Access.
+31 Personalize Your System 
+A list of your friends displays with the status of their accounts.
+4.  Tap or click the friend, and tap or click Edit  .
+The Edit page displays.
+5.  Tap or click cameras to select or deselect them.
+6.  Tap or click Allow Access Rights.
+Selecting Allow Access Rights allows this friend to change your account and 
+camera settings. 
+7.  Tap or click Done.
+Your settings are saved.
+Delete a Friend
+¾  To delete a friend’s privileges:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+2.  Tap or click Settings.
+3.  Under Account, tap or click Grant Access.
+A list of your friends displays with the status of their accounts.
+4.  Select the friend, and tap or click Edit  .
+The Edit page displays.
+5.  Tap or click Delete Friend.
+6.  Tap or click Yes.
+The friend is deleted.
+32 4.  Modes, Rules, and Smart Alerts
+Modes and rules let you tell your Arlo system what to do in different situations. For 
+example, you can set your Arlo system to record a 30-second video when the motion 
+sensor is activated on a specific camera and alert you by email.
+Modes
+Modes let you tell your Arlo cameras to respond differently at different times. 
+For example, you probably don’t want to receive an alert about motion in the 
+living room while you’re doing yoga in the living room. You might want to turn on 
+a different mode when you’re away on vacation than when you’re just out at the 
+store for an hour. Arlo modes give you complete control over how your cameras 
+respond to motion or sound.
+You can create your own modes, but Arlo Wire-Free comes with the following 
+modes:
+ Armed. Detection is on for this camera. 
+ Disarmed. Detection is off for this camera.
+ Schedule. Manage detection based on a schedule.
+ Geofencing. You can use geofencing to arm, disarm, or resume a schedule  
+        mode when you arrive at or leave a given location based on your mobile  
+        device.
+You can customize the Armed and Schedule modes and you can add new modes. 
+You might want to create a mode in which some motion sensors and cameras are 
+active but others are not. For example, when you are sleeping, you might want your 
+exterior cameras to be active, but your interior cameras to be inactive.
+Note:  You can create different modes for the same camera, but the camera can use only 
+one mode at a time.
+33 Modes, Rules, and Smart Alerts 
+Rules
+Each mode consists of one or more rules that provide detailed instructions for 
+your Arlo system. For each mode, you can set the following options:
+•  Trigger device. The trigger device is the camera that detects motion.
+•  Trigger. Triggers can be motion detection on Arlo cameras. You can adjust the 
+camera’s sensitivity to motion to minimize false alarms. 
+•  Devices. Motion detection on one camera can trigger another camera to 
+record video or take a snapshot. For example, you might want your back yard 
+camera or your driveway camera to trigger your door camera to start recording 
+video.
+•  Action. Each device that responds to motion can record video, take a snapshot, 
+or do nothing. You can adjust the length of the video recording from a minimum 
+of 10 seconds to a maximum of two minutes. 
+•  Notifications. When a trigger is detected, Arlo can send you push notifications, 
+email alerts, or both. You can also choose to send email alerts to friends, family 
+members, pet sitters, or anyone who might need to respond when a camera is 
+triggered.
+The Arlo mobile and web apps guide you through the process of setting up your 
+Arlo system and telling it what you want it to do, but the Arlo knowledge base also 
+offers detailed instructions to help you get the most out of your Arlo Smart Home 
+Security System. 
+Select a Mode
+You can turn modes on and off manually or set modes to activate according to a 
+schedule. Use the following method when you are not using a schedule to control a 
+mode or when you want to override an existing schedule. You must use at least one 
+mode. The camera is always in a mode, even if that mode is set to do nothing.
+Use the Arlo App Menus to Select a Mode
+¾  To select a mode for a camera:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+34 Modes, Rules, and Smart Alerts 
+2.  Tap or click Mode.
+3.  If a list of devices displays, tap or click the camera to select it. 
+The Mode page displays. 
+4.  Tap or click a mode to activate it.
+The mode that you selected turns on immediately. The mode stays active until 
+you change it.
+When you view the Devices page, the icons that display at the top of the camera 
+feed are based on the currently selected mode.
+Use the 3D Touch Shortcut to Select a Mode
+If you are using a mobile device that supports the 3D Touch feature, you can use 
+3D Touch to quickly select a mode.
+¾  To use 3D Touch to select a mode for a camera:
+1.  Tap and hold the Arlo icon   on your mobile device.
+A menu displays listing the default mode selections: Armed, Disarmed, 
+Scheduled, and Geofencing.
+2.  Tap a mode in the menu to activate the mode.
+The Mode page displays with the activated mode selected. The mode stays 
+active until you change it.
+When you view the Devices page, the icons that display at the top of the camera 
+feed are based on the currently selected mode. 
+Change Motion Sensitivity
+You can easily change the sensitivity level for  cameras.
+¾  To change the sensitivity level for a camera:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+2.  Tap or click Mode.
+35 Modes, Rules, and Smart Alerts 
+3.  If a list of devices displays, tap or click the camera to select it. 
+The Mode page displays.
+4.  Tap or click Edit next to the mode.
+The Edit page displays.
+5.  Under RULES, tap or click Edit  next to the rule that you want to edit.
+The Edit Rule page displays.
+6.  Under If the following, tap or click Edit next to Motion is detected.
+The Motion detection settings page displays.
+7.  Move the slider to adjust the sensitivity level for motion detection for this 
+camera.
+If you used a mobile device to specify the settings, your settings are saved.
+8.  If you used a browser to specify the settings, click Save.
+Your settings are saved.
+Manage Alerts
+Arlo can push notifications to your smartphone, send you email alerts, or do both. To 
+receive Arlo notifications on your phone, you must get the Arlo app.
+Note:  If you log out of the Arlo app on your smartphone or mobile device, you stop 
+receiving push notifications.
+¾  To change the alert settings for a camera:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+2.  Tap or click Mode.
+3.  If a list of devices displays, tap or click the camera to select it. 
+The Mode page displays.
+36 Modes, Rules, and Smart Alerts 
+4.  Tap or click Edit next to Armed or your custom mode.
+The Edit Rule page displays.
+5.  Under If the following, specify the motion detection settings.
+6.  Under Then do the following, specify the settings for Arlo to respond to motion 
+detection by recording video.
+The selections are Record video or Do nothing.
+7.  Under Alert, tap or click Push Notification to turn alerts on and off for your 
+mobile device.
+8.  For email notifications,  make sure that the Email Alerts check box is selected.
+9.  To specify an email address, tap or click Edit next to Email Alerts and enter 
+the email address.
+10. Tap or click the Done button.
+Your settings are saved.
+Set Up Geofencing
+A geofence is a virtual fence that helps to discover when something or someone 
+enters or exits a predefined zone. You can use Arlo geofencing to arm, disarm, or 
+resume schedule modes when your mobile device is in zone or out of zone.
+To set up geofencing, you must use your mobile device and you must allow the Arlo 
+app to use your location.
+Configure Your Mobile Device
+¾  To configure your mobile device for more accurate geofencing:
+1.  Enable GPS or location services so that Arlo can locate your device.
+2.  Enable WiFi.
+37 Modes, Rules, and Smart Alerts 
+Set Up Geofencing for the First Time and Set Up Modes
+¾  To set up geofencing for the first time and set up modes:
+1.  Tap the Arlo icon   on your mobile device.
+The Devices page displays. 
+2.  Tap Mode.
+3.  If a list of devices displays, tap or click the camera to select it. 
+A list of modes displays. 
+4.  Tap Geofencing.
+The Arlo Would Like to Use your Location prompt displays.
+5.  Tap Allow.
+Geofencing works only if Arlo can locate your mobile device. The Location 
+Address page displays.
+6.  To change the address, tap the Address field, type the address for your 
+location and then tap Next.
+The geofence radius displays as Medium.
+7.  To change your radius setting, tap the Radius icon, select a radius size, and tap 
+Next.
+Radius size options are Small, Medium, and Large (approximately 300 feet, 820 
+feet, and 1,640 feet (150 meters, 250 meters, and 500 meters) respectively.
+8.  Enter a name for your location and tap Next.
+The Away Mode page displays a  list of available modes. The away mode is the 
+detection mode used by the camera when you are away from the location that 
+you specified. 
+9.  Select an away mode and tap Next.
+Note: When your mobile device is out of zone, the Arlo device defaults to the away 
+mode. Most people select Armed or Custom mode while they are away.
+10. Select a home mode and tap Next.
+Note: When your mobile device is in zone, the Arlo device defaults to the home mode.  
+38 Modes, Rules, and Smart Alerts 
+Most people select Disarmed or Custom mode while they are home.
+If you use more than one enabled mobile device, you might be asked to select an 
+Arlo device to connect it to.
+11. Tap the preferred mobile device and tap Next.
+12. Tap Save.
+Your settings are saved.
+Geofencing With Multiple Mobile Devices
+If you want multiple mobile devices to participate in your Arlo geofencing, make 
+sure that the required conditions are met, and then follow the steps to enable or 
+disable geofencing for the devices.
+Make sure that these conditions are met:
+•  Your Arlo devices are online.
+•  Your geofencing feature is enabled.
+•  Your friend’s mobile device is added to your account.
+For more information about adding devices, see Enable or Disable Geofencing 
+for Friends’ Mobile Devices.
+•  (Required when your friend wants to participate in geofencing) Your friend is 
+logged in to the Arlo App on a mobile device.
+•  (Required when your friend wants to participate in geofencing) The GPS or 
+location service on your friend’s mobile device is enabled.
+Enable or Disable Geofencing for Friends’ Mobile Devices
+¾  To enable or disable geofencing for your friends’ mobile devices:
+1.  Tap the Arlo icon   on your mobile device.
+The Devices page displays. 
+2.  Tap Mode.
+3.  If a list of devices displays, tap the camera to select it. 
+A list of modes displays. 
+4.  Tap the Geofencing edit icon. 
+39 Modes, Rules, and Smart Alerts 
+The Geofencing editing page displays.
+5.  Tap Enabled Devices.
+The Enabled Device page displays a list of geofencing-enabled mobile devices.
+6.  Tap the mobile devices for which you want to enable geofencing.
+A check mark appears next to the device name when geofencing is enabled.
+Note: The device location displays as either In Zone or Out of Zone.
+7.  To disable geofencing, tap the mobile device again.
+The check mark disappears when geofencing disabled.
+For more information, see Set Up Geofencing on page 37.
+Geofencing Accuracy
+For accuracy, geofencing uses a combination of GPS, cellular data, and WiFi data.
+•  In urban environments, where the cell towers and WiFi routers are more dense, 
+geofencing accuracy can reach 100–200 meters.
+Note: If you live in a skyscraper, geofencing might not work reliably due to GPS 
+inaccuracies. Using the Large radius setting might help.
+•  In more rural areas, where cell towers and WiFi routers are sparse, geofencing 
+accuracy can reach several hundred meters.
+To improve geofencing accuracy, maker sure that your mobile device meets these 
+conditions:
+•  WiFi is turned on.
+•  GPS or location services are turned on.
+Geofencing First In, Last Out
+Arlo cameras use the first in, last out principal within the geofencing feature. 
+First in, last out allows you to come and go without worrying about arming and 
+disarming your Arlo cameras. For example, if your roommate leaves the house 
+before you, your Arlo cameras remain disarmed because you are still in the house 
+or geofence. After you leave the house and both devices are outside the geofence, 
+your Arlo cameras are armed.
+For more information about managing multiple devices, see Geofencing With 
+Multipe Mobile Devices on page 39.
+40 Modes, Rules, and Smart Alerts 
+Schedule Your Camera Rules
+You can set a schedule to activate and deactivate cameras automatically. Schedules 
+recur weekly.  For example, the schedule for Tuesday is repeated every Tuesday as 
+long as the schedule is turned on.  Arlo is preconfigured with the following schedule:
+•  Monday through Friday, 8:00 a.m. to 5:00 p.m. All motion sensors are on.
+•  All other times.  All motion sensors are off.
+Add a Schedule
+¾  To add a schedule for a camera:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+2.  Tap or click Mode.
+3.  If a list of devices displays, tap or click the camera to select it. 
+A list of modes displays. 
+4.  Tap or click Schedule  .
+5.  Tap or click Edit next to Schedule.
+6.  Tap or click + Add.
+The Add Schedule page displays.
+7.  Set the days and times and then tap or click Save.
+The schedule is saved.
+41 Modes, Rules, and Smart Alerts 
+Edit a Schedule
+¾  To edit a schedule for a camera:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+2.  Tap or click Mode.
+3.  If a list of devices displays, tap or click the camera to select it. 
+A list of modes displays. 
+4.  Tap or click Schedule  .
+5.  Tap or click Edit next to Schedule.
+The Schedule page displays.
+6.  Tap or click the schedule.
+The Edit Schedule page displays.
+7.  Change the start and stop times and tap or click Save.
+The schedule is saved.
+Add a Mode
+You can add new modes to tell your camera what to do in certain situations. For 
+example, you can set your camera to record videos when the motion sensor is 
+activated and to alert you with an email message.
+You can use the rules you create within modes and schedules to customize your 
+camera. You can create one rule for each mode.
+¾  To add a mode for a camera:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+42 Modes, Rules, and Smart Alerts 
+2.  Tap or click Mode.
+3.  If a list of devices displays, tap or click the camera to select it. 
+A list of modes displays.
+4.  Tap or click Add a Mode.
+The New Mode page displays.
+5.  Enter a name for the mode and tap or click Next.
+The Trigger Device page displays.
+6.  Select the camera.
+7.  Tap or click When motion is detected and then tap or click Next.
+The Motion Settings page displays.
+8.  Select the sensitivity of the motion sensor.
+You can use the default setting or adjust the sensitivity level with the slider. 
+Raising the percentage increases the number of videos that Arlo captures. 
+Lowering the percentage decreases the number of videos that Arlo captures.
+9.  Click or Tap Next.
+The Motion Settings page displays.
+10. When prompted, specify what you want the camera to do when motion is 
+detected and tap or click Next.
+You can select Record video or Do nothing.
+11. When prompted, specify if you want to be notified with alerts when motion is 
+detected.
+If you are using a computer web browser, you can also specify the recording 
+time setting.
+12. Tap or click Next.
+The Summary page displays.
+13. Review your settings and tap or click Save.
+Your settings are saved.
+43 5.  Settings
+You can customize Arlo settings.
+Turn the Arlo App Fingerprint ID Login On and Off
+The Arlo app supports Touch ID fingerprint identity sensors. If you are using a 
+mobile device with this feature, you can turn the Arlo app Touch ID login on and off.
+¾  To turn the Arlo app Touch ID login on and off:
+1.  Tap the Arlo icon   on your mobile device.
+The Devices page displays. 
+2.  Tap Settings.
+The Settings page displays.
+3.  Tap Profile.
+The Profile page displays.
+4.  Tap Log in with Touch ID.
+Tapping this button turns Log in with Touch ID on and off.
+Change the Time Zone
+¾  To change the time zone:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+2.  Tap or click Settings > My Devices.
+A list of devices including the base station and cameras displays.
+3.  Tap or click the base station.
+The base station settings page displays.
+4.  Tap or click Time Zone.
+44 Settings 
+The Time Zone page displays. 
+5.  Tap or click a time zone.
+6.  Tap or click Done.
+If you are using a mobile device, your settings are saved.
+7.  If you are using a computer, click Save.
+Your settings are saved.
+Video Settings
+Change the Video Quality and Battery Usage
+You can set the Arlo Wire-Free video resolution as Best Video, Optimized, 
+and Best Battery Life. Using the Best Battery Life setting reduces the WiFi 
+bandwidth that is required.
+¾  To change the video quality and battery usage:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+2.  Tap the gear icon for the camera feed on your mobile device, and then tap 
+Video Settings.
+If you are using a computer, select Settings > My Devices, and then select the 
+camera.
+The camera video settings display.
+3.  Tap or click to select Best Video, Optimized, or Best Battery Life.
+4.  Tap or click Done.
+If you are using a mobile device, your settings are saved.
+5.  If you are using a computer, click Save.
+Your settings are saved.
+45 Settings 
+Turn Night Vision On and Off
+When night vision is enabled, the camera automatically turns on infrared (IR) LEDs 
+to record in low light conditions. We recommend that you turn off night vision if the 
+Arlo camera is facing reflective surfaces, such as windows. 
+¾  To turn night vision on and off:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+2.  Tap the gear icon for the camera feed on your mobile device, and then tap 
+Video Settings.
+If you are using a computer, select Settings > My Devices, and then click the 
+camera.
+The camera video settings display.
+3.  Tap or click Night Vision to turn night vision off and on.
+Base Station Settings
+You can view or change base station settings.
+Change the Base Station Name
+When you set up your Arlo system, you entered a name for the base station. You 
+can change this name.
+¾  To change the base station name:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+2.  Tap or click Settings > My Devices.
+A list of devices including the base station and cameras displays.
+46 Settings 
+3.  Tap or click the base station.
+The base station settings page displays.
+4.  Tap or click Name.
+5.  Enter a new name for the base station.
+The new name is displayed in the Arlo app.
+Adjust the Base Station Flicker Setting
+The combination of certain artificial light sources and the camera shutter speed 
+might result in flickering in recorded video. The default setting for the base station 
+is Auto, but you can change the flicker adjustment.
+¾  To select the base station flicker adjustment:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+2.  Tap or click Settings > My Devices.
+A list of devices including the base station and cameras displays.
+3.  Tap or click the base station.
+The base station settings page displays.
+4.  Tap or click Flicker Adjustment.
+The Flicker Adjustment page displays.
+5.  Tap or click a setting.
+6.  Tap  or click Save.
+Your settings are saved.
+47 Settings 
+Restart the Base Station
+¾  To restart the base station:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+2.  Tap or click Settings > My Devices.
+A list of devices including the base station and cameras displays.
+3.  Tap or click the base station.
+The base station settings page displays.
+4.  Tap or click Restart.
+The base station restarts.
+Remove the Base Station From Your Account
+¾  To remove the base station from your account:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+2.  Tap or click Settings > My Devices.
+A list of devices including the base station and cameras displays.
+3.  Tap or click the base station.
+The base station settings page displays.
+4.  Tap or click Remove Device.
+The base station is removed from your Arlo account. The base station does not 
+display when you use the Arlo app.
+48 Settings 
+View Device Information
+¾  To view device information:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+2.  Tap or click Settings > My Devices.
+A list of devices including the base station and cameras displays.
+3.  Tap or click the device.
+The settings display. 
+4.  Scroll down to the Version heading and view the firmware version, hardware 
+version, and serial number.
+Turn an Arlo Camera On and Off
+¾  To turn the Arlo camera on and off:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+2.  Tap the gear icon for the camera feed on your mobile device.
+If you are using a computer, select Settings > My Devices, and then click the 
+camera.
+The camera settings display.
+3.  Tap or click Camera On/Off.
+Tapping or clicking this button turns the camera on and off.
+49 Settings 
+Remove a Camera From Your Account
+¾  To remove a camera from your account:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+2.  Tap the gear icon for the camera feed on your mobile device.
+If you are using a computer, select Settings > My Devices, and then click the 
+camera.
+The camera settings display.
+3.  Scroll down and tap or click Remove Device.
+The camera is removed from your account and its settings are deleted.
+50 6.  Manage Your Subscription Plan
+Every Arlo camera includes free Basic service that offers basic features and 
+functionality. When activating your camera, you select your service plan. 
+Subscription Plans
+Upgrading to a paid service level gives you the ability to increase the uses of  your 
+camera to suit your specific needs. Depending on your service level, you can add 
+cameras or cloud storage and enable Arlo Smart features. For information about 
+service plans, visit http://bit.ly/1AQGR9k.
+Upgrade to a Paid Subscription Plan
+¾  To select a paid subscription plan:
+1.  On your mobile device or computer, launch a browser and enter  
+arlo.netgear.com.
+The Devices page displays. 
+2.  Tap or click Settings.
+The Settings page displays.
+3.  Under Account, tap or click Subscription.
+The Subscription page displays.
+4.  Tap or click Upgrade Now.
+The Subscription Plan page displays retail and business options.
+5.  Tap or click SELECT under the plan.
+6.  Follow the onscreen instructions to change your subscription. 
+After your payment is processed, your service level information is updated on 
+the Subscription page.
+51 7.  Arlo Connect
+Arlo Connect is a simple way to integrate Arlo devices into other smart home 
+platforms using standard and secure cloud integration. 
+Use Arlo With IFTTT
+You can use the Arlo app with IFTTT (If This Then That), a free cloud-based service 
+that connects smart home devices and applications. 
+To add Arlo to your IFTTT app, visit ifttt.com/arlo.
+To learn more about Arlo and IFTTT, visit arlo.com/community.
+Use Arlo Cameras With SmartThings
+You can integrate your Arlo cameras into the SmartThings app so that all your 
+smart devices work together. For example, if your Arlo camera detects motion, 
+SmartThings can tell your Aeon Labs Siren to trigger your alarm.  For more 
+information, see  Chapter 8. Use SmartThings With Arlo Cameras on page 53.
+52 8.  Use SmartThings With Arlo Cameras
+With Samsung SmartThings, you can integrate your Arlo cameras into the SmartThings 
+app so that all your smart devices can work together. For example, if your Arlo camera 
+detects motion, SmartThings tells your Aeon Labs Siren to trigger your alarm. 
+Arlo camera feed 
+integrated into the 
+SmartThings app
+After you integrate your Arlo cameras into the SmartThings app, you must use the 
+SmartThings app to configure your modes and rules. If you try to edit your modes and 
+rules in the Arlo app, you will disarm the SmartThings mode.  You can continue to use 
+the Arlo app to view the library.
+Note:  After syncing your Arlo cameras with the SmartThings app, a SmartThings mode 
+displays in your Arlo app. Your Arlo system must remain in the SmartThings mode for your 
+system to work correctly with the SmartThings app. All mode configuration must be done 
+in the SmartThings app. If you choose to no longer use the SmartThings app, delete the 
+SmartThings mode in your Arlo app, and delete the Arlo cameras from the things menu in 
+the SmartThings mobile app.
+Prepare Arlo to Work With SmartThings
+Use Arlo Camera Names That Are Easy to Recognize
+Before integrating your cameras with the SmartThings app, make sure that the names 
+of your cameras are easy to understand. If you choose not to rename your cameras, 
+the camera’s serial number becomes the camera’s name in the SmartThings app. 
+For information about how to change the camera names, see Name Your Cameras on 
+page 28.
+53 Use SmartThings With Arlo Cameras 
+Disarm Your Cameras
+When you integrate your Arlo cameras with SmartThings, a new SmartThings mode is 
+created in the Arlo app. Because SmartThings manages your Arlo cameras, they must 
+be in Disarmed mode before you can begin the integration setup. You cannot use 
+Schedule mode or Geofencing mode at the same time as SmartThings mode.  You must 
+also disable any IFTTT recipes that change the Arlo system mode.
+¾  To disarm your cameras:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays.
+2.  Tap or click Mode.
+3.  If a list of devices displays, tap or click the camera to select it. 
+The Mode page displays. 
+4.  Tap Disarmed.
+5.  Exit the Arlo app.   
+Integrate Your Arlo Cameras With the SmartThings 
+App
+To integrate your Arlo cameras into the SmartThings app:
+1.  Make sure that your cameras are disarmed in the Arlo app.
+See Disarm Your Cameras on page 54.
+2.  Launch the SmartThings mobile app. 
+3.  If you do not have a SmartThings account, visit https://support.smartthings.com/
+hc/en-us/articles/205380634-Setting-up-an-account-the-Hub-and-Things to 
+create an account.
+4.  Log in to your SmartThings app. 
+5.  Tap Marketplace > Things > Safety and Security.
+6.  Tap Cameras > Netgear Arlo. 
+54 Use SmartThings With Arlo Cameras 
+7.  Tap Arlo (connect).
+8.  Tap Connect to Arlo.
+9.  Enter your Arlo login credentials
+10. On the bottom of the page, accept the Privacy Policy.
+11. Tap Done at the upper-right corner. 
+12. Tap Connect to Arlo Cameras and select the cameras that you want to sync 
+with the SmartThings app.
+13. Tap Done > Next > Done.
+14. Tap My Home > Things. 
+15. To change your camera’s settings, tap the settings icon. 
+Note:  Repeat this step for each camera that you synced with your SmartThings app. 
+Your Arlo cameras are in the SmartThings   mode in your Arlo app. 
+For more information about integrating your Arlo cameras into the SmartThings app, 
+visit  
+https://support.smartthings.com/hc/en-us/articles/209529506-Netgear-Arlo-Wire-
+Free-Camera. 
+Adjust the Motion Sensitivity Level
+When you integrate Arlo into the SmartThings app, the motion sensitivity for each 
+camera is set to a default of 80. If your camera works more effectively at a different 
+setting, you can use the Arlo app to change it.
+¾  To adjust the motion sensitivity level:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+2.  Tap or click Mode.
+3.  If a list of devices displays, tap or click the camera to select it. 
+55 Use SmartThings With Arlo Cameras 
+The Mode page displays.
+4.  If you are not sure what motion sensitivity level you are using, tap or click Edit
+next to Armed mode.
+The Edit Rule page displays.
+5.  Tap or click Edit  next to the rule that you want to edit.
+6.  Under If the following, tap or click Edit next to Motion is detected.
+The Motion detection settings page displays.
+7.  Note the motion sensitivity setting, but do not select Armed mode.
+8.  Return to the Mode page.
+9.  Tap or click Edit next to SmartThings mode.
+The Edit Rule page displays.
+10. Tap or click Edit  next to the rule that you want to edit.
+11. Under If the following, tap or click Edit next to Motion is detected.
+The Motion detection settings page displays.
+12. Set the motion sensitivity level to match the setting that you viewed in Step 7.
+Adjust Push Notifications
+When you integrate Arlo with SmartThings, the Arlo app sends push notifications to 
+the SmartThings app. Then the SmartThings app sends you notifications about Arlo 
+and your other smart things. If you still receive push notifications from Arlo, on your 
+smartphone, use your smartphone settings to turn off the Arlo notifications. Email 
+notifications are not needed.
+56 9.  FAQs and Troubleshooting
+Battery FAQs
+What do the battery bars indicate?
+The battery bars indicate battery capacity:
+•  3 bars. 61–100 percent
+•  2 bars. 17–60 percent
+•  1 bar. 1–16 percent
+•  0 bars. 0% percent
+What do I need to know about using Arlo cameras in cold weather?
+Cold temperatures can affect any battery’s capacity, due to the chemistry 
+of batteries. This means that if you install your Arlo camera outside in cold 
+temperatures, you might notice a shorter battery life for the camera, or a faster 
+than expected drop in the displayed battery capacity.  
+Why does one Arlo camera battery drain faster than another Arlo camera 
+battery?
+Your Arlo camera is flexible and you can use it in a wide range of environments. 
+Your environment might include elements that affect battery life. Some of the 
+places that you might place your Arlo camera use more battery power than others. 
+Note the following examples:
+Arlo cameras work well in the dark. They use infrared sensors to monitor motion in 
+the dark. These use more battery power than cameras monitoring motion in a well-
+lit room.
+Arlo cameras work well when they are as far away as 300 feet from the base 
+station. Cameras positioned farther away from the base station use more battery 
+power than cameras positioned close to the base station.
+Arlo cameras let you choose the quality level of the videos that they record. 
+Cameras set to high-quality video recording use more battery power than cameras 
+set to low-quality video recording.
+Will my WiFi environment affect my Arlo camera battery?
+Yes. If you are in a noisy WiFi environment, your Arlo camera battery might drain 
+faster. Use a WiFi analyzer to test the WiFi noise in your environment.
+57 FAQs and Troubleshooting 
+What is the battery life for NETGEAR Arlo cameras?
+The NETGEAR Arlo camera battery life is four to six months with normal usage and 
+can be extended for optimal usage if you use key settings and follow certain tips. 
+The cameras offer the best battery life when set up to record when they detect 
+motion. 
+How can I extend the NETGEAR Arlo camera’s battery life?
+To extend your NETGEAR Arlo camera’s battery life, follow these tips: 
+•  Be sure that you are running the latest version of firmware on your Arlo base 
+station. For more information about updating your firmware, visit What do I 
+need to know about Arlo camera firmware updates?
+•  Check your NETGEAR Arlo camera’s power management settings. To extend 
+your battery life, select the Best Battery Life setting. This setting trades 
+video quality for improved battery life. For best video quality, select the Best 
+Video setting. This setting reduces battery life but provides the highest quality 
+images. To balance the battery life and video quality, select the Optimized 
+setting. To access your power management settings, log in to your Arlo account, 
+select Settings > Camera Settings, and select a camera. 
+•  Normal usage is defined as four minutes of viewing or recording per day with 
+the Arlo camera in the Optimized setting. 
+•  Depending on your specific usage, you might see different results. Also note 
+that a NETGEAR Arlo camera’s distance from the base station can affect its 
+battery life.
+Manage Bandwidth for Streaming
+The bandwidth used by cameras depends on the camera settings as follows:
+•  Best Video. 700–750 kilobits per second (kbps)
+•  Optimized. 450–550 kbps
+•  Best Battery Life. 300 kbps
+For information about setting the resolution for your camera, see Video Settings 
+on page 45 .
+Reduce the Number of Notifications
+Arlo sends notifications according to the rules in the mode that is currently active. 
+To reduce unwanted notifications, you might need to adjust the position of one 
+or more cameras, reduce motion sensitivity, change your notification settings, or 
+create a custom mode.  
+58 FAQs and Troubleshooting 
+¾  To reduce the number of unwanted notifications that you receive:
+1.  Position your camera so that it does not pick up the motion that is triggering 
+the camera to notify you. 
+For example, if Arlo is notifying you about cars passing in the street, aim your 
+camera so that the street is outside the camera’s field of view.  For more 
+information about camera positioning, see How Arlo Works on page 6.
+2.  If you are unable to position your camera so that the field of view includes only  
+motion that you care about, reduce your camera’s motion sensitivity instead. 
+You must reduce your camera’s motion sensitivity in the rules for each mode in 
+which you receive unwanted notifications. For more information about finding 
+the right motion sensitivity setting, see Change Motion Sensitivity on page 35. 
+3.  If you like the number of videos that Arlo is recording, but you want to receive 
+fewer notifications, either edit the notification settings in your modes and 
+rules or create a different custom mode for when you want recordings without 
+notifications. 
+For example, you can create a mode that records but does not send 
+notifications so that you can watch pet videos in your Arlo library without 
+getting notified every time your pet moves or makes noise. 
+Can’t See Video Streams in a Browser
+¾  To troubleshoot problems with the video stream:
+1.  If you can’t see your video streams from a web browser, but you can see them 
+on your mobile device, make sure that your browser isn’t blocking the plug-in 
+and that you are using the latest version of Adobe Flash. 
+For help with Adobe Flash Player, visit https://helpx.adobe.com/flash-player.html.
+2.  Make sure that ports 443 and 80 are open on your router. 
+Arlo uses these ports for streaming. Some antivirus applications, particularly 
+those with firewalls, block these ports, so temporarily disabling your antivirus 
+or moving Arlo to the firewall’s DMZ might help. For more information about 
+opening ports, see your router’s documentation. For more information about 
+your antivirus application, see your antivirus documentation.
+3.  Minimize the number of networks, WiFi devices, and transmitted frequencies 
+near your base station and cameras. 
+59 Place your cameras at least 10 feet (3 meters) from the base station, and allow 
+at least 6½ feet (2 meters) between cameras. Avoid placing your base station 
+or cameras near cordless phones, microwaves, or WiFi-enabled devices. Follow 
+these guidelines to prevent signal interference between your Arlo devices and 
+other WiFi devices.
+4.  Make sure that your Wire-Free camera is no farther than 300 feet (90 meters) 
+from the base station. 
+The 300-foot line-of-sight range is reduced by each metal object, thick wall, 
+or other obstruction between a camera and the base station. For best results, 
+make sure that your cameras show three or four bars of signal strength in 
+the area where you intend to install them. The cameras can work when signal 
+strength is at one or two bars, but they might go out of range intermittently 
+due to fluctuations in the environment, and the batteries deplete faster when 
+cameras are trying to reconnect.
+5.  Change or recharge the batteries on any cameras that are operating on 
+battery power to make sure that the battery level is no less than two bars. 
+A low battery can cause the camera to stream intermittently.
+Not Receiving Push Notifications
+You must be logged in to the Arlo app to receive Arlo alerts on your smartphone or 
+mobile device.  Arlo registers your device for push notification when you log in. If 
+you used the logout option instead of simply exiting the app, you must log back in 
+to the app. You receive Arlo alerts even if your device is sleeping.
+Make sure that other applications on your mobile device, such as Shutapp or Doze, 
+are not suppressing push notifications. Make sure that your mobile device is not in 
+Do Not Disturb mode.
+If you followed procedures in the following sections and are still not getting Arlo 
+alerts, contact NETGEAR support.
+Check the Rules Settings for Armed Modes
+Check the rules in your modes. Make sure that Push Notification is enabled in the 
+Armed mode or in a custom mode if you created one. 
+60 ¾  To check push notification for the Armed mode setting:
+1.  Tap the Arlo icon   on your mobile device.
+If you are using a computer, enter arlo.netgear.com in the address bar of a 
+browser.
+The Devices page displays. 
+2.  Tap or click the Mode button.
+A list of modes displays.
+3.  Tap or click the Edit icon next to Armed.
+The Edit Rule page displays.
+4.  Under Alert, make sure that the Push Notification check box is selected.
+5.  If you made changes, tap or click Save.
+Your settings are saved.
+Check the Arlo App Settings on an iOS Device
+Make sure that you allow the Arlo app to receive push notifications. The Arlo app 
+push notifications can be disabled on iOS and Android devices. 
+¾  To allow Arlo push notifications on iOS devices:
+1.  Tap the Settings icon for your iOS device.
+2.  Tap Notifications > Arlo.
+The Arlo notification settings display.
+3.  Make sure that Allow Notification is selected.
+4.  If you made changes, tap Save.
+Your settings are saved.
+Check the Arlo App Settings on an Android Device
+¾  To allow Arlo push notifications on Android devices:
+1.  Tap the Settings icon for your Android device.
+2.  Tap Application Manager > Arlo. 
+61 The Arlo notification settings display.
+3.  Make sure that the Show Notifications setting is selected.
+4.  If you made changes, tap Save.
+Your settings are saved.
+If You Said No to Push Notifications at Installation
+When you install the Arlo app for the first time, to receive alerts, you must 
+select Allow when asked if you want Arlo to send you push notifications.  For 
+iOS apps, after you respond to this alert, it is not presented again unless the 
+device is restored or the app is uninstalled for at least a day.
+If you said  no on an iOS device, uninstall the app, wait for a day, and then 
+reinstall it, and allow notifications. If you do not want to wait a day before you 
+reinstall the app, you can use the system clock on your device to simulate a day. 
+Set the system clock forward a day or more, turn your device off, and then turn 
+the device back on. After you reinstall the app, return the system clock to the 
+correct setting.
+Verify That the Arlo Base Station Is Online
+To determine whether your base station is online, check the Internet LED on the 
+front of the base station:
+•  If the Internet LED is solid green, the base station is connected to the Internet.
+•  If the Internet LED is amber, the base station is not connected to the Internet.
+If you are not at the same location as your Arlo base station, log in to your Arlo 
+account and check the following:
+•  If you can review the video feed from each of your Arlo cameras, your base 
+station is connected to the Internet.
+•  If you see an error message (such as “Base Station Offline” or something similar) 
+instead of video feed, your base station is not connected to the Internet.
+62 FAQs and Troubleshooting 
+Base Station Is Offline
+If you are not sure whether the base station is offline, see Verify That the Arlo 
+Base Station Is Online on page 62.
+¾  To troubleshoot the base station Internet connection: 
+1.  Check the Ethernet cable.
+Make sure that it’s securely connected to the back of your base station and 
+to your router. Also make sure that you’re using the Ethernet cable that came 
+with your system.
+2.  Check the power adapter.
+Make sure that the power adapter is securely connected to the back of your 
+base station and securely plugged into an outlet.
+3.  Try to connect to the Internet from another device that is connected directly 
+to your router.
+Be sure to try an Ethernet-connected device, not a device that is connected 
+using WiFi (you can turn WiFi off on the device to make sure that the device is 
+connecting through the Ethernet cable). Make sure that you can browse the 
+Internet from this device by doing the following:
+•  If you cannot browse the Internet from this device, you must restore your 
+router’s connection to the Internet.
+•  If you can browse the Internet from this device, continue troubleshooting.
+4.  Power cycle your base station.
+Unplug the power adapter from the outlet, wait one minute, and reconnect 
+the power adapter to the outlet. The base station takes one to two minutes 
+to start. When the Power LED and Internet LED light solid green, your base 
+station is connected to the Internet. If the Internet LED is amber, continue 
+troubleshooting.
+5.  Check your router’s DHCP settings and client list.
+Make sure that DHCP is enabled and that the router’s DCHP client list supplied 
+an IP address to the base station. (If it did, the base station appears in the client 
+list.) For more information, see your router documentation. 
+6.  If you were previously able to connect your base station to the Internet but 
+now cannot connect, check the router’s security settings and firmware to make 
+63 FAQs and Troubleshooting 
+sure that no changes were made since the last time it successfully connected.
+You might want to temporarily lower the security settings on the router 
+or temporarily place the base station in the DMZ to rule out any firewall 
+restrictions. If you make these changes, power cycle your base station as 
+described in Step 4.
+7.  Check to make sure that ports 443 and 80 are open on your router.
+Note: If you do not manage your Internet environment, contact your IT 
+department for assistance with any firewall or router configurations. The Arlo 
+base station cannot connect through most proxy servers. Check with your 
+IT team and Internet service provider (ISP) about ways to bypass any proxy 
+servers. Ask your IT team to make sure that ports 443 and 80 are open.
+8.  Perform a factory reset on your base station. 
+For more information, see Reset the Arlo Base Station to Factory Settings on 
+page 65.
+If you are still unable to get your base station to connect, visit support.arlo.com 
+and submit a support case describing the steps you took and provide the following 
+information:
+•  Base station serial number
+•  User name (email address used to register Arlo account)
+•  Internet service provider (ISP) name
+•  Internet connection type (DSL, cable, and so on) and speed (Arlo requires at 
+least 1 Mbps upstream)
+•  Internet router model
+•  List of other devices connected directly to your router
+•  The last time and place that your base station successfully connected to the 
+Internet
+Signal Strength
+If an Arlo camera’s signal to the base station is weak, recording delays might occur 
+when motion is detected. 
+To test whether the camera signal is strong enough, check the Camera LED on the 
+base station. If it’s blinking amber, the base station detects a low data rate, which 
+means that a camera is too far from the base station.
+64 Follow these tips to increase signal strength:
+•  Position your base station so that it is central to all of your cameras. 
+•  Position your camera a maximum of 300 feet (90 meters) from the base station.
+The maximum line-of-sight range of 300 feet is reduced by each wall, ceiling, or 
+other large obstruction between the camera and base station. The following 
+materials reduce signal strength the most:
+•  Unusually thick walls and ceilings
+•  Brick
+•  Concrete
+•  Stone
+•  Ceramic
+•  Glass, especially mirrors
+•  Metal
+•  Large quantities of water, such as the water in a fish tank or water heater
+•  Mount your cameras away from devices such as cordless phone bases, baby 
+monitors, and microwave ovens. 
+•  Do not place your Arlo system near multiple WiFi routers. Other WiFi-enabled 
+devices can interfere with Arlo’s wireless signal.
+Reset the Arlo Base Station to Factory Settings
+Performing a factory reset returns your base station values to the default 
+settings. It also removes the serial number from your Arlo account.
+¾  To perform a factory reset on your base station:
+1.  Use a pen or a straightened paper clip to press and hold the Reset button on 
+the back of the base station for about 10 seconds.
+When the base station reset completes, the LEDs on the front of the base 
+station blink amber. When the LEDs stop blinking amber, your base station 
+reboots. The base station is removed from your Arlo account.
+2.  When the Power and Internet LEDs both light solid green, tap the Arlo icon on 
+your mobile device and log in to your Arlo account. 
+If you are using a computer, enter netgear.com in the address bar of a browser.
+3.  Tap or click New to Arlo?.
+65 FAQs and Troubleshooting 
+4.  Follow the setup instructions.
+If your wire-free cameras were synced to the base station, you might need to sync 
+the cameras to the base station again. For more information, see Use the Arlo App 
+to Set Up an Account on page 8.
+66 10. Battery Warnings and Safety
+Counterfeit and Inferior-Quality Battery Warning
+Do not use counterfeit and/or inferior-quality lithium batteries. Such batteries can 
+develop internal shorts and may pose a fire or burn hazard.
+Avoid purchasing batteries from online auction and other marketplace websites, as 
+these are known sources of counterfeit and/or inferior-quality batteries.
+The use of counterfeit and/or inferior-quality batteries could greatly reduce runtime 
+and output performance, damage your Arlo cameras, and constitute a safety hazard.
+Counterfeit and/or inferior-quality batteries that cause damage to your Arlo camera 
+may void the warranty.
+Counterfeit and inferior-quality batteries lack built-in fault and heat protection, 
+which superior quality batteries contain for added safety.
+For these reasons, NETGEAR recommends that you use the batteries supplied by 
+NETGEAR with your Arlo cameras, or high-quality batteries from other, established, 
+well-known manufacturers such as Panasonic®, Energizer®, or Duracell®.
+Arlo performance claims are based on the use of batteries that initially ship 
+with Arlo cameras.
+Rechargeable Battery Warning
+Arlo cameras have been designed for use with primary, non-rechargeable batteries. 
+For the best possible Arlo experience, WE STRONGLY RECOMMEND using the 
+non-rechargeable batteries supplied with your Arlo cameras, or non-rechargeable 
+high-quality batteries from other, established, well-known manufacturers such as 
+Panasonic®, Energizer®, or Duracell®. 
+Because many rechargeable batteries on the market are counterfeits or of inferior 
+quality, WE STRONGLY DISCOURAGE the use of any rechargeable batteries with 
+your Arlo cameras, as they may pose a fire or burn hazard. They may also damage your 
+camera.
+67 Battery Warnings and Safety 
+TO THE EXTENT PERMISSIBLE BY APPLICABLE LAW, NETGEAR DISCLAIMS ALL 
+LIABILITY WHATSOEVER RELATED TO THE USAGE OF RECHARGEABLE BATTERIES 
+IN Arlo cameraS, INCLUDING WITHOUT LIMITATION, FIRE, DAMAGE TO PROPERTY, 
+BODILY INJURY, AND/OR DEATH.  A RECHARGEABLE BATTERY THAT CAUSES 
+DAMAGE TO THE Arlo camera MAY RENDER THE NETGEAR WARRANTY NULL 
+AND VOID. YOU ASSUME ANY AND ALL RISKS ASSOCIATED WITH THE USAGE OF 
+RECHARGEABLE BATTERIES IN Arlo cameraS, INCLUDING WITHOUT LIMITATION, 
+FIRE, DAMAGE TO PROPERTY, BODILY INJURY, AND/OR DEATH.
+Safe Battery Handling and Usage
+Batteries can EXPLODE, CATCH FIRE, and/or CAUSE BURNS if disassembled, punctured, 
+cut, crushed, short-circuited, incinerated, recharged (disposable cells), or exposed to 
+water, fire, or high temperatures. To ensure optimal safety and performance:
+•  Use only batteries that contain built-in fault and heat protection.
+•  DO NOT use counterfeit or inferior-quality batteries in Arlo cameras.  Use only the 
+batteries supplied by NETGEAR, or high-quality batteries from, established, well-
+known manufacturers, such as Panasonic®, Energizer®, or Duracell®.
+•  DO NOT use rechargeable batteries. 
+•  DO NOT place loose batteries in a pocket, purse, or other receptacle containing 
+metal objects.
+•  DO NOT store batteries with hazardous or combustible material; store in a cool, 
+dry, ventilated area.
+•  While your Arlo camera is weatherproof and safe to use outside, DO NOT allow the 
+batteries or battery compartment to get wet prior to or during installation. 
+•  ALWAYS keep batteries away from children.
+•  REPLACE ALL batteries at the same time with batteries of the same type 
+purchased at the same time from the same manufacturer and DO NOT load 
+batteries backwards. MAKE SURE the battery compartment is empty and free of 
+any loose debris before inserting batteries.  Follow the directions in the quick start 
+guide and/or written on the Arlo camera.
+•  Follow local guidelines to dispose of used batteries. 
+To the extent permissible by applicable law, failure to follow these warnings 
+and/or directions could result in damage to your Arlo cameras that  will not be 
+covered by NETGEAR’s warranty.
+68

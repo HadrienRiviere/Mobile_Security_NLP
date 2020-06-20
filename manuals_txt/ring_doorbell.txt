@@ -1,0 +1,266 @@
+Video Doorbell
+shown in Satin Nickel
+Getting Started Download the Ring  Say Hello to the Back 
+App of your Ring Doorbell
+The Ring app walks you  Setup Button – You’ll be 
+through setting up and  instructed to push this during 
+managing your Ring Video  in-app setup. 
+Doorbell. 
+The Ring app is available for 
+iPhone, iPad, and Android.
+Download from
+Windows Store
+Search for “Ring” in one of 
+the app stores above, or visit 
+ring.com/app
+MAC ID: XXXXXXXXXXX
+Product name: Ring
+Model name: Video Doorbell
+FCC ID: YOPGS1011MEE
+Power input: 8-24 VAC, 5Vdc 1 A
+Grab your Wi-Fi 
+S/N: XXXXXXXXXXX
+password
+It’s required for the in-app 
+setup. Write it down below so 
+it’s handy when you need it:
+Charging Port – Plug the 
+included USB cable in here 
+to charge your Ring Doorbell, 
+when needed.
+Your Wi-Fi password
+3 Follow the Steps in  Push the Front Button 
+the Ring App to Test your Ring 
+Doorbell
+If you haven’t already, open 
+the Ring app and select  After setup, push the front 
+Create Account. Once you’re  button on your Ring Doorbell 
+logged in, tap Set Up a  indoors to see video from 
+Device to begin the setup  your Ring in the Ring app.
+process. 
+Smile, you’re on camera!
+When prompted, select 
+Doorbells and follow the in-
+app instructions.
+Doorbells
+If you have problems with video 
+quality after installation, you may 
+need to move your router closer to 
+your door, or add a Ring Chime Pro. 
+Learn more at: ring.com/chime-pro
+4 5 Select an Install 
+Location
+For optimal performance, 
+install your Ring Doorbell 
+four feet above the ground.
+If you’re connecting to 
+existing doorbell wiring that’s 
+higher than four feet, and 
+want to angle your Ring for a 
+better view, you can purchase 
+a Wedge Kit at: 
+ring.com/accessories
+Camera field of view
+Motion detection range
+4 feet
+ (48 inches)
+6 7 If wiring to an existing doorbell…
+Mark the Screw Holes
+Remove 
+Snap the little orange level 
+your  onto the mounting bracket, 
+and use the bracket to mark 
+Existing 
+the four corner holes.
+Doorbell
+The recommended install 
+If you’re  height is 4 feet above the 
+connecting  ground.
+your Ring 
+to existing 
+doorbell 
+wiring, first 
+shut off power 
+at the breaker. 
+Then remove 
+your existing 
+doorbell from 
+the wall and 
+disconnect the 
+wires.
+If you notice a diode 
+when you remove 
+your wired doorbell, this 
+means you will need 
+to install the included 
+diode with your Ring.
+Diode
+8 9 Install the Anchors  Install the Mounting 
+(optional) Bracket 
+On stucco, brick, or concrete,  Use the phillips head side of 
+use the provided bit to drill  the Ring screwdriver to screw 
+holes in your wall, then insert  in the mounting bracket. 
+the anchors.
+If you’re installing on wood 
+or siding, put the anchors in 
+that drawer of stuff you never 
+use and skip this step.
+Keep the orange 
+screwdriver handy. You’ll 
+need it to take your Ring off 
+the wall for charging.
+10 11 If wiring to an existing doorbell…
+Installing the  Connect the Wires 
+Mounting Bracket  (optional)
+(continued) 
+Connect your doorbell wires 
+Drive the screws into your  to the screws on the bracket.
+wall (or into the anchors, if 
+It doesn’t matter which wire 
+installed) until they are flush 
+connects to which screw.
+with the mounting  
+bracket, and the 
+bracket  
+is flat against 
+your wall.
+The wiring must be 
+connected to a transformer 
+with a voltage of 8VAC – 24VAC 
+and an internal doorbell or resistor. 
+If your wall is not completely 
+flat, be careful not to screw 
+DC transformers and most 
+the bracket in so tightly that it 
+intercoms are not supported.
+bends or bows.
+12 13 If wiring to an existing doorbell…
+How and When to  Attach your Ring 
+Use the Diode Doorbell to the 
+Bracket
+If your 
+doorbell is  Line up the holes in your Ring 
+digital (plays  Doorbell with the slots on the 
+an electronic  bracket. 
+melody), 
+attach the  Press firmly towards the wall 
+diode to the  and then down until you feel 
+two screws  a click.
+on your 
+bracket.
+Put the gray indicator on 
+the same side as the wire 
+that leads to your internal 
+doorbell.
+If your doorbell is 
+mechanical (makes a “ding-
+dong” sound), DO NOT 
+INSTALL THE DIODE. 
+If you have a digital doorbell,  Make sure the security 
+connecting the diode the  screws are loose.
+wrong way won’t do any harm. If 
+your doorbell doesn’t ring, just 
+reverse the diode.
+14 15 Secure your Ring  Sign Up for Ring 
+Doorbell Protect
+Use the star-shaped end  Your Ring Doorbell includes 
+of your Ring screwdriver to  30 free days of Ring Protect, 
+tighten the security screws  a subscription service that 
+on the bottom of your Ring  stores video of each event 
+Doorbell. your Ring products capture.
+If you wired in your Ring, now 
+you can restore power at the 
+breaker.
+Congratulations,  
+you’re done!
+This lets you review Ring 
+videos at your leisure and 
+share them with anyone.
+To keep your subscription 
+active and save your videos, 
+visit: ring.com/recording
+Log into your Ring account, 
+choose a Ring Protect Plan, 
+and follow the on-screen 
+instructions to subscribe.
+16 17 Need a little  Reboot your router.
+setup help? If you know you entered the 
+right password but you’re 
+having no luck, try turning 
+If your in-app setup doesn’t 
+your Wi-FI router off, wait 30 
+go as planned, try out these 
+seconds, then turn it back on.
+tips:
+Then, start setup again in the 
+Get your Wi-Fi 
+Ring app.
+password just right.
+Start setup inside.
+The most common setup 
+issues come from entering  If you tried the tips above 
+the wrong Wi-Fi password.  and setup still won’t work, try 
+These passwords are case- moving your Ring Doorbell 
+sensitive, and every little error  inside, near your Wi-Fi router. 
+counts. Then, start setup once more.
+So grab your password and  Once setup completes 
+write it here, so you’ll know  successfully, you can install 
+just what to enter: your Ring at your door.
+Need additional help?
+If the problem you’re having 
+isn’t addressed here, and you 
+need further help, scan the 
+code below with the camera 
+app on your 
+iPhone or 
+a QR code 
+scanning 
+app on your 
+Android 
+device.
+18 19 For additional help, visit: ring.
+com/help
+Or give us a call…
+US 1 800 656 1918 
+Canada 1 855 300 7289 
+Worldwide +1 310 929 7085
+For a list of all our customer 
+support numbers, visit:  
+ring.com/callus
+1523 26th St. 
+Santa Monica, CA 
+90404
+This device complies with Part 15 of the FCC Rules. Operation is subject to the following 
+two conditions: (1) this device may not cause harmful interference, and (2) this device must 
+accept any interference received, including interference that may cause undesired operation.
+Use Ring-branded Quick-Release Battery Packs only. Do not dispose of batteries in fire. 
+Batteries should be recycled or disposed of as per state and local guidelines.
+Warning: Changes or modifications to this unit not expressly approved by the party 
+responsible for compliance could void the user’s authority to operate the equipment.
+NOTE: This equipment has been tested and found to comply with the limits for a Class B 
+digital device, pursuant to Part 15 of the FCC Rules. These limits are designed to provide 
+reasonable protection against harmful interference in a residential installation. This 
+equipment generates, uses and can radiate radio frequency energy and, if not installed 
+and used in accordance with the instructions, may cause harmful interference to radio 
+communications.
+However, there is no guarantee that interference will not occur in a particular installation. If 
+this equipment does cause harmful interference to radio or television reception, which can 
+be determined by turning the equipment off and on, the user is encouraged to try to correct 
+the interference by one or more of the following measures:
+Reorient or relocate the receiving antenna.
+Increase the separation between the equipment and receiver.
+Connect the equipment into an outlet on a circuit different from that to which the receiver 
+is connected.
+Consult the dealer or an experienced radio/TV technician for help.
+Hereby, Ring LLC declares that this consumer electronic is in compliance with the essential 
+requirements and other relevant provisions of Directive 1999/5/EC. The declaration of 
+conformity may be consulted at www.ring.com/DoC.pdf. 
+Protect the device from direct sunlight. Install the device at dry locations and protect it 
+against rain and humidity. The device may not get contact to salt water or other conductive 
+liquids. The device must be charged only within a building in a dry state.
+To review your warranty coverage, please visit www.ring.com/warranty. 
+Patents: www.ring.com/patents
+© 2019 Ring LLC or its affiliates. 
+Ring, Alexa, Always Home, and all related logos are trademarks of Amazon.com, 
+Inc. or its affiliates.
+Last updated: 03/19/19

@@ -1,0 +1,421 @@
+ 
+ 
+WeMo Motion Sensor – User Guide 
+ 
+---- INSTRUCTIONS FOR MARKETING SERVICES TEAM ---- 
+ 
+The dimensions of the user guides are 2.875 inches by 4.4375 inches.  
+This user guide should be monochrome only. 
+We must create the most cost effective user guide as possible. Please optimize for production and folding. 
+ 
+This user guide needs to be in both English and French. 
+ 
+The below content table does not need to be included, but everything after it does.  
+ 
+Please refer to QIG for Home Control Switch from branding as a reference for style (ignore that is it in color).  
+ 
+Content 
+Getting Started .................................................................................................................................................................... 2 
+What’s in the Box........................................................................................................................................................... 2 
+Initial Setup ..................................................................................................................................................................... 2 
+Adding a Device ....................................................................................................... Error! Bookmark not defined. 
+Getting to Know your Home Control Outlet ................................................................................................................ 5 
+Hardware ......................................................................................................................................................................... 5 
+WeMo App ............................................................................................................... Error! Bookmark not defined. 
+Switches ................................................................................................................ Error! Bookmark not defined. 
+Sensors .................................................................................................................. Error! Bookmark not defined. 
+Rules ...................................................................................................................... Error! Bookmark not defined. 
+More ...................................................................................................................... Error! Bookmark not defined. 
+Remote Access ......................................................................................................... Error! Bookmark not defined. 
+Remote Access Disabled .................................................................................... Error! Bookmark not defined. 
+Remote Access Enabled ..................................................................................... Error! Bookmark not defined. 
+Technical Details ................................................................................................................................................................ 6 
+Technical Features ......................................................................................................................................................... 6 
+System Requirements .................................................................................................................................................... 6 
+Troubleshooting, Support and Warranty ........................................................................................................................ 7 
+FAQ ................................................................................................................................................................................. 7 
+Troubleshooting ............................................................................................................................................................. 7 
+Technical Support .......................................................................................................................................................... 7 
+Product Warranty ........................................................................................................................................................... 9 
+Regulatory Information ................................................................................................................................................... 11 
+FCC Statement ............................................................................................................................................................. 11 
+ 
+ 
+Confidential property of Belkin Corporation. Unlawful to copy or reproduce in any manner without the express written consent of Belkin Corporation. 
+1 of 12   
+ 
+Motion Sensor 
+ 
+Belkin (plug logo) 
+ 
+(line drawing of motion sensor) 
+ 
+ 
+User Guide 
+ 
+Getting Started  
+What’s in the Box 
+WeMo Motion Sensor 
+Quick Install Guide 
+User Guide 
+Setup 
+For the best results, place the WeMo device near your wireless router in an open location away from large 
+metal objects and magnets such as those found in speakers.  
+ 
+Confidential property of Belkin Corporation. Unlawful to copy or reproduce in any manner without the express written consent of Belkin Corporation. 
+2 of 12   
+ 
+What you’ll need to get started. 
++ +
+Update with 
+new router 
+ 
+image 
+ 
+   
+Wireless Router with;    Apple iPhone    WeMo Home Control 
+- your Wi-Fi network  (running iOS 4.1 or higher)   Outlet 
+name 
+or  The Motion Sensor requires a 
+- your Wi-Fi network 
+Home Control Outlet to function 
+password  Android Smartphone 
+(running Android v2.3 or higher) 
+1
+ Plug your Sensor Module into an AC wall outlet, then position the Motion Sensor 
+If you have purchased multiple new WeMo devices, just plug in and setup one at a time for simplicity.  
+ 
+  
+ 
+The Motion Sensor can detect moving objects within a 10 foot range.  
+2
+ Connect your Motion Sensor to your Wi-Fi network  
+ 
+A  B  C  D  E 
+ 
+iPhone          
+Open Settings  Select Wi-Fi  Connect to the network  Wait ~5 seconds for  Open WeMo 
+name that starts with “B.__”  Wi-Fi icon to appear 
+in Status bar 
+ 
+ 
+A  B  C 
+Android   
+   
+Open WeMo  Select More  Press ‘Set Up a New Device’ 
+ 
+Confidential property of Belkin Corporation. Unlawful to copy or reproduce in any manner without the express written consent of Belkin Corporation. 
+3 of 12   
+ 
+3
+ To complete setup, follow the onscreen instructions from the WeMo app 
+Using the WeMo App you should be prompted to do the following; 
+A)
+•   Select your Wi-Fi Network and enter your Wi-Fi password (If you selected ‘Remember Wi-Fi 
+Settings’ during a previous setup, this step is skipped) 
+B)
+•   Give your Motion Sensor a recognizable name. You can even take a picture or use an existing 
+image from your image gallery.  
+C)
+•   Remember Wi-Fi Settings to make setup of additional WeMo devices even easier.  
+ 
+4
+ Create a Motion Controlled Switch rule by clicking on the Motion Sensor within the 
+WeMo app 
+A)
+•   From the ‘Sensors’ tab, click on the Sensor and selected ‘Create a Rule with Sensor’.  
+B)
+•   Give your rule a recognizable name 
+C)
+•   Select the times and days you want the rule to be active. 
+D)
+•   Select which switches you want to control with the motion sensor. 
+ 
+ 
+ 
+ 
+ 
+Confidential property of Belkin Corporation. Unlawful to copy or reproduce in any manner without the express written consent of Belkin Corporation. 
+4 of 12   
+ 
+Getting to Know your Motion Sensor 
+Hardware 
+Motion Sensor  Sensor Module : Front  Sensor Module : Back 
+A  C  D 
+Update with 
+Update with 
+B  latest image 
+latest image 
+Make into  E 
+Make into 
+line drawing 
+line drawing 
+ 
+ 
+ 
+ 
+ 
+ 
+A) Motion Sensor Lens 
+ 
+B) Motion Sensor Indicator 
+If your Motion Sensor detects motion, a blue LED will illuminate here for at least 1 second 
+ 
+C ) Status Indicator 
+Your WeMo device Wi-Fi status is shown by the indicator as follows;  
+•  Flashing Blue & Amber LED : First setup - Awaiting instructions 
+•  Solid Blue : Everything is OK 
+•  Off : Normal (good)  
+•  Solid Amber : Poor Connection 
+•  Flashing Amber : No Connection 
+•  Flashing Blue : Staring up, please wait. 
+ 
+D) Restore Button 
+This button is used to restore your WeMo Device to factory defaults. Only do this if you are sure you want to 
+erase all your settings. See ‘How do I restore my WeMo Device in the FAQs.   
+ 
+E) WeMo ID 
+The WeMo ID is a “B.” followed by three numbers or letters. 
+ 
+ 
+Confidential property of Belkin Corporation. Unlawful to copy or reproduce in any manner without the express written consent of Belkin Corporation. 
+5 of 12   
+ 
+Technical Details 
+Technical Features 
+Electrical Rating: 120V~/50mA/60Hz 
+WiFi: 2.4GHz 802.11N, Access Point (AP) and Access Point Client (APCli) Modes. 
+Security Modes Supported: WEP, WPA, WPA2 
+Operating Temperature: 0ºC to +40ºC 
+Operating Humidity: 0-90% relative humidity (non-condensing) throughout an altitude range of 10,000’ 
+AMSL 
+Certified to UL 498A, UL/CSA 60730-1 safety standards 
+System Requirements 
+A Home Control Switch 
+At least one Smartphone : iPhone running iOS v4.1 or higher / Android running v2.3 or higher  
+Wireless Router (2.4GHz , 802.11, G or N compatible) with Broadband Internet connection 
+ 
+ 
+Confidential property of Belkin Corporation. Unlawful to copy or reproduce in any manner without the express written consent of Belkin Corporation. 
+6 of 12   
+ 
+Troubleshooting, Support and Warranty 
+FAQ 
+For latest FAQs please use the ‘Support Center’ from the ‘More’ Tab in the WeMo App. 
+How do I restore my WeMo device? 
+You might need to restore your WeMo device if setup fails, you change your router/settings, or if you are 
+having some general issues. Restoring your WeMo device will erase all the settings back to factory defaults.  
+-  To restore the WeMo device, unplug it, hold down the restore button while inserting into the wall 
+socket, wait for indicator to flash orange, release the restore button (total time should be about 5 
+seconds) 
+-  After about 1 minute, the status indicator should flash blue and amber. 
+-  Setup the WeMo Device using the defined process. 
+Note : If you have remote access enabled, you might need to connect to your Wi-Fi network and disable 
+remote access using the WeMo App before enabling remote access again to make sure it works. You’ll need to 
+do this with every smartphone. 
+ 
+Troubleshooting 
+For latest Troubleshooting issues please use the ‘Support Center’ from the ‘More’ Tab in the WeMo App. 
+Below are some items to help you get started if you are having problems. 
+I can’t get internet on my Smartphone anymore. 
+-  If setup was interrupted, your phone might be connected to the WeMo device directly.  
+-  Complete setup and your phone will be able to connect to the internet as normal. 
+-  If you don’t have time to finish setup, then just unplug the WeMo device. 
+Setup isn’t working 
+-  Be sure to follow the setup steps closely. Items that can cause problems 
+  Verify your Wi-Fi network password  
+o
+  Move the WeMo device closer to your wireless router. 
+o
+-  Restore your WeMo device and start again. See ‘how do I restore my WeMo device’ in the FAQ 
+section. 
+-  Check with your router manufacturer to see if firmware updates are available.  
+I can’t see my WeMo device in the WeMo App. 
+-  Make sure your router is turned on and the WeMo device is plugged in. 
+-  Ensure your phone is connected to the same Wi-Fi network as the WeMo devices, or that you have an 
+internet connection on your phone and you have enabled remote access. 
+-  Refresh the Switches or Sensor screen.  
+-  Force close the App and load it again. 
+   
+The Motion Sensor doesn’t seem to be triggering 
+-  Make sure the Motion Sensor is securely plugged into the wall mounted Sensor Module 
+-  Position the Motion Sensor so that moving objects are within 10 feet of it’s lens.  
+-  Try aiming the motions sensor away from windows or other heat sources.  
+ 
+Confidential property of Belkin Corporation. Unlawful to copy or reproduce in any manner without the express written consent of Belkin Corporation. 
+7 of 12   
+ 
+Technical Support 
+US 
+http://www.belkin.com/support 
+ 
+UK 
+http://www.belkin.com/uk/support 
+ 
+Australia 
+http://www.belkin.com/au/support 
+ 
+New Zealand 
+http://www.belkin.com/au/support 
+ 
+Singapore 
+1800 622 1130 
+ 
+Europe 
+http://www.belkin.com/uk/support 
+ 
+Confidential property of Belkin Corporation. Unlawful to copy or reproduce in any manner without the express written consent of Belkin Corporation. 
+8 of 12   
+ 
+Product Warranty 
+ 
+Belkin International, Inc., Limited 1-Year Product Warranty 
+ 
+What this warranty covers. 
+Belkin International, Inc. (“Belkin”) warrants to the original purchaser of this Belkin product that the product 
+shall be free of defects in design, assembly, material, or workmanship.  
+ 
+What the period of coverage is. 
+Belkin warrants the Belkin product for one year. 
+ 
+What will we do to correct problems?  
+Product Warranty. 
+Belkin will repair or replace, at its option, any defective product free of charge (except for shipping charges 
+for the product). Belkin reserves the right to discontinue any of its products without notice, and disclaims any 
+limited warranty to repair or replace any such discontinued products. In the event that Belkin is unable to 
+repair or replace the product (for example, because it has been discontinued), Belkin will offer either a refund 
+or a credit toward the purchase of another product from Belkin.com in an amount equal to the purchase price 
+of the product as evidenced on the original purchase receipt as discounted by its natural use.     
+ 
+What is not covered by this warranty? 
+All above warranties are null and void if the Belkin product is not provided to Belkin for inspection upon 
+Belkin’s request at the sole expense of the purchaser, or if Belkin determines that the Belkin product has been 
+improperly installed, altered in any way, or tampered with. The Belkin Product Warranty does not protect 
+against acts of God such as flood, lightning, earthquake, war, vandalism, theft, normal-use wear and tear, 
+erosion, depletion, obsolescence, abuse, damage due to low voltage disturbances (i.e. brownouts or sags), non-
+authorized program, or system equipment modification or alteration. 
+ 
+How to get service.    
+To get service for your Belkin product you must take the following steps: 
+ 
+1.  Contact Belkin International, Inc., at 12045 E. Waterfront Drive, Playa Vista, CA 90094, Attn: 
+Customer Service, or call (800)-223-5546, within 15 days of the Occurrence. Be prepared to provide the 
+following information: 
+a. The part number of the Belkin product. 
+b. Where you purchased the product. 
+c. When you purchased the product. 
+d. Copy of original receipt. 
+ 
+2.  Your Belkin Customer Service Representative will then instruct you on how to forward your receipt 
+and Belkin product and how to proceed with your claim. 
+ 
+Belkin reserves the right to review the damaged Belkin product. All costs of shipping the Belkin product to 
+Belkin for inspection shall be borne solely by the purchaser. If Belkin determines, in its sole discretion, that it 
+is impractical to ship the damaged equipment to Belkin, Belkin may designate, in its sole discretion, an 
+equipment repair facility to inspect and estimate the cost to repair such equipment. The cost, if any, of 
+shipping the equipment to and from such repair facility and of such estimate shall be borne solely by the 
+purchaser. Damaged equipment must remain available for inspection until the claim is finalized. Whenever 
+Confidential property of Belkin Corporation. Unlawful to copy or reproduce in any manner without the express written consent of Belkin Corporation. 
+9 of 12   
+ 
+claims are settled, Belkin reserves the right to be subrogated under any existing insurance policies the 
+purchaser may have.  
+ 
+How state law relates to the warranty. 
+This warranty contains the sole warranty of Belkin. there are no other warranties, expressed or, except as 
+required by law, implied, including the implied warranty or condition of quality, merchantability or fitness for 
+a particular purpose, and such implied warranties, if any, are limited in duration to the term of this warranty.  
+ 
+Some states do not allow limitations on how long an implied warranty lasts, so the above limitations may not 
+apply to you. 
+ 
+In no event shall Belkin be liable for incidental, special, direct, indirect, consequential or multiple damages 
+such as, but not limited to, lost business or profits arising out of the sale or use of any Belkin product, even If 
+advised of the possibility of such damages.  
+ 
+This warranty gives you specific legal rights, and you may also have other rights, which may vary 
+from state to state. Some states do not allow the exclusion or limitation of incidental, consequential, 
+or other damages, so the above limitations may not apply to you. 
+ 
+ 
+ 
+Confidential property of Belkin Corporation. Unlawful to copy or reproduce in any manner without the express written consent of Belkin Corporation. 
+10 of 12   
+ 
+Regulatory Information 
+ 
+Safety Information 
+  
+The device is recommended for use indoors and in a dry location only. Power outlet shall be used within its 
+published outlet rating on the label. 
+ 
+FCC Statement 
+ 
+DECLARATION OF CONFORMITY WITH FCC RULES FOR ELECTROMAGNETIC 
+COMPATIBILITY 
+ 
+We, Belkin International, Inc., of 12045 E. Waterfront Drive, Playa Vista, CA 90094, declare under our sole 
+responsibility that the device, [sku], complies with Part 15 of the FCC Rules. Operation is subject to the 
+following two conditions: (1) this device may not cause harmful interference, and (2) this device must accept 
+any interference received, including interference that may cause undesired operation.  
+ 
+Caution: Exposure to Radio Frequency Radiation.  
+ 
+The device shall be used in such a manner that the potential for human contact normal operation is 
+minimized. 
+ 
+This equipment complies with FCC radiation exposure limits set forth for an uncontrolled environment. This 
+equipment should be installed and operated with a minimum distance of 20cm between the radiator and your 
+body. 
+ 
+Federal Communications Commission Notice  
+ 
+This equipment has been tested and found to comply with the limits for a Class B digital device, pursuant to 
+Part 15 of the FCC Rules. These limits are designed to provide reasonable protection against harmful 
+interference in a residential installation. 
+ 
+This equipment generates, uses, and can radiate radio frequency energy, and if not installed and used in 
+accordance with the instructions, may cause harmful interference to radio communications. However, there is 
+no guarantee that interference will not occur in a particular installation. If this equipment does cause harmful 
+interference to radio or television reception, which can be determined by turning the equipment off and on, 
+the user is encouraged to try and correct the interference by one or more of the following measures: 
+ 
+•  Reorient or relocate the receiving antenna.  
+•  Increase the distance between the equipment and the receiver.  
+•  Connect the equipment to an outlet on a circuit different from that to which the receiver is connected.  
+•  Consult the dealer or an experienced radio/TV technician for help. 
+ 
+Confidential property of Belkin Corporation. Unlawful to copy or reproduce in any manner without the express written consent of Belkin Corporation. 
+11 of 12   
+ 
+FCC Caution: Any changes or modifications not expressly approved by the party responsible for compliance 
+could void the user’s authority to operate this equipment. 
+ 
+This device and its antenna(s) must not be co-located or operating in conjunction with any other antenna or 
+transmitter. 
+ 
+Canada-Industry Canada (IC) 
+The wireless radio of this device complies with RSS 139 & RSS 210 Industry Canada. This Class B digital 
+apparatus complies with Canadian ICES-003. 
+ 
+Operation is subject to the following two conditions: (1) this device may not cause interference, and (2) this 
+device must accept any interference, including interference that may cause undesired operation of the device. 
+ 
+Cet appareil numérique de la classe B conforme á la norme NMB-003 du Canada.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Standard Belkin information… 
+What ever we normally write at the end of a user guide.  
+ 
+Motion Sensor 
+F7C028 - 8820fc00899 
+ 
+ 
+Confidential property of Belkin Corporation. Unlawful to copy or reproduce in any manner without the express written consent of Belkin Corporation. 
+12 of 12 
