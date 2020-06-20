@@ -1,6 +1,7 @@
 # NLP to identify mobile application set-up
 This project has been conducted during a Special Problem course taken at Georgia Institute of Technology (Atlanta) in the COEUS laboratory. 
 The purpose of this project is to identify from the user-manual whether the product require a automatic or manual set-up. 
+(The original PDF files are not available here, since these include the content of the laboratory which is confidential).
 
 ## Step into the project
 From the user manuals, understanding and interpreting the language to determine whether the 
