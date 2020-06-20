@@ -1,0 +1,1 @@
+['philips', 'purchased', '', '–', 'plugin', 'dc', 'ethernet', 'intro', 'there’s', '\uf0b7', 'troubleshooting', 'modemrouter', 'combo', 'managed', 'requires', 'nupnp', 'enabled', 'nd', 'rd', 'portalinternet', 'meethuecom', 'ghz', 'settingsfind', 'disabling', 'reenabling', 'iphone', '“forget', 'network”']

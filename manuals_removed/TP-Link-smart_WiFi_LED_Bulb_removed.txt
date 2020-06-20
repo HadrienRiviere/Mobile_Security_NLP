@@ -1,0 +1,1 @@
+['lb', 'dimmable', 'required', 'scheduling', 'tplink', 'you’re', '', 'compared', 'hoursday', 'centskwh', '·', '–', 'amazon', 'alexa', 'anytime', 'onoff', 'circadian', 'hrsday', 'lm', 'hrs', 'tac', 'standby', 'max', 'emc', 'rohs', 'hz', '℃', 'rh', 'nc', 'ieee', 'bgn', 'ghz', 'tr']

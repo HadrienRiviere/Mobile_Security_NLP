@@ -1,0 +1,1 @@
+['nintendocouk', 'compiled', 'switchmanualcom', '', 'online', 'faq', 'troubleshooting', 'ac', 'software', 'ssid', 'nintendo', 'tv', 'tabletop', 'handheld', 'joycon', 'attachingdetaching', 'managing', 'rainbowcoloured', 'recognising', 'receiving', 'gamerelated', 'screenshots', 'microsd', 'restoring', 'datascreenshots', 'deleting', 'zelda', 'rd', 'gameplay']

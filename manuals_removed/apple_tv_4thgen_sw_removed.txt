@@ -1,0 +1,1 @@
+['', 'tv', 'tvos', 'hdtv', 'hdmi', 'hdr', 'requires', 'ac', 'ethernet', 'broadband', 'dolby', 'including', 'statuslys', 'hd', 'httpssupportapplecomnonoguidetvatvbetvos', 'usbc', 'tvs', 'onscreen', 'signin', 'voiceover', 'menubutton', 'siri', 'ipados', 'bluetooth®', 'thirdparty', 'netflix', 'itunes', '»', '©', 'inc', 'norway']

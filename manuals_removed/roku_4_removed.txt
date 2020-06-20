@@ -1,0 +1,1 @@
+['roku', '', 'ethernet', '\uf0b7', 'connecti', 'ng', 'wirelessl', 'hdmi', 'tv', 'batterie', 'logo', 'onscreen', 'online']
